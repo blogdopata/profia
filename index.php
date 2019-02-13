@@ -30,7 +30,7 @@
 
    
     <header class="header-area">
-
+        
       <?php include_once('blocks/header.html') ?>
 
     </header>
@@ -373,7 +373,7 @@
     
     <footer class="footer-area">
        
-       <?php include_once('../blocks/footer.html') ?>
+       <?php include_once('blocks/footer.html') ?>
     </footer>
 
 

@@ -1501,3 +1501,43 @@ padding: 7px;
      padding: 0 60px;
    }
 }
+
+#azulfia{
+  color:#017090 !important;
+}
+}
+/*arquitectura*/
+.cajaperfil{
+        padding:10px 0px;
+        margin-right:2px !important;
+        margin-left:2px !important;
+        background-color:white;
+        border:solid grey 1px;
+        border-radius:5px;
+        box-shadow:0 5px 4px rgba(243, 156, 18);
+    }
+    .cajaperfil h5{
+        margin:5px 20px;
+        border-radius:5px;
+        padding:15px 0px;
+        color:#017090;
+        text-align:center;
+        background-color:lavender;
+    }
+
+    .listaperfil{
+        /*overflow-y: scroll;*/
+        height: 1250px;
+        padding:10px 0px;
+        margin:3px;
+        /*background-color:#8f0222;*/
+        text-align:center;
+        color:black;
+        list-style-type:decimal;
+    }
+    .listaperfil li{
+        margin:10px;
+        
+        text-align: justify;
+    }
+    /*fin de arquitectura*/
