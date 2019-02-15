@@ -16,7 +16,18 @@
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="../../css/style.css">
-
+    <style>
+    @media only screen and (max-width: 324px) {
+    h2 {
+        font-size: 18px;
+      }
+    }
+    @media only screen and (max-width: 288px) {
+    h5 {
+        font-size: 10px;
+      }
+    }
+    </style>
  
 
 </head>
@@ -68,32 +79,34 @@
 				<div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
-						<h1>BIENVENIDOS</h1>
-                        <p>
+						<h1 id="azulfia">BIENVENIDOS</h1>
+                        
+                        <p id="justificar">
                             La Escuela Profesional de Arquitectura (EPA) inicia sus actividades en marzo de 2001, ese mismo año se organiza el evento denominado ARQUIFORO. Arquitectos para el futuro, como espacio de debate y transmisión de experiencias respecto de métodos de enseñanza en las escuelas de arquitectura.
                         </p>
                   
-                        <p>
+                        <p id="justificar">
                             Siguiendo este interés académico en el 2004 se inicia la publicación semestral de la revista Bocetos, la que pretende generar debate y reflexión respecto de lo que hace la escuela para contrastarlo con lo que ocurre en el campo arquitectónico contemporáneo, con énfasis en el contexto sudamericano. En el 2006 se organiza el evento denominado Arquitectura Actual, como espacio de reflexión sobre la práctica profesional de arquitectos relevantes del ámbito sudamericano.
                         </p>
                       
-                        <p>
+                        <p id="justificar">
                             En el 2008 la EPA gestiona la visita de un par evaluador, el arquitecto Hans Fox Timmling, coordinador para los programas nacionales e internacionales de acreditación del RIBA (Royal Institute of British Architects) para Latinoamérica, quien elabora un informe preliminar sobre la visita y finalmente un informe de pre-factibilidad de acreditación internacional RIBA.
                             Como resultado de esta visita sumada a las experiencias académicas y profesionales transmitidas por los invitados a los eventos antes mencionados, en el año 2011 se implementa un nuevo plan de estudios, plan que sigue vigente a la fecha.
                         </p>
                       
-                        <p>
+                        <p id="justificar">
                             Escuela perteneciente a la : Facultad de Ingeniería y Arquitectura
                         </p>    
+                        
 
-                        <h2>MISIÓN:</h2>
-                        <p>
+                        <h2 id="azulfia">MISIÓN:</h2>
+                        <p id="justificar">
                         Formar profesionales integros y competentes;capaces de enfrentar los desafíos presentes y futuros de la disciplina, de responder creativamente a las necesidades y exigencias del hábitat, con una actitud de responsabilidad con la sociedad y en armonía con el medio ambiente, vinculando la enseñanza con la investigación.
                         </p>
                         <br>
                         <br>
-                        <h2>VISIÓN:</h2>
-                        <p>
+                        <h2 id="azulfia">VISIÓN:</h2>
+                        <p id="justificar">
                         Ser una Escuela Profesional reconocidad como referente de calidad académica en el país y la región, por fomentar un espacio crítico y propositivo para nuestra comunidad de estudiantes y docentes. Contribuir al desarrollo de nuestras ciudades con el aporte y rigor profesional de sus titulados.
                         </p>
 
@@ -193,13 +206,28 @@
 
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
                         
-                            <ol style="list-style:none;">
-                                <li >  <a data-toggle="collapse" href="#menu" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("area_conocimiento.php") ?> </a> </li>
-                                <li> <?php  include("nivel_conocimiento.php") ?> </li>
-                                <li> <?php  include("estructura_curricular.php") ?></li>
-                                <li><a>Plan de Estudios</a></li>    
-                            </ol>
+                  
 
+                    <div class="container">
+                        <div class="row">
+
+                            <div class="col-md-6 col-xs-12" style="border-right:solid 1px grey;">
+                               <li style="list-style:none;" >  <a data-toggle="collapse" href="#menu" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("area_conocimiento.php") ?> </a> </li>
+                            </div>
+
+                            <div class="col-md-6 col-xs-12 ">
+                               <li style="list-style:none;"> <a data-toggle="collapse" href="#menu2" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("nivel_conocimiento.php") ?> </a> </li>
+                            </div>
+
+                            <div class="col-md-12" style="height:14px;background-color:grey;margin-top:10px;"></div>
+
+                            <div class="col-md-12 col-xs-12 ">
+                                <br>
+                                <li style="list-style:none;"> <a data-toggle="collapse"  role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("estructura_curricular.php") ?> </a> </li> 
+                            </div>
+
+                        </div>
+                    </div>  
                             
                        
                     </div>
@@ -209,7 +237,64 @@
 
                      <div class="tab-pane fade" id="nav-novedades" role="tabpanel" aria-labelledby="nav-novedades-tab">
                         
-                        <h3> Novedades - solo la que tengas de web</h3>
+                        
+                        <div class="container">
+                        <br>
+                        <div class="row">
+
+                            <div class="col-md-8">
+                            <h3 id="azulfia" style="text-aling:center;"> Arquiforo </h3> <br>
+                                <p style="text-align:justify;">
+                                El Arquiforo nace como una preocupación por conocer experiencias, afianzar y redefinir los cánones de la enseñanza de la arquitectura. La Escuela Profesional de Arquitectura de la USMP con su primer año de actividades lanzó el primer Arquiforo y desde entonces arquitectos docentes de diferentes facultades del mundo nos han visitado para contribuir a despejar nuestras dudas sobre la formación de los nuevos profesionales de la especialidad.
+                                </p>
+                            </div>
+
+                            <div class="col-md-4">
+                            <center>
+                                <img src="../../img/carreras/arquitectura/arq1.jpg" class="img-fluid arquiforoimg" alt="">
+                            </center>
+                            </div>
+
+                            <div class="col-md-12" style="height:4px;background-color:grey;"></div>
+                            <br>
+                            
+
+                            <div class="col-md-4">
+                            <center>
+                                <img style="margin-top:20px;" src="../../img/carreras/arquitectura/arq2.jpg" class="img-fluid arquiforoimg" alt="">
+                            </center>
+                            </div>
+                            <div class="col-md-8">
+                            <h3 id="azulfia" style="text-aling:center;"> El evento </h3> <br>
+                                <p style="text-align:justify;">
+                                Dentro del evento organizado por la Facultad de Ingeniería y Arquitectura de la USMP, en el mes de agosto del presente año, se desarrolló el IX Arquiforo.
+                                <br>
+                                En esta oportunidad bajo la premisa <b>Panorama Contemporáneo</b>, se invitó a destacados arquitectos internacionales y nacionales a que expongan sus más importantes obras: Entre los invitados internacionales se destacan el arquitecto mexicano <b>Bernardo Gómez Pimienta</b>, el colombiano <b>Edgar Mazo</b> del estudio Paisajes Emergentes, el chileno <b>Eduardo Castillo</b> y los uruguayos <b>Mario Báez</b> y <b>Adrián Durán</b> de MBAD Arquitectos. Asimismo expusieron sus metodologías en la enseñanza del taller de diseño.
+                                </p>
+                            </div>
+                            <br>
+                            <div class="col-md-12" style="height:4px;background-color:grey;"></div>
+                            <br>
+                            
+                            <div class="col-md-8">
+                            <h3 id="azulfia" style="text-aling:center;"> Invitados</h3> <br>
+                                <p style="text-align:justify;">
+                                Entre los invitados nacionales nos visitaron <b>Maya Ishizawa</b>, con su ponencia "una visión paisajera de la sostenibilidad"; Mariana Leguía con "Ciudades imaginadas"; K+M Arquitectura y Urbanismo de <b>Shariff Kahatt</b> con" Re-urbanizar Lima".
+                                <br>
+                                El evento se desarrolló bajo una gran concurrencia, en donde alumnos, invitados, profesores y expositores dieron lugar a un debate e intercambio de ideas sobre sus proyectos, propuestas, y pensamientos de la arquitectura en la actualidad.
+                                </p>
+                            </div>
+
+                            <div class="col-md-4">
+                            <center>
+                                <img style="margin-top:20px;" src="../../img/carreras/arquitectura/arq3.jpg" class="img-fluid arquiforoimg" alt="">
+                            </center>
+                            </div>
+                            
+                            
+
+                        </div>
+                        </div>
                    
                     </div>
 

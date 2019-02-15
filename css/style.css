@@ -1466,7 +1466,7 @@ padding: 7px;
 
 .fix-border{
   box-shadow:2px 2px darkred;
-}
+}   
 .fix-h2{
   font-size: 1.5rem;
 }
@@ -1540,4 +1540,109 @@ padding: 7px;
         
         text-align: justify;
     }
+
+    li.liarquitectura{
+		list-style-type:decimal;
+		margin:5px 0px;
+		font-weight:bold;
+		color:black;
+	  }
+    p a.hoverarqui{
+      color:#017090;
+      margin-left:20px;
+    }
+    p a.hoverarqui:hover {
+      text-decoration: underline;
+      
+    }
+    .arquiforoimg{
+      margin-top:10px;
+      padding:15px;
+      background-color:lavender;
+      border-radius:5px;
+    }
+
+    #justificar{
+      text-align:justify !important;
+    }
+
     /*fin de arquitectura*/
+
+
+
+
+
+    /*estilos modales de información legal = REGLAMENTOS-NORMAS-DIRECTIVAS*/
+     #colorRed{
+        color:royalblue;
+    }
+    .link{
+    color: #0062cc;
+    }
+    a.link:hover{
+    color:black !important;
+    text-decoration:underline !important;    
+    }
+
+    .linkOSG{
+    color: white;
+    }
+    a.linkOSG:hover{
+    color:black !important;
+    text-decoration:underline !important;    
+    }
+
+   /* .fa-window-restore:hover:before {
+    color:blue;
+    }*/
+    .modal-dialog{
+    overflow-y: initial !important
+    }
+    .modal-body{
+    height: 550px;
+    overflow-y: auto;
+    }
+    .modal-body h6{
+    color:#017090;
+    }
+    .popupheader{
+        background-color:black;
+        text-align:center;
+    }
+    .fade{
+        opacity:1;
+        -webkit-transaction: opacity 1s linear;
+        transaction:opacity 1s linear;
+    }
+    .modal-footer small{
+      margin:auto;
+      text-align:left; 
+    }
+    div .modal-footer{
+      
+      border-top: 2px solid #CCD1D1;
+    }
+    .modal-footer button{
+      float:right;
+    }
+
+    .modal-body{
+      background: url("http://www.usmp.edu.pe/proFIA/img/bg-img/marcasAgua/marca2.jpg");
+      background-size:contain;
+      background-repeat:no-repeat;
+      background-position: right center;
+      color:black;
+      font-weight:500;
+      font-size:14px;
+    }
+    .modal-body p{
+      color:black;
+      
+    }
+    .modal-body a:hover h6{
+      text-decoration:underline;
+      color:red;
+      transition:1s;
+    }
+
+    /*estilos modales de información legal = REGLAMENTOS-NORMAS-DIRECTIVAS*/
