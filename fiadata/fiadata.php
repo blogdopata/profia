@@ -15,7 +15,7 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 
 
 <style>
@@ -103,13 +103,13 @@
     <!-- ##### Header Area Start ##### -->
     <header class="header-area">
 
-      <?php include_once('blocks/header.html') ?>
+      <?php include_once('../blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/fia/nuestra-magic.jpg);">
+    <div class="breadcumb-area bg-img" style="background-image: url(http://www.usmp.edu.pe/proFIA/img/fia/nuestra-magic.jpg);">
         
     </div>
     <!-- ##### Breadcumb Area End ##### -->
@@ -159,17 +159,22 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\fiadata\FUNCIONES.jpg" class="img-fluid" />
+	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/FUNCIONES.jpg" class="img-fluid" />
 	<h3>Funciones</h3>
 	<p>Fia-Data</p>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		FIA – DATA es el órgano encargado de planificar, organizar, dirigir y controlar todas las actividades relacionadas con las tecnologías de Información.
+		</p>
+		<?php  include("funciones.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -182,17 +187,22 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\fiadata\OBJETIVOS.png" class="img-fluid" />
+	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/OBJETIVOS.png" class="img-fluid" />
 	<h3>Objetivos</h3>
 	<p>Fia-Data</p>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		FIA – DATA es el órgano encargado de planificar, organizar, dirigir y controlar todas las actividades relacionadas con las tecnologías de Información.
+		</p>
+		<?php  include("objetivos.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#objetivos">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -205,16 +215,20 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\fiadata\DSW.jpg" class="img-fluid" />
+	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/DSW.jpg" class="img-fluid" />
 	<h3>Área de Desarrollo de Software</h3>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		La fábrica de software es una organización altamente organizada que produce partes en una línea de producción utilizando elementos ...
+		</p>
+		<a href="http://www.usmp.edu.pe/fabrica/" target="_blank" class="align-self-center p-3 link">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -227,16 +241,21 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\fiadata\grafimedia.png" class="img-fluid" />
+	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/grafimedia.png" class="img-fluid" />
 	<h3>Área de Diseño Gráfico y Multimedia</h3>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		El Area de Diseño Gráfico y Multimedia brinda soluciones integrales utilizando tecnología de última generación complementados con creatividad ...
+		</p>
+		<?php  include("grafimedia.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#grafimedia">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -250,16 +269,21 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\fiadata\STI.png" class="img-fluid" />
+	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/STI.png" class="img-fluid" />
 	<h3>Servicios de Tecnología de la Información</h3>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		Es el órgano encargado de administrar los servicios de tecnología de la información y comunicaciones que soportan los procesos de negocio ...
+		</p>
+		<?php  include("sti.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#sti">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -272,17 +296,22 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\fiadata\SDSK.png" class="img-fluid" />
+	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/SDSK.png" class="img-fluid" />
 	<h3>Service Desk</h3>
 	<p>Fia-Data</p>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		Service Desk es el área especializada en la gestión - solución de incidencias y requerimientos; realizados vía telefónica, presenciales, email ...
+		</p>
+		<?php  include("serviceDesk.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#sdsk">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -290,6 +319,8 @@
 	</div>
 	<!--SDSK-->
 
+
+	
 	
 	
 	
@@ -302,20 +333,20 @@
 
     <footer class="footer-area">
        
-       <?php include_once('blocks/footer.html') ?>
+       <?php include_once('../blocks/footer.html') ?>
     </footer>
 
-    <!-- ##### All Javascript Script ##### -->
+     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="js/bootstrap/popper.min.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="js/plugins/plugins.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="js/active.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
 </body>
 
 </html>

@@ -1646,3 +1646,12 @@ padding: 7px;
     }
 
     /*estilos modales de información legal = REGLAMENTOS-NORMAS-DIRECTIVAS*/
+
+    /*modales de fiadata*/
+    .listafia{
+      margin-left:10px;
+    }
+    .listafia ul li {
+      list-style-image: url('http://www.usmp.edu.pe/proFIA/img/cuadradito.png');
+      text-align:justify;
+    }
