@@ -30,7 +30,7 @@
        
       </div>
       <div class="modal-footer">
-        <small>Oficina de Registros Académicos</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        <small>Fia - Data</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
         
       </div>
     </div>

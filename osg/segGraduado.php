@@ -15,7 +15,7 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 
 
 <style>
@@ -103,13 +103,13 @@
     <!-- ##### Header Area Start ##### -->
     <header class="header-area">
 
-      <?php include_once('blocks/header.html') ?>
+      <?php include_once('../blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/fia/nuestra-magic.jpg);">
+    <div class="breadcumb-area bg-img" style="background-image: url(http://www.usmp.edu.pe/proFIA/img/fia/nuestra-magic.jpg);">
         
     </div>
     <!-- ##### Breadcumb Area End ##### -->
@@ -187,17 +187,22 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\osg\FUNCIONES.jpg" class="img-fluid" />
+	<img src="..\img\osg\FUNCIONES.jpg" class="img-fluid" />
 	<h3>Funciones</h3>
 	
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+		</p>
+		<?php  include("funciones.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -210,17 +215,22 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\osg\OBJETIVOS.png" class="img-fluid" />
+	<img src="..\img\osg\OBJETIVOS.png" class="img-fluid" />
 	<h3>Objetivos</h3>
 	
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+		</p>
+		<?php  include("funciones.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -233,16 +243,21 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\osg\estrategias.png" class="img-fluid" />
+	<img src="..\img\osg\estrategias.png" class="img-fluid" />
 	<h3>Estrategias</h3>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+		</p>
+		<?php  include("funciones.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -255,16 +270,21 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\osg\indicadores.png" class="img-fluid" />
+	<img src="..\img\osg\indicadores.png" class="img-fluid" />
 	<h3>Indicadores</h3>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+		</p>
+		<?php  include("funciones.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -278,16 +298,21 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\osg\beneficiarios.png" class="img-fluid" />
+	<img src="..\img\osg\beneficiarios.png" class="img-fluid" />
 	<h3>Beneficiarios</h3>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+		</p>
+		<?php  include("funciones.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -300,16 +325,20 @@
 	<div class="fiadatadiv">
 	
 	<div class="fia-front">
-	<img src="img\osg\cuestionario.png" class="img-fluid" />
+	<img src="..\img\osg\cuestionario.png" class="img-fluid" />
 	<h3>Cuestionario</h3>
 	</div>
 	
 	<div class="fia-back">
 	<span>
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque penatibus et magnis dis parturient montes,
-	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-	natoque.
+	<div class="d-flex align-items-center justify-content-center h-100">
+      <div class="d-flex flex-column">
+        <p class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+		</p>
+		<a href="http://www.usmp.edu.pe/fabrica/" target="_blank" class="align-self-center p-3 link">Ver más</a>
+      </div>
+    </div>
 	</span>
 	</div>
 	
@@ -329,20 +358,20 @@
 
     <footer class="footer-area">
        
-       <?php include_once('blocks/footer.html') ?>
+       <?php include_once('../blocks/footer.html') ?>
     </footer>
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="js/bootstrap/popper.min.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="js/plugins/plugins.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="js/active.js"></script>
+    <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
 </body>
 
 </html>

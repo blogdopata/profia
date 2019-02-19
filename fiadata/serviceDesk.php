@@ -1,57 +1,92 @@
-
+<style>
+table, tr, td {
+     border: 1px #CCCCCC solid; 
+     padding: 2px; 
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: #CCCCCC;
+}
+</style>
 
 <!--inicio modal SDSK-->
 <div class="modal fade" id="sdsk" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header popupheader">
-        <h5 style="color:white;" class="modal-title" id="exampleModalLabel">Normas para Reactualización de Matrícula </h5>
+        <h5 style="color:white;" class="modal-title" id="exampleModalLabel">Service Desk</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span style="color:white;" aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
-        <address><b>(Aprobado por Resolución Rectoral Nro. 539-2000-CU-R-USMP de fecha 03 de agosto del 2000)</b></address>
-        <br>
-        <h6>Artículo 1°</h6>
-        <br>
-        <p>
-        Entiéndase por Reactualización de Matrícula al acto académico-administrativo, mediante el cual el estudiante que hubiera dejado de estudiar y no haya reservado su matrícula, obtiene habilitación para poder matricularse como alumno regular en la Facultad o Escuela a la que corresponda.
-        </p>
-        <br>
-        <h6>Artículo 2°</h6>
-        <br>
-        <p>
-        El procedimiento de Reactualización se inicia a petición de parte, con los requisitos establecidos, y culmina con una Resolución Decanal que resuelve aprobar la Reactualización de matrícula del estudiante y la convalidación y/o equivalencia de asignaturas a que hubiere lugar.
-        </p>
-        <br>
-        <h6>Artículo 3°</h6><br>
-        <p>El estudiante presenta una solicitud en especie valorada y dirigida al decano, adjuntando :
-        <br><br>
-        ➢ Recibo de pago, cancelado, por derecho de reactualización de matrícula. <br>
-        ➢ Carta de Compromiso de continuar regularmente sus estudios.
-        <br>
-        <h6>Artículo 4°</h6>
-        <br>
-        <p>
-        La Oficina de Registros Académicos evalúa la situación académica del estudiante, realiza las convalidaciones y/o equivalencias pertinentes, fija el Plan de Estudios y Ciclo Académico que le corresponde al alumno, de acuerdo con el currículo vigente.
-        </p>
-        <br>
-        <h6>Artículo 5°</h6>
-        <br>
-        <p>Con la información precedente, se expide la Resolución Decanal correspondiente. Recibida aquella por el alumno, procede matricularse siguiendo las normas de matrícula regular.</p>
-        <br>
-        <h6>Artículo 6°</h6>
-        <br>
-        <p>
-        Aquellas situaciones no contempladas en las presentes normas son resueltas por el Consejo de Facultad e informadas a la instancia superior.
-        </p>
-        <br>
-        <h6>Artículo 7°</h6><br>
-        <p>El presente Reglamento entra en vigencia al día siguiente de ser aprobado por el Consejo Universitario. </p>
+        <table class="table text-center" border="2">
+            <tr>
+              <td>Jefe:</td>
+              <td> Ing. Gary Galindo Guerra</td>
+            </tr>
+            <tr>
+              <td colspan="2"><a href="mailto:ggalindog@usmp.pe" class="link"><i class="fa fa-envelope"></i> ggalindog@usmp.pe</a></td>
+            </tr>
+          </table>
+          
+          Service Desk es el área especializada en la gestión - solución de incidencias y requerimientos; realizados vía telefónica, presenciales, correo electrónico y aplicativo web. Manteniendo proactivamente informados a los usuarios USMP de todos los eventos relevantes con el servicio que les pudieran afectar.
+          <br><br>
+          Representa la interfaz para los usuarios de todos los servicios TIC ofrecidos por la FIA con un enfoque centrado en los procesos.
+          <br><br>
+
+          <!--FuncionesSDSK -->
+        <h6 style="margin-left:20px;" data-toggle="collapse" data-target="#collapseFuncionesSDSK">
+          <a href="#">FuncionesSDSK <i class="fa fa-angle-double-down"></i></a>
+        </h6>
+
+        <div id="collapseFuncionesSDSK" class="collapse listafia" >
+             <ul style="margin-left:40px;">
+                  <li>Proveer un único punto de contacto para satisfacer las necesidades de comunicación con los usuarios USMP.</li>
+                  <li>Facilitar la restauración de un servicio normal de operaciones con un impacto mínimo posible hacia las actividades del usuario dentro de un nivel conveniente.</li>
+                  <li>Contribuir en los conocimientos del usuario USMP, referente a los servicios informáticos disponibles y trabajos prácticos de los mismos.</li>
+                  <li>Identificar las deficiencias en los usuarios y su entrenamiento, que impactaron negativamente en el uso de los servicios del cliente o crearon una carga de trabajo innecesaria para los empleados.</li>
+             </ul>
+        </div>
+        <!--FuncionesSDSK -->
+
+        <!--ObjetivosSDSK -->
+        <h6 style="margin-left:20px;" data-toggle="collapse" data-target="#collapseObjetivosSDSK">
+          <a href="#">ObjetivosSDSK <i class="fa fa-angle-double-down"></i></a>
+        </h6>
+
+        <div id="collapseObjetivosSDSK" class="collapse listafia" >
+             <ul style="margin-left:40px;">
+                  <li>Una mejor atención al usuario USMP que repercuta en un mayor grado de satisfacción del mismo.</li>
+                  <li>Reducción de costes mediante una eficiente asignación de recursos tecnológicos.</li>
+                  <li>Soporte al servicio proactivo.</li>
+             </ul>
+        </div>
+        <!--ObjetivosSDSK -->
+
+        <!--Metodos -->
+        <h6 style="margin-left:20px;" data-toggle="collapse" data-target="#collapseMetodos">
+          <a href="#">Métodos de Equipamiento <i class="fa fa-angle-double-down"></i></a>
+        </h6>
+
+        <div id="collapseMetodos" class="collapse listafia" >
+             Service Desk recibe solicitudes de atención vía correo electrónico, telefónica, presencial y aplicativo web.
+             <br><br>
+             
+              <img style="width:500px;margin-left:20px;" src="http://www.usmp.edu.pe/proFIA/img/fiadata/serv_desk_img.jpg" alt="">
+             
+        </div>
+        <!--Metodos -->
+
+        <h6 style="margin-left:20px;">
+          <a href="http://servicedesk.usmp.edu.pe/" target="_blank">Consultas Online <i class="fa fa-external-link"></i></a>
+        </h6>
+
       </div>
       <div class="modal-footer">
-        <small>Oficina de Registros Académicos</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        <small>Fia - Data</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
         
       </div>
     </div>

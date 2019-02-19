@@ -140,7 +140,8 @@
             <br>
             <div class="card text-center">
                 <div class="card-header bg-info text-white">
-                     <b>ORGANIZACIÓN:</b>
+					 <?php  include("organigrama.php") ?>
+                     <b>ORGANIZACIÓN:</b> &nbsp; <a  data-toggle="modal" data-target="#organigrama" href=""> Ver organigrama</a>
                      <br><br>
                      La Facultad de Ingeniería de Computación y Sistemas cuenta con áreas de soporte tecnológico-producción que sirven de apoyo a la Facultad las cuales se detallan a continuación:
                 </div>
@@ -320,12 +321,20 @@
 	<!--SDSK-->
 
 
-	
-	
-	
-	
+	</div>
+
+	<center>
+	<div class="card" style="width: 18rem;">
+  	<div class="card-body">
+    <h5 class="card-title"><a href="mailto:cporras@usmp.pe" class="link">Ing. Cesar Augusto Porras Quinto</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted">Jefe FIA-DATA</h6>
+    <p class="card-text">USMP- FIA</p>
+  	</div>
+  	</center>
+	  
 	</div>
 	</div>
+	
 
 <center>
     <hr style="width:96%;">

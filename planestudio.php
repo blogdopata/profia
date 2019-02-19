@@ -128,7 +128,7 @@
   <tbody>
     <tr>
       
-      <td>Ciencias Aeronáuticas</td>
+      <td>Ingeniería de Computación y Sistemas</td>
       <td>
           <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>

@@ -1605,6 +1605,10 @@ padding: 7px;
     .modal-body h6{
     color:#017090;
     }
+
+    .modal-body h6 a{
+    color:#017090;
+    }
     .popupheader{
         background-color:black;
         text-align:center;
@@ -1654,4 +1658,7 @@ padding: 7px;
     .listafia ul li {
       list-style-image: url('http://www.usmp.edu.pe/proFIA/img/cuadradito.png');
       text-align:justify;
+    }
+    .margenSTI{
+      margin-left: 40px;
     }
