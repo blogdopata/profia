@@ -39,7 +39,7 @@
         <div class="hero-slides owl-carousel">
 
 
-            <!-- Single Hero Slide -->
+            <!-- Imagen del slider de fondo n°1 -->
             <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-2.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
@@ -56,7 +56,7 @@
 
             
 
-            <!-- Single Hero Slide -->
+            <!-- Imagen del slider de fondo n°2 -->
             <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-1.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
@@ -73,7 +73,7 @@
 
             
 
-            <!-- Single Hero Slide -->
+            <!-- Imagen del slider de fondo n°3 -->
             <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-3.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
@@ -90,30 +90,30 @@
            
         </div>
     </section>
-    <!-- ##### Hero Area End ##### -->
+    <!-- ##### FINAL DEL SLIDER ##### -->
 
-    <!-- ##### Top Feature Area Start ##### -->
+    <!-- ##### DATOS DE INTERES ##### -->
     <div class="top-features-area wow fadeInUp" data-wow-delay="300ms">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="features-content">
                         <div class="row no-gutters">
-                            <!-- Single Top Features -->
+                            <!-- DATO # 1-->
                             <div class="col-12 col-md-4">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <i class="icon-agenda-1"></i>
                                     <h5>5 carreras profesionales</h5>
                                 </div>
                             </div>
-                            <!-- Single Top Features -->
+                            <!-- DATO # 2-->
                             <div class="col-12 col-md-4">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <i class="icon-assistance"></i>
                                     <h5>Docentes altamente <br>capacitados</h5>
                                 </div>
                             </div>
-                            <!-- Single Top Features -->
+                            <!-- DATO # 3-->
                             <div class="col-12 col-md-4">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <i class="icon-laptop"></i>

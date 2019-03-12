@@ -32,21 +32,22 @@
 
     </header>   
     
-    <section>
+    <section style="background-color:lavender;">
         <div class="page-header1">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-caption1">
-                        <h1 class="page-title1">Prestaciones y Servicios
-                            <br> FIA - USMP
-                        </h1>
+                        <h1 class="page-title1">Prestaciones y Servicios</h1>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- /.page-header-->
+    <br>
+    <br>
+    <br>
     <!-- news -->
     <div class="card-section1">
         <div class="container">
@@ -78,8 +79,8 @@
 
 
     </section>
-    <br>
-
+    
+    <section style="background-color:aliceblue;">
           <div class="container cta-100 ">
         <div class="container">
           <div class="row blog">
@@ -372,7 +373,7 @@
         </div>
       </div>
     
-   
+   </section>
     
 
 

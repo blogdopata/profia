@@ -34,7 +34,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/fia/nuestra-magic.jpg);">
+    <div class="breadcumb-area bg-img" style="background-image: url(img/bg-img/generales.jpg);height:400px;">
         <div class="bradcumbContent">
             <h2>Nuestra Facultad</h2>
         </div>
@@ -81,15 +81,6 @@
                      <b>Nuestro deseo es invitarlo a que integre la gran familia FIA. ¡Bienvenido a nuestro claustro académico!</b>
                 </div>
             </div>
-         <!--   <div class="row">
-                <div class="col-12">
-                    <div class="about-slides owl-carousel mt-100 wow fadeInUp" data-wow-delay="600ms">
-                        <img src="img/bg-img/bg-3.jpg" alt="">
-                        <img src="img/bg-img/bg-2.jpg" alt="">
-                        <img src="img/bg-img/bg-1.jpg" alt="">
-                    </div>
-                </div>
-            </div>-->
         </div>
     </section>
     <!-- ##### About Us Area End ##### -->
@@ -97,9 +88,9 @@
   <div class="aboutus-section">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="col-md-3 col-sm-12 col-xs-12">
                     <div>
-                        <h2>Valores</h2>
+                        <h2 id="azulfia">Valores</h2>
                         <p style="font-size:12px;"><b> Respeto a la persona:</b> Es la clara y completa comprensión de los derechos y deberes individuales como colectivos, así como la disposición para reconocer y entender las diferencias.</p>
                         <p style="font-size:12px;"><b> Compromiso:</b> Mantenemos un alto compromiso con la constante educación del quehacer universitario para responder a realidades sociales.</p>
                         <p style="font-size:12px;"><b>Conservación ambiental</b></p>
@@ -107,27 +98,23 @@
                         
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="col-md-3 col-sm-12 col-xs-12">
                     <div class="aboutus-banner">
-                        <img class="img-fluid" src="http://themeinnovation.com/demo2/html/build-up/img/home1/about1.jpg" alt="">
+                        <img class="img-fluid" id="centrarimg" src="img/bg-img/nosotros.jpg" alt="">
                     </div>
                 </div>
-                <div class="col-md-5 col-sm-6 col-xs-12">
-                
-                        
-                           
-                                
-                               
-                                <h2>Principios</h2> <br>
-                                    <h5>Trabajo en equipo</h5>
+                <div class="col-md-6 col-sm-12 col-xs-12">
+
+                                <h2 id="azulfia">Principios</h2> <br>
+                                    <h5 id="azulfia" style="font-weight:500;">Trabajo en equipo</h5>
                                     <p>Espíritu permanente de colaboración poniendo por delante los objetivos institucionales.</p>
                                
                                
-                                    <h5>Compromiso con el desarrollo del país</h5>
+                                    <h5 id="azulfia" style="font-weight:500;">Compromiso con el desarrollo del país</h5>
                                     <p>Participación activa en proyectos de impacto para la sociedad apoyando al desarrollo empresarial.</p>
                               
      
-                                    <h5>Actitud Emprendedora e Innovadora</h5>
+                                    <h5 id="azulfia" style="font-weight:500;">Actitud Emprendedora e Innovadora</h5>
                                     <p>Búsqueda del desarrollo auto sostenido e innovador en nuestros servicios y propuesta de valor.</p>
 
                 </div>

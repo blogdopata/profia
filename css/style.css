@@ -123,7 +123,7 @@ img {
 /* Section Padding */
 .section-padding-100 {
   padding-top: 100px;
-  padding-bottom: 100px; }
+  padding-bottom: 20px; }
 
 .section-padding-100-0 {
   padding-top: 100px;
@@ -907,7 +907,8 @@ img {
     z-index: 30; }
     @media only screen and (max-width: 767px) {
       .breadcumb-area .bradcumbContent {
-        width: 280px; } }
+        width: 100%; } 
+        }
     .breadcumb-area .bradcumbContent h2 {
       text-align: center;
       line-height: 110px;
@@ -916,12 +917,10 @@ img {
       @media only screen and (max-width: 767px) {
         .breadcumb-area .bradcumbContent h2 {
           font-size: 24px; } }
-
-
-
-       @media only screen and (max-width: 767px) {
-      .breadcumb-area .bradcumbContent {
-        width: 280px; } }          
+       @media only screen and (max-width: 280px) {
+        .breadcumb-area .bradcumbContent h2 {
+          font-size: 15px; } }
+       
      .breadcumb-area .bradcumbContent h3 {
       text-align: center;
       line-height: 110px;
@@ -1105,12 +1104,16 @@ img {
 
 /* Contact Area CSS */
 .contact-content {
-  background-color: #eef3f6;
+  margin-top:300px;
+  background-image: url('http://www.usmp.edu.pe/proFIA/img/bg-img/contacto/fiatrans.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border-radius:5px;
   padding: 100px 50px;
   position: relative;
   z-index: 15;
   top: -200px;
-  margin-bottom: -100px; }
+  margin-bottom: -140px; }
   @media only screen and (max-width: 767px) {
     .contact-content {
       padding: 50px 30px; } }
@@ -1264,14 +1267,66 @@ img {
     }
     
     /*institutos*/
-.page-header1 { background: url(https://easetemplate.com/free-website-templates/hike/images/pageheader.jpg)no-repeat; position: relative; background-size: cover; }
+.page-header1 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/prestaciones.jpg)no-repeat; position: relative; background-size: cover; }
+.page-header2 { background: url(http://www.usmp.edu.pe/proFIA/img/gradosytitulos/graduados.jpg)no-repeat; position: relative; background-size: cover; }
+
+
+/*banner oficina de seguimiento al graduado*/
+.page-header3 { background: url(http://www.usmp.edu.pe/proFIA/img/gradosytitulos/OSG.jpg)no-repeat; position: relative; background-size: cover; }
+
+/*banner fia data*/
+.page-header4 { background: url(http://www.usmp.edu.pe/proFIA/img/fiadata/fiaedificio.jpg);height: 370px;}
+
+/*banner coordinacion academica*/
+.page-header5 { background: url(http://www.usmp.edu.pe/proFIA/img/bg-img/coorAcad.jpg);height: 370px;}
+
+/*banner departamento academico*/
+.page-header6 { background: url(http://www.usmp.edu.pe/proFIA/img/bg-img/fianubes.jpg)no-repeat; position: relative; background-size: cover; }
+
+/*banner carrera civil*/
+.page-header7 { background: url(http://www.usmp.edu.pe/proFIA/img/carreras/civil/civil_2.jpg);height: 600px;
+background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center center;}
+
+ @media only screen and (max-width: 950px) {
+            .page-header7 { 
+                background: url(http://www.usmp.edu.pe/proFIA/img/carreras/civil/civil_2_sm.jpg);
+                
+            }
+        }
+@media only screen and (max-width: 753px) {
+            .page-header7 { 
+                background: url(http://www.usmp.edu.pe/proFIA/img/carreras/civil/civil_2_xs.jpg); 
+                 background-size: cover;
+            }
+        }
+@media only screen and (max-width: 512px) {
+            .page-header7 { 
+                background: url(http://www.usmp.edu.pe/proFIA/img/carreras/civil/civil_2_xs2.jpg);
+               
+            }
+        }
+@media only screen and (max-width: 321px) {
+            .page-header7 { 
+                background: url(http://www.usmp.edu.pe/proFIA/img/carreras/civil/civil_2_xs3.jpg);
+                
+            }
+        }        
+
 .page-caption1 { padding-top: 170px; padding-bottom: 174px; }
 .page-title1 { 
   font-size: 3.5rem; line-height: 1; color: #fff; font-weight: 600;  
   background-color: rgba(0, 0, 0, 0.5);
-  width: 40rem;
-  height: 10rem;
+  text-align: center;
+  /*width: 20rem;
+  height: 10rem;*/
 }
+ @media only screen and (max-width: 372px) {
+            .page-title1 {
+                font-size:15px;
+            }
+            }
 
 .card-section1 { position: relative; bottom: 20px; }
 .card-block1 { padding: 20px;padding-bottom: 0px; }
@@ -1465,7 +1520,7 @@ padding: 7px;
 }
 
 .fix-border{
-  box-shadow:2px 2px darkred;
+  box-shadow:2px 2px #017090;
 }   
 .fix-h2{
   font-size: 1.5rem;
@@ -1491,6 +1546,7 @@ padding: 7px;
 @media only screen and (min-width:360px){
   
   .texto-general {
+  }
     
 }
 
@@ -1505,6 +1561,21 @@ padding: 7px;
 #azulfia{
   color:#017090 !important;
 }
+
+#arialj{
+  text-align:justify;
+  font-family:arial;
+  color:#606060;;
+}
+.arial>p{
+  font-family: arial !important;
+  color:black;
+}
+#arial{
+  font-family: arial !important;
+}
+.negrita{
+  font-weight:900 !important;
 }
 /*arquitectura*/
 .cajaperfil{
@@ -1514,7 +1585,7 @@ padding: 7px;
         background-color:white;
         border:solid grey 1px;
         border-radius:5px;
-        box-shadow:0 5px 4px rgba(243, 156, 18);
+        /*box-shadow:0 5px 4px rgba(243, 156, 18);*/
     }
     .cajaperfil h5{
         margin:5px 20px;
@@ -1527,7 +1598,8 @@ padding: 7px;
 
     .listaperfil{
         /*overflow-y: scroll;*/
-        height: 1250px;
+        /*height: 1250px;*/
+        font-family: arial;
         padding:10px 0px;
         margin:3px;
         /*background-color:#8f0222;*/
@@ -1558,7 +1630,7 @@ padding: 7px;
     .arquiforoimg{
       margin-top:10px;
       padding:15px;
-      background-color:lavender;
+      background-color:#E7DCF5;
       border-radius:5px;
     }
 
@@ -1566,10 +1638,34 @@ padding: 7px;
       text-align:justify !important;
     }
 
+    #letracursiva{
+      font-family: Arial;
+    }
     /*fin de arquitectura*/
 
 
+    /*estilo coordinacion academica */
+    .coordAcad{
+      font-style: italic;
+      font-family: sans-serif;
+    }
+    .rowAcad{
+      background: linear-gradient(70deg, lavender, white);
+      padding:15px 0px;
+    }
 
+    .rowArqui{
+      background: linear-gradient(70deg, lavender, white);
+    }
+
+    .rowArqui3{
+      background: linear-gradient(left,70deg, lavender, white);
+    }
+
+    .rowArqui2{
+      background: linear-gradient(320deg, rgb(164, 239, 235)  , white);
+    }
+    
 
 
     /*estilos modales de información legal = REGLAMENTOS-NORMAS-DIRECTIVAS*/
@@ -1659,6 +1755,512 @@ padding: 7px;
       list-style-image: url('http://www.usmp.edu.pe/proFIA/img/cuadradito.png');
       text-align:justify;
     }
+    .listanumerada{
+      margin-left:25px;
+    }
+    .listanumerada ul li {
+      list-style-type: decimal;
+      text-align:justify;
+    }
     .margenSTI{
       margin-left: 40px;
     }
+
+
+    /* guia de tramites */
+  .page-full {
+    width: 90%;
+    max-width: 780px;
+    margin: 0 auto;
+  }
+  .page-full.page-full-100 {
+    width: 100%;
+    max-width: 1024px;
+  }
+  .art-page-full {
+    width: 100%;
+  }
+  .page article header h1 {
+  background-color: rgba(176, 183, 187, 0.2);
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+  .st-header {
+    width: 100%;
+    background-image: url(http://www.usmp.edu.pe/proFIA/img/st_header.jpg) !important;
+    background-repeat: repeat-x repeat-y;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    -webkit-border-radius: 6px 6px 0 0;
+    -moz-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+    text-align: center;
+  }
+  .st-header h1 {
+  padding-top: 10px;
+  margin: 0 auto;
+  font-size: 25px;
+  font-size: 2.5rem;
+  color: #7b5227;
+  text-align: center;
+}
+  .st-content {
+    width: 100%;
+    padding: 0 30px;
+    background-image: url(http://www.usmp.edu.pe/proFIA/img/st_bg_left.png), url(http://www.usmp.edu.pe/proFIA/img/st_bg_right.png), url(http://www.usmp.edu.pe/proFIA/img/st_bg.png);
+    background-position: top left, top right, top left;
+    background-origin: border-box, border-box, border-box;
+    background-repeat: repeat-y, repeat-y, repeat;
+    -webkit-border-radius: 0 0 2px 2px;
+    -moz-border-radius: 0 0 2px 2px;
+    border-radius: 0 0 2px 2px;
+    *zoom: 1;
+  }
+  .st-content:before,
+  .st-content:after {
+    display: table;
+    content: "";
+  }
+  .st-content:after {
+    clear: both;
+  }
+
+  /* modificar luego no usar dl ni dt en vez de ul y li*/ 
+  .st-content dl {
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+  }
+  .st-content dl dt {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    margin: 30px 10px 23px 10px;
+    -webkit-box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.7);
+    -moz-box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.7);
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.7);
+  }
+  .st-content dl dt:hover {
+    -webkit-box-shadow: 0px 2px 8px 3px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 0px 2px 8px 3px rgba(0, 0, 0, 0.6);
+    box-shadow: 0px 2px 8px 3px rgba(0, 0, 0, 0.6);
+  }
+
+  .st-content dl dt a,
+  .st-content img {
+    width: 102px;
+    height: 139px;
+  }
+  .st-content dl dt a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .st-content dl dt a span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 55px 3px 0px 3px;
+    text-align: center;
+    color: #f9f9f9;
+    font-size: 10px !important;
+    
+    line-height: 1.2;
+    text-shadow: 1px 1px 5px #111;
+    text-decoration: none;
+  }
+
+   /* guia de tramites */
+    @media only screen and (max-width: 352px) {
+    h2.modaltramite {
+            font-size:16px;
+        }
+    }
+    .modaltramite{
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #990033;
+    border-bottom: 3px solid rgba(176, 183, 187, 0.7);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    }
+
+    .tramite a{
+    display: block;
+    padding: 10px 16px;
+    text-decoration: none;
+    color: #262626;
+    border-left: 4px solid #bfbfbf;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    }
+
+    .tramite a:hover{
+    display: block;
+    padding: 10px 16px;
+    text-decoration: none;
+    color: #990033 !important;
+    border-left: 12px solid #990033;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    }
+   
+
+   
+/* estilos coordinacion academica no tocar!!!*/
+
+#team .card {
+    border: none;
+    background: lavender;
+}
+
+.image-flip:hover .backside,
+.image-flip.hover .backside {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    border-radius: .25rem;
+}
+
+.image-flip:hover .frontside,
+.image-flip.hover .frontside {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.mainflip {
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -moz-transition: 1s;
+    -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.frontside {
+    position: relative;
+    -webkit-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    z-index: 2;
+    margin-bottom: 30px;
+}
+
+.backside {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: white;
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+    -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+
+.frontside,
+.backside {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transition: 1s;
+    -moz-transform-style: preserve-3d;
+    -o-transition: 1s;
+    -o-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+}
+
+.frontside .card,
+.backside .card {
+    min-height: 312px;
+}
+
+.backside .card a {
+}
+
+.backside .card a:hover {
+    
+    transition:2s;
+    text-decoration:underline;
+}
+
+.frontside .card .card-title,
+.backside .card .card-title {
+    color: #007b5e !important;
+}
+
+.frontside .card .card-body img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+/*fin de coordinacion academica */
+
+
+/*estilos fia data y seguimiento al graduado*/
+.fiadatadiv
+{
+	width:100%;
+	height:auto;
+	border:5px #323233 solid;
+	background:lavender;
+	text-align:center;
+	border-radius:10px;
+	overflow:hidden;
+	position:relative;
+	transition:0.5s;
+	margin-bottom:28px;
+}
+
+
+.fiadatadiv img
+{
+	
+	margin-bottom:20px;
+	width: 90px;
+}
+
+.fiadatadiv h3
+{
+	font-size:20px;
+	font-weight:700;
+}
+
+.fiadatadiv p
+{
+	margin-bottom:0;
+}
+
+.fia-back
+{
+	width:100%;
+	height:auto;
+	position:absolute;
+	top:0;
+	left:0;
+	padding:5px 15px 0 15px;
+	text-align:left;
+	background:lavender;
+	
+}
+
+.fia-front
+{
+	width:100%;
+	height:auto;
+	position:relative;
+	z-index:10;
+	background:#fff;
+	padding:15px;
+	bottom:0px;
+	transition: all 0.5s ease;
+}
+
+.fiadatadiv:hover .fia-front
+{
+	bottom:-260px;
+	transition: all 0.5s ease;
+}
+
+.fiadatadiv:hover
+{
+	border-color:#777;
+	transition:0.5s;
+}
+/*fin de estilos fia data y seguimiento al graduado*/
+
+/*contacto*/
+
+/*estilo de titulo bonito n1*/
+#titulobonito1{
+  color:cadetblue;
+  text-shadow: 2px 2px darkgray;
+}
+@media only screen and (max-width: 329px){ 
+    #titulobonito{
+      font-size: .1rem !important;
+    }
+}
+
+
+/*querys movil*/
+ @media only screen and (max-width: 308px) {
+            #titulo b {
+                font-size:10px;
+            }
+  }
+
+ @media only screen and (max-width: 308px) {
+            .st-header h1 {
+                font-size:12px;
+            }
+ }
+
+@media only screen and (min-width: 310px) {
+            #titulo b {
+                font-size:40px;
+            }
+  }
+ @media only screen and (max-width: 304px) {
+            #mini {
+                font-size:10px;
+            }
+ }
+ @media only screen and (max-width: 378px) {
+            .miniCivil {
+                font-size:19px;
+            }
+ }
+
+
+
+ @media only screen and (max-width: 475px) {
+  #miniAcreditaciones {
+      font-size:15px;
+  }
+}
+
+
+
+ @media only screen and (max-width: 570px) {
+  #centrarimg {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top:5px;
+      margin-bottom: 22px;
+  }
+}
+
+ @media only screen and (max-width: 767px) {
+  #centrarimg {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top:5px;
+      margin-bottom: 22px;
+  }
+}
+
+ @media only screen and (max-width: 767px) {
+  #centrarimg {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top:5px;
+      margin-bottom: 22px;
+  }
+}
+
+ @media screen and (min-width: 768px) and (max-width: 981px) { 
+    #centrarimg{
+      margin-top:180px;
+    }
+}
+
+/*query pmini de oficina de seg al graduado*/
+ @media only screen and (max-width: 1040px){ 
+    #pmini{
+      font-size:10px;
+    }
+}
+
+ @media only screen and (max-width: 991px){ 
+    #pmini{
+      font-size:20px;
+    }
+}
+
+ @media only screen and (max-width: 767px){ 
+    #pmini{
+      font-size:15px;
+    }
+}
+
+ @media only screen and (max-width: 404px){ 
+    #pmini{
+      font-size:10px;
+    }
+}
+
+
+ @media only screen and (max-width: 1167px){ 
+    #pmini2{
+      font-size:10px;
+    }
+}
+
+ @media only screen and (max-width: 991px){ 
+    #pmini2{
+      font-size:15px;
+    }
+}
+
+@media only screen and (max-width: 504px){ 
+    #pmini2{
+      font-size:12px;
+    }
+}
+
+@media only screen and (max-width: 318px){ 
+    #pmini2{
+      font-size:9px;
+    }
+}
+
+@media only screen and (max-width: 210px){ 
+    #pmini2{
+      font-size:7px;
+    }
+}
+
+/*civil margen img*/
+.margencivil {
+  margin-top:120px;
+}
+
+@media only screen and (max-width: 942px){ 
+    .margencivil{
+      margin-top:160px;
+    }
+}
+
+@media only screen and (max-width: 765px){ 
+    .margencivil{
+      margin-top:2px;
+    }
+}
+

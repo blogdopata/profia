@@ -34,7 +34,7 @@
     <!-- ##### Header Area Fin ##### -->
 
  <!-- ##### Breadcumb Area Inicio ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/bg-img/fiadir.jpg);height:370px;">
+    <div class="breadcumb-area bg-img" style="background-image: url(img/bg-img/frontisfia.jpg);height:380px;">
         <div class="bradcumbContent">
             <h2>Acreditaciones</h2>
         </div>
@@ -49,9 +49,9 @@
   <div class="container">
   <div class="row">
     <div class="col-md-6">
-    <p style="margin-top:25px;color: #900028;font-weight:bold;" class="lead">En la Universidad de San Martín de Porres, tenemos 159 programas acreditados, donde contamos con:</p>
-    <li class="lead">20 Acreditaciones Internacionales de Pregrado </li> 
-    <li class="lead">139 Acreditaciones Internacionales de Posgrado</li> 
+    <p id="miniAcreditaciones" style="margin-top:25px;color: #900028;font-weight:bold;" class="lead">En la Universidad de San Martín de Porres, tenemos 159 programas acreditados, donde contamos con:</p>
+    <li id="miniAcreditaciones" class="lead">20 Acreditaciones Internacionales de Pregrado </li> 
+    <li id="miniAcreditaciones" class="lead">139 Acreditaciones Internacionales de Posgrado</li> 
     </div>  
     <div class="col-md-6">
     <img class="img-fluid" style="padding:20px;" src="img\fia\escudo.png" alt="">
@@ -104,19 +104,6 @@
     </div>
     <!-- ##### ACREDITACIONES##### -->
 
-    
-    <div class="call-to-action-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
-                        <h3>Comprometidos con el desarrollo , avanzamos juntos.</h3>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     
 
     <footer class="footer-area">

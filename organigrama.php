@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/bg-img/fiadir.jpg);height:370px;">
+    <div class="breadcumb-area bg-img" style="background-image: url(img/bg-img/edificiofia.jpg);height:400px;">
         <div class="bradcumbContent">
             <h2>Organigrama</h2>
         </div>
@@ -45,12 +45,9 @@
     <!--START seccion-->
    
 
-    <!-- ##### About Us Area Start ##### -->
-    <section class="about-us-area mt-30 section-padding-100">
+    <!-- ##### organigrama ##### -->
+    <section style="background-color:lavender;" class="section-padding-100">
         <div class="container">
-           
-            
-            <br>
             <div class="row">
                 <div class="col-12">
                     <center>
@@ -61,31 +58,16 @@
                 </div>
             </div>
         </div>
+        <center>
+            <hr style="width:98%;">
+        </center>
     </section>
-    <!-- ##### About Us Area End ##### -->
+    <!-- ##### organigrama ##### -->
     <!--FIN seccion-->
 
    
 
-    <!-- ##### CTA Area Start ##### -->
-    <div class="call-to-action-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
-                        <h3>Comprometidos con el desarrollo , avanzamos juntos. </h3>
-                        
-                    </div>
-                </div>
-                <div class="col-md-4">
-                <center>
-                <img src="img\fia\usmp_logo_blanco.png" class="img-fluid" alt="">
-                </center>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ##### CTA Area End ##### -->
+
 
      <footer class="footer-area">
        

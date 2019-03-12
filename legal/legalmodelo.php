@@ -53,7 +53,7 @@
 
 <div class="container">
 	<h3 class="text-center">
-		<b>TALLER DE CONSTRUCCIÓN BAMBÚ - CONEA</b>
+		<b>LEY N° 21357-558523</b>
 	</h3>
     <small class="text-center">Fecha artículo: 14 agosto 2009</small>
 </div>
@@ -62,23 +62,35 @@
 <br>
 <div class="container" style="border:solid grey 1px;border-radius:20px;box-shadow: 6px 6px 6px grey;">
 	<div class="row text-justify">
-		<div class="col-md-3"></div>
-		<div class="col-md-6" style="background-image: url(../img/bg-img/marcasAgua/marca2.jpg); background-size:contain;background-repeat:no-repeat;background-position: right center;">
+		<div class="col-md-1"></div>
+        
+		<div class="col-md-10" style="background-image: url(../img/bg-img/marcasAgua/marca2.jpg); background-size:contain;background-repeat:no-repeat;background-position: right center;text-align:justify;">
 
            <br><br>
 			<p>
-                Durante el CONEA (Congreso Nacional de Estudiantes de Arquitectura), el IVUC realizó un taller de construcción. <br> 
-                Un grupo estaba enfocado sobre “los juegos que se pueden hacer con los edificios” y el otro sobre las técnicas constructivas con el bambú. <br> 
-                Durante los 5 días de talleres del CONEA se alternaron clases teóricas con actividades prácticas. <br> 
-                Concretamente los participantes del primer grupo hicieron ensayos con bloques de adobe reforzados y construyeron una viga compuesta de madera, mientras los alumnos del segundo grupo construyeron una estructura de sombra, utilizando técnicas que se utilizan en la arquitectura con bambú. <br> <br>
-                El IVUC culminó sus actividades en la CONEA dando una conferencia sobre el urbanismo y las viviendas sociales en Lima. <br>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus maiores veritatis delectus fugiat nesciunt ea autem, cumque corrupti totam nostrum fugit ullam eos et perferendis reprehenderit, aspernatur, hic, nisi inventore.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique non distinctio nisi tempora rerum natus aliquam dolorem, aperiam ab, labore deleniti pariatur consectetur, voluptatum. Iusto amet dolore neque, id doloremque?
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quis voluptatem quae, sint vero tenetur. Maxime fugiat assumenda, ratione. Eum fugiat quibusdam minus nisi laboriosam, molestiae sit? Cumque, veniam, sequi.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, eius, placeat. Adipisci deleniti, corporis mollitia officiis distinctio, quas aperiam beatae quibusdam ut iste itaque quis maxime sunt consequuntur excepturi nulla.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam fuga laboriosam ullam aliquid iste, earum nihil aspernatur voluptatibus inventore! Maxime fugit fugiat atque autem sequi provident facere consectetur, nam libero.
 
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus maiores veritatis delectus fugiat nesciunt ea autem, cumque corrupti totam nostrum fugit ullam eos et perferendis reprehenderit, aspernatur, hic, nisi inventore.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique non distinctio nisi tempora rerum natus aliquam dolorem, aperiam ab, labore deleniti pariatur consectetur, voluptatum. Iusto amet dolore neque, id doloremque?
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quis voluptatem quae, sint vero tenetur. Maxime fugiat assumenda, ratione. Eum fugiat quibusdam minus nisi laboriosam, molestiae sit? Cumque, veniam, sequi.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, eius, placeat. Adipisci deleniti, corporis mollitia officiis distinctio, quas aperiam beatae quibusdam ut iste itaque quis maxime sunt consequuntur excepturi nulla.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam fuga laboriosam ullam aliquid iste, earum nihil aspernatur voluptatibus inventore! Maxime fugit fugiat atque autem sequi provident facere consectetur, nam libero.
+
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus maiores veritatis delectus fugiat nesciunt ea autem, cumque corrupti totam nostrum fugit ullam eos et perferendis reprehenderit, aspernatur, hic, nisi inventore.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique non distinctio nisi tempora rerum natus aliquam dolorem, aperiam ab, labore deleniti pariatur consectetur, voluptatum. Iusto amet dolore neque, id doloremque?
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quis voluptatem quae, sint vero tenetur. Maxime fugiat assumenda, ratione. Eum fugiat quibusdam minus nisi laboriosam, molestiae sit? Cumque, veniam, sequi.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, eius, placeat. Adipisci deleniti, corporis mollitia officiis distinctio, quas aperiam beatae quibusdam ut iste itaque quis maxime sunt consequuntur excepturi nulla.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam fuga laboriosam ullam aliquid iste, earum nihil aspernatur voluptatibus inventore! Maxime fugit fugiat atque autem sequi provident facere consectetur, nam libero.
             </p>
       
            
 			<br><br>
 		</div>
-		<div class="col-md-3"></div>
+		<div class="col-md-1"></div>
 	</div>
 </div>
 

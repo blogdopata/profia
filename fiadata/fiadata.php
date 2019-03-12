@@ -15,82 +15,10 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
 
 
-<style>
-.fiadatadiv
-{
-	width:100%;
-	height:auto;
-	border:5px #323233 solid;
-	background:lavender;
-	text-align:center;
-	border-radius:10px;
-	overflow:hidden;
-	position:relative;
-	transition:0.5s;
-	margin-bottom:28px;
-}
 
-
-.fiadatadiv img
-{
-	
-	margin-bottom:20px;
-	width: 90px;
-}
-
-.fiadatadiv h3
-{
-	font-size:20px;
-	font-weight:700;
-}
-
-.fiadatadiv p
-{
-	margin-bottom:0;
-}
-
-.fia-back
-{
-	width:100%;
-	height:auto;
-	position:absolute;
-	top:0;
-	left:0;
-	padding:5px 15px 0 15px;
-	text-align:left;
-	background:lavender;
-	
-}
-
-.fia-front
-{
-	width:100%;
-	height:auto;
-	position:relative;
-	z-index:10;
-	background:#fff;
-	padding:15px;
-	bottom:0px;
-	transition: all 0.5s ease;
-}
-
-.fiadatadiv:hover .fia-front
-{
-	bottom:-200px;
-	transition: all 0.5s ease;
-}
-
-.fiadatadiv:hover
-{
-	border-color:#777;
-	transition:0.5s;
-}
-
-
-    </style>
 
 </head>
 
@@ -108,40 +36,56 @@
     </header>
     <!-- ##### Header Area End ##### -->
 
- <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(http://www.usmp.edu.pe/proFIA/img/fia/nuestra-magic.jpg);">
-        
+ <!-- ##### titular ##### -->
+     <div class="breadcumb-area bg-img page-header4" style=>
+        <div class="bradcumbContent">
+            <h2>FIA - DATA</h2>
+        </div>
     </div>
-    <!-- ##### Breadcumb Area End ##### -->
+    <!-- ##### titular ##### -->
 
-    <!-- ##### About Us Area Start ##### -->
+    <!-- ##### contenido ##### -->
     <section class="about-us-area mt-50 section-padding-100" style="padding-bottom:25px;padding-top:30px;">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-heading text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
-                        <span>Facultad de Ingeniería y Arquitectura </span>
-                        <h3>FIA - DATA</h3>
+					<br>
+                    <div class=" text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
+                        <h3 id="azulfia">Facultad de Ingeniería y Arquitectura</h3>
                     </div>
+					<br>
                 </div>
             </div>
-            <div class="row" style="background-image:url(img/fia/fachada2.jpg); no-repeat center top;background-size:cover;">
+			<!--si quieren poner algun fondo style="background-image:url(http://www.usmp.edu.pe/proFIA/img/fia/fachada2.jpg); no-repeat center top;background-size:cover;"-->
+            <div class="row rowAcad">
                 <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                     <p>
                         Tenemos la mejor infraestructura en tecnologías de Información del Perú y detrás de ella, la excelencia profesional. Por que solo así podemos exigir calidad a nuestros estudiantes. Fuimos los primeros en acortar la brecha en cuanto a realidad tecnológica de una Empresa con una Universidad en nuestro país.
                     </p>
+					<center>
+						<img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/FIADATA.jpg" alt="">
+					</center>
                 </div>
                 <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
                     <p>
                         Por eso insistimos mucho en la formación personal y profesional de nuestros estudiantes. Cualidades como el afán de investigación, empeño, tenacidad e iniciativa son elementos importantes que juntos ayudarán a la consecución del éxito profesional y capacidad garantizada de nuestros graduados. Por eso decimos que en FIA-DATA el mejor equipo es HUMANO.
                     </p>
+					<center>
+					<div class="card">
+					<div class="card-body">
+					<h5 id="mini" class="card-title"><p  class="link">Ing. Cesar Augusto Porras Quinto</p></h5>
+					<h6 id="mini" class="card-subtitle mb-2 text-muted">Jefe FIA-DATA</h6>
+					<a id="mini" style="color:#017090;" href="mailto:cporras@usmp.pe" class="link">cporras@usmp.pe</a>
+					<p class="card-text">USMP- FIA</p>
+					</div>
+					</center>
                 </div>
             </div>
             <br>
             <div class="card text-center">
                 <div class="card-header bg-info text-white">
 					 <?php  include("organigrama.php") ?>
-                     <b>ORGANIZACIÓN:</b> &nbsp; <a  data-toggle="modal" data-target="#organigrama" href=""> Ver organigrama</a>
+                     <b>ORGANIZACIÓN:</b> &nbsp; <a  data-toggle="modal" data-target="#organigrama" class="link" href=""> Ver organigrama</a>
                      <br><br>
                      La Facultad de Ingeniería de Computación y Sistemas cuenta con áreas de soporte tecnológico-producción que sirven de apoyo a la Facultad las cuales se detallan a continuación:
                 </div>
@@ -149,7 +93,7 @@
         
         </div>
     </section>
-    <!-- ##### About Us Area End ##### -->
+    <!-- ##### contenido ##### -->
 
     
     <div class="container">
@@ -169,7 +113,7 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
+        <p id="pmini2" class="text align-self-center p-3">
 		FIA – DATA es el órgano encargado de planificar, organizar, dirigir y controlar todas las actividades relacionadas con las tecnologías de Información.
 		</p>
 		<?php  include("funciones.php") ?>
@@ -197,7 +141,7 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
+        <p id="pmini2" class="text align-self-center p-3">
 		FIA – DATA es el órgano encargado de planificar, organizar, dirigir y controlar todas las actividades relacionadas con las tecnologías de Información.
 		</p>
 		<?php  include("objetivos.php") ?>
@@ -224,7 +168,7 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
+        <p id="pmini2" class="text align-self-center p-3">
 		La fábrica de software es una organización altamente organizada que produce partes en una línea de producción utilizando elementos ...
 		</p>
 		<a href="http://www.usmp.edu.pe/fabrica/" target="_blank" class="align-self-center p-3 link">Ver más</a>
@@ -250,7 +194,7 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
+        <p id="pmini2" class="text align-self-center p-3">
 		El Area de Diseño Gráfico y Multimedia brinda soluciones integrales utilizando tecnología de última generación complementados con creatividad ...
 		</p>
 		<?php  include("grafimedia.php") ?>
@@ -278,7 +222,7 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
+        <p id="pmini2" class="text align-self-center p-3">
 		Es el órgano encargado de administrar los servicios de tecnología de la información y comunicaciones que soportan los procesos de negocio ...
 		</p>
 		<?php  include("sti.php") ?>
@@ -306,7 +250,7 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
+        <p id="pmini2" class="text align-self-center p-3">
 		Service Desk es el área especializada en la gestión - solución de incidencias y requerimientos; realizados vía telefónica, presenciales, email ...
 		</p>
 		<?php  include("serviceDesk.php") ?>
@@ -323,14 +267,7 @@
 
 	</div>
 
-	<center>
-	<div class="card" style="width: 18rem;">
-  	<div class="card-body">
-    <h5 class="card-title"><a href="mailto:cporras@usmp.pe" class="link">Ing. Cesar Augusto Porras Quinto</a></h5>
-    <h6 class="card-subtitle mb-2 text-muted">Jefe FIA-DATA</h6>
-    <p class="card-text">USMP- FIA</p>
-  	</div>
-  	</center>
+	
 	  
 	</div>
 	</div>

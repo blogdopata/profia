@@ -15,82 +15,8 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
 
-
-<style>
-.fiadatadiv
-{
-	width:100%;
-	height:auto;
-	border:5px #323233 solid;
-	background:lavender;
-	text-align:center;
-	border-radius:10px;
-	overflow:hidden;
-	position:relative;
-	transition:0.5s;
-	margin-bottom:28px;
-}
-
-
-.fiadatadiv img
-{
-	
-	margin-bottom:20px;
-	width: 90px;
-}
-
-.fiadatadiv h3
-{
-	font-size:20px;
-	font-weight:700;
-}
-
-.fiadatadiv p
-{
-	margin-bottom:0;
-}
-
-.fia-back
-{
-	width:100%;
-	height:auto;
-	position:absolute;
-	top:0;
-	left:0;
-	padding:5px 15px 0 15px;
-	text-align:left;
-	background:lavender;
-	
-}
-
-.fia-front
-{
-	width:100%;
-	height:auto;
-	position:relative;
-	z-index:10;
-	background:#fff;
-	padding:15px;
-	bottom:0px;
-	transition: all 0.5s ease;
-}
-
-.fiadatadiv:hover .fia-front
-{
-	bottom:-200px;
-	transition: all 0.5s ease;
-}
-
-.fiadatadiv:hover
-{
-	border-color:#777;
-	transition:0.5s;
-}
-
-
-    </style>
 
 </head>
 
@@ -109,24 +35,34 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(http://www.usmp.edu.pe/proFIA/img/fia/nuestra-magic.jpg);">
-        
+    <div class="page-header3">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="page-caption1 d-flex justify-content-center align-items-center" >
+                        <h1 class="page-title1 d-flex align-items-center justify-content-center ">
+                            Oficina de Seguimiento al Graduado
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <!-- ##### Breadcumb Area End ##### -->
 
     <!-- ##### About Us Area Start ##### -->
-    <section class="about-us-area mt-50 section-padding-100" style="padding-bottom:25px;padding-top:30px;">
+    <section class="about-us-area mt-50 ">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="section-heading text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
-                        <span>Facultad de Ingeniería y Arquitectura </span>
-                        <h3> Oficina de Seguimiento al Graduado</h3>
+                    <div class="text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
+                        <h3 id="azulfia">Facultad de Ingeniería y Arquitectura </h3>
                     </div>
+                    <br>
                 </div>
             </div>
-            <div class="row" style="background-image:url(img/fia/fachada2.jpg); no-repeat center top;background-size:cover;">
-                <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+            <div class="row" style="background-image:url('/img/fia/fachada2.jpg'); no-repeat center top;background-size:cover;background-color:lavender;padding-top:30px;padding-bottom:30px;">
+                <div class="col-12 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="400ms">
                     <h5 id="azulfia">Alcance</h5>
                     <p>
                         El presente Plan de Seguimiento al Graduado de la FIA, establece los lineamientos de gestión de los graduados para la facultad.
@@ -135,12 +71,16 @@
                     <p>
                         El seguimiento a los graduados, es una de las actividades que muchas Facultades han venido desarrollando de manera aislada, y en algunos de los casos con experiencias que han resultado significativas. Sin embargo, al no existir coordinación entre las distintas facultades de nuestra universidad, estas experiencias exitosas en alguna de ellas no se han podido replicar en el resto de las facultades.
                     </p>
-                </div>
-                <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-                    <br>
+					  <br>
                     <p>
                         Actualmente la Facultad de Ingeniería y Arquitectura viene desarrollando una política institucional con el fin de realizar el seguimiento de sus graduados, con el fin de conocer su ubicación, cargos que han desempeñado y desempeñan en su desarrollo profesional, para promover su inserción en el mercado laboral, conocer sus necesidades, su formación continua , establecer a través de sus graduados la vinculación con las empresas y el aporte que los graduados pueden ofrecer a la facultad en la mejora de las ofertas en las distintas carreras profesionales.
                     </p>
+                </div>
+                <div class="col-12 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="500ms">
+                  
+					<center>
+						<img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/osg/osgraduados.png" alt="">
+					</center>
                 </div>
             </div>
             <br>
@@ -171,9 +111,9 @@
                 </div>
             </div>
             </div>
-
+			
             </div>
-        
+			<br>
         </div>
     </section>
     <!-- ##### About Us Area End ##### -->
@@ -182,7 +122,7 @@
     <div class="container">
 	<div class="row">
 	
-	<!--FUNCIONES-->
+	<!--FUNCIONES OSG-->
 	<div class="col-lg-4">
 	<div class="fiadatadiv">
 	
@@ -196,11 +136,11 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
+        <p id="pmini" class="text align-self-center p-3">
 		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
 		</p>
 		<?php  include("funciones.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funcionesOSG">Ver más</a>
       </div>
     </div>
 	</span>
@@ -208,9 +148,9 @@
 	
 	</div>
 	</div>
-	<!--FUNCIONES-->
+	<!--FUNCIONES OSG-->
 	
-    <!--OBJETIVOS-->
+    <!--OBJETIVOS OSG-->
 	<div class="col-lg-4">
 	<div class="fiadatadiv">
 	
@@ -224,11 +164,11 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+        <p id="pmini" class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado tiene como objetivos contar con un registro actualizado de ...
 		</p>
-		<?php  include("funciones.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+		<?php  include("objetivos.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#objetivosOSG">Ver más</a>
       </div>
     </div>
 	</span>
@@ -236,9 +176,9 @@
 	
 	</div>
 	</div>
-	<!--OBJETIVOS-->
+	<!--OBJETIVOS OSG-->
 
-    <!--Des.SW-->
+    <!--estrategias OSG-->
 	<div class="col-lg-4">
 	<div class="fiadatadiv">
 	
@@ -251,11 +191,11 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+        <p id="pmini" class="text align-self-center p-3">
+		Indispensable para llevar a cabo el compromiso y la responsabilidad de todos los miembros. 
 		</p>
-		<?php  include("funciones.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+		<?php  include("estrategias.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#estrategiasOSG">Ver más</a>
       </div>
     </div>
 	</span>
@@ -263,7 +203,7 @@
 	
 	</div>
 	</div>
-	<!--Des.SW-->
+	<!--estrategias OSG-->
 
     <!--Grafimedia-->
 	<div class="col-lg-4">
@@ -278,11 +218,11 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+        <p id="pmini" class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado cuenta con una serie de indicadores como el porcentaje de ....
 		</p>
-		<?php  include("funciones.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+		<?php  include("indicadores.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#indicadoresOSG">Ver más</a>
       </div>
     </div>
 	</span>
@@ -306,11 +246,11 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+        <p id="pmini" class="text align-self-center p-3">
+		La Oficina de Seguimiento al Graduado tiene como beneficiarios a ...
 		</p>
-		<?php  include("funciones.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
+		<?php  include("beneficiarios.php") ?>
+		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#beneficiariosOSG">Ver más</a>
       </div>
     </div>
 	</span>
@@ -333,10 +273,10 @@
 	<span>
 	<div class="d-flex align-items-center justify-content-center h-100">
       <div class="d-flex flex-column">
-        <p class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
+        <p id="pmini" class="text align-self-center p-4">
+		Cuestionario a graduados
 		</p>
-		<a href="http://www.usmp.edu.pe/fabrica/" target="_blank" class="align-self-center p-3 link">Ver más</a>
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLScYzlBf0OUexlmT49GfxyvoKu9sjDnSwaW7D3g45-xFWvte8A/viewform" target="_blank" class="align-self-center p-2 link">Ver más</a>
       </div>
     </div>
 	</span>

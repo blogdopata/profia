@@ -7,7 +7,7 @@
 
 <div style="text-align:justify;">
 
-<ul>
+<ul style="margin-left:10px;">
 	<li class="liarquitectura">
 	<p>Desarrollar la experiencia de diseño para resolver problemáticas arquitectónicas de baja, media y alta complejidad, mediante los conceptos de espacio, forma y función.</p>
 	</li>

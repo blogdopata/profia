@@ -15,97 +15,9 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
 
-    <style>
-    
-.project {
-	width: 100%;
-	height: 350px;
-	background-image: url(img/depacademico/profe.jpg);
-	background-size: cover;
-	background-position: center;
-	padding: 0 !important;
-	float:left;
-}
-
-
-
-.project-2 {
-	background-image: url(https://image.freepik.com/free-vector/abstract-geometric-background-design_1045-764.jpg);
-}
-
-.project-3 {
-	background-image: url(img/depacademico/libro.jpg);
-}
-
-.project-4 {
-	background-image: url(https://image.freepik.com/free-vector/abstract-geometric-background-design_1045-764.jpg);
-}
-
-.project-hover {
-	width: 100%;
-	height: 100%;
-	color: #fff;
-	opacity: 0;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease;
-	background-color: rgba(205, 92, 92  , 0.7);
-	padding:  30px !important;
-}
-
-
-.project-hover hr {
-	height: 30px;
-	width: 0;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease;
-	background-color: rgba(255, 255, 255, 1);
-	border: 0;
-}
-
-.project-hover a {
-	color: rgba(255, 255, 255, 1);
-	padding: 2px 22px;
-	line-height: 40px;
-	border: 2px solid rgba(255, 255, 255, 1);
-	-webkit-transition: all 0.5s ease-in-out;
-	-moz-transition: all 0.5s ease-in-out;
-	-o-transition: all 0.5s ease-in-out;
-	transition: all 0.5s ease-in-out;
-}
-
-.project-hover h2 {
-	color: rgba(255, 255, 255, 1);
-}
-
-.project-hover p {
-	color: rgba(255, 255, 255, 1);
-    font-weight:bold;
-}
-
-
-.project-hover a:hover {
-	border-color: rgba(51, 51, 51, 1);
-	color: rgba(51, 51, 51, 1);
-	background-color: #FFF;
-}
-
-.project:hover .project-hover {
-	opacity: 1;
-}
-
-.project:hover .project-hover hr {
-	width: 100%;
-	height: 5px;
-}
-
-
-    </style>
+   
 
 </head>
 
@@ -123,138 +35,88 @@
     </header>
     <!-- ##### Header Area End ##### -->
 
- <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/bg-img/fiadir.jpg);height:370px;">
-    </div>
-    <div style="background-color:rgba(0,0,255,0.3);text-align:center;color:white;">
-                     <b style="font-size:40px;">Departamento Académico <i class="fa fa-graduation-cap"></i></b>
+     <!-- ##### titular ##### -->
+       <section>
+        <div class="page-header6">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="page-caption1 d-flex justify-content-center align-items-center" >
+                        <h1 class="page-title1 d-flex align-items-center justify-content-center ">
+                            Departamento Académico 
+                        </h1>
+                    </div>
                 </div>
-    <br>
-   
-    <div class="container">
-    <div class="col-md-12">
+            </div>
+        </div>
+    </div>
+      <!--style="background-image: url(img/bg-img/fiadir.jpg);height:370px;"-->
+    <!-- ##### titular ##### -->
+   <br><br>
+    <div class="container rowArqui">
+    <div class="row">
+    <div class="col-md-8 col-xs-12 text-justify">
+        <br>
         <p>El Departamento Académico de Ingeniería y Arquitectura apoya planeando, organizando, coordinando, dirigiendo y supervisando las actividades de enseñanza y proyección académica, en relación con las políticas específicas de la Facultad de Ingeniería y Arquitectura, y de las políticas generales de la Universidad de San Martín de Porres.
         </p>
-        
-        <center>
-            Ing. Andrés Ramos Salas <br>
-Director del Departamento Académico de Ingeniería y Arquitectura
-            <br>
-            <p style="color:#017090;">aramoss@usmp.pe</p>
-        </center>
+    </div>
+    <div class="col-md-4 col-xs-12 text-justify">
+          <center>
+            <div class="card">
+            <div class="card-body">
+            <h5 id="mini" class="card-title"><p class="link">Ing. Andrés Ramos Salas</p></h5>
+            <h6 id="mini" class="card-subtitle mb-2 text-muted">Director del Departamento Académico de Ingeniería y Arquitectura</h6>
+            <a id="mini" style="color:#017090;" href="mailto:aramoss@usmp.pe" class="link">aramoss@usmp.pe</a>
+            </div>
+  	    </center>
     </div>
     </div>
-    <div class="container"><hr ></div>
+    </div>
+    <br>
+    <div class="container" style="height:3px;background-color:grey;"></div>
 <br>
 
 
-<div class="container">
-	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 project wow animated animated4 fadeInLeft">
-        <div class="project-hover">
-        	<h2>Directiva para los docentes</h2>
-            
-            <hr />
-            <p>
-                Directiva para los docentes 2019-I
-            </p>
-            <a href="pdf\depAcademico\Directiva_para_docentes.pdf" target="_blank">Descargar <i class="fa fa-file-pdf-o" style="color:red;"></i></a>
-        </div>
-    </div>
-	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 project project-2 wow animated animated3 fadeInLeft">
-    	<div class="project-hover">
-        	<h2>Esquemas de evaluación</h2>
-            <hr />
-            <p>
-                Esquemas de evaluación FIA
-            </p>
-            <a href="pdf\depAcademico\esquemas_de_evaluacion.pdf" target="_blank">Descargar <i class="fa fa-file-pdf-o" style="color:red;"></i></a>
-        </div>
-    </div>
-	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 project project-3 wow animated animated2 fadeInLeft">
-    	<div class="project-hover">
-        	<h2>Solicitud de libros</h2>
-            <hr />
-            <p>
-                Solicitud de libros para dictado del curso
-            </p>
-            <a href="pdf\depAcademico\Solicitud_de_libros_para_dictado_del_curso.pdf" target="_blank">Descargar <i class="fa fa-file-pdf-o" style="color:red;"></i></a>
-        </div>
-    </div>
-	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 project project-4 wow animated fadeInLeft">
-    	<div class="project-hover">
-        	<h2 style="font-size:25px;">Capacitación Docente</h2>
-            <hr />
-            <p>
-                Capacitación Docente
-            </p>
-            <a href="pdf\depAcademico\capacitacion_docente_general.pdf" target="_blank">Descargar <i class="fa fa-file-pdf-o" style="color:red;"></i></a>
-        </div>
-    </div>
+<!-- Mostrando los Artículos -->
+<section style="background-color:lavender;">
+    <br>
+        <div class="container">
+				<div class='art-page-full clearfix'>
 
-    
+				                    <header class="st-header">
+				                    	<h1>Descargables</h1>
+                                    </header>
 
-    </div>
+                                        <section class="st-content">
+                                        <dl>
 
-    <div class="clearfix"></div>
-</div>
+                                       
+                                        <dt><a href="pdf\depAcademico\Directiva_para_docentes.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Directiva para los docentes</span></a></dt>
+
+                                        <dt><a href="pdf\depAcademico\esquemas_de_evaluacion.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Esquemas de evaluación  </span></a></dt>
+
+                                        <dt><a href="pdf\depAcademico\Solicitud_de_libros_para_dictado_del_curso.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Solicitud de libros para dictado del curso</span></a></dt>
+                                                                                
+                                        <dt><a href="pdf\depAcademico\capacitacion_docente_general.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Capacitación Docente</span></a></dt>
+                                        
+                                        <dt><a href="pdf\depAcademico\Encuesta_Docente.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Encuesta Docente</span></a></dt>
+
+                                        <dt><a href="pdf\depAcademico\Actualizacion_de_CV_Docentes_FIA.zip" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Actualización de currículum vitae docentes FIA</span></a></dt>
 
 
-<br>
-<br>
-
-<div class="container">
-	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 project wow animated animated4 fadeInLeft">
-        <div class="project-hover">
-        	<h2>Encuesta Docente 2019-I</h2>
-            
-            <hr />
-            <p>
-                Encuesta Docente
-            </p>
-            <a href="pdf\depAcademico\Encuesta_Docente.pdf" target="_blank">Descargar <i class="fa fa-file-pdf-o" style="color:red;"></i></a>
-        </div>
-    </div>
-	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 project project-2 wow animated animated3 fadeInLeft">
-    	<div class="project-hover">
-        	<h2>Carpeta docente </h2>
-            <hr />
-            <p>
-                Guía para organización de la carpeta docente FIA 2019
-            </p>
-            <a href="pdf\depAcademico\Guia_para_organizacion_de_la_carpeta_docente_FIA.pdf" target="_blank">Descargar <i class="fa fa-file-pdf-o" style="color:red;"></i></a>
-        </div>
-    </div>
-	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 project project-3 wow animated animated2 fadeInLeft">
-    	<div class="project-hover">
-        	<h2 style="font-size:25px;">Actualización de CV</h2>
-            <hr />
-            <p>
-                Actualización de currículum vitae docentes FIA
-            </p>
-            <a href="pdf\depAcademico\Actualizacion_de_CV_Docentes_FIA.zip">Descargar <i class="fa fa-file-zip-o" style="color:black"></i></a>
-        </div>
-    </div>
-	<div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 project project-4 wow animated fadeInLeft">
-    	<div class="project-hover">
-        	<h2>Vacantes para docentes </h2>
-            <hr />
-            <p>
-                Concurso de vacantes para docentes FIA-USMP 2019 I
-            </p>
-            <a href="pdf\depAcademico\Concurso_docentes.pdf" target="_blank">Descargar <i class="fa fa-file-pdf-o" style="color:red;"></i></a>
-        </div>
-    </div>
-
-    
-
-    </div>
-
-    <div class="clearfix" ></div>
-</div>
+                                        </dl>
+                                        </section>
+				</div>
+			</div>		
+            <br>	
+            </section>	
+		     <!-- Fin de los artículos -->
   
-<br>
-<hr>
-<br>
+
+<center>
+<hr style="width:98%;">
+</center>
+
     
 
    

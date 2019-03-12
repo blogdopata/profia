@@ -15,124 +15,8 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
 
-
-    <style>
-   
-
-
-
-
-section .section-title {
-    text-align: center;
-    color: firebrick;
-    margin-bottom: 50px;
-    
-}
-
-#team .card {
-    border: none;
-    background: lavender;
-}
-
-.image-flip:hover .backside,
-.image-flip.hover .backside {
-    -webkit-transform: rotateY(0deg);
-    -moz-transform: rotateY(0deg);
-    -o-transform: rotateY(0deg);
-    -ms-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-    border-radius: .25rem;
-}
-
-.image-flip:hover .frontside,
-.image-flip.hover .frontside {
-    -webkit-transform: rotateY(180deg);
-    -moz-transform: rotateY(180deg);
-    -o-transform: rotateY(180deg);
-    transform: rotateY(180deg);
-}
-
-.mainflip {
-    -webkit-transition: 1s;
-    -webkit-transform-style: preserve-3d;
-    -ms-transition: 1s;
-    -moz-transition: 1s;
-    -moz-transform: perspective(1000px);
-    -moz-transform-style: preserve-3d;
-    -ms-transform-style: preserve-3d;
-    transition: 1s;
-    transform-style: preserve-3d;
-    position: relative;
-}
-
-.frontside {
-    position: relative;
-    -webkit-transform: rotateY(0deg);
-    -ms-transform: rotateY(0deg);
-    z-index: 2;
-    margin-bottom: 30px;
-}
-
-.backside {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background: white;
-    -webkit-transform: rotateY(-180deg);
-    -moz-transform: rotateY(-180deg);
-    -o-transform: rotateY(-180deg);
-    -ms-transform: rotateY(-180deg);
-    transform: rotateY(-180deg);
-    -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
-    -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
-    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
-}
-
-.frontside,
-.backside {
-    -webkit-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
-    -ms-backface-visibility: hidden;
-    backface-visibility: hidden;
-    -webkit-transition: 1s;
-    -webkit-transform-style: preserve-3d;
-    -moz-transition: 1s;
-    -moz-transform-style: preserve-3d;
-    -o-transition: 1s;
-    -o-transform-style: preserve-3d;
-    -ms-transition: 1s;
-    -ms-transform-style: preserve-3d;
-    transition: 1s;
-    transform-style: preserve-3d;
-}
-
-.frontside .card,
-.backside .card {
-    min-height: 312px;
-}
-
-.backside .card a {
-}
-
-.backside .card a:hover {
-    
-    transition:2s;
-    text-decoration:underline;
-}
-
-.frontside .card .card-title,
-.backside .card .card-title {
-    color: #007b5e !important;
-}
-
-.frontside .card .card-body img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-}
-    </style>
 
 </head>
 
@@ -151,7 +35,7 @@ section .section-title {
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/fia/nuestra-magic.jpg);">
+    <div class="breadcumb-area bg-img page-header5">
         
     </div>
     <!-- ##### Breadcumb Area End ##### -->
@@ -163,21 +47,23 @@ section .section-title {
                 <div class="col-12">
                     <div class="section-heading text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
                         <span>Facultad de Ingeniería y Arquitectura </span>
-                        <h3>Oficina de Coordinación Académica</h3>
+                        <h3 id="azulfia">Oficina de Coordinación Académica</h3>
                     </div>
                 </div>
             </div>
-            <div class="row" style="background-image:url(img/fia/fachada2.jpg); no-repeat center top;background-size:cover;">
-                <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                    <p>La Oficina de Coordinación Académica es una dependencia del Decanato y es el nexo principal entre la Facultad, los alumnos, sus docentes y el público en general.
-                    <br>
-                     Con el fin de garantizar la calidad de la enseñanza, provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.</p>
+            <div class="row rowAcad">
+                <div class="col-md-8 col-sm-12  wow fadeInUp text-justify coordAcad" data-wow-delay="400ms">
+                    <p>La Oficina de Coordinación Académica es una dependencia del Decanato y es el nexo principal entre la Facultad, los alumnos, sus docentes y el público en general.</p>
+                     <p>Con el fin de garantizar la calidad de la enseñanza, provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.</p>
+                     <p>Encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. <br> Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas. </p>
                 </div>
-                <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-                    <p>Encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. <br><br> Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas. 
-                     </p>
+                <div class="col-md-4 col-sm-12  wow fadeInUp" data-wow-delay="500ms">
+                     <center>
+                         <img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fia/fia35años.jpg" alt="">
+                     </center>
                 </div>
             </div>
+            <br>
             <br>
             <div class="card text-center">
                 <div class="card-header bg-info text-white">
@@ -195,7 +81,7 @@ section .section-title {
     <div class="container">
         
         <div class="row">
-            <!-- Team member -->
+            <!-- coordinador 1 -->
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">
@@ -224,8 +110,8 @@ section .section-title {
                     </div>
                 </div>
             </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
+            <!-- ./coordinador 1 -->
+            <!-- coordinador 2 -->
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">
@@ -255,8 +141,8 @@ section .section-title {
                     </div>
                 </div>
             </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
+            <!-- ./coordinador 2 -->
+            <!-- coordinador 3 -->
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">
@@ -284,7 +170,7 @@ section .section-title {
                     </div>
                 </div>
             </div>
-            <!-- ./Team member -->
+            <!-- ./coordinador 3 -->
          
         </section>
 

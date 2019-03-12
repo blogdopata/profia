@@ -30,7 +30,7 @@
     </header>   
     
     <section>
-        <div  style="background-image: url(../img/gradosytitulos/gradosytitulos.jpg);" class="page-header1">
+        <div class="page-header2">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
@@ -166,8 +166,10 @@
 
 
         <li><a href="titulo_profesional.php"><i class="fa fa-plus-square"></i> Trámites para el Título Profesional</a></li>
+
         <li><a href="grados_titulos/requi10.php"><i class="fa fa-plus-square"></i> Trámite para revalidación de grados y títulos
             obtenidos en universidades extranjeras</a></li>
+            
         <li><a target="_blank" href="../pdf/graduados/asesores_de_tesis.pdf"><i class="fa fa-plus-square"></i> Asesores de Tesis</a></li>
 
       </ul>

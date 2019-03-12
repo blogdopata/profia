@@ -15,7 +15,7 @@
     <link rel="icon" href="http://www.usmp.edu.pe/proFIA/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
     <style>
     @media only screen and (max-width: 324px) {
     h2 {
@@ -65,7 +65,7 @@
 
                         <a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
-                        <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf"  target="_blank">Catálogo de Cursos</a>
+                        <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Cursos</a>
 
 
                         <a class="nav-item nav-link" id="nav-novedades-tab" data-toggle="tab" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>
@@ -79,6 +79,9 @@
 				<div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
+                    
+                    <div class="row rowAcad">
+                        <div id="letracursiva" class="col-md-8">
 						<h1 id="azulfia">BIENVENIDOS</h1>
                         
                         <p id="justificar">
@@ -96,9 +99,20 @@
                       
                         <p id="justificar">
                             Escuela perteneciente a la : Facultad de Ingeniería y Arquitectura
-                        </p>    
+                        </p>  
+                        </div>
+                        <div class="col-md-4">
+                            <center>
+                                <br>
+                                <img class="img-fluid" src="../../img/carreras/arquitectura/arquitecto1.jpg" alt="">
+                                <br>
+                            </center>    
+                        </div>  
+                    </div>  
+                    <hr>
                         
-
+                        <div class="row rowAcad">
+                            <div id="letracursiva" class="col-md-12">
                         <h2 id="azulfia">MISIÓN:</h2>
                         <p id="justificar">
                         Formar profesionales integros y competentes;capaces de enfrentar los desafíos presentes y futuros de la disciplina, de responder creativamente a las necesidades y exigencias del hábitat, con una actitud de responsabilidad con la sociedad y en armonía con el medio ambiente, vinculando la enseñanza con la investigación.
@@ -109,33 +123,37 @@
                         <p id="justificar">
                         Ser una Escuela Profesional reconocidad como referente de calidad académica en el país y la región, por fomentar un espacio crítico y propositivo para nuestra comunidad de estudiantes y docentes. Contribuir al desarrollo de nuestras ciudades con el aporte y rigor profesional de sus titulados.
                         </p>
-
+                        </div>
+                        </div>
                     </div>
                     <!-- FIN CONTENIDO BIENVENIDOS -->
 
 
                     <!-- Contendio Tab Perfil Graduados -->
 
-				    <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                       <h3 id="azulfia"> PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
+				    <div class="tab-pane fade show rowArqui" id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
+                       <br>
+                       <h3 id="azulfia" style="margin-left:18px;">PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
                             <br>
-                    <div class="container">
+                    <div class="container ">
                         <div class="row">
                         
                             
                             
-                            <div class="col-md-4 col-xs-12">
+                            <div class="col-md-6 col-xs-12">
                                 <div class="cajaperfil">
                                 <h5>
-                                    Competencias <br> Cognitivas
+                                    Competencias Cognitivas
                                 </h5>
                                 </div>
                                 <br>
                                 <div class="listaperfil">
+                                <p>
                                     <li>Aplica el análisis y la síntesis, la inducción y la deducción, y el enfoque sistémico, entre otros, como estrategias generales de adquisición del conocimiento.</li>
                                     <li>Utiliza el pensamiento crítico, al analizar los diferentes contextos, fuentes de información y hechos de la realidad.</li>
                                     <li>Realiza investigaciones, relacionadas con su profesión, bajo la guía de un profesional de mayor experiencia</li>
                                     <li>Aplica adecuadamente estrategias metacognitivas, lo que lo capacita para el aprendizaje autónomo para toda la vida (Aprender a aprender).</li>
+                                </p>
                                 </div>
                                 <br>
                             </div>
@@ -143,7 +161,7 @@
                             
 
 
-                            <div class="col-md-4 col-xs-12 ">
+                            <div class="col-md-6 col-xs-12 ">
                                 <div class="cajaperfil">
                                 <h5>
                                     Competencias Instrumentales
@@ -164,10 +182,10 @@
 
                             
 
-                            <div class="col-md-4 col-xs-12 ">
+                            <div class="col-md-12 col-xs-12 ">
                                 <div class="cajaperfil">
                                 <h5>
-                                    Competencias <br> Específicas
+                                    Competencias Específicas
                                 </h5>
                                 </div>
                                 <br>
@@ -201,6 +219,23 @@
                     </div>
                    <!-- FIN Contendio Tab Perfil Graduados -->
 
+                        <!-- Contenido tab Catalogo de Cursos --> 
+
+                    <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
+                        <div class="container rowArqui">
+                            <br>
+                            <h1 id="azulfia">CATÁLOGO DE CURSOS</h1></br> 
+                        <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe> 
+                        </div> 
+                        <br>
+                        <br><br>
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab Catalogo de Cursos --> 
+
                     <!-- Contenido tab Organización plan de Estudios --> 
 
 
@@ -209,19 +244,19 @@
                   
 
                     <div class="container">
-                        <div class="row">
+                        <div class="row rowArqui">
 
                             <div class="col-md-6 col-xs-12" style="border-right:solid 1px grey;">
                                <li style="list-style:none;" >  <a data-toggle="collapse" href="#menu" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("area_conocimiento.php") ?> </a> </li>
                             </div>
 
-                            <div class="col-md-6 col-xs-12 ">
+                            <div class="col-md-6 col-xs-12">
                                <li style="list-style:none;"> <a data-toggle="collapse" href="#menu2" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("nivel_conocimiento.php") ?> </a> </li>
                             </div>
 
                             <div class="col-md-12" style="height:14px;background-color:grey;margin-top:10px;"></div>
 
-                            <div class="col-md-12 col-xs-12 ">
+                            <div class="col-md-12 col-xs-12 rowArqui">
                                 <br>
                                 <li style="list-style:none;"> <a data-toggle="collapse"  role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("estructura_curricular.php") ?> </a> </li> 
                             </div>
@@ -238,7 +273,7 @@
                      <div class="tab-pane fade" id="nav-novedades" role="tabpanel" aria-labelledby="nav-novedades-tab">
                         
                         
-                        <div class="container">
+                        <div class="container rowArqui">
                         <br>
                         <div class="row">
 
@@ -251,7 +286,7 @@
 
                             <div class="col-md-4">
                             <center>
-                                <img src="../../img/carreras/arquitectura/arq1.jpg" class="img-fluid arquiforoimg" alt="">
+                                <img src="../../img/carreras/arquitectura/arq1.jpg"  class="img-fluid arquiforoimg" alt="">
                             </center>
                             </div>
 
