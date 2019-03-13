@@ -36,7 +36,7 @@
     </header>
    
     <section class="hero-area">
-        <div class="hero-slides owl-carousel">
+        <div style="margin-top:80px;" class="hero-slides owl-carousel">
 
 
             <!-- Imagen del slider de fondo n°1 -->
@@ -45,8 +45,8 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 data-animation="fadeInUp" data-delay="100ms" class="ml-5">FIA USMP</h4>
-                                <h2 data-animation="fadeInUp" data-delay="400ms" class="ml-5">35 años <br>formando profesionales.</h2>
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5">FIA USMP</h4>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">35 AÑOS FORMANDO  <br>PROFESIONALES.</h2>
                             </div>
                         </div>
                     </div>
@@ -62,9 +62,9 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content"   >
-                                <h4 data-animation="fadeInUp" data-delay="100ms"  class="ml-5" >FIA USMP</h4>
-                                <h2 data-animation="fadeInUp" data-delay="400ms" class="ml-5">Ama lo que haces. <br>Aprende cómo.</h2>
-                                <a href="http://admision.usmp.edu.pe/" class="ml-5 btn academy-btn" data-animation="fadeInUp" data-delay="700ms">Más información</a>
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms"  class="ml-5" >FIA USMP</h4>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">AMA LO QUE HACES, <br>APRENDE CÓMO.</h2>
+                                <a href="http://admision.usmp.edu.pe/" class="ml-5 btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
                             </div>
                         </div>
                     </div>
@@ -79,8 +79,8 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 data-animation="fadeInUp" data-delay="100ms" class="ml-5">FIA USMP</h4>
-                                <h2 data-animation="fadeInUp" data-delay="400ms" class="ml-5">Formamos al  <br>profesional del futuro</h2>
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5">FIA USMP</h4>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">FORMAMOS AL  <br>PROFESIONAL DEL FUTURO.</h2>
                             </div>
                         </div>
                     </div>
@@ -100,24 +100,31 @@
                     <div class="features-content">
                         <div class="row no-gutters">
                             <!-- DATO # 1-->
-                            <div class="col-12 col-md-4">
+                            <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
-                                    <i class="icon-agenda-1"></i>
-                                    <h5>5 carreras profesionales</h5>
+                                    <img style="height:50px;" src="img/carreras_profesionales.png" alt="">
+                                    <h5 style="font-family:Roboto Condensed">5 carreras <br>profesionales</h5>
                                 </div>
                             </div>
                             <!-- DATO # 2-->
-                            <div class="col-12 col-md-4">
+                            <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
-                                    <i class="icon-assistance"></i>
-                                    <h5>Docentes altamente <br>capacitados</h5>
+                                    <img style="height:50px;" src="img/docentes.png" alt="">
+                                    <h5 style="font-family:Roboto Condensed">Docentes <br>capacitados</h5>
                                 </div>
                             </div>
                             <!-- DATO # 3-->
-                            <div class="col-12 col-md-4">
+                            <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
-                                    <i class="icon-laptop"></i>
-                                    <h5>Tecnología moderna</h5>
+                                    <img style="height:50px;" src="img/tecnologia.png" alt="">
+                                    <h5 style="margin-left:5px;font-family:Roboto Condensed">Tecnología <br> moderna</h5>
+                                </div>
+                            </div>
+                            <!-- DATO # 4-->
+                            <div class="col-12 col-md-3">
+                                <div class="single-top-features d-flex align-items-center justify-content-center">
+                                    <img style="height:50px;" src="img/licenciados.png" alt="">
+                                    <h5 style="font-family:Roboto Condensed">Licenciados <br> SUNEDU</h5>
                                 </div>
                             </div>
                         </div>
@@ -135,56 +142,44 @@
                 <!-- Single Course Area -->
                 <div class="col-12 col-sm-6 col-lg-4">
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="course-icon"  style='line-height:70px;'>
+                        <div style='line-height:70px;'>
                             <a target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus">
-                            <img class="zoom" src="img/fia/intranet.png" alt="">
+                            <img class="zoom" src="img/fia/intranet.png" alt=""> <br>
+                            <a class="text-center course-content" target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus"><h4 class="rob" >INTRANET SAP</h4></a>
                             </a>
-                        </div>
-                        <div class="course-content">
-                            <a target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus"><h4>Intranet SAP</h4></a>
-                            <p>Portal académico para docentes y estudiantes.</p>
                         </div>
                     </div>
                 </div>
                 <!-- Single Course Area -->
                 <div class="col-12 col-sm-6 col-lg-4" >
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="course-icon">
+                        <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/">
-                            <img class="zoom" src="img/fia/img_acreditacion.png" alt="">
+                            <img class="zoom" src="img/fia/acreditacion.png" alt=""> <br>
+                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/"><h4 class="rob">ACREDITACIÒN</h4></a>
                             </a>
-                        </div>
-                        <div class="course-content">
-                            <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/"><h4>Acreditación</h4></a>
-                            <p>Más que un objetivo ,un proceso.</p>
                         </div>
                     </div>
                 </div>
                 <!-- Single Course Area -->
                 <div class="col-12 col-sm-6 col-lg-4">
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="500ms">
-                        <div class="course-icon">
+                        <div>
                             <a target="_blank" href="http://fia.usmp.trabajando.pe/">
-                            <img class="zoom" src="img/fia/bolsa.png" alt="">
+                            <img class="zoom" src="img/fia/bolsa_de_trabajo.png" alt=""> <br>
+                            <a class="text-center course-content" target="_blank" href="http://fia.usmp.trabajando.pe/"><h4 class="rob">BOLSA DE TRABAJO</h4></a>
                             </a>
-                        </div>
-                        <div class="course-content">
-                            <a target="_blank" href="http://fia.usmp.trabajando.pe/"><h4>Bolsa de trabajo</h4></a>
-                            <p>Llegó tu oportunidad.</p>
                         </div>
                     </div>
                 </div>
                 <!-- Single Course Area -->
                 <div class="col-12 col-sm-6 col-lg-4" >
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="600ms" >
-                        <div class="course-icon"  style='line-height:70px;' >
+                        <div>
                             <a target="_blank" href="http://ingles.usmp.edu.pe/">
-                            <img class="roeundd-circle zoom" src="img/fia/berlitz.png" alt="">
+                            <img class="zoom" src="img/fia/ingles_berlitz.png" alt=""> <br>
+                            <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/"><h4 class="rob">INGLÈS BERTLITZ</h4></a>
                             </a>
-                        </div>
-                        <div class="course-content">
-                           <a target="_blank" href="http://ingles.usmp.edu.pe/"><h4>Inglés Bertlitz</h4></a>
-                            <p>Campus virtual de idiomas</p>
                         </div>
                     </div>
                 </div>
@@ -192,28 +187,22 @@
                 <!-- Single Course Area -->
                 <div class="col-12 col-sm-6 col-lg-4">
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="800ms">
-                        <div class="course-icon"  style='line-height:70px;'>
+                        <div>
                             <a target="_blank" href="http://www.sibus.usmp.edu.pe/">
-                            <img class="zoom" src="img/fia/biblio.png" alt="">
+                            <img class="zoom" src="img/fia/biblioteca.png" alt=""> <br>
+                            <a class="text-center course-content" target="_blank" href="http://www.sibus.usmp.edu.pe/"><h4 class="rob">BIBLIOTECA</h4></a>
                             </a>
-                        </div>
-                        <div class="course-content">
-                            <a target="_blank" href="http://www.sibus.usmp.edu.pe/"><h4>Biblioteca</h4></a>
-                            <p>Sistema de bibliotecas USMP</p>
                         </div>
                     </div>
                 </div>
                 <!-- Single Course Area -->
                 <div class="col-12 col-sm-6 col-lg-4">
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="800ms">
-                        <div class="course-icon"  style='line-height:70px;'>
+                        <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario">
-                            <img class="zoom" src="img/fia/bienestar.png" alt="">
+                            <img class="zoom" src="img/fia/bienestar_universitario.png" alt=""> <br>
+                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
                             </a>
-                        </div>
-                        <div class="course-content">
-                            <a target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario"><h4>Bienestar universitario</h4></a>
-                            <p>Actividades varias ...</p>
                         </div>
                     </div>
                 </div>

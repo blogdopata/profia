@@ -9,7 +9,26 @@
 @import url(font-awesome.min.css);
 @import url(custom-icon.css);
 @import url(classy-nav.min.css);
+
+
 /* :: 3.0 Base CSS */
+
+/*FUENTES */
+/* @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed'); */
+@import url("http://www.usmp.edu.pe/proFIA/fonts/robotocondensed.woff2");
+
+@font-face {
+font-family: "Roboto Condensed";
+src: url("http://www.usmp.edu.pe/proFIA/fonts/robotocondensed.woff2");
+}
+
+@import url("http://www.usmp.edu.pe/proFIA/fonts/roboto.woff2");
+
+@font-face {
+font-family: "Roboto";
+src: url("http://www.usmp.edu.pe/proFIA/fonts/roboto.woff2");
+}
+/*FUENTES */
 * {
   margin: 0;
   padding: 0; }
@@ -288,9 +307,8 @@ img {
   line-height: 65px;
   -webkit-transition: all 500ms;
   transition: all 500ms;
-  background: #a90329 9%;
-  background-image: -webkit-linear-gradient(left, #a90329 9% 0%, #8f0222 31% 51%, #a90329 9% 100%);
-  background-image: linear-gradient(to right, #a90329 9% 0%, #8f0222 31% 51%, #a90329 9% 100%);
+  background: #990033;
+  
   font-weight: 600; }
   .academy-btn.btn-sm {
     min-width: 110px;
@@ -300,6 +318,7 @@ img {
   .academy-btn.active, .academy-btn:hover, .academy-btn:focus {
     font-size: 14px;
     font-weight: 600;
+    transition:2s;
     color: #ffffff;
     background: #a90329 9%;
     background: -webkit-linear-gradient(to right, #a90329 9%, #8f0222 31%);
@@ -339,14 +358,14 @@ img {
     width: 100%;
     height: 85px;
     background-color: transparent;
-    top: 95px;
+    top: 175px;
     z-index: 100;
     left: 0;
     right: 0; }
     .header-area .academy-main-menu .classy-nav-container {
       background-color: transparent; }
     .header-area .academy-main-menu .classy-navbar {
-      background-color: #f5f7fa;
+      background-color: #EAEDED;
       height: 85px;
       padding: 0; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -359,7 +378,9 @@ img {
           padding-left: 2em; } }
       .header-area .academy-main-menu .classy-navbar .classynav ul li a {
         font-weight: 700;
-        text-transform: uppercase; }
+        text-transform: uppercase; 
+        font-family: 'Roboto Condensed', sans-serif;
+      }
 
         /*efecto hover*/
         .header-area .academy-main-menu .classy-navbar .classynav ul li a:hover, .header-area .academy-main-menu .classy-navbar .classynav ul li a:focus {
@@ -492,20 +513,18 @@ img {
           font-size: 30px; } }
   .hero-slides .owl-prev,
   .hero-slides .owl-next {
-    background: #a90329 9%;
-    background: -webkit-linear-gradient(to right, #a90329 9%, #8f0222 31%);
-    background: linear-gradient(to right, #a90329 9%, #8f0222 31%);
+  
     width: 56px;
     height: 56px;
     line-height: 56px;
-    color: #ffffff;
+    color: #FFFEFD;
     top: 50%;
     margin-top: -28px;
     left: 5%;
     position: absolute;
     z-index: 10;
     text-align: center;
-    font-size: 22px;
+    font-size: 100px;
     font-weight: 700;
     opacity: 0;
     visibility: hidden;
@@ -521,14 +540,21 @@ img {
     .hero-slides .owl-prev:hover, .hero-slides .owl-prev:focus,
     .hero-slides .owl-next:hover,
     .hero-slides .owl-next:focus {
-      background: #141414;
-      color: #ffffff; }
+      color: #ffffff; 
+      transition: transform .2s;
+      transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */}
   .hero-slides .owl-next {
     left: auto;
     right: 5%; }
   .hero-slides:hover .owl-prev, .hero-slides:hover .owl-next {
     opacity: 1;
     visibility: visible; }
+  .sombra{
+    text-shadow:2px 2px black;
+  }
+  .rob{
+   font-family: 'Roboto Condensed';
+  }
 
 /* Top Features Area CSS */
 .top-features-area {
@@ -541,9 +567,7 @@ img {
   .top-features-area .features-content {
     position: relative;
     z-index: 50;
-    background: #a90329 9%;
-    background: -webkit-linear-gradient(to right, #a90329 9%, #8f0222 31%);
-    background: linear-gradient(to right, #a90329 9%, #8f0222 31%);
+    background: #990033;
     padding: 40px 15px;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%); }
@@ -2264,3 +2288,22 @@ padding: 7px;
     }
 }
 
+/*fixeando navbar*/
+.listasocial{
+  float: right;
+  display: flex;
+  width: 120px;
+  margin-right: 220px;
+  justify-content: space-between;
+}
+
+.lisocial{
+  flex: auto ; 
+  margin-top:6px;
+}
+
+.lisocial a img{
+  height: 25px;
+  width: 25px;
+}
+/*fixeando navbar*/
