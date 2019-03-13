@@ -12,13 +12,13 @@
 
     <link rel="icon" href="img/core-img/logousmp.ico">
 
+    <!-- cambiar a serv-web para  pruebas local-->
+    <link rel="stylesheet" href="http://serv-web/Newweb/proFIA/css/style.css">
+    
+    <!-- poner url absoluta en cuando este en servidor
     <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
+ -->
 
-<style>
-.zoom:hover {
-    transition: transform .2s;
-  transform: scale(1.4); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */}
-</style>    
 
 </head>
 
@@ -144,7 +144,7 @@
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="300ms">
                         <div style='line-height:70px;'>
                             <a target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus">
-                            <img class="zoom" src="img/fia/intranet.png" alt=""> <br>
+                            <img  src="img/fia/intranet.png" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus"><h4 class="rob" >INTRANET SAP</h4></a>
                             </a>
                         </div>
@@ -155,7 +155,7 @@
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="400ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/">
-                            <img class="zoom" src="img/fia/acreditacion.png" alt=""> <br>
+                            <img  src="img/fia/acreditacion.png" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/"><h4 class="rob">ACREDITACIÒN</h4></a>
                             </a>
                         </div>
@@ -166,7 +166,7 @@
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="500ms">
                         <div>
                             <a target="_blank" href="http://fia.usmp.trabajando.pe/">
-                            <img class="zoom" src="img/fia/bolsa_de_trabajo.png" alt=""> <br>
+                            <img  src="img/fia/bolsa_de_trabajo.png" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://fia.usmp.trabajando.pe/"><h4 class="rob">BOLSA DE TRABAJO</h4></a>
                             </a>
                         </div>
@@ -177,7 +177,7 @@
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="600ms" >
                         <div>
                             <a target="_blank" href="http://ingles.usmp.edu.pe/">
-                            <img class="zoom" src="img/fia/ingles_berlitz.png" alt=""> <br>
+                            <img  src="img/fia/ingles_berlitz.png" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/"><h4 class="rob">INGLÈS BERTLITZ</h4></a>
                             </a>
                         </div>
@@ -189,7 +189,7 @@
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.sibus.usmp.edu.pe/">
-                            <img class="zoom" src="img/fia/biblioteca.png" alt=""> <br>
+                            <img  src="img/fia/biblioteca.png" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.sibus.usmp.edu.pe/"><h4 class="rob">BIBLIOTECA</h4></a>
                             </a>
                         </div>
@@ -200,7 +200,7 @@
                     <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario">
-                            <img class="zoom" src="img/fia/bienestar_universitario.png" alt=""> <br>
+                            <img  src="img/fia/bienestar_universitario.png" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
                             </a>
                         </div>

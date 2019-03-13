@@ -2288,22 +2288,23 @@ padding: 7px;
     }
 }
 
-/*fixeando navbar*/
-.listasocial{
-  float: right;
-  display: flex;
-  width: 120px;
-  margin-right: 220px;
-  justify-content: space-between;
+
+
+
+
+/*  Changes Of Pedro   */ 
+
+.lineTop{
+background-color: #990033;
+height: 40px;
 }
 
 .lisocial{
-  flex: auto ; 
-  margin-top:6px;
+    margin: 0 10px;
 }
 
 .lisocial a img{
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
 }
 /*fixeando navbar*/
