@@ -18,7 +18,7 @@
     <!-- poner url absoluta en cuando este en servidor
     <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
  -->
-
+ <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
 
 </head>
 
@@ -35,6 +35,7 @@
 
     </header>
    
+    <!-- Slider TIME -->
     <section class="hero-area">
         <div style="margin-top:80px;" class="hero-slides owl-carousel">
 
@@ -45,8 +46,8 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5">FIA USMP</h4>
-                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">35 AÑOS FORMANDO  <br>PROFESIONALES.</h2>
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 ">FIA USMP</h4>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 ">35 AÑOS FORMANDO  <br>PROFESIONALES.</h2>
                             </div>
                         </div>
                     </div>
@@ -54,10 +55,8 @@
             </div>
 
 
-            
-
             <!-- Imagen del slider de fondo n°2 -->
-            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-1.jpg);">
+            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-5.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
@@ -71,7 +70,6 @@
                 </div>
             </div>
 
-            
 
             <!-- Imagen del slider de fondo n°3 -->
             <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-3.jpg);">
@@ -90,11 +88,11 @@
            
         </div>
     </section>
-    <!-- ##### FINAL DEL SLIDER ##### -->
+    <!-- ##### SliderTIme Ends ##### -->
 
     <!-- ##### DATOS DE INTERES ##### -->
-    <div class="top-features-area wow fadeInUp" data-wow-delay="300ms">
-        <div class="container">
+    <div class="top-features-area wow fadeInUp" data-wow-delay="300ms"  >
+        <div class="container"  >
             <div class="row">
                 <div class="col-12">
                     <div class="features-content">
@@ -136,23 +134,25 @@
     <!-- ##### Top Feature Area End ##### -->
 
     <!-- ##### Course Area Start ##### -->
-    <div class="academy-courses-area section-padding-100-0">
-        <div class="container">
-            <div class="row">
+    <div class="academy-courses-area mt-5"  >
+        <div class="container" style='max-width:60%;' >
+            <div class="row" >
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <div style='line-height:70px;'>
+                <div class="col-12 col-sm-6 col-lg-4 text-center"   >
+
+                    <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="300ms">
+                        <div >
                             <a target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus">
                             <img  src="img/fia/intranet.png" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus"><h4 class="rob" >INTRANET SAP</h4></a>
+                            <a class="text-center course-content " target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus"><h4 class="rob" >INTRANET SAP</h4></a>
                             </a>
                         </div>
                     </div>
                 </div>
+
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4" >
-                    <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="400ms">
+                <div class="col-12 col-sm-6 col-lg-4 text-center"    >
+                    <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="400ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/">
                             <img  src="img/fia/acreditacion.png" alt=""> <br>
@@ -162,8 +162,8 @@
                     </div>
                 </div>
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="500ms">
+                <div class="col-12 col-sm-6 col-lg-4 text-center"   >
+                    <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="500ms">
                         <div>
                             <a target="_blank" href="http://fia.usmp.trabajando.pe/">
                             <img  src="img/fia/bolsa_de_trabajo.png" alt=""> <br>
@@ -173,8 +173,8 @@
                     </div>
                 </div>
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4" >
-                    <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="600ms" >
+                <div class="col-12 col-sm-6 col-lg-4 text-center" >
+                    <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="600ms" >
                         <div>
                             <a target="_blank" href="http://ingles.usmp.edu.pe/">
                             <img  src="img/fia/ingles_berlitz.png" alt=""> <br>
@@ -185,8 +185,8 @@
                 </div>
                 
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="800ms">
+                <div class="col-12 col-sm-6 col-lg-4 text-center">
+                    <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.sibus.usmp.edu.pe/">
                             <img  src="img/fia/biblioteca.png" alt=""> <br>
@@ -196,8 +196,8 @@
                     </div>
                 </div>
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-course-area d-flex align-items-center mb-100 wow fadeInUp" data-wow-delay="800ms">
+                <div class="col-12 col-sm-6 col-lg-4 text-center">
+                    <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario">
                             <img  src="img/fia/bienestar_universitario.png" alt=""> <br>
@@ -211,54 +211,93 @@
     </div>
     <!-- ##### Course Area End ##### -->
 
+
+
+
     <!-- ##### Testimonials Area Start ##### -->
-    <div class="testimonials-area section-padding-100 bg-img bg-overlay" style="background-image: url(img/bg-img/bg-2.jpg);">
+    <div class="testimonials-area pt-5 pb-5 bg-img bg-overlay" style="background-image: url(img/bg-img/bg-2.jpg);">
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <div class="section-heading text-center mx-auto white wow fadeInUp" data-wow-delay="300ms">
-                        <span>USMP sin fronteras</span>
-                        <h3>Egresados exitosos que aman lo que hacen.</h3>
+                <div class="col-12 " >
+                    <div class="section-heading  mb-5 text-center mx-auto white wow fadeInUp" data-wow-delay="300ms">
+                        <h3 class="mb-3 title-fix-h3">USMP sin fronteras</h3>
+                        <h3>Egresados exitosos que <br> aman lo que hacen.</h3>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                
+
+
+            <div class="row mt-5"  >
                 <!-- Single Testimonials Area -->
-                <div class="col-12 col-md-6">
-                    <div  class="single-testimonial-area mb-100 d-flex wow fadeInUp" data-wow-delay="500ms">
-                        <div class="testimonial-thumb">
-                            <img src="img/fia/egresado1a.jpg" alt="">
+                <div class="col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
+
+                    <div  class="bg-destacado pb-4">
+
+                        <div class="img-fix-position"' >
+                            <img src="img/destacado-1.jpg" alt="">
                         </div>
-                        <div class="testimonial-content">
-                            <h5>CÉSAR ALFREDO BEZADA SÁNCHEZ</h5>
-                            <li style="color:white;">Actualmente es Ingeniero responsable de la evaluación de los <b>Proyectos de Gloria S.A.</b></li>
-                            <br>
-                            <li style="color:white;">Ex-Consultor del <b>Banco Mundial[BIRF]-SINEACE.</b> </li>
-                            <br>
-                            <h6><span>Egresado exitoso</span> - Ingeniería Industrial</h6>
+                        <div class="egresado-fix-position">
+                            <h6 class="text-white pb-2">CÉSAR ALFREDO BEZADA SÁNCHEZ</h6>
+                            <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
+                            <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
+                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b>Proyectos de Gloria S.A.</b></li>
+                        
+                                <li >Ex-Consultor del <b>Banco Mundial[BIRF]-SINEACE.</b> </li>
+                            </ul>
+                            
                         </div>
                     </div>
                 </div>
+
                 
                 <!-- Single Testimonials Area -->
-                <div class="col-12 col-md-6">
-                    <div class="single-testimonial-area mb-100 d-flex wow fadeInUp" data-wow-delay="700ms">
-                        <div class="testimonial-thumb">
-                            <img src="img/fia/egresado2b.jpg" alt="">
+                <div class="col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
+
+                    <div  class="bg-destacado pb-4">
+
+                        <div class="img-fix-position"' >
+                            <img src="img/destacado-1.jpg" alt="">
                         </div>
-                        <div class="testimonial-content">
-                            <h5>Astrid Hassel Criales Johnson</h5>
-                            <li style="color:white;">Arquitecta con <b>Maestría en Políticas y Gestión de la Ciencia Tecnología e Innovación - Becada por CONCYTEC.</b></b></li>
-                            <br>
-                            <li style="color:white;"><b>Diplomacia Científica</b> en Arizona State University. </li>
-                            <br>
-                            <li style="color:white;">Actualmente se desempeña como <b>Gestora e Investigadora en el Proyecto Interinstitucional CRYOPERU.</b> </li>
-                            <br>
-                            <h6><span>Egresada exitosa</span> - Arquitectura</h6>
+                        <div class="egresado-fix-position">
+                            <h6 class="text-white pb-2">CÉSAR ALFREDO BEZADA SÁNCHEZ</h6>
+                            <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
+                            <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
+                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b>Proyectos de Gloria S.A.</b></li>
+                        
+                                <li >Ex-Consultor del <b>Banco Mundial[BIRF]-SINEACE.</b> </li>
+                            </ul>
+                            
                         </div>
                     </div>
                 </div>
+
+                  <!-- Single Testimonials Area -->
+                <div class="col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
+
+                    <div  class="bg-destacado pb-4">
+
+                        <div class="img-fix-position"' >
+                            <img src="img/destacado-1.jpg" alt="">
+                        </div>
+                        <div class="egresado-fix-position">
+                            <h6 class="text-white pb-2">CÉSAR ALFREDO BEZADA SÁNCHEZ</h6>
+                            <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
+                            <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
+                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b>Proyectos de Gloria S.A.</b></li>
+                        
+                                <li >Ex-Consultor del <b>Banco Mundial[BIRF]-SINEACE.</b> </li>
+                            </ul>
+                  
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+
+
+
             </div>
         </div>
     </div>
@@ -271,91 +310,126 @@
                 <div class="col-12">
                     <div class="section-heading text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
                        
-                        <h3>Cursos de Extensión y Proyección Universitaria</h3>
+                        <h3 class="title-general">AGENDA</h3>
                     </div>
                 </div>
             </div>
+
+
             <div class="row">
                
                 <!-- Single Top Popular Course -->
-                <div class="col-12 col-lg-6">
-                    <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="popular-course-content">
-                            <h5>Taller SCRUM </h5>
-                            <span>Por Dr. Llatas Martinez  |  Marzo 01, 2019</span>
-                            <div class="course-ratings">
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                            </div>
-                            <p>Tiene como objetivo el entendimiento de la aplicación de la metodología SCRUM</p>
-                            <a href="http://usmp.edu.pe/ffia/pdf/SCRUM.pdf" target="_blank" class="btn academy-btn btn-sm">Ver más</a>
+                <div class="col-12 col-lg-4 mt-lg-0 mt-2"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 8</span> 
+                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
                         </div>
-                        <div class="popular-course-thumb bg-img" style="background-image: url(img/bg-img/pic-scrum.jpg);"></div>
+                        <div>
+                            <h6 class="agenda-title">Charla: Evalua la adquisición de tu laptop</h6> 
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>   <br>
+                            <span class="agenda-info">Hora: 09:00 a 14:00 h</span>   <br>
+                            <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span>  <br>
+                            <a href="#" class="agenda-text-info">Más información</a>
+                        </div>   
                     </div>
                 </div>
                 
                 <!-- Single Top Popular Course -->
-                <div class="col-12 col-lg-6">
-                    <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="500ms">
-                        <div class="popular-course-content">
-                            <h5>Taller BPM</h5>
-                            <span>Por Ing. Wu Kong  |  Marzo 07, 2019</span>
-                            <div class="course-ratings">
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star-o" aria-hidden="true"></i>
-                            </div>
-                            <p>Las principales organizaciones de hoy en día se enfrentan al reto de ser cada vez ...</p>
-                            <a href="http://usmp.edu.pe/ffia/pdf/BPM.pdf" target="_blank" class="btn academy-btn btn-sm">Ver más</a>
+                
+                <div class="col-12 col-lg-4 mt-lg-0 mt-2"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span class="agenda-day"> 15</span> 
+                            <span class="agenda-mes" >MARZO</span> 
                         </div>
-                        <div class="popular-course-thumb bg-img" style="background-image: url(img/bg-img/pic-bpm.jpg);"></div>
+                        <div>
+                            <h6 class="agenda-title">Visitas guiadas</h6>
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
+                            <span class="agenda-info">Hora: 09: 00 a 17:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>    comarkfia@usmp.pe</strong></span> <br>
+                            <a href="#" class="agenda-text-info">Más información</a>
+                        </div>   
                     </div>
                 </div>
                 
                 <!-- Single Top Popular Course -->
-                <div class="col-12 col-lg-6">
-                    <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="600ms">
-                        <div class="popular-course-content">
-                            <h5>Taller CCNA Para Certificación</h5>
-                            <span>Por Dr. Eddy Sandoval   |  Marzo 11, 2019</span>
-                            <div class="course-ratings">
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star-o" aria-hidden="true"></i>
-                            </div>
-                            <p>Especializado para rendir en coro plazo el examen de 200-125 y obtener la Certificación de Cisco</p>
-                            <a href="http://usmp.edu.pe/ffia/pdf/CCNA.pdf" target="_blank" class="btn academy-btn btn-sm">Ver más</a>
+
+                <div class="col-12 col-lg-4 mt-lg-0 mt-2 "  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 16</span> 
+                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
                         </div>
-                        <div class="popular-course-thumb bg-img" style="background-image: url(img/bg-img/pic-tallerccna.jpg);"></div>
+                        <div>
+                            <h6 class="agenda-title">Curso: Excel básico</h6>
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
+                            <span class="agenda-info">Hora: 09:00 a 14:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span> <br>
+                            <a href="#" class="agenda-text-info">Más información</a>
+                        </div>   
                     </div>
                 </div>
                 
                 <!-- Single Top Popular Course -->
-                <div class="col-12 col-lg-6">
-                    <div class="single-top-popular-course d-flex align-items-center flex-wrap mb-30 wow fadeInUp" data-wow-delay="700ms">
-                        <div class="popular-course-content">
-                            <h5>CCNA </h5>
-                            <span>Por César Porras  |  Marzo 11, 2019</span>
-                            <div class="course-ratings">
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star-o" aria-hidden="true"></i>
-                            </div>
-                            <p>Programa para que el alumno aprenda con equipos reales y usando el simulador Packet Tracer ...</p>
-                            <a href="http://usmp.edu.pe/ffia/pdf/CCNA.pdf" target="_blank" class="btn academy-btn btn-sm">Ver más</a>
+
+                <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 16</span> 
+                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
                         </div>
-                        <div class="popular-course-thumb bg-img" style="background-image: url(img/bg-img/pic-ccna.jpg);"></div>
+                        <div>
+                            <h6 class="agenda-title">Taller: Proyect básico</h6>
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
+                            <span class="agenda-info">Hora: 09:00 a 14:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span> <br>
+                            <a href="#" class="agenda-text-info">Más información</a>
+                        </div>   
                     </div>
                 </div>
+                
+                <!-- Single Top Popular Course -->
+
+                <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 23</span> 
+                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Curso: Excel intermedio</h6>
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
+                            <span class="agenda-info">Hora: 09:00 a 11:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span> <br>
+                            <a href="#" class="agenda-text-info">Más información</a>
+                        </div>   
+                    </div>
+                </div>
+                
+                <!-- Single Top Popular Course -->
+
+                <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 26</span> 
+                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Visitas guiadas</h6>
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
+                            <span class="agenda-info">Hora: 09:00 a 17:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>cormakfia@usmp.pe </strong></span> <br>
+                            <span><a href="#" class="agenda-text-info">Más información</a>
+                        </div>   
+                    </div>
+                </div>
+                
+                <!-- Single Top Popular Course -->
+
+
+
+
             </div>
         </div>
     </div>

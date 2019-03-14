@@ -1,6 +1,8 @@
 /* [Master Stylesheet v1.0] */
 /* :: :: 1.0 Import Fonts */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900");
+
+/* xq monseerrat */ 
+/* @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900");*/
 /* :: 2.0 Import All CSS */
 @import url(bootstrap.min.css);
 @import url(owl.carousel.min.css);
@@ -22,6 +24,8 @@ font-family: "Roboto Condensed";
 src: url("http://www.usmp.edu.pe/proFIA/fonts/robotocondensed.woff2");
 }
 
+
+
 @import url("http://www.usmp.edu.pe/proFIA/fonts/roboto.woff2");
 
 @font-face {
@@ -34,7 +38,8 @@ src: url("http://www.usmp.edu.pe/proFIA/fonts/roboto.woff2");
   padding: 0; }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  /*font-family: "Montserrat", sans-serif; xq usaste monserrat */
+  font-family: "Roboto Condensed", sans-serif; xq usaste monserrat 
   font-size: 14px; }
 
 h1,
@@ -238,6 +243,7 @@ img {
   font-weight: 300; }
 
 .bg-overlay {
+  /*background-image: url('../img/bg-img/externo_FIA.jpg');*/
   position: relative;
   z-index: 2;
   background-position: center center;
@@ -298,13 +304,13 @@ img {
 .academy-btn {
   display: inline-block;
   min-width: 160px;
-  height: 65px;
+  height:50px;
   color: #ffffff;
   border: none;
   border-radius: 0;
   padding: 0 40px;
   font-size: 14px;
-  line-height: 65px;
+  line-height: 50px;
   -webkit-transition: all 500ms;
   transition: all 500ms;
   background: #990033;
@@ -554,6 +560,8 @@ img {
   }
   .rob{
    font-family: 'Roboto Condensed';
+   font-size: 14px;
+   color:#585857;
   }
 
 /* Top Features Area CSS */
@@ -901,14 +909,15 @@ img {
     margin-bottom: 0; }
 
 .bottom-footer-area {
-  background-color: #141414;
+  background-color: #585857;
   padding: 30px 0;
   text-align: center; }
   .bottom-footer-area p {
+    color:white;
     font-size: 12px;
     margin-bottom: 0; }
     .bottom-footer-area p a {
-      color: #606060;
+      color: white;
       font-size: 12px; }
 
 /* Breadcumb Area CSS */
@@ -1529,7 +1538,8 @@ padding: 7px;
 
 
 
- /* Fixeando stylos - victor  */ 
+ /* Fixeando stylos - 
+   */ 
 .megamenu{
  /* border: 1px solid #000;*/
   margin:-25px;
@@ -2308,3 +2318,92 @@ height: 40px;
   width: 20px;
 }
 /*fixeando navbar*/
+
+
+.title-fix-h3{
+   font-weight: normal !important;
+    text-transform: uppercase;
+}
+
+
+/*   Egresados Destacados   */
+
+.img-fix-position{
+  transform: translateY(-50%);
+}
+
+ul.ul-fix-square li{
+
+  list-style: square !important
+}
+.egresado-fix-position{
+  margin-top:-60px;
+}
+.bg-destacado{
+  background:#A1123E;
+}
+.text-seccion-b{
+  font-size: 10px;
+}
+
+/*  FIN  Egresados Destacados   */
+
+/*  Agenda Time */
+
+.bg-date{
+  background-color: #E0134E;
+
+}
+.agenda-text-info{
+  color:#E0134E;
+}
+.agenda-info{
+  color:#585857;
+  font-size: 14px;
+  
+}
+.agenda-title{
+  color:#585857;
+  font-size:14px; 
+
+
+}
+.agenda-day{
+  font-size:40px;
+  font-weight:bold
+}
+.agenda-mes{
+  font-size:26px;
+  font-weight:bold
+}
+/* FIn Agenda  */
+
+.title-general{
+  color:#585857;
+}
+
+/* Medias  queries from Bootstrap no borrar */ 
+
+/* XS */
+@media (min-width: 576px) {
+  
+
+ }
+
+/* MD */
+@media (min-width: 768px) {
+  
+
+ }
+
+/* lg */
+@media (min-width: 992px) {
+  
+
+ }
+
+/* XL */
+@media (min-width: 1200px) {
+  
+
+ }
