@@ -34,9 +34,17 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### banner ##### -->
-    <div class="breadcumb-area bg-img page-header7">
-        <div class="bradcumbContent">
-            <h2>Ingeniería Civil</h2>
+ <div class="page-header9 img-fix-position2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="page-caption1 d-flex justify-content-center align-items-center" >
+                        <h1 class="page-title2 d-flex align-items-center justify-content-center ">
+                            INGENIERÍA CIVIL
+                        </h1>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <!-- ##### banner ##### -->
@@ -44,9 +52,10 @@
     <!-- ##### contenido ##### -->
     <section class="about-us-area mt-50 section-padding-100">
         <div class="container">
+            <div class="row">
          
-                <nav>
-					<div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
+                <div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
 
                         <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
@@ -54,13 +63,13 @@
                         <a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
 						<!-- <a class="nav-item nav-link"  href="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf"  target="_blank">Organización Plan de Estudios</a> -->
 
-                        <a class="nav-item nav-link" id="nav-catalogo-tab" data-toggle="tab" href="#nav-catalogo" role="tab" aria-controls="nav-catalogo" aria-selected="false">Catálogo de Cursos</a>
+                        <a class="nav-item nav-link ult-item" id="nav-catalogo-tab" data-toggle="tab" href="#nav-catalogo" role="tab" aria-controls="nav-catalogo" aria-selected="false">Catálogo de Cursos</a>
 
                         <!--<a class="nav-item nav-link"  href="http://www.usmp.edu.pe/ffia/escuelas/civil/pdf/catalogo_cursos_civil2018.pdf" target="_blank">Catálogo de Cursos</a>-->
 
-                        <a class="nav-item nav-link" id="nav-fotos-tab" data-toggle="tab" href="#nav-fotos" role="tab" aria-controls="nav-fotos" aria-selected="false">Fotos</a>                    
+                        <!-- <a class="nav-item nav-link" id="nav-fotos-tab" data-toggle="tab" href="#nav-fotos" role="tab" aria-controls="nav-fotos" aria-selected="false">Fotos</a>                     -->
 
-                        <a class="nav-item nav-link" id="nav-ponencia-tab" data-toggle="tab" href="#nav-ponencia" role="tab" aria-controls="nav-ponencia" aria-selected="false">Ponencia</a>
+                        <!-- <a class="nav-item nav-link " id="nav-ponencia-tab" data-toggle="tab" href="#nav-ponencia" role="tab" aria-controls="nav-ponencia" aria-selected="false">Ponencia</a> -->
 
                         <!--<a class="nav-item nav-link" id="nav-novedades-tab" data-toggle="tab" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>-->
                       
@@ -70,29 +79,30 @@
 
 
                 <!-- CONTENIDO TAB  BIENVENIDOS -->
-				<div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+				<div class="col-md-9 tab-content " id="nav-tabContent">
 
                 
-					<div class="tab-pane fade show active container rowArqui" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
+					<div class="tab-pane fade show active container " id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
+
                         <div class="row">
-                        <div class="col-md-8 col-sm-12 col-xs-12 text-justify">
-						<h1 id="azulfia" class="miniCivil">BIENVENIDOS</h1>
-                        <h5 id="azulfia">
-                           Concepción de la carrera de Ingeniería Civil
+                        <div id="letracursiva" class="col-md-12 col-sm-12 col-xs-12">
+						<h2 id="grisfia">BIENVENIDOS</h2>
+                        <h5 id="grisfia">
+                           CONCEPCIÓN DE LA CARRERA DE INGENIERÍA CIVIL
                         </h5></br>
                   
-                        <b class="negrita">
+                        <b id="grisfia">
                             DEFINICIÓN
                         </b>
                       
-                        <p id="arial">
+                        <p id="justificar">
                             La Ingeniería Civil es la rama de la ingeniería orientada hacia el diseño y construcción de la infraestructura en edificaciones, obras viales, obras hidráulicas, etc. El Ingeniero Civil, egresado de la Escuela de Ingeniería Civil de la Universidad de San Martín de Porres, es un profesional que posee un conjunto armónico de competencias, actitudes y valores, que lo califica para desarrollar soluciones de toda clase de obras y estudios de infraestructuras, técnica y económicamente factibles y sustentables, social y ambientalmente compatibles.
                         </p>
                       
-                        <b class="negrita">
+                        <b id="grisfia">
                         ESFERAS DE ACTUACIÓN (Campo Ocupacional)
                         </b>
-                        <p id="arial">
+                        <p id="justificar">
                             El campo laboral del ingeniero civil es muy amplio debido a que esta profesión se preocupa por el bienestar general de las personas: construye responsablemente, soluciona problemas sociales y de infraestructura, integrando pueblos alejados. Una recopilación muy sucinta establece que el ámbito ocupacional del ingeniero civil es el siguiente:                     
                         </p>
                         
@@ -104,14 +114,7 @@
                             <li id="arialj">Gestión y Asesoría.</li>
                         </div>
                         </div>
-                        <div class="col-md-4 col-sm-12 col-xs-12">
-                            
-                            
-                            <center class="margencivil">
-                                <img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/carreras/civil/civilateral2.jpg" alt="">
-                            </center>
-                            <br>
-                        </div>
+                       
                         </div>
                     </div>
                     
@@ -121,20 +124,20 @@
 
                     <!-- Contendio Tab Perfil Graduados -->
 
-				    <div class="tab-pane fade show rowArqui" id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                       <h3 id="azulfia"> &nbsp;&nbsp;&nbsp;PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
+				    <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
+                       <h3 id="grisfia">PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
                             <br>
                     <div class="container">
                         <div class="row">
                         
                             
                             
-                            <div class="col-md-6 col-xs-12">
-                                <div class="cajaperfil">
-                                <h5>
+                            <div class="col-md-12">
+                               
+                                <h5 id="grisfia">
                                     Competencias Genéricas Cognitivas
                                 </h5>
-                                </div>
+                                
                                 <br>
                                 <div class="listaperfil">
                                     <li>Aplica el análisis y la síntesis, la inducción y la deducción, y el enfoque sistémico, entre otros, como estrategias generales de adquisición del conocimiento.</li>
@@ -147,12 +150,12 @@
 
                             
 
-                            <div class="col-md-6 col-xs-12">
-                                <div class="cajaperfil">
-                                <h5>
+                            <div class="col-md-12">
+                                
+                                <h5 id="grisfia">
                                     Competencias Genéricas Instrumentales
                                 </h5>
-                                </div>
+                                
                                 <br>
                                 <div class="listaperfil">
                                     <li>Planifica y organiza eficazmente sus actividades y el tiempo dedicado a ellas.</li>
@@ -168,12 +171,12 @@
 
 
 
-                            <div class="col-md-12 col-xs-12 ">
-                                <div class="cajaperfil">
-                                <h5>
+                            <div class="col-md-12">
+                                
+                                <h5 id="grisfia">
                                     Competencias Específicas
                                 </h5>
-                                </div>
+                                
                                 <br>
                                 <div class="listaperfil">
                                     <b>Durante los primeros años después de su graduación, el graduado presentará las siguientes competencias (educationalobjectives):</b>
@@ -205,14 +208,14 @@
 
                             
 
-                            <div class="col-md-6 col-xs-12 ">
-                                <div class="cajaperfil">
-                                <h5>
+                            <div class="col-md-12 ">
+                                
+                                <h5 id="grisfia">
                                     Actitudes y Valores Generales
                                 </h5>
-                                </div>
+                                
                                 <br>
-                                <div class="listaperfil" style=" vertical-align: text-bottom;">
+                                <div class="listaperfil" >
                                     <li>Respeto al ser humano, reconocimiento de sus derechos y deberes.</li>
                                     <li>Búsqueda de la verdad.
                                     <li>Compromiso ético en todo su quehacer.</li>
@@ -225,13 +228,7 @@
                                 <br>
                             </div>
 
-                             <div class="col-md-6 col-xs-12 ">
-                                <br>
-                                <center>
-                                    <img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/carreras/civil/civilateral.jpg" alt="">
-                                </center>
-                                <br>
-                            </div>
+                             
                             
                         </div>
 
@@ -247,9 +244,9 @@
                     <!-- Contenido tab Organización plan de Estudios --> 
 
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
-                    <div class="container-fluid rowArqui">
-                        <br>
-                        <h1 id="azulfia">ORGANIZACIÓN PLAN DE ESTUDIOS</h1></br>   
+                    <div class="container-fluid">
+                        
+                        <h2 id="grisfia">ORGANIZACIÓN PLAN DE ESTUDIOS</h2></br>   
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf" id="archivo" allowfullscreen></iframe>
                         </div> 
@@ -266,9 +263,9 @@
                      <!-- Contenido tab Catalogo de Cursos --> 
 
                     <div class="tab-pane fade" id="nav-catalogo" role="tabpanel" aria-labelledby="nav-catalogo-tab">
-                        <div class="container rowArqui">
-                            <br>
-                            <h1 id="azulfia">CATÁLOGO DE CURSOS</h1></br> 
+                        <div class="container">
+                            
+                            <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://www.usmp.edu.pe/ffia/escuelas/civil/pdf/catalogo_cursos_civil2018.pdf"  id="archivo"></iframe> 
                         </div> 
@@ -313,29 +310,15 @@
                     <!-- FIN Contenido tab Ponencia --> 
 
 
-
-        </section>
-        <div class="container">
-        <div class="card text-center">
-                        <div class="card-header bg-info text-white">
-                            <b>Nuestro deseo es invitarlo a que integre la gran familia FIA. ¡Bienvenido a nuestro claustro académico!</b>
-                        </div>
-         </div>
-         </div>
-    <!-- ##### Patrocinadores Area  ##### -->
-    <div class="partner-area section-padding-0-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="partners-logo d-flex align-items-center justify-content-between flex-wrap">
-                        
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ##### Partner Area End ##### -->
-
+                    </div>
+        </section>
+      
+   
+    <br>
+    <center>
+    <hr style="width:96%;">
+    </center>                            
     
 
      <footer class="footer-area">

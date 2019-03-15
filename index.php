@@ -46,8 +46,8 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 ">FIA USMP</h4>
-                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 ">35 AÑOS FORMANDO  <br>PROFESIONALES.</h2>
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">FIA USMP</h4>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">35 AÑOS FORMANDO  <br>PROFESIONALES.</h2>
                             </div>
                         </div>
                     </div>
@@ -233,7 +233,7 @@
 
                     <div  class="bg-destacado pb-4">
 
-                        <div class="img-fix-position"' >
+                        <div class="img-fix-position" >
                             <img src="img/destacado-1.jpg" alt="">
                         </div>
                         <div class="egresado-fix-position">

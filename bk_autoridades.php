@@ -36,24 +36,13 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/autoridades.jpg');"  >
+    <div class="bg-img img-fix-position-bg"  >
       
     </div>
     <!-- ##### Breadcumb Area End ##### -->
 
-    <div class="container" style=' transform: translateY(180%);margin-top:30px;' >
-      <div class="row">
-        <h5 class="col-12" style="color:#585857; font-size:32px;">
-            AUTORIDADES
-        </h5>
-
-      </div>
-
-    </div>
-
-
     <!-- ##### inicio seccion ##### -->
-    <section  class="about-us-area pt-5" style='border: 1px solid red;margin-top:5%' >
+    <section  class="about-us-area mt-50 section-padding-100">
         <div  class="container">
             <div class="row">
   <div class="col-md-2">

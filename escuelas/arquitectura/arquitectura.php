@@ -15,19 +15,8 @@
     <link rel="icon" href="http://www.usmp.edu.pe/proFIA/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
-    <style>
-    @media only screen and (max-width: 324px) {
-    h2 {
-        font-size: 18px;
-      }
-    }
-    @media only screen and (max-width: 288px) {
-    h5 {
-        font-size: 10px;
-      }
-    }
-    </style>
+    <link rel="stylesheet" href="http://serv-web/Newweb/proFIA/css/style.css">
+
  
 
 </head>
@@ -47,9 +36,17 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(http://usmp.edu.pe/proFIA/img/bg-img/fiadir.jpg);height:370px;">
-        <div class="bradcumbContent">
-            <h2>Arquitectura</h2>
+ <div class="page-header8 img-fix-position2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="page-caption1 d-flex justify-content-center align-items-center" >
+                        <h1 class="page-title2 d-flex align-items-center justify-content-center ">
+                            ARQUITECTURA
+                        </h1>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <!-- ##### Breadcumb Area End ##### -->
@@ -57,32 +54,33 @@
     <!-- ##### About Us Area Start ##### -->
     <section class="about-us-area mt-50 section-padding-100">
         <div class="container">
-         
-                <nav>
-					<div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
-                        <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
-
-                        <a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
+         <div class="row">
+                <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
+					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        
+                    
+                        <a class="nav-link active" id="nav-bienvenidos-tab" data-toggle="pill" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
+                        <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
+                        <a class="nav-link" id="nav-organizacion-tab" data-toggle="pill" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
-                        <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Cursos</a>
+                        <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>
 
 
-                        <a class="nav-item nav-link" id="nav-novedades-tab" data-toggle="tab" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>
-                      
+                        <a class="nav-link ult-item" id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>
+                    
                       
 					</div>
                 </nav>
 
 
                 <!-- CONTENIDO TAB  BIENVENIDOS -->
-				<div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+				<div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
                     
-                    <div class="row rowAcad">
-                        <div id="letracursiva" class="col-md-8">
-						<h1 id="azulfia">BIENVENIDOS</h1>
+                    <div class="row">
+                        <div id="letracursiva" class="col-md-12">
+						<h2 id="grisfia">BIENVENIDOS</h2>
                         
                         <p id="justificar">
                             La Escuela Profesional de Arquitectura (EPA) inicia sus actividades en marzo de 2001, ese mismo año se organiza el evento denominado ARQUIFORO. Arquitectos para el futuro, como espacio de debate y transmisión de experiencias respecto de métodos de enseñanza en las escuelas de arquitectura.
@@ -101,74 +99,52 @@
                             Escuela perteneciente a la : Facultad de Ingeniería y Arquitectura
                         </p>  
                         </div>
-                        <div class="col-md-4">
-                            <center>
-                                <br>
-                                <img class="img-fluid" src="../../img/carreras/arquitectura/arquitecto1.jpg" alt="">
-                                <br>
-                            </center>    
-                        </div>  
-                    </div>  
-                    <hr>
-                        
-                        <div class="row rowAcad">
+                        <br><br>
+                        <div>
                             <div id="letracursiva" class="col-md-12">
-                        <h2 id="azulfia">MISIÓN:</h2>
+                        <h2 id="grisfia">MISIÓN</h2>
                         <p id="justificar">
                         Formar profesionales integros y competentes;capaces de enfrentar los desafíos presentes y futuros de la disciplina, de responder creativamente a las necesidades y exigencias del hábitat, con una actitud de responsabilidad con la sociedad y en armonía con el medio ambiente, vinculando la enseñanza con la investigación.
                         </p>
-                        <br>
-                        <br>
-                        <h2 id="azulfia">VISIÓN:</h2>
+                       <br>
+                        <h2 id="grisfia">VISIÓN</h2>
                         <p id="justificar">
                         Ser una Escuela Profesional reconocidad como referente de calidad académica en el país y la región, por fomentar un espacio crítico y propositivo para nuestra comunidad de estudiantes y docentes. Contribuir al desarrollo de nuestras ciudades con el aporte y rigor profesional de sus titulados.
                         </p>
                         </div>
                         </div>
+                    </div>  
+                    
+                        
+                      
                     </div>
                     <!-- FIN CONTENIDO BIENVENIDOS -->
 
 
                     <!-- Contendio Tab Perfil Graduados -->
 
-				    <div class="tab-pane fade show rowArqui" id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                       <br>
-                       <h3 id="azulfia" style="margin-left:18px;">PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
+				    <div class="tab-pane fade show" id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
+                       
+                       <h2 id="grisfia">PERFIL DEL GRADUADO DE ARQUITECTURA </h2>
                             <br>
                     <div class="container ">
-                        <div class="row">
-                        
-                            
-                            
-                            <div class="col-md-6 col-xs-12">
-                                <div class="cajaperfil">
-                                <h5>
+                                
+                                <h5 id="grisfia">
                                     Competencias Cognitivas
                                 </h5>
-                                </div>
-                                <br>
                                 <div class="listaperfil">
-                                <p>
                                     <li>Aplica el análisis y la síntesis, la inducción y la deducción, y el enfoque sistémico, entre otros, como estrategias generales de adquisición del conocimiento.</li>
                                     <li>Utiliza el pensamiento crítico, al analizar los diferentes contextos, fuentes de información y hechos de la realidad.</li>
                                     <li>Realiza investigaciones, relacionadas con su profesión, bajo la guía de un profesional de mayor experiencia</li>
                                     <li>Aplica adecuadamente estrategias metacognitivas, lo que lo capacita para el aprendizaje autónomo para toda la vida (Aprender a aprender).</li>
-                                </p>
                                 </div>
+                                
                                 <br>
-                            </div>
 
-                            
-
-
-                            <div class="col-md-6 col-xs-12 ">
-                                <div class="cajaperfil">
-                                <h5>
+                                <h5 id="grisfia">
                                     Competencias Instrumentales
                                 </h5>
-                                </div>
-                                <br>
-                                <div class="listaperfil">
+                               <div class="listaperfil">
                                     <li>Planifica y organiza eficazmente sus actividades y el tiempo dedicado a ellas.</li>
                                     <li>Se comunica asertivamente en idioma español.</li>
                                     <li>Comunica ideas básicas de la vida cotidiana y de su profesión, en idioma inglés (inglés intermedio).</li>
@@ -178,17 +154,9 @@
                                     <li>Elabora y gestiona proyectos de diversa índole, vinculados a su profesión.</li>
                                 </div>
                                 <br>
-                            </div>
-
-                            
-
-                            <div class="col-md-12 col-xs-12 ">
-                                <div class="cajaperfil">
-                                <h5>
+                                <h5 id="grisfia">
                                     Competencias Específicas
                                 </h5>
-                                </div>
-                                <br>
                                 <div class="listaperfil">
                                     <li>Formula ideas y las transforma en creaciones arquitectónicas de acuerdo con los principios de composición, percepción visual y espacial.</li>
                                     <li>Imagina, crea e innova en el proceso de diseño de la arquitectura y el urbanismo.</li>
@@ -206,15 +174,8 @@
                                     <li>Define la tecnología, los sistemas estructurales y constructivos apropiados a las demandas del proyecto arquitectónico y al contexto local.</li>
                                     <li>Conoce, se sensibiliza y compromete frente a los temas del debate arquitectónico actual – local y global.</li>
                                 </div>
-                                <br>
-                            </div>
                             
                         </div>
-
-                        
-
-                        
-                    </div>   
                        
                     </div>
                    <!-- FIN Contendio Tab Perfil Graduados -->
@@ -222,9 +183,9 @@
                         <!-- Contenido tab Catalogo de Cursos --> 
 
                     <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
-                        <div class="container rowArqui">
-                            <br>
-                            <h1 id="azulfia">CATÁLOGO DE CURSOS</h1></br> 
+                        <div class="container">
+                            
+                            <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
@@ -241,23 +202,22 @@
 
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
                         
-                  
+                    <h2 id="grisfia">ORGANIZACIÓN DE PLAN DE ESTUDIOS</h2>
+                    
+                    <br>
 
                     <div class="container">
-                        <div class="row rowArqui">
+                        <div class="row">
 
-                            <div class="col-md-6 col-xs-12" style="border-right:solid 1px grey;">
+                            <div class="col-md-12 col-xs-12">
                                <li style="list-style:none;" >  <a data-toggle="collapse" href="#menu" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("area_conocimiento.php") ?> </a> </li>
                             </div>
 
-                            <div class="col-md-6 col-xs-12">
+                            <div class="col-md-12 col-xs-12">
                                <li style="list-style:none;"> <a data-toggle="collapse" href="#menu2" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("nivel_conocimiento.php") ?> </a> </li>
                             </div>
 
-                            <div class="col-md-12" style="height:14px;background-color:grey;margin-top:10px;"></div>
-
-                            <div class="col-md-12 col-xs-12 rowArqui">
-                                <br>
+                            <div class="col-md-12 col-xs-12">
                                 <li style="list-style:none;"> <a data-toggle="collapse"  role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("estructura_curricular.php") ?> </a> </li> 
                             </div>
 
@@ -270,79 +230,70 @@
                      <!-- FIN Contenido tab Organización plan de Estudios --> 
 
 
+
+                    <!-- INICIO Contenido tab NOVEDADES--> 
                      <div class="tab-pane fade" id="nav-novedades" role="tabpanel" aria-labelledby="nav-novedades-tab">
                         
                         
-                        <div class="container rowArqui">
-                        <br>
+                        <div class="container">
+                        
                         <div class="row">
 
-                            <div class="col-md-8">
-                            <h3 id="azulfia" style="text-aling:center;"> Arquiforo </h3> <br>
-                                <p style="text-align:justify;">
-                                El Arquiforo nace como una preocupación por conocer experiencias, afianzar y redefinir los cánones de la enseñanza de la arquitectura. La Escuela Profesional de Arquitectura de la USMP con su primer año de actividades lanzó el primer Arquiforo y desde entonces arquitectos docentes de diferentes facultades del mundo nos han visitado para contribuir a despejar nuestras dudas sobre la formación de los nuevos profesionales de la especialidad.
-                                </p>
+                            <div class="col-md-12">
+                            <h2 id="grisfia" style="text-aling:center;"> NOVEDADES </h2> 
+                            <div class="col-md-12" style="height:2px;background-color:grey;"></div>
+                            <br>
+                            <h3 id="grisfia" style="text-aling:center;"> Arquiforo </h3> <br>
+                                <div >
+                                <img hspace="5" vspace="5" style="float:left;" src="../../img/carreras/arquitectura/arq1.jpg"  class="img-fluid" alt="">
+                                <p style="margin-left:270px;" id="justificar">El Arquiforo nace como una preocupación por conocer experiencias, afianzar y redefinir los cánones de la enseñanza de la arquitectura. La Escuela Profesional de Arquitectura de la USMP con su primer año de actividades lanzó el primer Arquiforo y desde entonces arquitectos docentes de diferentes facultades del mundo nos han visitado para contribuir a despejar nuestras dudas sobre la formación de los nuevos profesionales de la especialidad.</p>
+                                </div>
+                                <br>
+                            <br>
                             </div>
-
-                            <div class="col-md-4">
-                            <center>
-                                <img src="../../img/carreras/arquitectura/arq1.jpg"  class="img-fluid arquiforoimg" alt="">
-                            </center>
-                            </div>
-
-                            <div class="col-md-12" style="height:4px;background-color:grey;"></div>
+                            
+                            <div class="col-md-12" style="height:2px;background-color:grey;"></div>
                             <br>
                             
 
-                            <div class="col-md-4">
-                            <center>
-                                <img style="margin-top:20px;" src="../../img/carreras/arquitectura/arq2.jpg" class="img-fluid arquiforoimg" alt="">
-                            </center>
-                            </div>
-                            <div class="col-md-8">
-                            <h3 id="azulfia" style="text-aling:center;"> El evento </h3> <br>
-                                <p style="text-align:justify;">
+    
+                            <div class="col-md-12">
+                            <h3 id="grisfia" style="text-aling:center;"> El evento </h3> <br>
+                                <div>
+                                <img hspace="5" vspace="5" style="float:right;" src="../../img/carreras/arquitectura/arq2.jpg" class="img-fluid" alt="">
+                                <p id="justificar" style="margin-right:270px;">
                                 Dentro del evento organizado por la Facultad de Ingeniería y Arquitectura de la USMP, en el mes de agosto del presente año, se desarrolló el IX Arquiforo.
                                 <br>
                                 En esta oportunidad bajo la premisa <b>Panorama Contemporáneo</b>, se invitó a destacados arquitectos internacionales y nacionales a que expongan sus más importantes obras: Entre los invitados internacionales se destacan el arquitecto mexicano <b>Bernardo Gómez Pimienta</b>, el colombiano <b>Edgar Mazo</b> del estudio Paisajes Emergentes, el chileno <b>Eduardo Castillo</b> y los uruguayos <b>Mario Báez</b> y <b>Adrián Durán</b> de MBAD Arquitectos. Asimismo expusieron sus metodologías en la enseñanza del taller de diseño.
                                 </p>
+                                
+                                </div>
                             </div>
                             <br>
-                            <div class="col-md-12" style="height:4px;background-color:grey;"></div>
+                            <div class="col-md-12" style="height:2px;background-color:grey;"></div>
                             <br>
                             
-                            <div class="col-md-8">
-                            <h3 id="azulfia" style="text-aling:center;"> Invitados</h3> <br>
-                                <p style="text-align:justify;">
+                            <div class="col-md-12">
+                            <h3 id="grisfia" style="text-aling:center;"> Invitados</h3> <br>
+                                <div>
+                                <img hspace="5" vspace="5" style="float:left;" src="../../img/carreras/arquitectura/arq3.jpg" class="img-fluid" alt="">
+                                <p  style="margin-left:270px;" id="justificar">
                                 Entre los invitados nacionales nos visitaron <b>Maya Ishizawa</b>, con su ponencia "una visión paisajera de la sostenibilidad"; Mariana Leguía con "Ciudades imaginadas"; K+M Arquitectura y Urbanismo de <b>Shariff Kahatt</b> con" Re-urbanizar Lima".
                                 <br>
                                 El evento se desarrolló bajo una gran concurrencia, en donde alumnos, invitados, profesores y expositores dieron lugar a un debate e intercambio de ideas sobre sus proyectos, propuestas, y pensamientos de la arquitectura en la actualidad.
+
                                 </p>
+                                </div>
                             </div>
-
-                            <div class="col-md-4">
-                            <center>
-                                <img style="margin-top:20px;" src="../../img/carreras/arquitectura/arq3.jpg" class="img-fluid arquiforoimg" alt="">
-                            </center>
-                            </div>
-                            
-                            
-
                         </div>
                         </div>
                    
                     </div>
+<!-- INICIO Contenido tab NOVEDADES--> 
 
-
-
+                    </div>
         </section>
-        <div class="container">
-        <div class="card text-center">
-                        <div class="card-header bg-info text-white">
-                            <b>Nuestro deseo es invitarlo a que integre la gran familia FIA. ¡Bienvenido a nuestro claustro académico!</b>
-                        </div>
-         </div>
-         </div>
+        
     <!-- ##### Patrocinadores Area  ##### -->
    <!-- <div class="partner-area section-padding-0-100">
         <div class="container">
