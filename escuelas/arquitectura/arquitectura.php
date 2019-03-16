@@ -15,7 +15,7 @@
     <link rel="icon" href="http://www.usmp.edu.pe/proFIA/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://serv-web/Newweb/proFIA/css/style.css">
+    <link rel="stylesheet" href="../../css/style.css">
 
  
 
@@ -60,7 +60,10 @@
                         
                     
                         <a class="nav-link active" id="nav-bienvenidos-tab" data-toggle="pill" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
+
+                        
                         <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
+                        
                         <a class="nav-link" id="nav-organizacion-tab" data-toggle="pill" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
                         <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>

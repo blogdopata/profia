@@ -2430,6 +2430,16 @@ ul.ul-fix-square li{
  
   height:400px;
 }
+.bg-autoridades{
+  background-color: #E0134E;
+  padding: 0;
+}
+.btn-color-font{
+  color:white;
+}
+.btn-color-font:hover , .btn-color-font:focus{
+  text-decoration: none;
+}
 
 
 /*  FAcultades - Autoridades */ 

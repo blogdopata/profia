@@ -13,7 +13,7 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- cambiar a serv-web para  pruebas local-->
-    <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     
     <!-- poner url absoluta en cuando este en servidor
     <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
