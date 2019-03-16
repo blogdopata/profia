@@ -47,7 +47,7 @@
       <div class="row">
           <div class="col-12">
                 <h5  style="color:#585857; font-size:32px;">
-                  INSTITUTOS y LABORATORIOS DE INVESTIGACIÓN
+                  INSTITUTOS Y  LABORATORIOS DE INVESTIGACIÓN
                 </h5>
 
                 <p style=" color:black;font-size:20px; margin-bottom:10px;margin-top:20px;"> Misión</p>

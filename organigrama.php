@@ -17,7 +17,7 @@
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="css/style.css">
 
-  
+
 
 </head>
 
@@ -27,40 +27,50 @@
         <i class="circle-preloader"></i>
     </div>
 
-    <!-- ##### Header Area Start ##### -->
+   
     <header class="header-area">
-
+        
       <?php include_once('blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/bg-img/edificiofia.jpg);height:400px;">
-        <div class="bradcumbContent">
-            <h2>Organigrama</h2>
+    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/organigrama.jpg');"  >
+     
+    </div>
+
+    <!-- ##### Breadcumb Area End ##### -->
+
+    <div class="container" style='margin-top:120px; ' >
+      <div class="row">
+          <div class="col-12">
+                <h5  style="color:#585857; font-size:32px;">
+                     ORGANIGRAMA
+                </h5>
+
+             
+            </div>
         </div>
     </div>
+    
 
     <!--START seccion-->
    
 
     <!-- ##### organigrama ##### -->
-    <section style="background-color:lavender;" class="section-padding-100">
+    <section class="pt-5">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <center>
-                         
-                        <img class="img-fluid" style="border:solid grey 1px;" src="img/fia/Organigrama-01.jpg" alt="" class="img-fluid">
-                    </center>
+
+                        <img class="img-fluid" src="img/fia/Organigrama-01.jpg" alt="" class="img-fluid">
+               
                     
                 </div>
             </div>
         </div>
-        <center>
-            <hr style="width:98%;">
-        </center>
+       
     </section>
     <!-- ##### organigrama ##### -->
     <!--FIN seccion-->

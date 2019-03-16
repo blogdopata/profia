@@ -37,26 +37,34 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(http://usmp.edu.pe/proFIA/img/bg-img/fiadir.jpg);height:370px;">
-        <div class="bradcumbContent">
-            <h2>Ingeniería Industrial</h2>
+ <div class="page-header10 img-fix-position2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="page-caption1 d-flex justify-content-center align-items-center" >
+                        <h1 class="page-title2 d-flex align-items-center justify-content-center " style="text-align:center;">
+                           INGENIERÍA INDUSTRIAL
+                        </h1>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <!-- ##### Breadcumb Area End ##### -->
 
     <!-- ##### About Us Area Start ##### -->
     <section class="about-us-area mt-50 section-padding-100">
-        <div class="container">
-         
-                <nav>
-					<div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+    <div class="container">
+         <div class="row">
+                <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
+					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
                         <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
 
                         <a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
-                        <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf"  target="_blank">Catálogo de Cursos</a>
-                        <a class="nav-item nav-link" id="nav-proyectos-tab" data-toggle="tab" href="#nav-proyectos" role="tab" aria-controls="nav-proyectos" aria-selected="false">Proyectos</a>
+            <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>
+                        <a class="nav-item nav-link ult-item" id="nav-proyectos-tab" data-toggle="tab" href="#nav-proyectos" role="tab" aria-controls="nav-proyectos" aria-selected="false">Proyectos</a>
                        
                       
 					</div>
@@ -64,11 +72,11 @@
 
 
                 <!-- CONTENIDO TAB  BIENVENIDOS -->
-				<div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+                <div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
-						<h1>BIENVENIDOS</h1>
-                        <p>
+						<h2 id="grisfia">BIENVENIDOS</h2>
+                        <p id="justificar">
                             La Escuela de Ingeniería Industrial de la Universidad de San Martín de Porres es la Unidad Académica encargada de la formación profesional de nuevos ingenieros industriales con las competencias requeridas para su éxito laboral y bajo los valores y principios de nuestra universidad. Así mismo la Escuela está comprometida con el desarrollo nacional a través de la creación de nuevos conocimientos, su aplicación, la innovación y la transmisión de estos para beneficio de la sociedad.
                         </p>
                       
@@ -76,32 +84,29 @@
                             Escuela perteneciente a la : Facultad de Ingeniería y Arquitectura
                         </p>
         
-                          <h2>MISIÓN:</h2>
-                        <p>
+                          <h2 id="grisfia">MISIÓN</h2>
+                        <p id="justificar">
                         Formamos ingenieros industriales de alto nivel científico y tecnológico, con sólidos valores humanísticos, éticos y morales, que utilicen de manera racional y óptima los recursos de las organizaciones empresariales de todo tipo con la finalidad de obtener bienes y servicios competitivos. Desarrollamos investigación aplicada, promoviendo la innovación tecnológica y su transferencia como contribución al desarrollo nacional y protección al medio ambiente.
                         </p>
-                        <br>
-                        <br>
-                        <h2>VISIÓN:</h2>
-                        <p>
-                       Lideraremos la formación universitaria en Ingeniería Industrial, por ser una escuela dinámica y flexible, atenta a los cambios científicos, sociales y tecnológicos, siendo reconocidos en el ámbito nacional e internacional como la escuela de ingeniería con el más alto nivel de excelencia del país.Seremos además, el punto de referencia por nuestro liderazgo y cooperación en actividades productivas requeridas por la industria nacional, fusionando lo académico con la innovación tecnológica y promoviendo el desarrollo socio-económico del Perú y de la Región.15
+                        
+                        <h2 id="grisfia">VISIÓN</h2>
+                        <p id="justificar">
+                       Lideraremos la formación universitaria en Ingeniería Industrial, por ser una escuela dinámica y flexible, atenta a los cambios científicos, sociales y tecnológicos, siendo reconocidos en el ámbito nacional e internacional como la escuela de ingeniería con el más alto nivel de excelencia del país.Seremos además, el punto de referencia por nuestro liderazgo y cooperación en actividades productivas requeridas por la industria nacional, fusionando lo académico con la innovación tecnológica y promoviendo el desarrollo socio-económico del Perú y de la Región.
                         </p>
-                        <br>
-                        <br>
-                        <h2>CAMPO DE ACCIÓN:</h2>
-                        <p>
+                        <h2 id="grisfia">CAMPO DE ACCIÓN</h2>
+                        <p id="justificar">
                         El Ingeniero Industrial puede incorporarse sin problemas a instituciones públicas como privadas abarcando áreas tan amplias como la administración y la gestión, la investigación de operaciones, la ergonomía, el control y la ingeniería de la calidad, la optimización de procesos y sistemas, la formulación y el desarrollo de proyectos entre otras.Esta versatilidad y visión holística de los procesos lo hacen muy útil en empresas grandes y pequeñas y con variados niveles de tecnificación y/o modernización.
                        </p>
-                       <h2>OBJETIVOS:</h2>
-                       <p>
-                       1. Diseñan, desarrollan, implementan y/o mejoran sistemas integrados de producción o servicios con capacidad innovadora, analítica y emprendedora.<br>
-                       2. Utilizan de manera racional y óptima recursos disponibles con la finalidad de obtener productos y servicios que demanda la sociedad.<br>
-                       3. Practican un ejercicio profesional ético incidiendo en la seguridad, responsabilidad social y protección del medio ambiente..<br>
-                       4. Dirigen y/o participan en la gestión de los sistemas de producción o servicios dentro de las tendencias post-industriales.<br>
-                       5. Participan activamente en equipos de trabajo multidisciplinarios haciendo uso de una comunicación efectiva.<br>
-                       6. Adquieren nuevas habilidades y conocimientos para mejorar su desarrollo profesional y personal a lo largo de su vida.
+                       <h2 id="grisfia">OBJETIVOS</h2>
+                       <div class="listaperfil">
+                       <li>Diseñan, desarrollan, implementan y/o mejoran sistemas integrados de producción o servicios con capacidad innovadora, analítica y emprendedora.</li>
+                       <li>Utilizan de manera racional y óptima recursos disponibles con la finalidad de obtener productos y servicios que demanda la sociedad.</li>
+                       <li>Practican un ejercicio profesional ético incidiendo en la seguridad, responsabilidad social y protección del medio ambiente.</li>
+                       <li>Dirigen y/o participan en la gestión de los sistemas de producción o servicios dentro de las tendencias post-industriales.</li>
+                       <li>Participan activamente en equipos de trabajo multidisciplinarios haciendo uso de una comunicación efectiva.</li>
+                       <li>Adquieren nuevas habilidades y conocimientos para mejorar su desarrollo profesional y personal a lo largo de su vida.</li>
 
-                     </p>
+                      </div>
 
                     </div>
                     <!-- FIN CONTENIDO BIENVENIDOS -->
@@ -110,50 +115,64 @@
                     <!-- Contendio Tab Perfil Graduados -->
 
 				   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                       <p>La Ingeniería Industrial estudia la utilización racional de los recursos humanos, técnicos, materiales y de información y el manejo óptimo de los sistemas de transformación de bienes y servicios, con la finalidad de obtener productos o servicios útiles  a la sociedad y con respeto al medio ambiente.<br>
+           <h2 id="grisfia">PERFIL DEL GRADUADO DE LA CARRERA DE INGENIERÍA INDUSTRIAL</h2> <br>
+                       <p id="justificar">La Ingeniería Industrial estudia la utilización racional de los recursos humanos, técnicos, materiales y de información y el manejo óptimo de los sistemas de transformación de bienes y servicios, con la finalidad de obtener productos o servicios útiles  a la sociedad y con respeto al medio ambiente.<br>
                        La formación del Ingeniero Industrial en la FIA – USMP, se basa en el desarrollo de las competencias ya mencionadas y que lo preparan para afrontar con éxito cualquier reto en cualquier ámbito.<br>
                        Se les da también Una formación socio-humanística que le permita una actitud crítica que contribuya a su ubicación en la sociedad, de manera que su desarrollo profesional sea ejercido con plena conciencia y responsabilidad.<br>
                        Al finalizar sus estudios  está capacitado para estudiar el sistema, entender el problema o la oportunidad y proponer y realizar soluciones innovadoras y adecuadas a los requerimientos de los interesados, aplicando los conocimientos científicos, teóricos y humanísticos aprendidos.</p>
-                            <br>
+                            
 
-                    <div class="container">
-                         <div class="row">
-                                  
-                            <div class="col-md-12">
-                                <h3>Competencias que adquiere el estudiante al egresar de la carrera (Outcomes)</h3>
-                                a)  Habilidad para aplicar conocimientos de matemáticas, ciencia e ingeniería.<br>
-                                (b) Habilidad para diseñar y conducir experimentos, así como analizar e interpretar los datos obtenidos.<br>
-                                (c) Habilidad para diseñar sistemas, componentes o procesos que proporcionen las necesidades requeridas con restricciones realistas tales como son las económicas, ambientales, sociales, políticas, éticas, salud y seguridad, facilidad de fabricación y sostenibilidad.<br>
-                                (d) Habilidad para trabajar adecuadamente en un equipo multidisciplinario.<br>
-                                (e) Habilidad para identificar, formular y resolver problemas de ingeniería.<br>
-                                (f) Comprensión de lo que es la responsabilidad ética y profesional.<br>
-                                (g) Habilidad para comunicarse con efectividad.<br>
-                                (h) Una educación amplia necesaria para entender el impacto que tienen las soluciones de la ingeniería dentro de un contexto global, económico, ambiental y social.<br>
-                                (i) Reconocer la necesidad y tener la habilidad de seguir aprendiendo y capacitándose a lo largo de su vida.<br>
-                                (j) Conocimiento de los principales temas contemporáneos.<br>
-                                (k) Utilizar las técnicas, destrezas y herramientas modernas necesarias para la práctica de la ingeniería.
+                    
+                                <h5 id="grisfia">Competencias que adquiere el estudiante al egresar de la carrera (Outcomes)</h5>
+
+                                <div class="listaperfil3">
+                                <li> Habilidad para aplicar conocimientos de matemáticas, ciencia e ingeniería.</li>
+                                <li> Habilidad para diseñar y conducir experimentos, así como analizar e interpretar los datos obtenidos.</li>
+                                <li> Habilidad para diseñar sistemas, componentes o procesos que proporcionen las necesidades requeridas con restricciones realistas tales como son las económicas, ambientales, sociales, políticas, éticas, salud y seguridad, facilidad de fabricación y sostenibilidad.</li>
+                                <li> Habilidad para trabajar adecuadamente en un equipo multidisciplinario.</li>
+                                <li> Habilidad para identificar, formular y resolver problemas de ingeniería.</li>
+                                <li> Comprensión de lo que es la responsabilidad ética y profesional.</li>
+                                <li> Habilidad para comunicarse con efectividad.</li>
+                                <li> Una educación amplia necesaria para entender el impacto que tienen las soluciones de la ingeniería dentro de un contexto global, económico, ambiental y social.</li>
+                                <li> Reconocer la necesidad y tener la habilidad de seguir aprendiendo y capacitándose a lo largo de su vida.</li>
+                                <li> Conocimiento de los principales temas contemporáneos.</li>
+                                <li> Utilizar las técnicas, destrezas y herramientas modernas necesarias para la práctica de la ingeniería.</li>
+                                </div>
 
                              </div>
 
                               
 
-                         </div>
-                     </div>
-                 </div>
-
+                    
                    <!-- FIN Contendio Tab Perfil Graduados -->
+                   <!-- Contenido tab Catalogo de Cursos --> 
+
+                   <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
+                        <div class="container">
+                            
+                            <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
+                        <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe> 
+                        </div> 
+                        <br>
+                        <br><br>
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab Catalogo de Cursos --> 
                         
                     <!-- Contenido tab Organización plan de Estudios --> 
 
 
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
                         
-                            <h2>1.OBJETIVO</h2>
-                                    <p>El Plan de Estudios está orientado al logro de los Objetivos Educacionales ya descritos y diseñado para lograrlo a través del desarrollo, en los alumnos de habilidades o competencias ya definidas y que aseguran el éxito profesional del Ingeniero Industrial. Estas competencias se desarrollan en el estudiante a través de un currículo de desarrollo teórico-práctico y que incluye cursos de matemáticas y ciencias que sientan las bases para los nuevos conocimientos a adquirir, cursos de gestión, administración y economía, cursos de ingeniería general como mecánica, ingeniería eléctrica e ingeniería de procesos y cursos propios de la ingeniería industrial complementados con cursos de formación general.<br>
+                            <h2 id="grisfia">OBJETIVO</h2>
+                                    <p id="justificar">El Plan de Estudios está orientado al logro de los Objetivos Educacionales ya descritos y diseñado para lograrlo a través del desarrollo, en los alumnos de habilidades o competencias ya definidas y que aseguran el éxito profesional del Ingeniero Industrial. Estas competencias se desarrollan en el estudiante a través de un currículo de desarrollo teórico-práctico y que incluye cursos de matemáticas y ciencias que sientan las bases para los nuevos conocimientos a adquirir, cursos de gestión, administración y economía, cursos de ingeniería general como mecánica, ingeniería eléctrica e ingeniería de procesos y cursos propios de la ingeniería industrial complementados con cursos de formación general.<br>
                                     El Currículo termina con dos cursos integradores de Proyectos en ingeniería Industrial I y II en donde se busca la aplicación práctica de los conocimientos adquiridos a través de una experiencia muy similar a la laboral y en muchos casos más exigente.<br>
                                     La formación se complementa con actividades no curriculares como son las prácticas profesionales, la participación eventos científicos y profesionales y en la participación en proyectos de investigación.<br>
-                            <h2>2.CURRICULA</h2>        
-                                <p>Ver plan de estudios:</p>
+                            <h2 id="grisfia">CURRÍCULA</h2>        
+                                <a id="grisfia" class="nav-item nav-link" href="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Industrial.pdf" target="blank">Ver plan de estudios:</a>
                        
                     </div>
 
@@ -164,7 +183,7 @@
                         
                         <ol>
                             <li>
-                                <h2>Formatos de Proyectos de Investigación</h2>
+                                <h2 id="grisfia">FORMATOS DE PROYECTOS DE INVESTIGACIÓN</h2>
                                 <div class="container">           
                                     <table class="table">
                                         <tbody>
@@ -345,30 +364,21 @@ La visita fue una visita guiada a cargo del Ing. Jorge Calderón, los alumnos vi
                     </div>
 
 
+                    </div>
+                    </div>
+                    </div>
+
+
 
         </section>
 
-        <div class="card text-center">
-                        <div class="card-header bg-info text-white">
-                            <b>Nuestro deseo es invitarlo a que integre la gran familia FIA. ¡Bienvenido a nuestro claustro académico!</b>
-                        </div>
-         </div>
-    <!-- ##### Patrocinadores Area  ##### -->
-    <div class="partner-area section-padding-0-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="partners-logo d-flex align-items-center justify-content-between flex-wrap">
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ##### Partner Area End ##### -->
+  
 
     
-
+        <br>
+    <center>
+    <hr style="width:96%;">
+    </center>
      <footer class="footer-area">
        
        <?php include_once('../../blocks/footer.html') ?>

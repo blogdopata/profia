@@ -8,378 +8,202 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
+    <!-- Title -->
     <title>Fia USMP</title>
 
+    <!-- Favicon -->
     <link rel="icon" href="img/core-img/logousmp.ico">
 
-    <link rel="stylesheet" href="css/style.css"> 
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
 
-    <link rel="stylesheet" href="css/carrusel.css"> 
 
-  
+
 </head>
 
 <body>
-   
+    <!-- ##### Preloader ##### -->
     <div id="preloader">
         <i class="circle-preloader"></i>
     </div>
 
    
     <header class="header-area">
-
+        
       <?php include_once('blocks/header.html') ?>
 
-    </header>   
-    
-    <section style="background-color:lavender;">
-        <div class="page-header1">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="page-caption1">
-                        <h1 class="page-title1">Prestaciones y Servicios</h1>
-                    </div>
-                </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+ <!-- ##### Breadcumb Area Start ##### -->
+    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/prestaciones.jpg');"  >
+     
+    </div>
+    <!-- ##### Breadcumb Area End ##### -->
+
+    <!-- ##### Top Popular Courses Area Start ##### -->
+
+    <div class="container" style='margin-top:120px; ' >
+      <div class="row">
+          <div class="col-12">
+                <h5  style="color:#585857; font-size:32px;">
+                  PRESTACIONES Y SERVICIOS
+                </h5>
+
+              
+                <p class="mt-" style=" color:black;font-size:16px; margin-bottom:24px;margin-top:0px;line-height:22px;"> <strong> Conoce los servicios de la FIA</strong><br> Un nuevo ciclo ha empezado, una nueva oportunidad para dar lo mejor de tí y la Facultad de Ingeniería y Arquitectura (FIA) te brinda las herramientas para que puedeas lograrlo. </p>
+         
             </div>
-        </div>
+        </div> 
     </div>
     <!-- /.page-header-->
-    <br>
-    <br>
-    <br>
     <!-- news -->
-    <div class="card-section1">
-        <div class="container">
-            <div style="border-radius:25px;box-shadow:4px 4px grey;" class="card-block1 bg-white mb30">
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <!-- section-title -->
-                        <div class="section-title1 mb-0">
-                            <h2>Conoce los servicios de la FIA</h2>
-                            <br>
-                            <p style="font-family:arial;">
-                                Un nuevo ciclo ha empezado, una nueva oportunidad para dar lo mejor de ti y la Facultad de Ingeniería y Arquitectura(FIA) te brinda las herramientas para que puedas lograrlo.
-                                    <br>
-                                 <div class="card text-center">
-                <div class="card-header bg-info text-white" style="">
-                     <b>Podemos ayudarte a descubrir tu potencial con estos servicios:</b>
-                </div>
-                </div>
-                            </p>
-                        </div>
-                        <!-- /.section-title -->
-                    </div>
-                </div>
-            </div>
-           
-            </div>
-            </div>
-            </div>
-
-
-    </section>
     
-    <section style="background-color:aliceblue;">
-          <div class="container cta-100 ">
-        <div class="container">
-          <div class="row blog">
-            <div class="col-md-12">
-              <div id="blogCarousel" class="carousel slide container-blog" data-ride="carousel">
-                <ol class="carousel-indicators">
-                  <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
-                  <li data-target="#blogCarousel" data-slide-to="1"></li>
-                  <li data-target="#blogCarousel" data-slide-to="2"></li>
-                </ol>
-                <!-- Carousel items -->
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <div class="row">
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Biblioteca</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\biblioteca.jpg"> </figure>
+   
+  
+    
+    <div class="container content mb-5">
+
+            <div class="row mt-3">
+
+                  <div class="col-6 col-md-3 text-center" >
+                      <div class="team-members">
+                          <div >
+                           <a href="http://www.sibus.usmp.edu.pe/" target="_blank">   
+                           
+                              <img class="img-fluid" src="img/prestaciones/biblio.jpg" alt="">
+                          
+                            </a>
                           </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Biblioteca</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                            <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
+                        
                       </div>
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Auditorio</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\marinera.jpg"> </figure>
-                          </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Actividades culturales</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                            <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Pab. Estudios Generales</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\topico.jpg"> </figure>
-                          </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Tópico de enfermería</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                            <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--.row-->
+                      <a href="http://www.sibus.usmp.edu.pe/" target="_blank">  Biblioteca </a>
                   </div>
-                  <!--.item-->
-                  <div class="carousel-item ">
-                    <div class="row">
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Talleres Fia-Data</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\talleres.jpg"> </figure>
+              
+                  <div class="col-6 col-md-3 text-center">
+                      <div class="team-members">
+                          <div >
+                              <img class="img-fluid" src="img/prestaciones/bienestar.jpg" alt="">
                           </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Bienestar Universitario</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                            <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
+                        
                       </div>
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Pab. Estudios Generales</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\guiaestudiante.jpg"> </figure>
-                          </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Guía estudiantil</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                            <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Tópico</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\discapacidad.jpg"> </figure>
-                          </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Servicios de discapacidad</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                             <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--.row-->
+                      <a href="#" target="_blank"> Bienestar Universitario</a>
                   </div>
-                  <!--.item-->
-                   <!--.item-->
-                  <div class="carousel-item ">
-                    <div class="row">
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Coliseo</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\coliseo.jpg"> </figure>
+
+                  <div class="col-6 col-md-3 text-center">
+                      <div class="team-members">
+                          <div >
+                              <img class="img-fluid" src="img/prestaciones/conferencia.jpg" alt="">
                           </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Gimnasio</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                            <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
+                      
                       </div>
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Auditorio Primus</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\conferencias.jpg"> </figure>
-                          </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Conferencias</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                            <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-4" >
-                        <div class="item-box-blog">
-                          <div class="item-box-blog-image">
-                            <!--Date-->
-                            <div class="item-box-blog-date bg-blue-ui white"> <span class="mon">Campus FIA</span> </div>
-                            <!--Image-->
-                            <figure> <img alt="" src="img\prestaciones\ferialaboral.jpg"> </figure>
-                          </div>
-                          <div class="item-box-blog-body">
-                            <!--Heading-->
-                            <div class="item-box-blog-heading">
-                              <a href="#" tabindex="0">
-                                <h5>Ferias Laborales</h5>
-                              </a>
-                            </div>
-                            <!--Data-->
-                            <div class="item-box-blog-data" style="padding: px 15px;">
-                              <p><i class="fa fa-user-o"></i> Admin, <i class="fa fa-comments-o"></i> Comments(3)</p>
-                            </div>
-                            <!--Text-->
-                            <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                             <div class="mt"> <a href="#" tabindex="0" class="btn bg-blue-ui white read">leer más</a> </div>
-                            <!--Read More Button-->
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!--.row-->
+                      <a  href="#" target="_blank" >  Conferencias</a>
                   </div>
-                  <!--.item-->
-                </div>
-                <!--.carousel-inner-->
-              </div>
-              <!--.Carousel-->
-            </div>
-          </div>
+
+
+                  <div class="col-6 col-md-3 text-center">
+                      <div class="team-members">
+                          <div >
+                              <img class="img-fluid" src="img/prestaciones/cultural.jpg" alt="">
+                          </div>
+                        
+                      </div>
+                      <a  href="#" target="_blank">Actividades culturales</a>
+
+                  </div>
+
+
+
+              </div><!-- //end row mt-4 -->
+
+
+              <div class="row mt-3">
+
+<div class="col-6 col-md-3 text-center" >
+    <div class="team-members">
+        <div >
+            <img class="img-fluid" src="img/prestaciones/guia.jpg" alt="">
         </div>
-      </div>
+      
+    </div>
+    <a href="#"  target=_blank> Bienestar Universitario</p>
+</div>
+
+<div class="col-6 col-md-3 text-center">
+    <div class="team-members">
+        <div >
+            <img class="img-fluid" src="img/prestaciones/bienestar.jpg" alt="">
+        </div>
+      
+    </div>
+    <a href="#" target="_blank"> Bienestar Universitario</a>
+</div>
+
+<div class="col-6 col-md-3 text-center">
+    <div class="team-members">
+        <div >
+            <img class="img-fluid" src="img/prestaciones/topico.JPG" alt="">
+        </div>
     
-   </section>
-    
+    </div>
+    <a  href="#" target="_blank" > Enfermería / Tópico</a>
+</div>
 
 
-     <div class="form-group col-12">
-            <hr>
-     </div>
+<div class="col-6 col-md-3 text-center">
+    <div class="team-members">
+        <div >
+            <img class="img-fluid" src="img/prestaciones/gimansio.jpg" alt="">
+        </div>
+      
+    </div>
+    <a  href="#" target="_blank">Gimnasio</a>
+
+</div>
+
+
+
+</div><!-- //end row mt-4 -->
+
+
+<div class="row mt-3">
+
+<div class="col-6 col-md-3 text-center" >
+    <div class="team-members">
+        <div >
+            <img class="img-fluid" src="img/prestaciones/ferias.jpg" alt="">
+        </div>
+      
+    </div>
+    <a href="#"  target=_blank> Ferias Laborales</p>
+</div>
+
+<div class="col-6 col-md-3 text-center">
+    <div class="team-members">
+        <div >
+            <img class="img-fluid" src="img/prestaciones/discapacidad.JPG" alt="">
+        </div>
+      
+    </div>
+    <a href="#" target="_blank">Servicios de Discapacidad</a>
+</div>
+
+
+
+
+
+</div><!-- //end row mt-4 -->
+
+
+        </div>
+    
+
+          
+       
+        
+   
+
+ 
    
    <footer class="footer-area">
        

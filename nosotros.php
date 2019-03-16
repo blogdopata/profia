@@ -54,6 +54,7 @@ La filosofía que inspiró la fundación de la USMP se orienta a la búsqueda de
 
 El avance de la ciencia y la tecnología, que se produce de manera cada vez más intensa, representa un constante desafío para toda institución universitaria, a la cual es preciso dar respuestas adecuadas, destinando importantes recursos a la docencia y a la investigación. Una y otra deben estar respaldadas por los más modernos laboratorios y equipos.  <br> <br>
 La vocación de servicio de la Universidad de San Martín de Porres impulsa a la Institución a forjar líderes con una visión integradora, comprometidos con el país y dispuestos a contribuir decisivamente con el progreso y el desarrollo de la sociedad peruana.
+</p>
             </div>
         </div>
     </div>
