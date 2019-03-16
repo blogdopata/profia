@@ -37,10 +37,10 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
- <div class="page-header10 img-fix-position2">
+ <div class="page-header11 img-fix-position2">
         <div class="container">
             <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="col-md-12 col-sm-12 col-12">
                     <div class="page-caption1 d-flex justify-content-center align-items-center" >
                         <h1 class="page-title2 d-flex align-items-center justify-content-center " style="text-align:center;">
                            INGENIERÍA INDUSTRIAL
@@ -64,7 +64,8 @@
                         <a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
             <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>
-                        <a class="nav-item nav-link ult-item" id="nav-proyectos-tab" data-toggle="tab" href="#nav-proyectos" role="tab" aria-controls="nav-proyectos" aria-selected="false">Proyectos</a>
+            
+                        <a class="nav-item nav-link ult-item" id="nav-proyectos-tab" data-toggle="tab" href="#nav-proyectos" role="tab" aria-controls="nav-proyectos" aria-selected="false">Novedades</a>
                        
                       
 					</div>
@@ -190,30 +191,33 @@
                                          <tr>
                                             <td>Formato para proyectos de Investigación</td>
                                             <td align="center">
-                                                <a href="separata/proyectoind.zip"><img src="img/separata.png" border="0"></a>
+                                                <a href="http://www.usmp.edu.pe/ffia/escuelas/industrial/separata/proyectoind.zip"><img src="http://www.usmp.edu.pe/ffia/escuelas/industrial/img/separata.png" border="0"></a>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Bitácora Automatización Industrial 2015-1</td>
                                             <td align="center">
-                                                <a href="separata/BITACORA_2015-1.zip"><img src="img/separata.png" border="0"></a>
+                                                <a href="http://www.usmp.edu.pe/ffia/escuelas/industrial/separata/BITACORA_2015-1.zip"><img src="http://www.usmp.edu.pe/ffia/escuelas/industrial/img/separata.png" border="0"></a>
                                             </td>
                                         </tr>
                                         <tr>
                                          <td>Estilo APA</td>
                                          <td align="center">
-                                             <a href="separata/ESTILO_APA-Guia.pdf"><img src="img/separata.png" border="0"></a>
+                                             <a target="_blank" href="http://www.usmp.edu.pe/ffia/escuelas/industrial/separata/ESTILO_APA-Guia.pdf"><img src="http://www.usmp.edu.pe/ffia/escuelas/industrial/img/separata.png" border="0"></a>
                                          </td>
                                      </tr>
                                  </tbody>
                              </table>
                          </div>
-                         <h2>Proyectos Realizados</h2>
-                         <h4 text align="center">El proyecto de diseño, y fabricación de Faja transportadora Automatizada</h4>
+                         <h2 id="grisfia">PROYECTOS REALIZADOS</h2>
+                            <br>
+                         <h5 id="grisfia" text align="left">El proyecto de diseño, y fabricación de Faja transportadora Automatizada</h5>
+                         <br>
                          <div class="container-fluid">
       <div class="row">
         <div class="col-sm-6">
-            El proyecto de diseño, y fabricación de Faja transportadora Automatizada, con una capacidad apta para simular procesos de transporte de materiales tan utilizados en las plantas Industriales, la cual se encuentra lista a ser proyectada a una escala industrial según los requerimientos actuales.<br><br>
+<p id="justificar">
+El proyecto de diseño, y fabricación de Faja transportadora Automatizada, con una capacidad apta para simular procesos de transporte de materiales tan utilizados en las plantas Industriales, la cual se encuentra lista a ser proyectada a una escala industrial según los requerimientos actuales.<br><br>
 
 
 Permite observar todos los parámetros como: (coeficiente de rozamiento, velocidad, ángulo de inclinación, potencia de motor, material de la faja, ancho y largo de faja, entre otros), necesarios para simular un sistema de transportación de materiales específicos.<br><br>
@@ -222,19 +226,20 @@ Permite observar todos los parámetros como: (coeficiente de rozamiento, velocid
 Las principales actividades desarrolladas fueron: indagación de información, diseño de gabinete, diseño industrial, diseño funcional, plano de ensamble, fabricación de piezas y partes, montaje, instalación y puesta en marcha.<br><br>
 
 El proyecto fue desarrollado por un grupo de alumnos de la Escuela Profesional de Ingeniería Industrial, asesorados por un efectivo staff de profesionales de esta honorable casa de estudios.
+</p>
         </div>
         <div class="col-sm-6">
-            <p align="center"> <img border="0" src="image/proy1_1.jpg"></p><br><br>
-            <p align="center"> <img border="0" src="image/proy1_2.jpg"></p><br><br>
-            <p align="center"><img border="0" src="image/proy1_3.jpg"></p>
+            <p align="center"> <img border="0" class="img-fluid" src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_1.jpg"></p><br><br>
+            <p align="center"> <img border="0" class="img-fluid" src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_2.jpg"></p><br><br>
+            <p align="center"><img border="0"  class="img-fluid"src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_3.jpg"></p>
         </div>
     </div>
   </div><br>
 
-                        <h2>Proyectos Actuales</h2>
+                        <h2 id="grisfia">PROYECTOS ACTUALES</h2>
                                 <div class="container">
-  <h4>PROYECTOS QUE ACTUALMENTE SE REALIZAN EN LOS CURSOS DE PROYECTO FINAL DE INGENIERÍA INDUSTRIAL I Y II</h4>
-  <table class="table">
+  <h5 id="grisfia">Proyectos que actualmente se realizan en los cursos de Proyecto Final de Ingeniería Industrial I y II</h5>
+  <table class="table" style="font-size:14px;color:#585857;">
     <thead>
       <tr>
         <th></th>
@@ -316,20 +321,16 @@ El proyecto fue desarrollado por un grupo de alumnos de la Escuela Profesional d
     </tbody>
   </table>
 </div>
-                                <h2>Laboratorio y Taller</h2>
-                                <ul type="square">
-                                <li type="square">
-                                    <a>Diseño e Implementación de sistemas de planeamiento de Producción.</a><br>
-                                    <a>Software de Seguridad e Higiene Industrial.</a><br>
-                                    <a>Software de Materiales de Ingeniería.</a><br>
-                                    <a>Software de Diseño Industrial asistido por Computadora (CAD).</a><br>
-                                    <a>Software de Simulación de Control Numérico Computarizado(CNC)</a><br>
-                                    <a>Software de Manufactura asistido por Computadora (CAM).</a><br>
-                                    <a>Software de Simulación de Procesos.</a>
+                             
 
-                                </li>
-                            </ul><br>
-                                <h2>Fotos Industrial</h2>
+
+
+                                <!-- Contenido tab Organización fotos de Estudios --> 
+
+
+                  <!--   <div class="tab-pane fade" id="nav-fotos" role="tabpanel" aria-labelledby="nav-fotos-tab">
+                        
+                    <h2>Fotos Industrial</h2>
 
 <h4 text align="center">VISITA A LA FÁBRICA DE AZÚCAR AGRO INDUSTRIAL PARAMONGA S.A</h4>
 
@@ -354,6 +355,11 @@ La visita fue una visita guiada a cargo del Ing. Jorge Calderón, los alumnos vi
       </tr>
   </tbody>
 </table>
+                   
+                </div> -->
+
+                 <!-- FIN Contenido tab Organización fotos de Estudios --> 
+                                
 
   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
 
