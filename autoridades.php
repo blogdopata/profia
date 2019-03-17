@@ -53,7 +53,7 @@
     </div>
 
 
-    <!-- ##### inicio seccion ##### -->
+    <!-- ##### inicio de secciones ##### -->
     <section  class="about-us-area pt-0" style='margin-top:1%' >
         <div  class="container">
             <div class="row">
@@ -70,17 +70,20 @@
 
              </div>
              
-                <div class="col-md-9 tab-content">
+                <div class="col-md-9 tab-content  mb-5"  >
                   <div class="tab-content" id="nav-tabContent">
+
+                  <!--  *************** Primer panel ****************** -->
+
 
                     <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
                         <div id="accordion">
                           <h2 > ÓRGANOS DE DIRECCIÓN</h2>
 
                           <div class="card"  >
-                            <div style="" class="card-header bg-autoridades" id="headingOne">
+                            <div  class="card-header bg-autoridades" id="headingOne">
                               
-                                <button class="btn btn-link btn-color-font" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                <button class="btn btn-link " data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                   DECANO DE LA FACULTAD
                                 </button>
                              
@@ -92,26 +95,28 @@
                                 <br>
                                 <br>
                                 <br>
-                              <center>
-                                  <img style="border-radius:25px;width:20%;" class="img-fluid" src="img\autoridades\ing_luis_cardenas.jpg" alt="decano">
+                              <div class="text-center">
+                                  <img  class="img-fluid w-25" src="img\autoridades\ing_luis_cardenas.jpg" alt="decano">
                                   <br>
                                   <b>Ing. Luis Cárdenas Lucero</b>
                                   <br>
                                   <small>Decano</small>
                                   <address>decanofia@usmp.pe</address>
-                              </center>
+                              </div>
                             </div>
                           </div>
                         </div>
 
+                       
+
 
                         <div class="card">
-                          <div class="card-header" id="headingTwo">
-                            <h5 class="mb-0">
+                          <div class="card-header  bg-autoridades" id="headingTwo">
+                            
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Consejo de Facultad <i class="fas fa-angle-down rotate-icon"></i>
+                                CONSEJO DE LA FACULTAD
                               </button>
-                            </h5>
+                           
                           </div>
                           <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                             <div class="card-body">
@@ -132,13 +137,18 @@
                             </div>
                           </div>
                         </div>
+
+
+                        
+
+
                         <div class="card">
-                          <div class="card-header" id="headingThree">
-                            <h5 class="mb-0">
+                          <div class="card-header  bg-autoridades" id="headingThree">
+                          
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Otros miembros <i class="fas fa-angle-down rotate-icon"></i>
+                                Otros miembros 
                               </button>
-                            </h5>
+                           
                           </div>
                           <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
@@ -168,16 +178,21 @@
                         </div>
                       </div>
                             </div>
+
+
+                            
+    <!--  *************** ORGANOS DE LINEA ****************  -->
+
                             <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
                                 <div id="accordion2">
-                                  <h1>ÓRGANOS DE LÍNEA</h1>
+                                  <h2>ÓRGANOS DE LÍNEA</h2>
                         <div class="card">
-                          <div class="card-header" id="headingFour">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="headingFour">
+                          
                               <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                                Dirección de Escuelas Profesionales <i class="fas fa-angle-down rotate-icon"></i>
+                                Dirección de Escuelas Profesionales 
                               </button>
-                            </h5>
+                           
                           </div>
 
                           <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordion2">
@@ -196,12 +211,12 @@
                           </div>
                         </div>
                         <div class="card">
-                          <div class="card-header" id="headingFive">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="headingFive">
+                           
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                Instituto de Investigación <i class="fas fa-angle-down rotate-icon"></i>
+                                Instituto de Investigación 
                               </button>
-                            </h5>
+                           
                           </div>
                           <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion2">
                             <div class="card-body">
@@ -225,12 +240,12 @@
                           </div>
                         </div>
                         <div class="card">
-                          <div class="card-header" id="headingSix">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="headingSix">
+                            
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                Oficina de Extensión y Proyección Universitaria <i class="fas fa-angle-down rotate-icon"></i>
+                                Oficina de Extensión y Proyección Universitaria 
                               </button>
-                            </h5>
+                           
                           </div>
                           <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
                             <div class="card-body">
@@ -255,12 +270,12 @@
                             </div>
                           </div>
                           <div class="card">
-                          <div class="card-header" id="headingSeven">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="headingSeven">
+                            
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                Sección de Postgrado <i class="fas fa-angle-down rotate-icon"></i>
+                                Sección de Postgrado 
                               </button>
-                            </h5>
+                           
                           </div>
                           <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion2">
                             <div class="card-body">
@@ -279,12 +294,12 @@
 
 
                       <div class="card">
-                          <div class="card-header" id="headingOcho">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="headingOcho">
+                            
                               <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOcho" aria-expanded="true" aria-controls="collapseOcho">
-                                Oficina de Relaciones Internacionales <i class="fas fa-angle-down rotate-icon"></i>
+                                Oficina de Relaciones Internacionales 
                               </button>
-                            </h5>
+                           
                           </div>
 
                           <div id="collapseOcho" class="collapse" aria-labelledby="headingOcho" data-parent="#accordion2">
@@ -307,12 +322,12 @@
                       <div id="accordion3">
                         <h1>ÓRGANOS DE APOYO</h1>
                         <div class="card">
-                          <div class="card-header" id="heading1">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="heading1">
+                            
                               <button class="btn btn-link" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                Secretaría de la Facultad <i class="fas fa-angle-down rotate-icon"></i>
+                                Secretaría de la Facultad 
                               </button>
-                            </h5>
+                           
                           </div>
 
                           <div id="collapse1" class="collapse show" aria-labelledby="heading1" data-parent="#accordion3">
@@ -331,12 +346,12 @@
                           </div>
                         </div>
                         <div class="card">
-                          <div class="card-header" id="heading2">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="heading2">
+                            
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                Departamento Académico <i class="fas fa-angle-down rotate-icon"></i>
+                                Departamento Académico 
                               </button>
-                            </h5>
+                           
                           </div>
                           <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion3">
                             <div class="card-body">
@@ -355,12 +370,12 @@
                           </div>
                         </div>
                         <div class="card">
-                          <div class="card-header" id="heading3">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="heading3">
+                            
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                Coordinación Académica <i class="fas fa-angle-down rotate-icon"></i>
+                                Coordinación Académica 
                               </button>
-                            </h5>
+                           
                           </div>
                           <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion3">
                             <div class="card-body">
@@ -371,47 +386,55 @@
                               Encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas.
                               </p>
                               <br><br>
-                              <div class="card-deck">
-                        <div class="card">
-                          <img class="card-img-top" style="padding:20px;" src="img\autoridades\cardenasmartinez.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <center>
-                            <h5 class="card-title">COORDINADOR TURNO MAÑANA</h5>
-                            <p class="card-text">Mg. José A. Cárdenas Martínez</p>
-                            <p class="card-text"><small style="color:blue;">jcardenasm@usmp.pe</small></p>
-                            </center>
-                          </div>
-                        </div>
-                        <div class="card">
-                          <img class="card-img-top" style="padding:20px;" src="img\autoridades\nasario.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <center>
-                            <h5 class="card-title">COORDINADOR TURNO TARDE</h5>
-                            <p class="card-text">Ing. Ofelia Nazario Bao</p>
-                            <p class="card-text"><small style="color:blue;">onazariob@usmp.pe</small></p>
-                            </center>
-                          </div>
-                        </div>
-                        <div class="card">
-                          <img class="card-img-top" style="padding:20px;" src="img\autoridades\coornoche.jpg" alt="Card image cap">
-                          <div class="card-body">
-                            <center>
-                            <h5 class="card-title">COORDINADOR TURNO NOCHE</h5>
-                            <p class="card-text">Ing. Fredy Adán Castro Salazar</p>
-                            <p class="card-text"><small style="color:blue;">fcastros@usmp.pe</small></p>
-                            </center>
-                          </div>
-                        </div>
+
+                              <div class="card-deck" >
+
+                                <div class="card text-center" >
+                                  <div >
+                                  <img class="card-img-center w-50 text-center img-fluid"  src="img\autoridades\cardenasmartinez.jpg" alt="Card image cap">
+                                  </div>
+                                  <div class="card-body">
+                                    <div class="text-center">
+                                    <h5 class="card-title">COORDINADOR TURNO MAÑANA</h5>
+                                    <p class="card-text">Mg. José A. Cárdenas Martínez</p>
+                                    <p class="card-text"><small style="color:blue;">jcardenasm@usmp.pe</small></p>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="card text-center">
+                                  <div>
+                                    <img class="card-img-top w-50 img-fluid"  src="img\autoridades\Nuevo2.jpg" alt="Card image cap">
+                                  </div>
+                                  <div class="card-body">
+                                    <div class="text-center">
+                                    <h5 class="card-title">COORDINADOR TURNO TARDE</h5>
+                                    <p class="card-text">Ing. nuevo coordinador</p>
+                                    <p class="card-text"><small style="color:blue;">nuevo_cordinadorb@usmp.pe</small></p>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="card text-center">
+                                  <div>
+                                    <img class="card-img-top w-50 img-fluid"  src="img\autoridades\coornoche.jpg" alt="Card image cap">
+                                  </div>
+                                  <div class="card-body">
+                                    <div class="text-center">
+                                    <h5 class="card-title">COORDINADOR TURNO NOCHE</h5>
+                                    <p class="card-text">Ing. Fredy Adán Castro Salazar</p>
+                                    <p class="card-text"><small style="color:blue;">fcastros@usmp.pe</small></p>
+                                    </div>
+                                  </div>
+                                </div>
                       </div>
                             </div>
                           </div>
                           <div class="card">
-                          <div class="card-header" id="heading4">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="heading4">
+                            
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                Oficina Administrativa <i class="fas fa-angle-down rotate-icon"></i>
+                                Oficina Administrativa 
                               </button>
-                            </h5>
+                           
                           </div>
                           <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion3">
                             <div class="card-body">
@@ -441,12 +464,12 @@
                         </div>
 
                         <div class="card">
-                          <div class="card-header" id="heading5">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="heading5">
+                            
                               <button class="btn btn-link" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                Oficina de Grados y Títulos <i class="fas fa-angle-down rotate-icon"></i>
+                                Oficina de Grados y Títulos 
                               </button>
-                            </h5>
+                           
                           </div>
 
                           <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion3">
@@ -471,12 +494,12 @@
                         </div>
 
                         <div class="card">
-                          <div class="card-header" id="heading6">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="heading6">
+                            
                               <button class="btn btn-link" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                                Oficina de Bienestar Universitario <i class="fas fa-angle-down rotate-icon"></i>
+                                Oficina de Bienestar Universitario 
                               </button>
-                            </h5>
+                           
                           </div>
 
                           <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordion3">
@@ -495,12 +518,12 @@
                         </div>
 
                         <div class="card">
-                          <div class="card-header" id="heading7">
-                            <h5 class="mb-0">
+                          <div class="card-header bg-autoridades" id="heading7">
+                            
                               <button class="btn btn-link" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
-                                Oficina de Registros Académicos <i class="fas fa-angle-down rotate-icon"></i>
+                                Oficina de Registros Académicos 
                               </button>
-                            </h5>
+                           
                           </div>
 
                           <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion3">

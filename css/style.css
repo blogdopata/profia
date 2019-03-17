@@ -2433,12 +2433,18 @@ ul.ul-fix-square li{
 .bg-autoridades{
   background-color: #E0134E;
   padding: 0;
+  border-radius: 0 !important;
+
 }
 .btn-color-font{
-  color:white;
+  color:white !important;
 }
 .btn-color-font:hover , .btn-color-font:focus{
   text-decoration: none;
+}
+.btn-link{
+  color:white;
+  font-family:  Roboto !important;
 }
 
 
