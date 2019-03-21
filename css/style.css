@@ -2348,8 +2348,8 @@ height: 40px;
 }
 
 .lisocial a img{
-  height: 20px;
-  width: 20px;
+  height: 15px;
+  width: 15px;
 }
 /*fixeando navbar*/
 
@@ -2445,7 +2445,70 @@ ul.ul-fix-square li{
 .btn-link{
   color:white;
   font-family:  Roboto !important;
+  font-weight: normal;
 }
+
+.font-mode{
+  font-family: "Roboto Condensed";
+ 
+}
+.fontmode-bd{
+  border: 1px solid rgba(0,0,0,.125);
+}
+.text-info-gen{
+  /*font-family: "Roboto Condensed";*/
+  margin-bottom: 40px;
+  font-weight: normal;
+  color:#585857;
+}
+
+.text-link-gen{
+  /*font-family: "Roboto Condensed";*/
+  padding: 0  30px; 
+  background-color: #E0134E;
+  color:white;
+  font-weight: normal;
+  font-size: 20px;
+}
+.text-link-gen:hover{
+    padding: 0  30px; 
+    background-color: #E0134E;
+    color:white;
+    font-weight: normal;
+    font-size: 20px;
+  
+}
+.text-link-gen:focus{
+    padding: 0  30px; 
+    background-color: #E0134E;
+    color:white;
+    font-weight: normal;
+    font-size: 20px;
+  
+}
+.fa-file-pdf-o{
+  color: #E0134E;
+}
+
+
+
+/*estilos segun pedro */
+.titulo-generico{
+    color:#585857 !important;
+    font-size: 20px !important;
+    font-family: "Roboto Condensed";
+}
+.text-fix-style{
+  line-height: 16px !important ;
+  font-family: "Roboto Condensed";
+  text-align: justify !important;
+}
+.titulo-principal{
+  color:#585857 !important;
+   font-size:40px !important;
+   font-family: "Roboto Condensed";
+}
+/*FIN estilos segun pedro */
 
 
 /*  FAcultades - Autoridades */ 
@@ -2616,6 +2679,7 @@ ul.ul-fix-square li{
   color: #fff;
   background-color:  #E0134E !important;
 } 
+
 
 .fixBorder.nav-pills .nav-link{
   border-radius: 0;

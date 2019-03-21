@@ -7,15 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
-
     <!-- Title -->
     <title>Fia USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/logousmp.ico">
-
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
 
 
 
@@ -104,101 +102,89 @@
                   <div class="col-6 col-md-3 text-center">
                       <div class="team-members">
                           <div >
+                              <a href="servicios/actividad_cultural.php">
                               <img class="img-fluid" src="img/prestaciones/cultural.jpg" alt="">
+                              </a>
                           </div>
                         
                       </div>
-                      <a  href="#" target="_blank">Actividades culturales</a>
+                      <a  href="servicios/actividad_cultural.php">Actividades culturales</a>
 
                   </div>
 
 
 
-              </div><!-- //end row mt-4 -->
+            </div><!-- //end row mt-4 -->
 
 
-              <div class="row mt-3">
+            <div class="row mt-3">
 
-<div class="col-6 col-md-3 text-center" >
-    <div class="team-members">
-        <div >
-            <img class="img-fluid" src="img/prestaciones/guia.jpg" alt="">
-        </div>
-      
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                            <img class="img-fluid" src="img/prestaciones/guia.jpg" alt="">
+                        </div>
+                    
+                    </div>
+                    <a href="#"  target=_blank> Guia del esstudiante</a>
+                </div>
+
+
+
+                <div class="col-6 col-md-3 text-center">
+                    <div class="team-members">
+                        <div >
+                            <img class="img-fluid" src="img/prestaciones/topico.JPG" alt="">
+                        </div>
+                    
+                    </div>
+                    <a  href="#" target="_blank" > Enfermería / Tópico</a>
+                </div>
+
+
+                <div class="col-6 col-md-3 text-center">
+                    <div class="team-members">
+                        <div >
+                            <img class="img-fluid" src="img/prestaciones/gimansio.jpg" alt="">
+                        </div>
+                    
+                    </div>
+                    <a  href="#" target="_blank">Gimnasio</a>
+
+                </div>
+
+                <div class="col-6 col-md-3 text-center">
+                    <div class="team-members">
+                        <div >
+                            <img class="img-fluid" src="img/prestaciones/discapacidad.JPG" alt="">
+                        </div>
+                    
+                    </div>
+                    <a href="#" target="_blank">Servicios para discapacitados</a>
+                </div>
+
+
+            </div><!-- //end row mt-4 -->
+
+
+            <div class="row mt-3">
+
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                            <img class="img-fluid" src="img/prestaciones/ferias.jpg" alt="">
+                        </div>
+                    
+                    </div>
+                    <a href="#"  target=_blank> Ferias Laborales</a>
+                </div>
+
+
+            </div><!-- //end row mt-4 -->
+
     </div>
-    <a href="#"  target=_blank> Bienestar Universitario</p>
-</div>
+                                
 
-<div class="col-6 col-md-3 text-center">
-    <div class="team-members">
-        <div >
-            <img class="img-fluid" src="img/prestaciones/bienestar.jpg" alt="">
-        </div>
-      
-    </div>
-    <a href="#" target="_blank"> Bienestar Universitario</a>
-</div>
-
-<div class="col-6 col-md-3 text-center">
-    <div class="team-members">
-        <div >
-            <img class="img-fluid" src="img/prestaciones/topico.JPG" alt="">
-        </div>
-    
-    </div>
-    <a  href="#" target="_blank" > Enfermería / Tópico</a>
-</div>
-
-
-<div class="col-6 col-md-3 text-center">
-    <div class="team-members">
-        <div >
-            <img class="img-fluid" src="img/prestaciones/gimansio.jpg" alt="">
-        </div>
-      
-    </div>
-    <a  href="#" target="_blank">Gimnasio</a>
-
-</div>
-
-
-
-</div><!-- //end row mt-4 -->
-
-
-<div class="row mt-3">
-
-<div class="col-6 col-md-3 text-center" >
-    <div class="team-members">
-        <div >
-            <img class="img-fluid" src="img/prestaciones/ferias.jpg" alt="">
-        </div>
-      
-    </div>
-    <a href="#"  target=_blank> Ferias Laborales</p>
-</div>
-
-<div class="col-6 col-md-3 text-center">
-    <div class="team-members">
-        <div >
-            <img class="img-fluid" src="img/prestaciones/discapacidad.JPG" alt="">
-        </div>
-      
-    </div>
-    <a href="#" target="_blank">Servicios de Discapacidad</a>
-</div>
-
-
-
-
-
-</div><!-- //end row mt-4 -->
-
-
-        </div>
-    
-
-          
        
         
    
@@ -206,7 +192,6 @@
  
    
    <footer class="footer-area">
-       
        <?php include_once('blocks/footer.html') ?>
     </footer>
 

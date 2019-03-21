@@ -146,7 +146,7 @@
                           <div class="card-header  bg-autoridades" id="headingThree">
                           
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Otros miembros 
+                                OTROS MIEMBROS
                               </button>
                            
                           </div>
@@ -224,14 +224,16 @@
                               El Instituto de Investigación de la Facultad de Ingeniería y Arquitectura de la USMP es el organismo encargado de proyectar, coordinar, realizar y promover la investigación en la Facultad, en concordancia con la política general trazada por la Universidad en el área. Tiene además como uno de sus objetivos más importantes proveer o coadyuvar a la formación de investigadores en las especialidades de computación y sistemas, electrónica e ingeniería industrial empleando los recursos con que cuenta la Facultad: profesores, laboratorios, centro de computo, biblioteca, tecnología, etc.
                             </p>
                             <br>
-                            <center class="hoverazul">
-                            <a href="pdf\Instituto_de_Investigacion_FIA.pdf" target="_blank"><i class="fa fa-download" style="color:#6BF01A;font-size:36px;"></i>  Mayor información</a> 
-                            </center>
+                           
                             <br>
-                            <center>
-                              <address style="color:blue;">Dr. Jaime Palacios Olivos <br>
+                            <p>
+                              <address style="color:#585857">Dr. Jaime Palacios Olivos <br>
                                 Director del Instituto de Investigación</address>
-                            </center>
+                            </p>
+
+                           <p>
+                            <a href="pdf\Instituto_de_Investigacion_FIA.pdf" target="_blank"><img src="http://www.usmp.edu.pe/proFIA/img/download.png" alt="">  Mayor información</a> 
+                            </p>
                             <br>
                             <b>Proyectos:</b> <br> <br>
                               <li>Unidad de Investigación y Desarrollo de Proyectos Académicos, de la Escuela Profesional de Ingeniería de Computación y Sistemas.</li>
@@ -263,9 +265,9 @@
                               <br>
                               <br>
                               <center>
-                                <address>Dr. Jefferson López Goycochea <br>
+                                <address>Dr. Carlos Bernal Ortiz <br>
                       Director de la Oficina de Extensión y Proyección Universitaria </address>
-                      <br> <a style="color:blue;" href="">jlopezg@usmp.pe</a>
+                      <br> <a style="color:blue;" href="">cbernalog@usmp.pe</a>
                               </center>
                             </div>
                           </div>
@@ -408,8 +410,8 @@
                                   <div class="card-body">
                                     <div class="text-center">
                                     <h5 class="card-title">COORDINADOR TURNO TARDE</h5>
-                                    <p class="card-text">Ing. nuevo coordinador</p>
-                                    <p class="card-text"><small style="color:blue;">nuevo_cordinadorb@usmp.pe</small></p>
+                                    <p class="card-text">Ing. Edgar Rivera Fabián</p>
+                                    <p class="card-text"><small style="color:blue;">eriveraf@usmp.pe</small></p>
                                     </div>
                                   </div>
                                 </div>

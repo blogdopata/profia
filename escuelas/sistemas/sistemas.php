@@ -30,6 +30,7 @@
 
       <?php include_once('../../blocks/header.html') ?>
 
+
     </header>
     <!-- ##### Header Area End ##### -->
 
@@ -58,15 +59,36 @@
          <div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
 
-                        <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
-
-                        <!-- <a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false"
-                        >Organización Plan de Estudios</a>-->
+                        <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil del Graduado</a>
 						<a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
                         <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Cursos</a>
-                        <a class="nav-item nav-link ult-item" id="imagen" data-toggle="tab" href="#nav-imagen" role="tab" aria-controls="nav-imagen"  aria-selected="false">Imagen Objetivo</a>
+                        <a class="nav-item nav-link" id="imagen" data-toggle="tab" href="#nav-imagen" role="tab" aria-controls="nav-imagen"  aria-selected="false">Imagen Objetivo</a>
+                        <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>
+                        <div style="font-size:14px;" class="nav-item nav-link ult-item encuesta" href="#demo" data-toggle="collapse">
+                            Encuestas
 
-                        <!-- <a class="nav-item nav-link" id="nav-novedades-tab" data-toggle="tab" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>-->
+                            <div id="demo"  class="collapse text-center">
+                                <li><a class="link" style="color:#575758;font-weight:normal;" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUODNSTEpVTlJQSDhHVU80TjlSQTVPWjhFVC4u" target="_blank">Encuesta Docente</a></li>
+                                <li><a class="link" style="color:#575758;font-weight:normal;" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUOTBTRE5VVVE3WFAyR1FRUFlGQTBUMUc4VC4u" target="_blank">Encuesta Alumno</a></li>
+                            </div>
+                        </div>
+                        
+
+
+                        <!-- <a class="nav-item nav-link ult-item" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Encuestas
+                        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" >
+                                <li>
+                                    <a href="">hola</a>
+                                </li>
+                                <li>
+                                    <a href="">hola</a>
+                                </li>
+                        </div>
+                        </a> -->
+      
+                            
+                        
                       
                       
 					</div>
@@ -273,7 +295,7 @@
 
                      <!-- FIN Contenido tab imagen objetivo --> 
 
-                    <!-- Contenido tab Organización plan de Estudios  
+                    <!-- Contenido tab ENCUESTAS
 
 
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab" >
@@ -287,17 +309,12 @@
                        
                     </div>
 
-                      FIN Contenido tab Organización plan de Estudios --> 
+                      FIN Contenido tab ENCUESTAS --> 
 
 
-                     <div class="tab-pane fade" id="nav-novedades" role="tabpanel" aria-labelledby="nav-novedades-tab">
+                     <div class="tab-pane fade" id="nav-eventos" role="tabpanel" aria-labelledby="nav-novedades-tab">
                         
-                        <ol>
-                            <li><a>Áres de Conocimiento </a></li>
-                            <li><a>Nivel de Conocimiento</a></li>
-                            <li><a>Estructura Curricular</a></li>
-                            <li><a>Plan de Estudios</a></li>    
-                        </ol>
+                            <?php include('eventos.php') ?>
                    
                     </div>
 

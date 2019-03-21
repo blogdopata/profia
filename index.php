@@ -13,11 +13,11 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- cambiar a serv-web para  pruebas local-->
-    <link rel="stylesheet" href="css/style.css">
+   <!-- <link rel="stylesheet" href="css/style.css">-->
     
-    <!-- poner url absoluta en cuando este en servidor
+    <!-- poner url absoluta en cuando este en servidor -->
     <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
- -->
+
  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
 
 </head>
@@ -156,7 +156,7 @@
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/">
                             <img  src="img/fia/acreditacion.png" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/"><h4 class="rob">ACREDITACIÒN</h4></a>
+                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/"><h4 class="rob">ACREDITACIÓN</h4></a>
                             </a>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                         <div>
                             <a target="_blank" href="http://ingles.usmp.edu.pe/">
                             <img  src="img/fia/ingles_berlitz.png" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/"><h4 class="rob">INGLÈS BERTLITZ</h4></a>
+                            <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/"><h4 class="rob">INGLÉS BERTLITZ</h4></a>
                             </a>
                         </div>
                     </div>
@@ -256,15 +256,15 @@
                     <div  class="bg-destacado pb-4">
 
                         <div class="img-fix-position"' >
-                            <img src="img/destacado-1.jpg" alt="">
+                            <img src="img/destacado-2.jpg" alt="">
                         </div>
                         <div class="egresado-fix-position">
-                            <h6 class="text-white pb-2">CÉSAR ALFREDO BEZADA SÁNCHEZ</h6>
-                            <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
+                            <h6 class="text-white pb-2">LESLIA TALAVERA GUEVARA</h6>
+                            <span class="bg-white py-1 px-3"> Arquitectura</span>
                             <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
-                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b>Proyectos de Gloria S.A.</b></li>
+                                <li class="mb-2 " >Actualmente dirige la empresa de arquitectura, diseño y construcción <b> Spazioscrea2.</b></li>
                         
-                                <li >Ex-Consultor del <b>Banco Mundial[BIRF]-SINEACE.</b> </li>
+                                <li>Ex Gerente de Proyectos en <b> Álvarez Maza Diseño y Producción E.I.R.L. </b> </li>
                             </ul>
                             
                         </div>
@@ -277,15 +277,15 @@
                     <div  class="bg-destacado pb-4">
 
                         <div class="img-fix-position"' >
-                            <img src="img/destacado-1.jpg" alt="">
+                            <img src="img/destacado-3.jpg" alt="">
                         </div>
                         <div class="egresado-fix-position">
-                            <h6 class="text-white pb-2">CÉSAR ALFREDO BEZADA SÁNCHEZ</h6>
-                            <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
+                            <h6 class="text-white pb-2">SEBASTIAN BURGOS DÍAZ</h6>
+                            <span class="bg-white py-1 px-3"> Ingeniería de Computación y Sistemas</span>
                             <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
-                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b>Proyectos de Gloria S.A.</b></li>
-                        
-                                <li >Ex-Consultor del <b>Banco Mundial[BIRF]-SINEACE.</b> </li>
+                                <li class="mb-2 " >Actualmente labora como Software Architect en <b> Fandango.</b></li>
+                         <br>
+                                <li>Ex Analista y Desarrollador de software en <b>Cinepapaya. </b> </li>
                             </ul>
                   
                         </div>
@@ -326,11 +326,11 @@
                             <span style="font-size:26px;font-weight:bold">MARZO</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Charla: Evalua la adquisición de tu laptop</h6> 
+                            <h6 class="agenda-title">Charla: Evalúa la adquisición de tu laptop</h6> 
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>   <br>
                             <span class="agenda-info">Hora: 09:00 a 14:00 h</span>   <br>
                             <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span>  <br>
-                            <a href="#" class="agenda-text-info">Más información</a>
+                            <a href="https://www.facebook.com/epufia/photos/pcb.2092910370745201/2092906767412228/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
                 </div>
@@ -402,7 +402,7 @@
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
                             <span class="agenda-info">Hora: 09:00 a 11:00 h</span> <br>
                             <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span> <br>
-                            <a href="#" class="agenda-text-info">Más información</a>
+                            <a href="https://www.facebook.com/epufia/photos/a.261123367257253/2100096210026617/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
                 </div>
