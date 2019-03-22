@@ -64,14 +64,9 @@
                         <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Cursos</a>
                         <a class="nav-item nav-link" id="imagen" data-toggle="tab" href="#nav-imagen" role="tab" aria-controls="nav-imagen"  aria-selected="false">Imagen Objetivo</a>
                         <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>
-                        <div style="font-size:14px;" class="nav-item nav-link ult-item encuesta" href="#demo" data-toggle="collapse">
-                            Encuestas
-
-                            <div id="demo"  class="collapse text-center">
-                                <li><a class="link" style="color:#575758;font-weight:normal;" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUODNSTEpVTlJQSDhHVU80TjlSQTVPWjhFVC4u" target="_blank">Encuesta Docente</a></li>
-                                <li><a class="link" style="color:#575758;font-weight:normal;" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUOTBTRE5VVVE3WFAyR1FRUFlGQTBUMUc4VC4u" target="_blank">Encuesta Alumno</a></li>
-                            </div>
-                        </div>
+                        <a class="nav-item nav-link" id="nav-encuestaDoc-tab" data-toggle="tab" href="#nav-encuestoDoc" role="tab" aria-controls="nav-encuestaDoc" aria-selected="false">Encuesta Docentes</a>
+                        <a class="nav-item nav-link ult-item" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a>
+                       
                         
 
 
@@ -293,23 +288,39 @@
                             
                     </div>
 
-                     <!-- FIN Contenido tab imagen objetivo --> 
+                      <!-- Contenido tab Catalogo de Cursos --> 
 
-                    <!-- Contenido tab ENCUESTAS
-
-
-                    <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab" >
-                        
-                            <ol>
-                                <li><a>Áres de Conocimiento </a></li>
-                                <li><a>Nivel de Conocimiento</a></li>
-                                <li><a>Estructura Curricular</a></li>
-                                <li><a>Plan de Estudios</a></li>    
-                            </ol>
-                       
+                    <div class="tab-pane fade" id="nav-encuestaDoc" role="tabpanel" aria-labelledby="nav-encuestaDoc-tab">
+                        <div class="container">
+                            
+                            <h2 id="grisfia">ENCUESTA DOCENTES</h2></br> 
+                        <div class="embed-responsive embed-responsive-16by9">
+                        <embed src="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUODNSTEpVTlJQSDhHVU80TjlSQTVPWjhFVC4u"> 
+                        </div> 
+                        <br>
+                        <br><br>
+                        </div>
+                            
                     </div>
 
-                      FIN Contenido tab ENCUESTAS --> 
+                     <!-- FIN Contenido tab Catalogo de Cursos --> 
+
+                      <!-- Contenido tab Catalogo de Cursos --> 
+
+                    <div class="tab-pane fade" id="nav-encuestaAlu" role="tabpanel" aria-labelledby="nav-encuestaAlu-tab">
+                        <div class="container">
+                            
+                            <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
+                        <div class="">
+                           
+                        </div> 
+                        <br>
+                        <br><br>
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab Catalogo de Cursos --> 
 
 
                      <div class="tab-pane fade" id="nav-eventos" role="tabpanel" aria-labelledby="nav-novedades-tab">

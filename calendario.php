@@ -17,38 +17,7 @@
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="css/style.css">
 
-    <style>
-    .row-striped:nth-of-type(odd){
-  background-color: #efefef;
-  border-left: 4px #000000 solid;
-}
 
-.row-striped:nth-of-type(even){
-  background-color: #ffffff;
-  border-left: 4px grey solid;
-}
-
-.row-striped {
-    padding: 15px 0;
-}
-
-
-ul li a:hover {
-    -webkit-transition-duration: 500ms;
-    transition-duration: 500ms;
-     text-decoration: underline; 
-    outline: 0 solid transparent;
-    color: red;
-    font-weight: 600;
-    font-size: 14px;
-}
-
-ul li {
-    list-style-type:square;
-    margin-left:8px;
-}
-
-    </style>
 
 </head>
 
@@ -58,94 +27,323 @@ ul li {
         <i class="circle-preloader"></i>
     </div>
 
-    <!-- ##### Header Area Start ##### -->
+   
     <header class="header-area">
-
+        
       <?php include_once('blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/fia/nuestra-magic.jpg);">
-        <div class="bradcumbContent">
-            <h3>Calendario de Actividades</h3>
-        </div>
+    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/evaluaciones.jpg');"  >
+     
     </div>
     <!-- ##### Breadcumb Area End ##### -->
-    <br><br>
-    <div style="padding: 1rem 2rem;background-color:#B5DFE3;" class="jumbotron jumbotron-fluid">
-  <div class="container">
-    <h1 class="display-4">Ciclo Regular 2019 - I</h1>
-    <p class="lead">Oficina de Registros Académicos</p>
-  </div>
-</div>
-    
-    <div class="container">
-		<div class="row row-striped">
-			<div class="col-md-3 text-right">
-				<h1 class="display-4"><span class="badge badge-secondary">Ene</span></h1>
-				<h2>2019</h2>
-			</div>
-			<div class="col-md-9">
-				<h3 class="text-uppercase"><strong>Alumnos Regulares</strong></h3>
-				<ul class="list-inline">
-				    <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Enero</li>
-					<li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 29/01/2019</li>
-					<li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> FIA-DATA</li>
-				</ul>
-                <br>
-				<ul>
-                    <li><a target="_blank" href="pdf\calendarioAct\2019\ALUM_REGULARES_2019_I.pdf">Calendario Académico alumnos regulares <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                </ul>
-			</div>
-		</div>
-		<div class="row row-striped">
-			<div class="col-md-3 text-right">
-				<h1 class="display-4"><span class="badge badge-secondary">Ene</span></h1>
-				<h2>2019</h2>
-			</div>
-			<div class="col-md-9">
-				<h3 class="text-uppercase"><strong>Alumnos Ingresantes</strong></h3>
-				<ul class="list-inline">
-				    <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Enero</li>
-					<li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 29/01/2019</li>
-					<li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> FIA-DATA</li>
-				</ul>
-				<br>
-                <ul>
-                    <li><a target="_blank" href="pdf\calendarioAct\2019\directivas_matricula.pdf">Directivas de Matrícula <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                    <li><a target="_blank" href="pdf\calendarioAct\2019\INGRESANTES_2019-1v2.pdf">Calendario Académico alumnos ingresantes <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                    <li><a target="_blank" href="pdf\calendarioAct\2019\GUIA_DE_MATRICULA_PORTAL_ACADEMICO_SAP_2019_I.pdf">Material para ingresantes - Guía de matrícula <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                    <li><a target="_blank" href="pdf\calendarioAct\2019\croquis_FIA.pdf">Croquis FIA <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                </ul>
-			</div>
-		</div>
-        <div class="row row-striped">
-			<div class="col-md-3 text-right">
-				<h1 class="display-4"><span class="badge badge-secondary">Ene</span></h1>
-				<h2>2019</h2>
-			</div>
-			<div class="col-md-9">
-				<h3 class="text-uppercase"><strong>Horarios
-                    <br> Ingresantes-Regulares</strong></h3>
-				<ul class="list-inline">
-				    <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Enero</li>
-					<li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 29/01/2019</li>
-					<li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> FIA-DATA</li>
-				</ul>
-				<br>
-                <ul>
-                    <li><a target="_blank" href="pdf\calendarioAct\horarios2019-1\sistemas.pdf">Ingeniería de Computación y Sistemas <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                    <li><a target="_blank" href="pdf\calendarioAct\horarios2019-1\arquitecturaV2_1.pdf">Arquitectura <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                    <li><a target="_blank" href="pdf\calendarioAct\horarios2019-1\aeronauticas.pdf">Ciencias Aeronáuticas <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                    <li><a target="_blank" href="pdf\calendarioAct\horarios2019-1\civilV2_1.pdf">Ingeniería Civil <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                    <li><a target="_blank" href="pdf\calendarioAct\horarios2019-1\industrial.pdf">Ingeniería Industrial <i style="color:red;" class="fa fa-file-pdf-o"></i></a></li>
-                </ul>
-			</div>
-		</div>
-	</div>
-   <br>
+
+    <!-- ##### Top Popular Courses Area Start ##### -->
+
+    <div class="container" style='margin-top:120px; ' >
+      <div class="row">
+          <div class="col-12">
+                <h5  class="titulo-principal">
+                       CALENDARIO DE ACTIVIDADES
+                </h5>
+            </div>
+        </div> 
+    </div>
+
+
+    <section class="about-us-area mt-4 ">
+        <div class="container">
+            <div class="row">
+                <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
+					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        
+                    
+                        <a class="nav-link active" id="nav-regulares-tab" data-toggle="pill" href="#nav-regulares" role="tab" aria-controls="nav-regulares" aria-selected="true">Alumnos Regulares</a>
+
+                        
+                        <a class="nav-link " id="nav-ingresantes-tab" data-toggle="pill" href="#nav-ingresantes" role="tab" aria-controls="nav-ingresantes" aria-selected="false">Alumnos Ingresantes</a>
+                        
+                        <a class="nav-link  ult-item" id="nav-horarios-tab" data-toggle="pill" href="#nav-horarios" role="tab" aria-controls="nav-horarios" aria-selected="false">Horarios Ingresantes - Regulares</a>
+		
+                     
+
+                        
+                      
+					</div>
+                </nav>
+
+
+                <!-- CONTENIDO TAB  regulares -->
+				<div class="col-md-9 tab-content" id="nav-tabContent " >
+
+					<div class="tab-pane fade show active" id="nav-regulares" role="tabpanel" aria-labelledby="nav-regulares-tab" >
+                    
+                            <div class="row">
+                                <div  class="col-md-12">
+                                    <h3 class="titulo-generico" >
+                                       CICLO REGULAR   2019 - I 
+                                    </h3>
+
+                                   
+                                </div>
+                            </div>
+
+
+
+                            <div class="row  mb-2 mt-3">
+                               
+                                <div class="col-4 col-md-4 font-mode"  >
+                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                        <h5 class="text-info-gen"  >>Ingeniría de Computación y Sistemas</h5>
+                                        <a  href="#" class="text-link-gen">Ver más</a>
+                                       
+                                    </div>
+                                </div>
+
+                               
+                                <div class="col-4 col-md-4 font-mode"  >
+                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                        <h5 class="text-info-gen"  >Inicio de Clases</h5>
+                                        <a  href="#" class="text-link-gen">Directivas</a>
+                                       
+                                    </div>
+                                </div>
+                            
+                                <div class="col-4 col-md-4 font-mode"  >
+                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                        <h5 class="text-info-gen"  >Semana de Exámenes</h5>
+                                        <a  href="#" class="text-link-gen">Recomendaciones</a>
+                                       
+                                    </div>
+                                </div>
+
+                                
+
+                            </div>
+
+                            <div class="row  mb-5 mt-3">
+                              
+                                <div class="col-4 col-md-4 font-mode"  >
+                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                        <h5 class="text-info-gen"  >Ingeniría de Computación y Sistemas</h5>
+                                        <a  href="#" class="text-link-gen">Recomendaciones</a>
+                                       
+                                    </div>
+                                </div>
+
+                               
+                                <div class="col-4 col-md-4 font-mode"  >
+                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                        <h5 class="text-info-gen"  >Devolución de Cuadernillos</h5>
+                                        <a  href="#" class="text-link-gen">Recomendaciones</a>
+                                       
+                                    </div>
+                                </div>
+                            
+                                <div class="col-4 col-md-4 font-mode"  >
+                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                        <h5 class="text-info-gen"  >Prácticas y Exámenes</h5>
+                                        <a  href="#" class="text-link-gen">Cronograma</a>
+                                       
+                                    </div>
+                                </div>
+
+                                
+
+                            </div>
+
+                    
+                         
+
+            
+
+                    </div>               
+               
+                    <!-- FIN CONTENIDO regulares -->
+
+
+                    <!-- Contendio ingresantes -->
+
+				    <div class="tab-pane fade show" id="nav-ingresantes" role="tabpanel" aria-labelledby="nav-ingresantes-tab">
+                  
+                        
+                            <div class="row">
+                                <div  class="col-md-12">
+                                    <h3 class="titulo-generico" >
+                                       Escuela Profesional de ingresantes 
+                                    </h3>
+
+                                    <ul>
+                                        <li> 
+                                            <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                    </ul>
+
+                        
+                                    </p>
+                                </div>
+                            </div>
+                    
+
+
+                    </div>
+
+
+                   <!-- FIN Contendio Tab Perfil ingresantess -->
+
+                   
+
+                    <!-- Contenido tab Organización plan de Estudios --> 
+
+
+                    <div class="tab-pane fade" id="nav-horarios" role="tabpanel" aria-labelledby="nav-horarios-tab">
+                        
+                            <div class="row">
+                                <div  class="col-md-12">
+                                    <h3 class="titulo-generico" >
+                                       Escuela Profesional de Ingeniería horarios
+                                    </h3>
+
+                                    <ul>
+                                        <li> 
+                                            <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                    </ul>
+
+                        
+                                    </p>
+                                </div>
+                            </div>
+                            
+                       
+                    </div>
+
+                     <!-- FIN Contenido tab Organización plan de Estudios --> 
+
+                    
+                    <!-- Contenido tab Organización plan de Estudios --> 
+
+
+                    <div class="tab-pane fade" id="nav-sistemas" role="tabpanel" aria-labelledby="nav-sistemas-tab">
+                        
+                            <div class="row">
+                                <div  class="col-md-12">
+                                    <h3 class="titulo-generico" >
+                                       Escuela Profesional de Ingeniería de Computación y Sistemas
+                                    </h3>
+
+                                    <ul>
+                                        <li> 
+                                            <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                    </ul>
+
+                        
+                                    </p>
+                                </div>
+                            </div>
+                            
+                       
+                    </div>
+
+                     <!-- FIN Contenido tab Organización plan de Estudios --> 
+
+
+                    <!-- INICIO Contenido tab  INDUSTRIAL--> 
+                     <div class="tab-pane fade" id="nav-industrial" role="tabpanel" aria-labelledby="nav-industrial-tab">
+                        
+                         <div class="row">
+                                <div  class="col-md-12">
+                                    <h3 class="titulo-generico" >
+                                       Escuela Profesional de Ingeniería de Industrial
+                                    </h3>
+
+                                    <ul>
+                                        <li> 
+                                            <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                        <li> 
+                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                    </ul>
+
+                        
+                                    </p>
+                                </div>
+                        </div>
+
+                    </div>
+
+                          <!-- INICIO Contenido tab  AERONAUTICAS--> 
+                     <div class="tab-pane fade" id="nav-aeronauticas" role="tabpanel" aria-labelledby="nav-aeronauticas-tab">
+                        
+                        <div class="row">
+                               <div  class="col-md-12">
+                                   <h3 class="titulo-generico" >
+                                      Escuela Profesional de  Ciencias Aeronáuticas
+                                   </h3>
+
+                                   <ul>
+                                       <li> 
+                                           <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
+                                        </li>
+                                       <li> 
+                                           <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        </li>
+                                       <li> 
+                                           <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        </li>
+                                       <li> 
+                                           <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
+                                        </li>
+                                   </ul>
+
+                       
+                                   </p>
+                               </div>
+                       </div>
+                   
+                    </div>
+
+
+            </div>
+    </section>
 
     <footer class="footer-area">
        

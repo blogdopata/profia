@@ -16,7 +16,7 @@
    <!-- <link rel="stylesheet" href="css/style.css">-->
     
     <!-- poner url absoluta en cuando este en servidor -->
-    <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
+    <link rel="stylesheet" href="http://serv-web/Newweb/proFIA/css/style.css">
 
  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
 

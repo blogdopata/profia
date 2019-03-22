@@ -1560,10 +1560,13 @@ padding: 7px;
  /* Fixeando stylos - 
    */ 
 .megamenu{
- /* border: 1px solid #000;*/
-  margin:-25px;
-  /*padding: 0 60px;*/
+  /*border: 20px solid #000;*/
+  max-width: 1500px;
+  z-index:-9999;
+
+ 
 }
+
 .fix-li a{
   color: #017090;
 
@@ -1578,6 +1581,8 @@ padding: 7px;
 .fix-h2{
   font-size: 1.5rem;
 }
+
+
 
 .texto-general {
   line-height:1.5rem;
@@ -1604,11 +1609,28 @@ padding: 7px;
 }
 
 @media only screen and (min-width: 1270px) {
+  .breakpoint-off .classynav ul li:hover .dropdown{
+      z-index:0!important;
+  }
+  
+
+  /* No tocar atte: Victor */ 
   .megamenu{
     /* border: 1px solid #000;*/
      margin:-25px;
      padding: 0 60px;
+     z-index:9991 !important;
+     
    }
+   .breakpoint-off .classynav ul li .megamenu {
+     z-index: 0 !important;
+   }
+   .fix-position-items{
+     left:-50px !important;
+    width:160px !important;
+   }
+   /* Fin No tocar , atte: Victor */ 
+
 }
 
 #azulfia{
@@ -2471,6 +2493,7 @@ ul.ul-fix-square li{
   font-size: 20px;
 }
 .text-link-gen:hover{
+
     padding: 0  30px; 
     background-color: #E0134E;
     color:white;
@@ -2485,11 +2508,8 @@ ul.ul-fix-square li{
     font-weight: normal;
     font-size: 20px;
   
-}
-.fa-file-pdf-o{
-  color: #E0134E;
-}
 
+}
 
 
 /*estilos segun pedro */
@@ -2696,3 +2716,7 @@ ul.ul-fix-square li{
 
 
  /*escuelas */
+
+.fa {
+  color:red;
+}
