@@ -2476,7 +2476,9 @@ ul.ul-fix-square li{
 }
 .fontmode-bd{
   border: 1px solid rgba(0,0,0,.125);
+  height: 200px  !important;
 }
+
 .text-info-gen{
   /*font-family: "Roboto Condensed";*/
   margin-bottom: 40px;
@@ -2657,6 +2659,19 @@ ul.ul-fix-square li{
 
 
  /* FIN  FACULTADES INTITUTOS */
+
+/*  CALENDARIO */
+
+
+
+
+
+
+
+
+
+/* FIN CALENDARIO  */ 
+
 
 
 
