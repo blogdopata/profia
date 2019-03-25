@@ -64,7 +64,7 @@
                         <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Cursos</a>
                         <a class="nav-item nav-link" id="imagen" data-toggle="tab" href="#nav-imagen" role="tab" aria-controls="nav-imagen"  aria-selected="false">Imagen Objetivo</a>
                         <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>
-                        <a class="nav-item nav-link" id="nav-encuestaDoc-tab" data-toggle="tab" href="#nav-encuestoDoc" role="tab" aria-controls="nav-encuestaDoc" aria-selected="false">Encuesta Docentes</a>
+                        <a class="nav-item nav-link" id="nav-encuestaDoc-tab" data-toggle="tab" href="#nav-encuestaDoc" role="tab" aria-controls="nav-encuestaDoc" aria-selected="false">Encuesta Docentes</a>
                         <a class="nav-item nav-link ult-item" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a>
                        
                         
@@ -95,10 +95,10 @@
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
 						
-                        <div class="container">
+                        <div class="container text-fix-style" id="justificar">
                         
                             
-                            <h2 id="grisfia">BIENVENIDOS</h2>
+                            <h5 class="titulo-principal">BIENVENIDOS</h5>
                             
                         
 
@@ -135,19 +135,19 @@
                         <h3 style="line-height:25px;text-align:center;"> Acreditación: <br>“Más que un objetivo... un proceso”</h3>
                        <br>
         
-                         <h2 id="grisfia">MISIÓN</h2>       
+                         <h2 class="titulo-generico">MISIÓN</h2>       
 
                         <p id="justificar">
                             Formar profesionales en la especialidad de Ingeniería de Computación y Sistemas con sólidos valores, competentes y creativos para resolver problemas en el contexto laboral y social; desarrollar habilidades para responder a los cambios y desafíos del entorno; fomentar la investigación aplicada en el desarrollo de sistemas de información; promover actividades de extensión y proyección social que beneficien a la sociedad.
                         </p> 
 
-                         <h2 id="grisfia">VISIÓN</h2>       
+                         <h2 class="titulo-generico">VISIÓN</h2>       
 
                         <p id="justificar">
                             Llegar a ser la mejor Escuela Profesional del país dedicada a la formación de Ingenieros de Computación y Sistemas de clase internacional; con una cultura institucional en la que se fortalezcan los valores; comprometida con la búsqueda constante de la excelencia, el desarrollo integral del estudiante, la investigación y su proyección a la sociedad.
                         </p> 
 
-                        <h2 id="grisfia">OBJETIVOS</h2>      
+                        <h2 class="titulo-generico">OBJETIVOS</h2>      
 
                         <div class="listaperfil2">
                             <li>Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad, que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li>
@@ -157,7 +157,7 @@
                             <li>Ser un profesional comprometido con el aprendizaje continuo para su desarrollo personal a lo largo de toda la vida.</li>
                         </div>
                         <br>
-                        <h2 id="grisfia">RESULTADOS</h2> 
+                        <h2 class="titulo-generico">RESULTADOS</h2> 
 
                         RESULTADOS QUE EL ESTUDIANTE DEBE LOGRAR AL EGRESAR DE LA ESPECIALIDAD DE INGENIERÍA DE COMPUTACIÓN Y SISTEMAS </br> </br>
                         <div class="listaperfil2">
@@ -187,7 +187,7 @@
                     <!-- Contendio Tab Perfil Graduados -->
 
 				   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                       <h2 id="grisfia"> PERFIL DEL GRADUADO DE SISTEMAS</h2>
+                       <h2 class="titulo-principal"> PERFIL DEL GRADUADO DE SISTEMAS</h2>
                             <br>
                     <div class="container">
                         <div class="row">
@@ -196,7 +196,7 @@
 
                            
                                
-                                <h5 id="grisfia">
+                                <h5 class="titulo-generico">
                                     Durante los primeros años después de su graduación, el graduado presentará las siguientes competencias (educational objectives):
                                 </h5>
                                 
@@ -213,7 +213,7 @@
                                     <li>Ser un profesional comprometido con el aprendizaje continuo para su desarrollo personal a lo largo de toda la vida.</li> 
                                 </div>
                                <br>
-                                <h5 id="grisfia">
+                                <h5 class="titulo-generico">
                                     Para el momento de su graduación, el estudiante presentará las siguientes competencias (student outcomes):</br></br>
                                 </h5>
                                 
@@ -231,7 +231,7 @@
                                     <li>Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
                                
                                 <br>
-                                    <a target="_blank" id="grisfia" class="nav-item nav-link" href="http://www.usmp.edu.pe/acreditacionfia/escuelas/sistemas/epics/pdf/IMAGEN_OBJETIVO_ING_COM_SIST.pdf">Imagen Objetivo</a>
+                                    <a target="_blank" style="font-family:Roboto Condensed;" class="nav-item nav-link" href="http://www.usmp.edu.pe/acreditacionfia/escuelas/sistemas/epics/pdf/IMAGEN_OBJETIVO_ING_COM_SIST.pdf">Imagen Objetivo</a>
                                     </div>    
                         </div>
                     </div>        
@@ -243,9 +243,9 @@
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
                     <div class="container-fluid">
                         
-                        <h2 id="grisfia">ORGANIZACIÓN PLAN DE ESTUDIOS</h2></br>   
+                        <h2 class="titulo-principal">ORGANIZACIÓN PLAN DE ESTUDIOS</h2></br>   
                         <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_de_Computacion_y_Sistemas.pdf" id="archivo" allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/proFIA/escuelas/sistemas/pdf/Plan_estudio_sistemas_2019.pdf" id="archivo" allowfullscreen></iframe>
                         </div> 
                         <br>
                         <br>
@@ -260,7 +260,7 @@
                     <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
                         <div class="container">
                             
-                            <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
+                            <h2 class="titulo-principal">CATÁLOGO DE CURSOS</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://www.usmp.edu.pe/ffia/escuelas/sistemas/pdf/6.LIST_OF_COURSES-EPICS.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
@@ -278,7 +278,7 @@
                     <div class="tab-pane fade" id="nav-imagen" role="tabpanel" aria-labelledby="nav-imagen-tab">
                         <div class="container">
                             
-                            <h2 id="grisfia">IMAGEN OBJETIVO</h2></br> 
+                            <h2 class="titulo-principal">IMAGEN OBJETIVO</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://www.usmp.edu.pe/acreditacionfia/escuelas/sistemas/epics/pdf/IMAGEN_OBJETIVO_ING_COM_SIST.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
@@ -293,8 +293,9 @@
                     <div class="tab-pane fade" id="nav-encuestaDoc" role="tabpanel" aria-labelledby="nav-encuestaDoc-tab">
                         <div class="container">
                             
-                            <h2 id="grisfia">ENCUESTA DOCENTES</h2></br> 
-                        <div class="embed-responsive embed-responsive-16by9">
+                            <h2 class="titulo-principal">ENCUESTA DOCENTES</h2></br> 
+                            
+                            <div class="embed-responsive embed-responsive-16by9">
                         <embed src="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUODNSTEpVTlJQSDhHVU80TjlSQTVPWjhFVC4u"> 
                         </div> 
                         <br>
@@ -310,9 +311,9 @@
                     <div class="tab-pane fade" id="nav-encuestaAlu" role="tabpanel" aria-labelledby="nav-encuestaAlu-tab">
                         <div class="container">
                             
-                            <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
-                        <div class="">
-                           
+                        <h5 class="titulo-principal">ENCUESTA ALUMNOS</h5></br>
+                        <div class="embed-responsive embed-responsive-16by9">
+                        <embed src="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUOTBTRE5VVVE3WFAyR1FRUFlGQTBUMUc4VC4u"> 
                         </div> 
                         <br>
                         <br><br>

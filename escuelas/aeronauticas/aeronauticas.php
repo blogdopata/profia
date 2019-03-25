@@ -15,7 +15,7 @@
     <link rel="icon" href="http://www.usmp.edu.pe/proFIA/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
 
  
 
@@ -30,7 +30,7 @@
     <!-- ##### Header Area Start ##### -->
     <header class="header-area">
 
-      <?php include_once('../../blocks/header.html') ?>
+      <?php include('../../blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
@@ -59,7 +59,7 @@
 					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                         
                     
-                        <a class="nav-link active" id="nav-bienvenidos-tab" data-toggle="pill" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
+                        <a class="nav-link active" id="nav-escuela-tab" data-toggle="pill" href="#nav-escuela" role="tab" aria-controls="nav-escuela" aria-selected="true">Escuela</a>
 
                         
                         <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
@@ -76,47 +76,12 @@
                 </nav>
 
 
-                <!-- CONTENIDO TAB  BIENVENIDOS -->
+                <!-- CONTENIDO TAB ESCUELA -->
 				<div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
-					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
+					<div class="tab-pane fade show active" id="nav-escuela" role="tabpanel" aria-labelledby="nav-escuela-tab">
                     
-                    <div class="row">
-                        <div id="letracursiva" class="col-md-12">
-						<h2 id="grisfia">BIENVENIDOS</h2>
-                        
-                        <p id="justificar">
-                            La Escuela Profesional de Arquitectura (EPA) inicia sus actividades en marzo de 2001, ese mismo año se organiza el evento denominado ARQUIFORO. Arquitectos para el futuro, como espacio de debate y transmisión de experiencias respecto de métodos de enseñanza en las escuelas de arquitectura.
-                        </p>
-                  
-                        <p id="justificar">
-                            Siguiendo este interés académico en el 2004 se inicia la publicación semestral de la revista Bocetos, la que pretende generar debate y reflexión respecto de lo que hace la escuela para contrastarlo con lo que ocurre en el campo arquitectónico contemporáneo, con énfasis en el contexto sudamericano. En el 2006 se organiza el evento denominado Arquitectura Actual, como espacio de reflexión sobre la práctica profesional de arquitectos relevantes del ámbito sudamericano.
-                        </p>
-                      
-                        <p id="justificar">
-                            En el 2008 la EPA gestiona la visita de un par evaluador, el arquitecto Hans Fox Timmling, coordinador para los programas nacionales e internacionales de acreditación del RIBA (Royal Institute of British Architects) para Latinoamérica, quien elabora un informe preliminar sobre la visita y finalmente un informe de pre-factibilidad de acreditación internacional RIBA.
-                            Como resultado de esta visita sumada a las experiencias académicas y profesionales transmitidas por los invitados a los eventos antes mencionados, en el año 2011 se implementa un nuevo plan de estudios, plan que sigue vigente a la fecha.
-                        </p>
-                      
-                        <p id="justificar">
-                            Escuela perteneciente a la : Facultad de Ingeniería y Arquitectura
-                        </p>  
-                        </div>
-                        <br><br>
-                        <div>
-                            <div id="letracursiva" class="col-md-12">
-                        <h2 id="grisfia">MISIÓN</h2>
-                        <p id="justificar">
-                        Formar profesionales integros y competentes;capaces de enfrentar los desafíos presentes y futuros de la disciplina, de responder creativamente a las necesidades y exigencias del hábitat, con una actitud de responsabilidad con la sociedad y en armonía con el medio ambiente, vinculando la enseñanza con la investigación.
-                        </p>
-                       <br>
-                        <h2 id="grisfia">VISIÓN</h2>
-                        <p id="justificar">
-                        Ser una Escuela Profesional reconocidad como referente de calidad académica en el país y la región, por fomentar un espacio crítico y propositivo para nuestra comunidad de estudiantes y docentes. Contribuir al desarrollo de nuestras ciudades con el aporte y rigor profesional de sus titulados.
-                        </p>
-                        </div>
-                        </div>
-                    </div>  
+                   <?php include('escuela.php') ?>
                     
                         
                       

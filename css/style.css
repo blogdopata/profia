@@ -1676,20 +1676,23 @@ padding: 7px;
     }
 
     div.listaperfil li{
-        font-family: arial;
+        font-family: "Roboto Condensed";
         list-style-type:decimal;
         font-size:14px;
         color:#606060;
-        text-align: justify;
+        text-align: justify !important;
+        line-height: 16px !important ;
       
     }
 
     div.listaperfil2 li{
-      font-family: arial;
+      
       list-style-type:square;
       font-size:14px;
       color:#606060;
-      text-align: justify;
+      line-height: 16px !important ;
+      font-family: "Roboto Condensed";
+      text-align: justify !important;
   }
 
   div.listaperfil3 li{
