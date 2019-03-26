@@ -17,6 +17,8 @@
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="css/style.css">
 
+
+
 </head>
 
 <body>
@@ -25,88 +27,155 @@
         <i class="circle-preloader"></i>
     </div>
 
-    <!-- ##### Header Area Start ##### -->
+   
     <header class="header-area">
-
+        
       <?php include_once('blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/fia/nuestra-magic.jpg);">
-        <div class="bradcumbContent">
-            <h2>Reglamentos Generales</h2>
-        </div>
+    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/planes.jpg');"  >
+     
+    </div>
+    <!-- ##### Breadcumb Area End ##### -->
+
+    <!-- ##### Top Popular Courses Area Start ##### -->
+
+    <div class="container" style='margin-top:120px; ' >
+      <div class="row">
+          <div class="col-12">
+                <h5  class="titulo-principal">
+                  REGLAMENTOS 
+                </h5>
+            </div>
+        </div> 
     </div>
     <!-- ##### Breadcumb Area End ##### -->
     
-    <br>
-    <br>
-    <br>
-    <br>
-    <div class="col-md-12">
-                    <div class="section-heading text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
-                        <span>Oficina de Registros Académicos</span>
-                        <h3>Facultad de Ingeniería y Arquitectura</h3>
-                    </div>
+
+    <div class="container">
+
+        <div class="row  mb-2 mt-3">
+                               
+            <div class="col-3 col-md-3 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas de Compromiso de Excepción </h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+            
+            <div class="col-3 col-md-3 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas de Reserva de Matrícula</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+        
+            <div class="col-3 col-md-3 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas de Retiro de Ciclo</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-3 col-md-3 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas de Retiro de Curso</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+                               
+
+        </div>
+
+        <div class="row  mb-5 mt-3">
+            
+            <div class="col-3 col-md-3 font-mode"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas de Examen de Subsanación</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+            
+            <div class="col-3 col-md-3 font-mode"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas del Curso de Nivelación</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-3 col-md-3 font-mode"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Reglamentos de Registros Académicos</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-3 col-md-3 font-mode"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Reglamentos de Evalucación del Aprendizaje </h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row  mb-5 mt-3">
+            
+            <div class="col-3 col-md-3 font-mode"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas de Examen de Subsanación</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+            
+            <div class="col-3 col-md-3 font-mode"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas del Curso de Nivelación</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-3 col-md-3 font-mode"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Reglamentos de Evaluación</h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-3 col-md-3 font-mode"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Reglamentos de Evalucación del Aprendizaje </h5>
+                    <a  href="#" class="text-link-gen">Ver más</a>
+                    
+                </div>
+            </div>
+
+        </div>
+
+
+
     </div>
 
-   
-    <section style="background-color:lavender;padding-top:20px;padding-bottom:20px;">
-        <div class="page-full clearfix" style="border:solid 1px grey;border-radius:6px;box-shadow:2px 2px 3px grey;">
 
-			<!-- Mostrando los Artículos -->
-				<div class='art-page-full clearfix'>
 
-				                    <header class="st-header">
-				                    	<h1>Reglamentos</h1>
-                                    </header>
 
-                                        <section class="st-content">
-                                        <dl>
-
-                                        <?php  include("popuplegal/directivas/comprExcepcion.php") ?>    
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal5" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Directivas de Compromiso de Excepción</span></a></dt>
-
-                                        <?php  include("popuplegal/directivas/reservaMatricula.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal6" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Directivas de Reserva de Matrícula  </span></a></dt>
-
-                                        <?php  include("popuplegal/directivas/retiroCiclo.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal7" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Directivas de Retiro de Ciclo</span></a></dt>
-                                        
-                                        <?php  include("popuplegal/directivas/retiroCurso.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal8" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Directivas de Retiro de Cursos</span></a></dt>
-
-                                        <?php  include("popuplegal/directivas/examSubsanacion.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal9" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Directivas del Examen de Subsanación</span></a></dt>
-
-                                        <?php  include("popuplegal/directivas/nivelacion.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal10" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Directivas del Curso de Nivelación</span></a></dt>
-
-                                        <?php  include("popuplegal/reglamentos/regAcademicos.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal2" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Reglamento de Registros Académicos</span></a></dt>
-
-                                        <?php  include("popuplegal/reglamentos/evalAprendizaje.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal3" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Reglamento de Evaluación del Aprendizaje</span></a></dt>
-
-                                        <?php  include("popuplegal/reglamentos/convAsignaturas.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal4" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Reglamento de Convalidación de Asignaturas</span></a></dt>
-
-                                        <?php  include("popuplegal/normas/reactualizacionMatricula.php") ?>
-                                        <dt><a href="" data-toggle="modal" data-target="#miModal" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Normas para Reactualización de Matrícula</span></a></dt>
-
-                                        </dl>
-                                        </section>
-				</div>
-							
-		     <!-- Fin de los artículos -->
-		</section>
-    <br>
-    <center>
-<hr style="width:98%;">
-    </center>
-   <br>
 
     <footer class="footer-area">
        

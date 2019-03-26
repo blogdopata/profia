@@ -17,11 +17,8 @@
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="css/style.css">
 
-<style>
-.fa-download:hover:before {
-    color:blue;
-}
-</style>
+
+
 </head>
 
 <body>
@@ -30,79 +27,130 @@
         <i class="circle-preloader"></i>
     </div>
 
-    <!-- ##### Header Area Start ##### -->
+   
     <header class="header-area">
-
+        
       <?php include_once('blocks/header.html') ?>
 
     </header>
+    <!-- ##### Header Area End ##### -->
 
-     <!-- ##### Breadcumb Area Start ##### -->
-    <div class="breadcumb-area bg-img" style="background-image: url(img/bg-img/fiadir.jpg);height:370px;">
-        <div class="bradcumbContent">
-            <h2>Planes de Estudio</h2>
-        </div>
+ <!-- ##### Breadcumb Area Start ##### -->
+    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/planes.jpg');"  >
+     
     </div>
     <!-- ##### Breadcumb Area End ##### -->
+
+    <!-- ##### Top Popular Courses Area Start ##### -->
+
+    <div class="container" style='margin-top:120px; ' >
+      <div class="row">
+          <div class="col-12">
+                <h5  class="titulo-principal">
+                     PLAN DE ESTUDIOS 
+                </h5>
+            </div>
+        </div> 
+    </div>
+
+    <!-- ##### Breadcumb Area End ##### -->
 <br>
-    <div class="container text-center" style="padding-top:90px;">
+
+    <div class="container text-center" style="padding-top:10px;">
     <div class="table-responsive-md table-responsive-sm">
         <table class="table table-bordered">
-                <caption>Planes de Estudios 2019 - I</caption>
+                
   <thead>
-    <tr>
+    <tr  style="background-color:#e0134e">
       
-      <th style="background-color:#017090;color:white;" scope="col">Escuela Profesional</th>
-      <th style="background-color:#017090;color:white;" scope="col">Plan de estudio</th>
+      <th class="text-left" style="color:white;" scope="col">Escuela Profesional</th>
+      <th style="color:white;" scope="col">Plan de estudio</th>
+      <th style="color:white;" scope="col">Malla Curricular</th>
+      <th style="color:white;" scope="col">Tabla de Equivalencias</th>
       
     </tr>
   </thead>
   <tbody>
     <tr>
       
-      <td>Ingeniería de Computación y Sistemas</td>
+      <td class="text-left">Ingeniería de Computación y Sistemas</td>
       <td>
           <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
-      
-    </tr>
-    <tr>
-      
-      <td>Ingeniería Industrial</td>
       <td>
           <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
+      <td>
+          -
+      </td>
       
     </tr>
     <tr>
       
-      <td>Ingeniería Civil</td>
+      <td class="text-left">Ingeniería Industrial</td>
+      <td>
+          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+          <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
+          </a>  
+      </td>
+      <td>
+          -
+      </td>
+      <td>
+          -
+      </td>
+      
+    </tr>
+    <tr>
+      
+      <td class="text-left">Ingeniería Civil</td>
       <td>
           <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>    
      </td>
+     <td>
+          -
+      </td>
+      <td>
+          -
+      </td>
+    </tr>
+     <tr>
+      
+      <td class="text-left">Arquitectura</td>
+      <td>
+          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+          <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
+          </a>  
+      </td>
+      <td>
+          -
+      </td>
+      <td>
+          -
+      </td>
       
     </tr>
      <tr>
       
-      <td>Arquitectura</td>
+      <td class="text-left">Ciencias Aeronáuticas</td>
       <td>
           <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
-      
-    </tr>
-     <tr>
-      
-      <td>Ciencias Aeronáuticas</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+        <a  target="_blank" href="#.pdf">
+          <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
+          </a>  
+      </td>
+      <td>
+        <a  target="_blank" href="#.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
@@ -111,69 +159,8 @@
   </tbody>
         </table>
 
-        <br><br>
+    
 
-         <table class="table table-bordered">
-                <caption>Malla Curricular - EPICS 2019-I</caption>
-  <thead>
-    <tr>
-      
-      <th style="background-color:#017090;color:white;" scope="col">Escuela Profesional</th>
-      <th style="background-color:#017090;color:white;" scope="col">Malla Curricular</th>
-      
-      
-      
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      
-      <td>Ingeniería de Computación y Sistemas</td>
-      <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
-          <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
-          </a>  
-      </td>
-     
-      
-    </tr>
-  
-  </tbody>
-        </table>
-
-        <br><br>
-
-         <table class="table table-bordered">
-                <caption>Malla Curricular y Tabla de Equivalencia - EPCA 2019</caption>
-  <thead>
-    <tr>
-      
-      <th style="background-color:#017090;color:white;" scope="col">Escuela Profesional</th>
-      <th style="background-color:#017090;color:white;" scope="col">Malla Curricular</th>
-      <th style="background-color:#017090;color:white;" scope="col">Tabla de Equivalencia</th>
-      
-      
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      
-      <td>Ciencias Aeronáuticas</td>
-      <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
-          <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
-          </a>  
-      </td>
-       <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
-          <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
-          </a>  
-      </td>
-      
-    </tr>
-  
-  </tbody>
-        </table>
         
     </div>
 
