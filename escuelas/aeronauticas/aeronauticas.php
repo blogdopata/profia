@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
- <div class="page-header8 img-fix-position2">
+ <div class="page-header12 img-fix-position2">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
@@ -62,14 +62,26 @@
                         <a class="nav-link active" id="nav-escuela-tab" data-toggle="pill" href="#nav-escuela" role="tab" aria-controls="nav-escuela" aria-selected="true">Escuela</a>
 
                         
-                        <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
+                        <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil profesional</a>
+
+                        <a class="nav-link " id="nav-campo-tab" data-toggle="pill" href="#nav-campo" role="tab" aria-controls="nav-campo" aria-selected="false">Campo ocupacional</a>
+
+                        <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
                         
+                        <a class="nav-link " id="nav-faq-tab" data-toggle="pill" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
+
                         <a class="nav-link" id="nav-organizacion-tab" data-toggle="pill" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
                         <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>
 
 
-                        <a class="nav-link ult-item" id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>
+                        <a class="nav-link" id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>
+
+                        <a class="nav-link " data-toggle="pill" data-target="#contacto" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">
+                        <li data-toggle="modal" data-target="#contacto">Contacto</li>
+                        </a>
+
+                        <a class="nav-link ult-item" id="nav-enlaces-tab" data-toggle="pill" href="#nav-enlaces" role="tab" aria-controls="nav-enlaces" aria-selected="false">Enlaces de Interés</a>
                     
                       
 					</div>
@@ -93,60 +105,115 @@
 
 				    <div class="tab-pane fade show" id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
                        
-                       <h2 id="grisfia">PERFIL DEL GRADUADO DE ARQUITECTURA </h2>
-                            <br>
+                       
+                       
                     <div class="container ">
                                 
-                                <h5 id="grisfia">
-                                    Competencias Cognitivas
-                                </h5>
-                                <div class="listaperfil">
-                                    <li>Aplica el análisis y la síntesis, la inducción y la deducción, y el enfoque sistémico, entre otros, como estrategias generales de adquisición del conocimiento.</li>
-                                    <li>Utiliza el pensamiento crítico, al analizar los diferentes contextos, fuentes de información y hechos de la realidad.</li>
-                                    <li>Realiza investigaciones, relacionadas con su profesión, bajo la guía de un profesional de mayor experiencia</li>
-                                    <li>Aplica adecuadamente estrategias metacognitivas, lo que lo capacita para el aprendizaje autónomo para toda la vida (Aprender a aprender).</li>
-                                </div>
+                                
+                                <div class="listaperfil2 ">
+
+                                <p class="text-fix-style">El Licenciado en Ciencias Aeronáuticas utilizará el conocimiento y habilidades obtenidos en el programa, para:</p>
+
+                               
+                                <li>Gestionar de manera eficiente las diferentes operaciones de negocios aeronáuticos.</li>
+                                <li>Gestionar empresas de transporte aéreo.</li>
+                                <li>Gestionar las operaciones en aeropuertos.</li>
+                                <li>Manejar sistemas e instrumentos aeronáuticos de última generación.</li>
+                                <li>Operar aeronaves de pasajeros y carga de manera segura.</li>
+                                <li>Comprender la responsabilidad profesional y temas éticos, legales, de seguridad y sociales.</li>
+                                <li>Aplicar el uso de herramientas y tecnología moderna necesaria en la operación de las actividades de un profesional de la aviación.</li>
+                                <li>Formar parte de la reserva de la aviación militar del Perú.</li>
                                 
                                 <br>
 
-                                <h5 id="grisfia">
-                                    Competencias Instrumentales
-                                </h5>
-                               <div class="listaperfil">
-                                    <li>Planifica y organiza eficazmente sus actividades y el tiempo dedicado a ellas.</li>
-                                    <li>Se comunica asertivamente en idioma español.</li>
-                                    <li>Comunica ideas básicas de la vida cotidiana y de su profesión, en idioma inglés (inglés intermedio).</li>
-                                    <li>Utiliza eficazmente las nuevas tecnologías de la información y la comunicación.</li>
-                                    <li>Resuelve de manera creadora los problemas profesionales y personales a los que se enfrenta</li>
-                                    <li>Lidera y participa activamente en equipos de trabajo, se compromete con las tareas y logros de los mismos</li>
-                                    <li>Elabora y gestiona proyectos de diversa índole, vinculados a su profesión.</li>
-                                </div>
-                                <br>
-                                <h5 id="grisfia">
-                                    Competencias Específicas
-                                </h5>
-                                <div class="listaperfil">
-                                    <li>Formula ideas y las transforma en creaciones arquitectónicas de acuerdo con los principios de composición, percepción visual y espacial.</li>
-                                    <li>Imagina, crea e innova en el proceso de diseño de la arquitectura y el urbanismo.</li>
-                                    <li>Conoce y aplica los métodos de investigación para resolver con creatividad las demandas del hábitat humano, en diferentes escalas y complejidades.</li>
-                                    <li>Percibe, concibe y maneja el espacio en sus tres dimensiones y en las diferentes escalas.</li>
-                                    <li>Responde con la arquitectura a las condiciones bioclimáticas, paisajísticas y topográficas de cada región.</li>
-                                    <li>Elabora y aplica la normativa legal y técnica necesaria para la materialización del proyecto arquitectónico.</li>
-                                    <li>Diseña sistemas de cerramiento, cubierta y demás obra gruesa.</li>
-                                    <li>Diseña sistemas de división interior, carpintería, escaleras y demás obra acabada.</li>
-                                    <li>Interviene, conserva, restaura y rehabilita el patrimonio construido</li>
-                                    <li>Domina los medios y herramientas para comunicar de forma oral, escrita, gráfica y/o volumétrica las ideas y proyectos, tanto urbanos como arquitectónicos.</li>
-                                    <li>Aplica los procedimientos gráficos a la representación de espacios y objetos.</li>
-                                    <li>Proyecta obras de arquitectura y/o urbanismo que satisfagan integralmente los requerimientos del ser humano, la sociedad y su cultura, adaptándose al contexto.</li>
-                                    <li>Desarrolla proyectos urbano-arquitectónicos, que garanticen un desarrollo sostenible y sustentable en lo ambiental, social, cultural y económico.</li>
-                                    <li>Define la tecnología, los sistemas estructurales y constructivos apropiados a las demandas del proyecto arquitectónico y al contexto local.</li>
-                                    <li>Conoce, se sensibiliza y compromete frente a los temas del debate arquitectónico actual – local y global.</li>
+                                <b id="grisfia" class="text-fix-style">Grados y Títulos que se otorgan :</b> <br><br>
+
+                                <li>Grados : Bachiller en Ciencias Aeronáuticas.</li>
+                                <li>Título : Licenciado en Ciencias Aeronáuticas.</li>
+                                    
                                 </div>
                             
                         </div>
                        
                     </div>
                    <!-- FIN Contendio Tab Perfil Graduados -->
+
+
+                    <!-- Contendio Tab CAMPO OCUPACIONAL -->
+
+				    <div class="tab-pane fade show" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
+                       
+                       
+                       
+                       <div class="container ">
+                                   
+                                   
+                                   <div class="listaperfil2 ">
+   
+                                   <p class="text-fix-style">El profesional en Ciencias Aeronáuticas, podrá desempeñarse en los campos ocupacionales siguientes:</p>
+   
+                                  
+                                   <li>Gerencia de empresas de transporte aéreo.</li>
+                                   <li>Gerencia de aeropuertos.</li>
+                                   <li>Gestionar cualquier área funcional o gerencia general de empresas comerciales.</li>
+                                   <li>Piloto al mando de aerolíneas de transporte de pasajeros y de carga.</li>
+                                   <li>Gerencia de operaciones.</li>
+                                   <li>Docencia.</li>
+                                  
+                                  
+                                       
+                                   </div>
+                               
+                           </div>
+                          
+                       </div>
+                      <!-- FIN Contendio Tab CAMPO OCUPACIONAL -->
+
+
+
+                      <!-- Contenido tab CAMPUS --> 
+
+                    <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
+                        <div class="container">
+
+                        <?php include('modales.php') ?>
+
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab CAMPUS --> 
+
+
+                     <!-- Contenido tab FAQ --> 
+
+                    <div class="tab-pane fade" id="nav-faq" role="tabpanel" aria-labelledby="nav-faq-tab">
+                        <div class="container">
+
+                        <?php include('preguntasfrec.php') ?>
+
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab FAQ --> 
+
+
+
+                      <!-- Contenido tab enlaces interes --> 
+
+                    <div class="tab-pane fade" id="nav-enlaces" role="tabpanel" aria-labelledby="nav-enlaces-tab">
+                        <div class="container">
+
+                        <?php include('enlaces.php') ?>
+
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab enlaces interes --> 
+
+
 
                         <!-- Contenido tab Catalogo de Cursos --> 
 
@@ -196,6 +263,42 @@
                     </div>
 
                      <!-- FIN Contenido tab Organización plan de Estudios --> 
+
+
+
+                       <!-- Contenido tab CONTACTO --> 
+
+
+                       <div class="modal fade"  id="contacto" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" >
+  <div class="modal-dialog" role="dialog">
+    <div class="modal-content" style="width:700px;" >
+      <div class="modal-header" style="background-color:#E0134E;" >
+       
+        <h3 class="modal-title text-white text-fix-style "  style="margin: 0 auto;" id="myModalLabel">
+                            
+            CONTÁCTENOS
+            
+        </h3>
+        <button type="button" style="color:white;position: absolute; 
+  right: 1rem;" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;
+          </span>
+        </button>
+      </div>
+      <div class="modal-body text-fix-style" style="background:#c9c8c8; display:flex; flex-direction:row; justify-content: center; flex-wrap: wrap;">
+        <p class="text-center"><b>Dirección </b>
+        <br> Av. La Fontana N°1250 Urb. Santa Patricia - La Molina<br>Telf : (511) 208-6000 anexo 1150. 
+        </p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d820.2071498860477!2d-76.94219704513758!3d-12.072068981581344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x393610bdc506718b!2sFacultad+de+Ingenieria+y+Arquitectura!5e0!3m2!1ses-419!2spe!4v1466452752619" width="800" height="300" frameborder="0" style="border:0" allowfullscreen>
+        </iframe>
+       
+      </div>
+     
+    </div>
+  </div>
+</div>      
+    
+                         <!-- FIN Contenido tab CONTACTO --> 
 
 
 

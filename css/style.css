@@ -39,7 +39,7 @@ src: url("http://www.usmp.edu.pe/proFIA/fonts/roboto.woff2");
 
 body {
   /*font-family: "Montserrat", sans-serif; xq usaste monserrat */
-  font-family: "Roboto Condensed", sans-serif; xq usaste monserrat 
+  font-family: "Roboto Condensed", sans-serif; xq usaste monserrat : NO LO SE :V 
   font-size: 14px; }
 
 h1,
@@ -1352,6 +1352,14 @@ background-repeat: no-repeat;
 .page-header10 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/sistemas/sistemas.jpg)no-repeat; position: relative; background-size: cover; }        
 .page-header11 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/industrial/industrialv.jpg)no-repeat; position: relative; background-size: cover; }        
 
+.page-header12 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/aeronauticas/aeronauticas.png)no-repeat; position: relative; background-size: cover; }        
+
+
+/*PRESTACIONES*/
+.page-header13 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/actcultural.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header14 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/actBienestar.jpg)no-repeat; position: relative; background-size: cover; }        
+/*FIN DE LOS BANNERS DE PRESTACIONES */
+
 .page-caption1 { padding-top: 170px; padding-bottom: 174px; }
 
 .page-title2 { 
@@ -1711,13 +1719,12 @@ padding: 7px;
 		font-weight:bold;
 		color:#585857;
 	  }
-    p a.hoverarqui{
-      color:#017090;
-      margin-left:20px;
+     li a.hoverarqui{
+      font-weight: bold;
     }
-    p a.hoverarqui:hover {
+    li a.hoverarqui:hover {
       text-decoration: underline;
-      
+      transition:2s;
     }
     .arquiforoimg{
       margin-top:10px;
@@ -2738,3 +2745,265 @@ ul.ul-fix-square li{
 .fa {
   color:red;
 }
+
+
+/* estilos copiados de EPCA :V*/
+@media (max-width: 767px) { 
+  .campus{
+    
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+  }
+  .cont-campus{
+    background-image: url(../images/fondo3.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    align-content:center;
+  
+  }
+  .cont-campus p{
+    width: 100%;
+    margin-top: 2%;
+    text-align: center;
+    color: #3b5972;
+    font-size: 1.3em;
+  }
+  .cont-campus img{
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+  }
+  .campus iframe{
+    width: 100%;
+    height: 250px;
+  }
+  .pregunta{
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:flex-start;
+    flex-wrap:wrap;
+    margin-bottom: 4%;
+  
+  }
+  .preg{
+    width: 90%;
+    margin-top: 25px;
+    font-size: 0.9em;
+    color: #2a3d51;
+  }
+  .respuesta{
+    text-align: justify;
+    color: #3b5972;
+    font-size:0.9em;
+    width: 100%;
+    margin-top: 5px;
+  }
+  }
+  
+  
+  
+  
+  @media (min-width: 768px) and (max-width: 992px) {
+  .campus{
+    
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+  }
+  .cont-campus{
+    background-image: url(../images/fondo3.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    align-content:center;
+  
+  }
+  .cont-campus p{
+    width: 100%;
+    margin-top: 2%;
+    text-align: center;
+    color: #3b5972;
+    font-size: 1.6em;
+  }
+  .cont-campus img{
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+  }
+  .campus iframe{
+    width: 100%;
+    height: 340px;
+  }
+  .pregunta{
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:flex-start;
+    flex-wrap:wrap;
+    margin-bottom: 4%;
+  
+  }
+  .preg{
+    margin-top: 25px;
+    font-size: 1.2em;
+    width: 100%;
+    color: #2a3d51;
+  }
+  .respuesta{
+    color: #3b5972;
+    font-size:1em;
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  }
+  
+  
+  
+  @media (min-width: 993px) and (max-width: 1200px) {
+  .campus{
+    
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+  }
+  .cont-campus{
+    background-image: url(../images/fondo3.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    align-content:center;
+  
+  }
+  .cont-campus p{
+    width: 100%;
+    margin-top: 2%;
+    text-align: center;
+    color: #3b5972;
+    font-size: 1.8em;
+  }
+  .cont-campus img{
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+  }
+  .campus iframe{
+    width: 100%;
+    height: 400px;
+  }
+  .pregunta{
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:flex-start;
+    flex-wrap:wrap;
+    margin-bottom: 4%;
+  
+  }
+  .preg{
+    margin-top: 25px;
+    font-size: 1.2em;
+    width: 100%;
+    color: #2a3d51;
+  }
+  .respuesta{
+    color: #3b5972;
+    font-size:1em;
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  }
+  
+  
+  
+  
+  
+  
+  @media (min-width: 1201px) {
+  .campus{
+    
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+  }
+  .cont-campus{
+    background-image: url(../images/fondo3.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    align-content:center;
+    
+  
+  }
+  .cont-campus div{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    align-content:center;
+  }
+  .cont-campus p{
+    width: 100%;
+    margin-top: 2%;
+    text-align: center;
+    color: #3b5972;
+    font-size: 2em;
+  }
+  .cont-campus img{
+    margin-top: 5%;
+    margin-bottom: 5%;
+  
+  
+  }
+  .campus iframe{
+    width: 100%;
+    height: 450px;
+  }
+  .pregunta{
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:flex-start;
+    flex-wrap:wrap;
+    margin-bottom: 4%;
+  
+  }
+  .preg{
+    margin-top: 25px;
+    font-size: 1.2em;
+    width: 100%;
+    color: #2a3d51;
+  }
+  .respuesta{
+    color: #3b5972;
+    font-size:1em;
+    width: 100%;
+    margin-top: 5px;
+    text-align: justify;
+  }
+  
+  }
+  
+  
+/**FIN /

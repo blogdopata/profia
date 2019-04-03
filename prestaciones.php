@@ -81,11 +81,13 @@
                   <div class="col-6 col-md-3 text-center">
                       <div class="team-members">
                           <div >
+                          <a href="servicios/bienestar.php">
                               <img class="img-fluid" src="img/prestaciones/bienestar.jpg" alt="">
+                          </a>                              
                           </div>
                         
                       </div>
-                      <a href="#" target="_blank"> Bienestar Universitario</a>
+                      <a href="servicios/bienestar.php" target="_blank"> Bienestar Universitario</a>
                   </div>
 
                   <div class="col-6 col-md-3 text-center">

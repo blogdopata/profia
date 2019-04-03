@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/planes.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/reglamentos.jpg');"  >
      
     </div>
     <!-- ##### Breadcumb Area End ##### -->

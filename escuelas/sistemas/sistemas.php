@@ -41,7 +41,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-caption1 d-flex justify-content-center align-items-center" >
                         <h1 class="page-title2 d-flex align-items-center justify-content-center " style="text-align:center;">
-                           INGENIERÍA DE COMPUTACIÓN Y SISTEMAS
+                           ING. DE COMPUTACIÓN Y SISTEMAS
                         </h1>
                     </div>
                 </div>
@@ -295,7 +295,7 @@
                             
                             <h2 class="titulo-principal">ENCUESTA DOCENTES</h2></br> 
                             
-                            <div class="embed-responsive embed-responsive-16by9">
+                            <div class="embed-responsive embed-responsive-1by1">
                         <embed src="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUODNSTEpVTlJQSDhHVU80TjlSQTVPWjhFVC4u"> 
                         </div> 
                         <br>
@@ -312,7 +312,7 @@
                         <div class="container">
                             
                         <h5 class="titulo-principal">ENCUESTA ALUMNOS</h5></br>
-                        <div class="embed-responsive embed-responsive-16by9">
+                        <div class="embed-responsive embed-responsive-1by1">
                         <embed src="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUOTBTRE5VVVE3WFAyR1FRUFlGQTBUMUc4VC4u"> 
                         </div> 
                         <br>

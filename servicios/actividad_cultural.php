@@ -28,21 +28,21 @@
     <!-- ##### Header Area Start ##### -->
     <header class="header-area">
 
-      <?php include('/../blocks/header.html') ?>
+      <?php include('../blocks/header.html') ?>
 
 
     </header>
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### banner ##### -->
- <div class="page-header10 img-fix-position2">
+ <div class="page-header13 img-fix-position2">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-caption1 d-flex justify-content-center align-items-center" >
-                        <h1 class="page-title2 d-flex align-items-center justify-content-center " style="text-align:center;">
-                           INGENIERÍA DE COMPUTACIÓN Y SISTEMAS
-                        </h1>
+                        <!-- <h1 class="page-title2 d-flex align-items-center justify-content-center " style="text-align:center;">
+                           
+                        </h1> -->
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@
 
      <footer class="footer-area">
        
-       <?php include('/../blocks/footer.html') ?>
+       <?php include('../blocks/footer.html') ?>
     </footer>
 
     <!-- ##### All Javascript Script ##### -->
