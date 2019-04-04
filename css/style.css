@@ -1358,6 +1358,7 @@ background-repeat: no-repeat;
 /*PRESTACIONES*/
 .page-header13 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/actcultural.jpg)no-repeat; position: relative; background-size: cover; }        
 .page-header14 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/actBienestar.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header15 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/banner_topico.jpg)no-repeat; position: relative; background-size: cover; }        
 /*FIN DE LOS BANNERS DE PRESTACIONES */
 
 .page-caption1 { padding-top: 170px; padding-bottom: 174px; }
@@ -1738,6 +1739,29 @@ padding: 7px;
       line-height: unset;
     }
 
+/* Styles Contenido Escuelas  --- Victor */ 
+    .text-fix-content{
+      text-align:justify !important;
+      line-height: unset;
+      font-family: "Roboto Condensed";
+      font-size: 15.9px;
+
+    }
+    .subname-title{
+        color: #585857;
+        font-weight: bold;
+        font-family: "Roboto Condensed";
+        font-size: 18px;
+    }
+    .subtitles-content{
+         color: #585857;
+        font-weight: bold;
+        font-family: "Roboto Condensed";
+        font-size: 22px;
+    }
+
+
+/* Styles Contenido Escuels  ----  Victor */     
     #letracursiva{
       font-family: Arial;
     }
@@ -3007,3 +3031,378 @@ ul.ul-fix-square li{
   
   
 /**FIN /
+
+
+/*boton modales*/
+
+@media (max-width: 768px) { 
+.aeronave{
+	background-color: rgba(52,73,94,0.4);
+	display: flex;
+	flex-direction:row;
+	justify-content:space-between;
+	align-items:stretch;
+	align-content:stretch;
+	flex-wrap:nowrap;
+
+
+}
+.dividel{
+  text-align: center;
+  background-image: linear-gradient(220deg, transparent, #f7b234, transparent);
+  height: 2px;
+  width: 90%;
+ margin-bottom: 2%;
+}
+.cont-aeronave{
+	background-image: url(../images/fondo3.jpg);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+	text-align: center;
+}
+.cont-aeronave div{
+	margin-bottom: 4%;
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+}
+.cont-aeronave span{
+	font-size: 1.5em;
+	color: #3b5972;
+	margin-top: 3%;
+}
+.cont-aeronave p{
+	font-size: 0.9em;
+	color: #3b5972;
+	
+}
+.cont-aeronave img{
+	width: 80%;
+	border-radius: 15px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+
+.contenaero{
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	width:90%; 
+    height:auto;
+    
+}
+.img-aero{
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	background: none;
+
+}
+.img-m{
+    border: 5px white;
+    border-radius: 10px;
+    border-style: solid;
+    width: 90%;
+    height: 70%;
+
+}
+.pie-ae{
+    margin: 0;
+    border: 0;
+    background: none;
+}
+
+
+}
+
+
+
+
+
+
+@media (min-width: 769px) and (max-width: 992px) {
+.aeronave{
+	background-color: rgba(52,73,94,0.4);
+	display: flex;
+	flex-direction:row;
+	justify-content:space-between;
+	align-items:stretch;
+	align-content:stretch;
+	flex-wrap:nowrap;
+
+
+}
+.dividel{
+  text-align: center;
+  background-image: linear-gradient(220deg, transparent, #f7b234, transparent);
+  height: 2px;
+  width: 90%;
+ margin-bottom: 2%;
+}
+.cont-aeronave{
+	background-image: url(../images/fondo3.jpg);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+	text-align: center;
+}
+.cont-aeronave div{
+	margin-bottom: 4%;
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+}
+.cont-aeronave span{
+	font-size: 1.8em;
+	color: #3b5972;
+	margin-top: 3%;
+}
+.cont-aeronave p{
+	font-size: 1em;
+	color: #3b5972;
+	
+}
+.cont-aeronave img{
+	width: 80%;
+	border-radius: 15px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+
+.contenaero{
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	width:90%; 
+    height:auto;
+    
+}
+.img-aero{
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	background: none;
+
+}
+.img-m{
+    border: 12px white;
+    border-radius: 10px;
+    border-style: solid;
+    width: 95%;
+    height: 100%;
+
+}
+.pie-ae{
+    margin: 0;
+    border: 0;
+    background: none;
+}
+
+
+}
+
+
+
+
+
+
+@media (min-width: 993px) and (max-width: 1200px) {
+.aeronave{
+	background-color: rgba(52,73,94,0.4);
+	display: flex;
+	flex-direction:row;
+	justify-content:space-between;
+	align-items:stretch;
+	align-content:stretch;
+	flex-wrap:nowrap;
+
+
+}
+.dividel{
+  text-align: center;
+  background-image: linear-gradient(220deg, transparent, #f7b234, transparent);
+  height: 2px;
+  width: 90%;
+ margin-bottom: 2%;
+}
+.cont-aeronave{
+	background-image: url(../images/fondo3.jpg);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+	text-align: center;
+}
+.cont-aeronave div{
+	margin-bottom: 4%;
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+}
+.cont-aeronave span{
+	font-size: 1.8em;
+	color: #3b5972;
+	margin-top: 3%;
+}
+.cont-aeronave p{
+	font-size: 1.2em;
+	color: #3b5972;
+	
+}
+.cont-aeronave img{
+	width: 80%;
+	border-radius: 15px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+
+.contenaero{
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	width:90%; 
+    height:auto;
+    
+}
+.img-aero{
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	background: none;
+
+}
+.img-m{
+    border: 12px white;
+    border-radius: 10px;
+    border-style: solid;
+    width: 80%;
+    height: 70%;
+
+}
+.pie-ae{
+    margin: 0;
+    border: 0;
+    background: none;
+}
+
+
+}
+
+
+
+
+
+@media (min-width: 1201px) {
+.aeronave{
+	background-color: rgba(52,73,94,0.4);
+	display: flex;
+	flex-direction:row;
+	justify-content:space-between;
+	align-items:stretch;
+	align-content:stretch;
+	flex-wrap:nowrap;
+
+
+}
+.dividel{
+  text-align: center;
+  background-image: linear-gradient(220deg, transparent, #f7b234, transparent);
+  height: 2px;
+  width: 90%;
+ margin-bottom: 2%;
+}
+.cont-aeronave{
+	background-image: url(../images/fondo3.jpg);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+	text-align: center;
+}
+.cont-aeronave div{
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	margin-bottom: 4%;
+}
+.cont-aeronave span{
+	font-size: 1.8em;
+	color: #3b5972;
+	margin-top: 3%;
+}
+.cont-aeronave p{
+	font-size: 1.2em;
+	color: #3b5972;
+	
+}
+.cont-aeronave img{
+	width: 80%;
+	border-radius: 15px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+
+.contenaero{
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	width:60%; 
+    height:auto;
+    
+}
+.img-aero{
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	background: none;
+
+}
+.img-m{
+    border: 12px white;
+    border-radius: 10px;
+    border-style: solid;
+    width: 100%;
+    height: 70%;
+
+}
+.pie-ae{
+    margin: 0;
+    border: 0;
+    background: none;
+}
+
+
+}
+
+
+.btn-vermas{
+  background-color:#E0134E !important;
+  border-radius:unset !important;
+  outline:none;
+  color:white !important;
+  font-family: "Roboto Condensed" !important;
+}
+/*boton modales*/

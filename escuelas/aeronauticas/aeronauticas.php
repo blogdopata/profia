@@ -66,6 +66,8 @@
 
                         <a class="nav-link " id="nav-campo-tab" data-toggle="pill" href="#nav-campo" role="tab" aria-controls="nav-campo" aria-selected="false">Campo ocupacional</a>
 
+                        <a class="nav-link " id="nav-equipos-tab" data-toggle="pill" href="#nav-equipos" role="tab" aria-controls="nav-equipos" aria-selected="false">Equipos</a>
+
                         <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
                         
                         <a class="nav-link " id="nav-faq-tab" data-toggle="pill" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
@@ -191,6 +193,20 @@
                         <div class="container">
 
                         <?php include('preguntasfrec.php') ?>
+
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab FAQ --> 
+
+
+                      <!-- Contenido tab FAQ --> 
+
+                    <div class="tab-pane fade" id="nav-equipos" role="tabpanel" aria-labelledby="nav-equipos-tab">
+                        <div class="container">
+
+                        <?php include('equipos.php') ?>
 
                         </div>
                             

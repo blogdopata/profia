@@ -59,19 +59,29 @@
 					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                         
                     
-                        <a class="nav-link active" id="nav-bienvenidos-tab" data-toggle="pill" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
+                        <a class="nav-link active" id="nav-bienvenidos-tab" data-toggle="pill" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Escuela</a>
 
                         
-                        <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
+                        <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Información Académica</a>
                         
-                        <a class="nav-link" id="nav-organizacion-tab" data-toggle="pill" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
+                        <a class="nav-link" id="nav-organizacion-tab" data-toggle="pill" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Perfil Profesional</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
-                        <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>
+                        <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Campo Ocupacinal</a>
 
 
-                        <a class="nav-link ult-item" id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>
+                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Laboratorios</a>
+
+                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Servicios Y Beneficios</a>
+
+                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Graduados exitosos</a>
+
+                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Preguntas frecuentes</a>
                     
-                      
+                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Campus</a>
+
+                        <a class="nav-link ult-item" id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Admisión</a>
+
+                       
 					</div>
                 </nav>
 
@@ -82,30 +92,42 @@
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
                     
                     <div class="row">
-                        <div id="letracursiva" class="col-md-12">
-						<h2 id="grisfia">BIENVENIDOS</h2>
-                        
-                        <p id="justificar">
-                            La Escuela Profesional de Arquitectura (EPA) inicia sus actividades en marzo de 2001, ese mismo año se organiza el evento denominado ARQUIFORO. Arquitectos para el futuro, como espacio de debate y transmisión de experiencias respecto de métodos de enseñanza en las escuelas de arquitectura.
-                        </p>
-                  
-                        <p id="justificar">
-                            Siguiendo este interés académico en el 2004 se inicia la publicación semestral de la revista Bocetos, la que pretende generar debate y reflexión respecto de lo que hace la escuela para contrastarlo con lo que ocurre en el campo arquitectónico contemporáneo, con énfasis en el contexto sudamericano. En el 2006 se organiza el evento denominado Arquitectura Actual, como espacio de reflexión sobre la práctica profesional de arquitectos relevantes del ámbito sudamericano.
+                        <div  class="col-md-12">
+					
+                            <div class="row">
+
+                                <div class="col-8" >
+                                    <p class="text-fix-content  subname-title">
+                                         DIRECTOR DE ESCUELA EPA / DR. ARQ. GORKI MESONES VARGAS
+                                    </p> 
+
+                                    <p class="text-fix-content">
+                                    Estimados miembros de la comunidad universitaria de la Facultad de Ingeniería y Arquitectura (FIA) de la Universidad de San Martín de Porres, en nombre de la Escuela Profesional de Arquitectura; deseo darles una cordial bienvenida a nuestro portal y a través de él, poder estar informados de las actividades que desarrollamos en la FIA. 
+                                    </p>
+
+                                    <p class="text-fix-content">
+                                    La Escuela Profesional de Arquitectura tiene 18 años de funcionamiento y un sinnúmero de egresados que se encuentran en el mercado laboral trabajando al interior del país como en el entorno internacional, con gran éxito, prestigiando nuestra institución.
+                                    </p>
+
+                                </div>
+
+                                <div class="col-4" >
+                                    <figure>
+                                            <img src="images/gorki_mesones.jpg" alt="">
+
+                                    </figure>
+
+                                </div>
+                            </div>
+                        <hr>
+                        <p class="text-fix-content">
+                        La Arquitectura es fusión del arte y las ciencias, cuyo contenido básicamente son las tecnologías que, mediante el diseño se aplicara en construcción de edificaciones. Los arquitectos egresados de la EPA, de la Universidad de San Martín de Porres, es un profesional que posee un conjunto de competencias, actitudes y valores, que lo califica para desarrollar soluciones de toda clase de obras y estudios de infraestructuras, factibles y sustentables, social y ambientalmente compatibles.
                         </p>
                       
-                        <p id="justificar">
-                            En el 2008 la EPA gestiona la visita de un par evaluador, el arquitecto Hans Fox Timmling, coordinador para los programas nacionales e internacionales de acreditación del RIBA (Royal Institute of British Architects) para Latinoamérica, quien elabora un informe preliminar sobre la visita y finalmente un informe de pre-factibilidad de acreditación internacional RIBA.
-                            Como resultado de esta visita sumada a las experiencias académicas y profesionales transmitidas por los invitados a los eventos antes mencionados, en el año 2011 se implementa un nuevo plan de estudios, plan que sigue vigente a la fecha.
-                        </p>
                       
-                        <p id="justificar">
-                            Escuela perteneciente a la : Facultad de Ingeniería y Arquitectura
-                        </p>  
-                        </div>
-                        <br><br>
-                        <div>
-                            <div id="letracursiva" class="col-md-12">
-                        <h2 id="grisfia">MISIÓN</h2>
+                     
+                       
+                        <h3 class="subtitles-content">MISIÓN</h3>
                         <p id="justificar">
                         Formar profesionales integros y competentes;capaces de enfrentar los desafíos presentes y futuros de la disciplina, de responder creativamente a las necesidades y exigencias del hábitat, con una actitud de responsabilidad con la sociedad y en armonía con el medio ambiente, vinculando la enseñanza con la investigación.
                         </p>
@@ -114,8 +136,7 @@
                         <p id="justificar">
                         Ser una Escuela Profesional reconocidad como referente de calidad académica en el país y la región, por fomentar un espacio crítico y propositivo para nuestra comunidad de estudiantes y docentes. Contribuir al desarrollo de nuestras ciudades con el aporte y rigor profesional de sus titulados.
                         </p>
-                        </div>
-                        </div>
+                        
                     </div>  
                     
                         

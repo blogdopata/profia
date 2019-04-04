@@ -128,7 +128,7 @@
                         </div>
                     
                     </div>
-                    <a href="#"  target=_blank> Guia del esstudiante</a>
+                    <a href="#"  target=_blank> Guia del estudiante</a>
                 </div>
 
 
@@ -136,11 +136,13 @@
                 <div class="col-6 col-md-3 text-center">
                     <div class="team-members">
                         <div >
+                        <a href="servicios/topico.php">
                             <img class="img-fluid" src="img/prestaciones/topico.JPG" alt="">
+                        </a>
                         </div>
                     
                     </div>
-                    <a  href="#" target="_blank" > Enfermería / Tópico</a>
+                    <a  href="servicios/topico.php" target="_blank" > Enfermería / Tópico</a>
                 </div>
 
 
@@ -158,11 +160,13 @@
                 <div class="col-6 col-md-3 text-center">
                     <div class="team-members">
                         <div >
+                        <a href="http://www.usmp.edu.pe/ffia/files/calendario2017/Discapacidad_Enfermedad_Alumnos.pdf" target="_blank">
                             <img class="img-fluid" src="img/prestaciones/discapacidad.JPG" alt="">
+                        </a>
                         </div>
                     
                     </div>
-                    <a href="#" target="_blank">Servicios para discapacitados</a>
+                    <a href="http://www.usmp.edu.pe/ffia/files/calendario2017/Discapacidad_Enfermedad_Alumnos.pdf" target="_blank">Servicios para discapacitados</a>
                 </div>
 
 
