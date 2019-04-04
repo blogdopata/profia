@@ -1760,7 +1760,39 @@ padding: 7px;
         font-size: 22px;
     }
 
+    .text-fix-list{
+      margin-left:14px;
+    }
+    .text-fix-list li{
+      color: #585857;
+      font-weight: normal;
+      font-family: "Roboto Condensed";
+      font-size: 15.9px !important;
+      list-style-type:decimal !important;
+      text-align: justify !important;
+      /*border: 1px solid #000;*/
+      margin: 0  0 10px 0;
+      
+    }
+    ul.fix-items-li{
+      margin: 0  0 0 14px;
+      font-family: "Roboto Condensed";
+       color: #585857;
+      text-align: justify;
+    }
+    ul.fix-items-li li{
+      list-style-type:disc !important;
+      font-family: "Roboto Condensed";
+       color: #585857;
+      text-align: justify;
+     
+    }
 
+   
+      
+    
+       
+      
 /* Styles Contenido Escuels  ----  Victor */     
     #letracursiva{
       font-family: Arial;

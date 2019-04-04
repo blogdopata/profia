@@ -60,7 +60,8 @@
                         
                     
                         <a class="nav-link active" id="nav-escuela-tab" data-toggle="pill" href="#nav-escuela" role="tab" aria-controls="nav-escuela" aria-selected="true">Escuela</a>
-
+                        
+                        <a class="nav-link" id="nav-infacad-tab" data-toggle="pill" href="#nav-infacad" role="tab" aria-controls="nav-infacad" aria-selected="true">Información Académica</a>
                         
                         <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil profesional</a>
 
@@ -68,16 +69,13 @@
 
                         <a class="nav-link " id="nav-equipos-tab" data-toggle="pill" href="#nav-equipos" role="tab" aria-controls="nav-equipos" aria-selected="false">Equipos</a>
 
-                        <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
-                        
+                        <a class="nav-link " id="nav-instructor-tab" data-toggle="pill" href="#nav-instructor" role="tab" aria-controls="nav-instructor" aria-selected="false">Instructores</a>
+
                         <a class="nav-link " id="nav-faq-tab" data-toggle="pill" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
 
-                        <a class="nav-link" id="nav-organizacion-tab" data-toggle="pill" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
-						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
-                        <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>
+                        <a class="nav-link " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
 
-
-                        <a class="nav-link" id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>
+                        <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
                         <a class="nav-link " data-toggle="pill" data-target="#contacto" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">
                         <li data-toggle="modal" data-target="#contacto">Contacto</li>
@@ -100,7 +98,24 @@
                         
                       
                     </div>
-                    <!-- FIN CONTENIDO BIENVENIDOS -->
+                    <!-- FIN CONTENIDO ESCUELA -->
+
+
+                     <!-- Contenido tab INF ACADEMICA --> 
+
+                     <div class="tab-pane fade" id="nav-infacad" role="tabpanel" aria-labelledby="nav-infacad-tab">
+                        <div class="container" style="display:flex;align-items: center;justify-content: center;">
+
+                        
+                            <img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">
+                        
+
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab INF ACADEMICA --> 
+                    
 
 
                     <!-- Contendio Tab Perfil Graduados -->
@@ -178,13 +193,14 @@
                     <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
                         <div class="container">
 
-                        <?php include('modales.php') ?>
+                        <?php include('../../blocks/modales.php') ?>
 
                         </div>
                             
                     </div>
 
                      <!-- FIN Contenido tab CAMPUS --> 
+
 
 
                      <!-- Contenido tab FAQ --> 
@@ -201,7 +217,7 @@
                      <!-- FIN Contenido tab FAQ --> 
 
 
-                      <!-- Contenido tab FAQ --> 
+                      <!-- Contenido tab EQUIPOS --> 
 
                     <div class="tab-pane fade" id="nav-equipos" role="tabpanel" aria-labelledby="nav-equipos-tab">
                         <div class="container">
@@ -212,7 +228,21 @@
                             
                     </div>
 
-                     <!-- FIN Contenido tab FAQ --> 
+                     <!-- FIN Contenido tab EQUIPOS--> 
+
+
+                      <!-- Contenido tab INSTRUCTORES --> 
+
+                    <div class="tab-pane fade" id="nav-instructor" role="tabpanel" aria-labelledby="nav-instructor-tab">
+                    <div class="container" style="display:flex;align-items: center;justify-content: center;">
+                        
+                        <img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">
+
+                    </div>    
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab INSTRUCTORES--> 
 
 
 
@@ -286,33 +316,33 @@
 
 
                        <div class="modal fade"  id="contacto" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" >
-  <div class="modal-dialog" role="dialog">
-    <div class="modal-content" style="width:700px;" >
-      <div class="modal-header" style="background-color:#E0134E;" >
-       
-        <h3 class="modal-title text-white text-fix-style "  style="margin: 0 auto;" id="myModalLabel">
+                        <div class="modal-dialog" role="dialog">
+                            <div class="modal-content" style="width:700px;" >
+                            <div class="modal-header" style="background-color:#E0134E;" >
                             
-            CONTÁCTENOS
-            
-        </h3>
-        <button type="button" style="color:white;position: absolute; 
-  right: 1rem;" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;
-          </span>
-        </button>
-      </div>
-      <div class="modal-body text-fix-style" style="background:#c9c8c8; display:flex; flex-direction:row; justify-content: center; flex-wrap: wrap;">
-        <p class="text-center"><b>Dirección </b>
-        <br> Av. La Fontana N°1250 Urb. Santa Patricia - La Molina<br>Telf : (511) 208-6000 anexo 1150. 
-        </p>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d820.2071498860477!2d-76.94219704513758!3d-12.072068981581344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x393610bdc506718b!2sFacultad+de+Ingenieria+y+Arquitectura!5e0!3m2!1ses-419!2spe!4v1466452752619" width="800" height="300" frameborder="0" style="border:0" allowfullscreen>
-        </iframe>
-       
-      </div>
-     
-    </div>
-  </div>
-</div>      
+                                <h3 class="modal-title text-white text-fix-style "  style="margin: 0 auto;" id="myModalLabel">
+                                                    
+                                    CONTÁCTENOS
+                                    
+                                </h3>
+                                <button type="button" style="color:white;position: absolute; 
+                        right: 1rem;" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;
+                                </span>
+                                </button>
+                            </div>
+                            <div class="modal-body text-fix-style" style="background:#c9c8c8; display:flex; flex-direction:row; justify-content: center; flex-wrap: wrap;">
+                                <p class="text-center"><b>Dirección </b>
+                                <br> Av. La Fontana N°1250 Urb. Santa Patricia - La Molina<br>Telf : (511) 208-6000 anexo 1150. 
+                                </p>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d820.2071498860477!2d-76.94219704513758!3d-12.072068981581344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x393610bdc506718b!2sFacultad+de+Ingenieria+y+Arquitectura!5e0!3m2!1ses-419!2spe!4v1466452752619" width="800" height="300" frameborder="0" style="border:0" allowfullscreen>
+                                </iframe>
+                            
+                            </div>
+                            
+                            </div>
+                        </div>
+                        </div>      
     
                          <!-- FIN Contenido tab CONTACTO --> 
 

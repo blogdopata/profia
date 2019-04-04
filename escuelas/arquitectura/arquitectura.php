@@ -55,31 +55,33 @@
     <section class="about-us-area mt-50 section-padding-100">
         <div class="container">
          <div class="row">
-                <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
+                <nav class="col-md-3 menu-tabs " style="position:fixed margin-bottom:20px;">
 					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                         
                     
                         <a class="nav-link active" id="nav-bienvenidos-tab" data-toggle="pill" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Escuela</a>
 
                         
-                        <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Información Académica</a>
+                        <a class="nav-link " id="nav-infoacademica-tab" data-toggle="pill" href="#nav-infoacademica" role="tab" aria-controls="nav-infoacademica" aria-selected="false">Información Académica</a>
                         
-                        <a class="nav-link" id="nav-organizacion-tab" data-toggle="pill" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Perfil Profesional</a>
+                        <a class="nav-link" id="nav-perfilprof-tab" data-toggle="pill" href="#nav-perfilprof" role="tab" aria-controls="nav-perfilprof" aria-selected="false">Perfil Profesional</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
-                        <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Campo Ocupacinal</a>
+                        
+                        <a class="nav-link" id="nav-campo-tab" data-toggle="pill" href="#nav-campo" role="tab" aria-controls="nav-campo" aria-selected="false">Campo Ocupacional</a>
+
+                        <a class="nav-link" id="nav-convenios-tab" data-toggle="pill" href="#nav-convenios" role="tab" aria-controls="nav-convenios" aria-selected="false">Convenios</a>
 
 
-                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Laboratorios</a>
+                        <a class="nav-link " id="nav-laboratorio-tab" data-toggle="pill" href="#nav-laboratorio" role="tab" aria-controls="nav-laboratorio" aria-selected="false">Laboratorios</a>
 
-                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Servicios Y Beneficios</a>
+                        <!-- <a class="nav-link " id="nav-servicios-tab" data-toggle="pill" href="#nav-servicios" role="tab" aria-controls="nav-servicios" aria-selected="false">Servicios Y Beneficios</a> -->
 
-                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Graduados exitosos</a>
+                        <a class="nav-link " id="nav-graduados-tab" data-toggle="pill" href="#nav-graduados" role="tab" aria-controls="nav-graduados" aria-selected="false">Graduados exitosos</a>
 
-                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Preguntas frecuentes</a>
                     
-                        <a class="nav-link " id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Campus</a>
+                    
 
-                        <a class="nav-link ult-item" id="nav-novedades-tab" data-toggle="pill" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Admisión</a>
+                        <a class="nav-link ult-item"  target="_blank"  href="http://admision.usmp.edu.pe/" >Admisión</a>
 
                        
 					</div>
@@ -90,85 +92,169 @@
 				<div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
-                    
-                    <div class="row">
-                        <div  class="col-md-12">
-					
-                            <div class="row">
+                        
+                        <div class="row">
+                            <div  class="col-md-12">
+                        
+                                <div class="row">
 
-                                <div class="col-8" >
-                                    <p class="text-fix-content  subname-title">
-                                         DIRECTOR DE ESCUELA EPA / DR. ARQ. GORKI MESONES VARGAS
-                                    </p> 
+                                    <div class="col-8" >
+                                        <p class="text-fix-content  subname-title">
+                                            DIRECTOR DE ESCUELA EPA / DR. ARQ. GORKI MESONES VARGAS
+                                        </p> 
 
-                                    <p class="text-fix-content">
-                                    Estimados miembros de la comunidad universitaria de la Facultad de Ingeniería y Arquitectura (FIA) de la Universidad de San Martín de Porres, en nombre de la Escuela Profesional de Arquitectura; deseo darles una cordial bienvenida a nuestro portal y a través de él, poder estar informados de las actividades que desarrollamos en la FIA. 
-                                    </p>
+                                        <p class="text-fix-content">
+                                        Estimados miembros de la comunidad universitaria de la Facultad de Ingeniería y Arquitectura (FIA) de la Universidad de San Martín de Porres, en nombre de la Escuela Profesional de Arquitectura; deseo darles una cordial bienvenida a nuestro portal y a través de él, poder estar informados de las actividades que desarrollamos en la FIA. 
+                                        </p>
 
-                                    <p class="text-fix-content">
-                                    La Escuela Profesional de Arquitectura tiene 18 años de funcionamiento y un sinnúmero de egresados que se encuentran en el mercado laboral trabajando al interior del país como en el entorno internacional, con gran éxito, prestigiando nuestra institución.
-                                    </p>
+                                        <p class="text-fix-content">
+                                        La Escuela Profesional de Arquitectura tiene 18 años de funcionamiento y un sinnúmero de egresados que se encuentran en el mercado laboral trabajando al interior del país como en el entorno internacional, con gran éxito, prestigiando nuestra institución.
+                                        </p>
 
+                                    </div>
+
+                                    <div class="col-4" >
+                                        <figure>
+                                                <img src="images/gorki_mesones.jpg" alt="">
+
+                                        </figure>
+
+                                    </div>
                                 </div>
+                                 <hr>
 
-                                <div class="col-4" >
-                                    <figure>
-                                            <img src="images/gorki_mesones.jpg" alt="">
+                            
+                                <p class="text-fix-content">
+                                    La Arquitectura es fusión del arte y las ciencias, cuyo contenido básicamente son las tecnologías que, mediante el diseño se aplicara en construcción de edificaciones. Los arquitectos egresados de la EPA, de la Universidad de San Martín de Porres, es un profesional que posee un conjunto de competencias, actitudes y valores, que lo califica para desarrollar soluciones de toda clase de obras y estudios de infraestructuras, factibles y sustentables, social y ambientalmente compatibles.
+                                </p>
+                            
+                                <h3 class="subtitles-content">MISIÓN</h3>
+                                <p class="text-fix-content">
+                                    Formar arquitectos en forma integral, con sólida formación artística, científica, tecnológica y humanística, que lideren la profesión para poder realizar el diseño con ética, responsabilidad social, respeto a nuestros valores ancestrales, nuestro patrimonio monumental, la cultura, al medio ambiente y al desarrollo sostenible.
+                                </p>
+                        
+                                <h3 class="subtitles-content">VISIÓN</h3>
+                                <p class="text-fix-content">
+                                Nuestro objetivo creador de Escuela Profesional es la formación integral de profesionales, con habilidades para la investigación, con alta capacidad técnica de diseño, uso de la tecnología de avanzada.
+                                </p>
+                                
 
-                                    </figure>
+                                
+                                <h3 class="subtitles-content">OBJETIVOS EDUCACIONALES</h3>
 
-                                </div>
+                                <h3 class="subtitles-content">Objetivos Académicos</h3>
+
+                                <p class="text-fix-content">
+                                    El profesional arquitecto está capacitado para:
+                                </p>
+
+                                <ul class="text-fix-list" >
+                                    <li >Planificar, investigar, proyectar. Diseñar, supervisar y gestionar proyectos de arquitectura en todos los requerimientos que demande las necesidades de un territorio, comunidad y hábitat para la creación de ciudades sostenibles armónicas.</li>
+                                
+                                    <li >Educar de una manera holística para desarrollar y comprender nuestra realidad como seres humanos y ciudadanos, así como el sentido y significado de concepto profesional, para dar un sentido humanista al ejercicio de la profesión de arquitecto, vinculada a la ética y la conciencia.</li>
+                                </ul>
+
+
+                                <h3 class="subtitles-content">Objetivos Profesionales</h3>
+
+                                <p class="text-fix-content">
+                                Nuestros graduados tendrán la formación para desarrollarse en las siguientes competencias específicas:
+                                </p>
+
+                                <ul class="text-fix-list" >
+                                    <li >Proyectos arquitectónicos: Crear edificaciones en base a contenidos espaciales, estéticos, tecnológicos, ecológicos y sostenibles.</li>
+                                
+                                    <li >Proyectos de Urbanismos: Desarrollar propuestas para vivienda colectiva incluyendo todos sus servicios, desde un plan maestro urbano hasta la unidad de vivienda, igualmente áreas verdes, parques, alamedas, etc.</li>
+
+                                    <li> Supervisión de obra: Supervisar la obra arquitectónica en un proyecto de edificación, para generar informes adecuados.</li>
+
+                                    <li> Diseño de Interiores: Crear proyectos de diseño interior para las necesidades contemporáneas de vivienda, comercio en general, oficinas profesionales, oficinas corporativas, hotelería y alojamientos, restaurantes, discotecas, etc.</li>
+
+                                <li>  Diseño paisajístico: Crear proyectos paisajísticos con el concepto de espacios exteriores, como una continuidad del espacio arquitectónico y urbano vinculado a la sostenibilidad.</li>
+
+                                    <li> Gestión Profesional: Técnicas de cómo administrar una oficina profesional de arquitectura, así como múltiples estrategias creativas para el desarrollo de proyectos inmobiliarios, gestión de expedientes técnicos ante los organismos oficiales, desde el municipio hasta el registro público.</li>
+
+                                    <li> Investigación: Como desarrollar investigaciones en el campo profesional arquitectónico que planteen propuestas para estudiar y comprender nuestra realidad valorando nuestra tradición, generando así un conocimiento propio de nuestro patrimonio cultural.</li>
+                                </ul>
+                                
+
+                                <h3 class="subtitles-content mb-4 mt-4">ORGANIGRAMA</h3>
+
+                                <figure class="text-center">
+                                    <img src="images/organigrama.jpg" alt="">
+                                </figure>
+
+                                <h3 class="subtitles-content mb-4 mt-4">OFICINA DE ACREDITACIÓN</h3>
+
+                                <p class="text-fix-content">
+                                    La Escuela de Arquitectura ha logrado la acreditación internacional por la Axencia para la Calidad do Sistema Universitario de Galicia (ACSUG), institución de reconocido prestigio, especializada en evaluación de la calidad de la educación superior universitaria, la misma que el certificado, la calidad de los procesos académicos y administrativos con estándares europeos de calidad educativa.
+                                </p>
+                                <p class="text-fix-content">
+                                    La Universidad de San Martin de Porres ha obtenido la licencia institucional por la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU), que garantiza la calidad educativa de todas nuestras carreras.
+                                </p>
+
+
+
+
+
+
                             </div>
-                        <hr>
-                        <p class="text-fix-content">
-                        La Arquitectura es fusión del arte y las ciencias, cuyo contenido básicamente son las tecnologías que, mediante el diseño se aplicara en construcción de edificaciones. Los arquitectos egresados de la EPA, de la Universidad de San Martín de Porres, es un profesional que posee un conjunto de competencias, actitudes y valores, que lo califica para desarrollar soluciones de toda clase de obras y estudios de infraestructuras, factibles y sustentables, social y ambientalmente compatibles.
-                        </p>
-                      
-                      
-                     
-                       
-                        <h3 class="subtitles-content">MISIÓN</h3>
-                        <p id="justificar">
-                        Formar profesionales integros y competentes;capaces de enfrentar los desafíos presentes y futuros de la disciplina, de responder creativamente a las necesidades y exigencias del hábitat, con una actitud de responsabilidad con la sociedad y en armonía con el medio ambiente, vinculando la enseñanza con la investigación.
-                        </p>
-                       <br>
-                        <h2 id="grisfia">VISIÓN</h2>
-                        <p id="justificar">
-                        Ser una Escuela Profesional reconocidad como referente de calidad académica en el país y la región, por fomentar un espacio crítico y propositivo para nuestra comunidad de estudiantes y docentes. Contribuir al desarrollo de nuestras ciudades con el aporte y rigor profesional de sus titulados.
-                        </p>
-                        
-                    </div>  
+
+                        </div>  
                     
-                        
-                      
+ 
                     </div>
                     <!-- FIN CONTENIDO BIENVENIDOS -->
 
 
-                    <!-- Contendio Tab Perfil Graduados -->
 
-				    <div class="tab-pane fade show" id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
+                    <!-- Contendio Tab  Info academicas -->
+
+				    <div class="tab-pane fade show" id="nav-infoacademica" role="tabpanel" aria-labelledby="nav-infoacademica-tab">
+
+                    <p class="text-fix-content"> 
+                    La carrera de Arquitectura en la USMP permite ser un profesional responsable del diseño y construcción de todas las edificaciones que el país necesita, de manera sostenida y sustentable.
+                    </p> 
+                    <p class="text-fix-content"> 
+                    La formación integral del hombre implica desarrollar sus potencialidades humanas, como persona individual, y, luego, como profesional integrado a la sociedad, cuyo rol es mejorarla en todos sus aspectos, para contribuir así en la transformación de una nueva sociedad.
+                    </p>
+                    <p class="text-fix-content"> 
+                    Grados y Títulos que se otorgan :  <br>
+                    <b>Grado : </b> Bachiller en Arquitectura  <br>
+                    <b>Título :  </b>Arquitecto  <br>
+                    <b>Duración:  </b>10 semestres  <br>
+                                </p>
+                    <p class="text-fix-content"> 
+                    De acuerdo a leyes vigentes nuestro régimen académico de enseñanza es presencial y de régimen semestral, permitiendo fundamentalmente el desarrollo del plan de estudio.
+                    </p>
+                    <p class="text-fix-content"> 
+                    Dentro del Currículo se encuentra el idioma Inglés como parte de su formación académica, con el fin que el alumno participe activamente en su proceso de aprendizaje.
+                    </p>                  
+                 
+
                        
-                       <h2 id="grisfia">PERFIL DEL GRADUADO DE ARQUITECTURA </h2>
-                            <br>
-                    <div class="container ">
+                       <h3 class="subtitles-content mb-2" >PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
+                      
+                        <div class=" ">
                                 
-                                <h5 id="grisfia">
+                                <h3 class="subtitles-content mb-1 mt-0 ">
                                     Competencias Cognitivas
-                                </h5>
-                                <div class="listaperfil">
+                                </h3>
+                                <ul class="text-fix-list">
                                     <li>Aplica el análisis y la síntesis, la inducción y la deducción, y el enfoque sistémico, entre otros, como estrategias generales de adquisición del conocimiento.</li>
                                     <li>Utiliza el pensamiento crítico, al analizar los diferentes contextos, fuentes de información y hechos de la realidad.</li>
                                     <li>Realiza investigaciones, relacionadas con su profesión, bajo la guía de un profesional de mayor experiencia</li>
                                     <li>Aplica adecuadamente estrategias metacognitivas, lo que lo capacita para el aprendizaje autónomo para toda la vida (Aprender a aprender).</li>
-                                </div>
+                                </ul>
                                 
                                 <br>
 
-                                <h5 id="grisfia">
+                                <h3 class="subtitles-content mb-2 ">
                                     Competencias Instrumentales
-                                </h5>
-                               <div class="listaperfil">
+                                </h3>
+
+                                
+                                <ul class="text-fix-list">
                                     <li>Planifica y organiza eficazmente sus actividades y el tiempo dedicado a ellas.</li>
                                     <li>Se comunica asertivamente en idioma español.</li>
                                     <li>Comunica ideas básicas de la vida cotidiana y de su profesión, en idioma inglés (inglés intermedio).</li>
@@ -176,12 +262,13 @@
                                     <li>Resuelve de manera creadora los problemas profesionales y personales a los que se enfrenta</li>
                                     <li>Lidera y participa activamente en equipos de trabajo, se compromete con las tareas y logros de los mismos</li>
                                     <li>Elabora y gestiona proyectos de diversa índole, vinculados a su profesión.</li>
-                                </div>
+                                </ul>
                                 <br>
-                                <h5 id="grisfia">
+                                <h3 class="subtitles-content mb-2 ">
                                     Competencias Específicas
-                                </h5>
-                                <div class="listaperfil">
+                                </h3>
+
+                                <ul class="text-fix-list">
                                     <li>Formula ideas y las transforma en creaciones arquitectónicas de acuerdo con los principios de composición, percepción visual y espacial.</li>
                                     <li>Imagina, crea e innova en el proceso de diseño de la arquitectura y el urbanismo.</li>
                                     <li>Conoce y aplica los métodos de investigación para resolver con creatividad las demandas del hábitat humano, en diferentes escalas y complejidades.</li>
@@ -197,144 +284,284 @@
                                     <li>Desarrolla proyectos urbano-arquitectónicos, que garanticen un desarrollo sostenible y sustentable en lo ambiental, social, cultural y económico.</li>
                                     <li>Define la tecnología, los sistemas estructurales y constructivos apropiados a las demandas del proyecto arquitectónico y al contexto local.</li>
                                     <li>Conoce, se sensibiliza y compromete frente a los temas del debate arquitectónico actual – local y global.</li>
-                                </div>
+                                </ul>
                             
                         </div>
                        
                     </div>
-                   <!-- FIN Contendio Tab Perfil Graduados -->
+                   <!-- FIN Contendio Tab  info academica-->
 
-                        <!-- Contenido tab Catalogo de Cursos --> 
+                     
+				    <div class="tab-pane fade show" id="nav-convenios" role="tabpanel" aria-labelledby="nav-convenios-tab">
 
-                    <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
-                        <div class="container">
-                            
-                            <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
-                        <div class="embed-responsive embed-responsive-16by9">
-                        <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe> 
-                        </div> 
-                        <br>
-                        <br><br>
-                        </div>
-                            
+                             <h3 class="subtitles-content mb-2 ">
+                             Convenios Nacionales e Internacionales
+                                </h3>             
+                                    
+                       <br>
+                         <p class="text-fix-content mb-0 pb-0"> <b>  Chile</b></p>
+                            <ul class="fix-items-li">
+                                <li> Universidad de Valparaíso</li> 
+                                <li> Universidad Católica de la Santísima Concepción</li> 
+                             </ul>
+                             <br>
+                             <p class="text-fix-content  mb-0 pb-0"> <b> Colombia</b></p>
+
+                             <ul class="fix-items-li">
+                                <li>Universidad Santo Tomás</li> 
+                                <li>Universidad Autónoma de Bucaramanga</li> 
+                            </ul>
+                            <br>
+                            <p class="text-fix-content  mb-0 pb-0"> <b> México</b></p>
+                            <ul class="fix-items-li">
+                                <li> Universidad Autónoma del Estado de México.</li> 
+                            </ul>
+                       
+                    
                     </div>
 
-                     <!-- FIN Contenido tab Catalogo de Cursos --> 
-
-                    <!-- Contenido tab Organización plan de Estudios --> 
 
 
-                    <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
+
+                        <!-- Contenido tab  perfil profesional --> 
+
+                    <div class="tab-pane fade" id="nav-perfilprof" role="tabpanel" aria-labelledby="nav-perfilprof-tab">
+                     
+                            <!-- <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
+                        <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe>  -->
+                           
+                            <h3 class="subtitles-content mb-2 ">
+                            PERFIL PROFESIONAL
+                                </h3>
+
+                            <p class="text-fix-content"> 
+                            El profesional arquitecto está capacitado para:
+                            </p> 
+                            <ul class="text-fix-list">
+                                <li>Planificar, investigar, proyectar. Diseñar, supervisar y gestionar proyectos de arquitectura en todos los requerimientos que demande las necesidades de un territorio, comunidad y hábitat para la creación de ciudades sostenibles armónicas.</li>
+                                <li>Educar de una manera holística para desarrollar y comprender nuestra realidad como seres humanos y ciudadanos, así como el sentido y significado de concepto profesional, para dar un sentido humanista al ejercicio de la profesión de arquitecto, vinculada a la ética y la conciencia.</li>
+                            </ul>     
+
+
+                      
+                     
+                     </div>
+                            
+                  
+
+                     <!-- FIN Contenido tab Perfil profesional--> 
+
+                    <!-- Contenido tab Campo ocupacional--> 
+
+
+                    <div class="tab-pane fade" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
                         
-                    <h2 id="grisfia">ORGANIZACIÓN DE PLAN DE ESTUDIOS</h2>
+                    <h3 class="subtitles-content mb-2 ">
+                          CAMPO OCUPACIONAL
+                                </h3>
                     
                     <br>
 
-                    <div class="container">
-                        <div class="row">
-
-                            <div class="col-md-12 col-xs-12">
-                               <li style="list-style:none;" >  <a data-toggle="collapse" href="#menu" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("area_conocimiento.php") ?> </a> </li>
-                            </div>
-
-                            <div class="col-md-12 col-xs-12">
-                               <li style="list-style:none;"> <a data-toggle="collapse" href="#menu2" role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("nivel_conocimiento.php") ?> </a> </li>
-                            </div>
-
-                            <div class="col-md-12 col-xs-12">
-                                <li style="list-style:none;"> <a data-toggle="collapse"  role="button" aria-expanded="false" aria-controls="collapseExample"> <?php  include("estructura_curricular.php") ?> </a> </li> 
-                            </div>
-
-                        </div>
-                    </div>  
+                    <p class="text-fix-content"> 
+                    Nuestros graduados tendrán la formación para desarrollarse en las siguientes competencias específicas:
+                    </p> 
+                    <ul class="text-fix-list">
+                        <li>Proyectos arquitectónicos: Crear edificaciones en base a contenidos espaciales, estéticos, tecnológicos, ecológicos y sostenibles.
+                        </li>
+                        <li>
+                        Proyectos de Urbanismos: Desarrollar propuestas para vivienda colectiva incluyendo todos sus servicios, desde un plan maestro urbano hasta la unidad de vivienda, igualmente áreas verdes, parques, alamedas, etc.
+                        </li>
+                        <li>
+                        Supervisión de obra: Supervisar la obra arquitectónica en un proyecto de edificación, para generar informes adecuados.
+                        </li>
+                        <li>
+                        Diseño de Interiores: Crear proyectos de diseño interior para las necesidades contemporáneas de vivienda, comercio en general, oficinas profesionales, oficinas corporativas, hotelería y alojamientos, restaurantes, discotecas, etc.
+                        </li>
+                        <li>
+                        Diseño paisajístico: Crear proyectos paisajísticos con el concepto de espacios exteriores, como una continuidad del espacio arquitectónico y urbano vinculado a la sostenibilidad.
+                        </li>
+                        <li>
+                        Gestión Profesional: Técnicas de como administrar una oficina profesional de arquitectura, así como múltiples estrategias creativas para el desarrollo de proyectos inmobiliarios, gestión de expedientes técnicos ante los organismos oficiales, desde el municipio hasta el registro público.
+                        </li>
+                                                        <li>
+                        Investigación: Como desarrollar investigaciones en el campo profesional arquitectónico que planteen propuestas para estudiar y comprender nuestra realidad valorando nuestra tradición, generando así un conocimiento propio de nuestro patrimonio cultural.
+                        </li>
+                    </ul>     
+            </div>  
                             
                        
-                    </div>
+         
 
-                     <!-- FIN Contenido tab Organización plan de Estudios --> 
+                     <!-- FIN Contenido tab  Campo Ocupacionale --> 
 
 
 
-                    <!-- INICIO Contenido tab NOVEDADES--> 
-                     <div class="tab-pane fade" id="nav-novedades" role="tabpanel" aria-labelledby="nav-novedades-tab">
+                    <!-- INICIO Contenido tab laboratorio--> 
+                     <div class="tab-pane fade" id="nav-laboratorio" role="tabpanel" aria-labelledby="nav-laboratorio-tab">
                         
+                     <h3 class="subtitles-content mb-2 ">
+                          LABORATORIOS
+                                </h3>
+                    
+                    <br>
+
+                    <p class="text-fix-content"> 
+                    La Escuela Profesional de Arquitectura de San Martin de Porres, cuenta con un moderno campus que alberga seis pabellones: Estudios Generales, Especialidades, FIA – Data, Laboratorios, Biblioteca y Coliseo, diseñados de acuerdo con todos los criterios de seguridad y comodidad para los docentes y alumnos.
+                    </p>
+                    
+                    <p class="text-fix-content"> 
+                    Los laboratorios están equipados con la última tecnología seleccionada de acuerdo con los objetivos de la Escuela Profesional de Arquitectura.
+                    </p>
+                    <p class="text-fix-content"> 
+                    Cuenta con áreas de estudio e investigación para los estudiantes en el pabellón de la biblioteca, en donde también existe un auditorio, cafetería y una sala de reuniones para los alumnos.     </p>
+                    <p class="text-fix-content"> 
+                    Los estudiantes cuentan con zonas de descanso, áreas verdes, un coliseo polideportivo y un gimnasio.
+                    </p> 
+                    <ul class="fix-items-li">
+                        <li> Laboratorio de Topografía</li>
+                        <li> Laboratorio de medios digitales</li>
+                        <li> Laboratorio de ensayos</li>
+                        <li> Equipos para la realización de práctica</li>
+                        <li> Cortadora láser de maquetas, prototipos y modelismo</li>
+                        <li> Impresora 3D que trabaja con tecnología FDM</li>
+                        <li> Laboratorio de Construcción</li>
+                        <li> Laboratorio de Informática</li>
+                    </ul>
+                   
+                </div> 
+                        <!-- FIN LABORATORIO -->
+
+                    <!-- INICIO Contenido tab servicios--> 
+                    <!--
+                    <div class="tab-pane fade" id="nav-servicios" role="tabpanel" aria-labelledby="nav-servicios-tab">
                         
-                        <div class="container">
+                        <h3 class="subtitles-content mb-2 ">
+                             serviciosS
+                                   </h3>
+                    </div> -->
+                    <!-- FIN Servicios -->
+                     
+                    
+                    <!-- INICIO Contenido tab servicios --> 
+
+                    <div class="tab-pane fade" id="nav-graduados" role="tabpanel" aria-labelledby="nav-graduados-tab">
                         
+                        <h3 class="subtitles-content mb-2 ">
+                             GRADUADOS EXITOSOS
+                        </h3>
+
                         <div class="row">
 
-                            <div class="col-md-12">
-                            <h2 id="grisfia" style="text-aling:center;"> NOVEDADES </h2> 
-                            <div class="col-md-12" style="height:2px;background-color:grey;"></div>
-                            <br>
-                            <h3 id="grisfia" style="text-aling:center;"> Arquiforo </h3> <br>
-                                <div >
-                                <img hspace="5" vspace="5" style="float:left;" src="../../img/carreras/arquitectura/arq1.jpg"  class="img-fluid" alt="">
-                                <p style="margin-left:270px;" id="justificar">El Arquiforo nace como una preocupación por conocer experiencias, afianzar y redefinir los cánones de la enseñanza de la arquitectura. La Escuela Profesional de Arquitectura de la USMP con su primer año de actividades lanzó el primer Arquiforo y desde entonces arquitectos docentes de diferentes facultades del mundo nos han visitado para contribuir a despejar nuestras dudas sobre la formación de los nuevos profesionales de la especialidad.</p>
-                                </div>
-                                <br>
-                            <br>
-                            </div>
-                            
-                            <div class="col-md-12" style="height:2px;background-color:grey;"></div>
-                            <br>
-                            
+                            <div class="col-8" >
+                                <p class="text-fix-content  subname-title">
+                                VÍCTOR EDUARDO BARRAZA SALGUERO
 
-    
-                            <div class="col-md-12">
-                            <h3 id="grisfia" style="text-aling:center;"> El evento </h3> <br>
-                                <div>
-                                <img hspace="5" vspace="5" style="float:right;" src="../../img/carreras/arquitectura/arq2.jpg" class="img-fluid" alt="">
-                                <p id="justificar" style="margin-right:270px;">
-                                Dentro del evento organizado por la Facultad de Ingeniería y Arquitectura de la USMP, en el mes de agosto del presente año, se desarrolló el IX Arquiforo.
-                                <br>
-                                En esta oportunidad bajo la premisa <b>Panorama Contemporáneo</b>, se invitó a destacados arquitectos internacionales y nacionales a que expongan sus más importantes obras: Entre los invitados internacionales se destacan el arquitecto mexicano <b>Bernardo Gómez Pimienta</b>, el colombiano <b>Edgar Mazo</b> del estudio Paisajes Emergentes, el chileno <b>Eduardo Castillo</b> y los uruguayos <b>Mario Báez</b> y <b>Adrián Durán</b> de MBAD Arquitectos. Asimismo expusieron sus metodologías en la enseñanza del taller de diseño.
-                                </p>
+                                </p> 
+
+                              <ul class="fix-items-li" style="font-size:13.5px;">
+                               <li> Cuenta con una beca de estudios “Training Course on BambooTechnologies for developing Countries” promovida por el ministerio de economía de China.
+                                   </li>
                                 
-                                </div>
-                            </div>
-                            <br>
-                            <div class="col-md-12" style="height:2px;background-color:grey;"></div>
-                            <br>
-                            
-                            <div class="col-md-12">
-                            <h3 id="grisfia" style="text-aling:center;"> Invitados</h3> <br>
-                                <div>
-                                <img hspace="5" vspace="5" style="float:left;" src="../../img/carreras/arquitectura/arq3.jpg" class="img-fluid" alt="">
-                                <p  style="margin-left:270px;" id="justificar">
-                                Entre los invitados nacionales nos visitaron <b>Maya Ishizawa</b>, con su ponencia "una visión paisajera de la sostenibilidad"; Mariana Leguía con "Ciudades imaginadas"; K+M Arquitectura y Urbanismo de <b>Shariff Kahatt</b> con" Re-urbanizar Lima".
-                                <br>
-                                El evento se desarrolló bajo una gran concurrencia, en donde alumnos, invitados, profesores y expositores dieron lugar a un debate e intercambio de ideas sobre sus proyectos, propuestas, y pensamientos de la arquitectura en la actualidad.
+                               <li> Tercer puesto en el “Concurso Construye para crecer 2015” del Ministerio de Vivienda y Construcción de Perú en las categorías Sierra y Selva.
+                                   </li>
+                                
+                               <li> Primer puesto en el concurso “Construye para Crecer 2014” en la categoría costa tradicional como mejor propuesta Ecoamigable.
+                                   </li>
+                                   <li>
+                                Fundador de Janko – Ecobicicletas emprendimiento de bicicletas hechas en bambu</li>
+                                
+                               <li> Integrante de Instituto de Vivienda Urbanismo y Construcción (IVUC) donde desarrolla e investiga con materiales alternativos de construcción buscando nuevas tecnologías constructivas que contribuyan el mayor acceso de una vivienda en las poblaciones más vulnerables.
+                                   </li>
+                                   </ul>
 
-                                </p>
-                                </div>
+                            </div>
+
+                            <div class="col-4" >
+                                <figure>
+                                        <img src="images/Victor_Barraza_1.jpg" alt="">
+
+                                </figure>
+
+                            </div>
+
+
+
+                            <div class="col-8 mt-4" >
+                                <p class="text-fix-content  subname-title">
+                                ASTRID HASSEL CRIALES JOHNSON
+
+                                </p> 
+
+                              <ul class="fix-items-li" style="font-size:13.5px;">
+
+                                <li>
+                                   En el campo del diseño arquitectónico realizó sus prácticas profesionales en la oficina de Miguel Rodriguez Mazuré Arquitectos, y como parte del equipo del Instituto de Vivienda Urbanismo y Construcción de la USMP dirigido por el Arquitecto Juan Gunther. Los proyectos en los que participó incluyen el diseño de edificios multifamiliares, colegios emblemáticos, vivienda social e investigaciones en bambu.
+                                </li>
+
+                                <li>
+                                   Arquitecta con Maestría En Políticas y Gestión de la Ciencia Tecnología e Innovación – Beca por CONCYTEC
+                                </li>
+                                
+                                <li> Ha participado de la formulación de cuatro proyectos de investigación básica y aplicada financiados por CIENCIACTIVA y 2 PITEI de INNOVATE PERU para PhD Marino Morikawa.
+                                </li>
+                                
+                                <li> Primer puesto en el concurso “Construye para Crecer 2014” en la categoría costa tradicional como mejor propuesta Ecoamigable.
+                                </li>
+                                  
+                             
+                                   </ul>
+
+                            </div>
+                 
+                            <div class="col-4 mt-4" >
+                                <figure class="py-3" >
+                                        <img src="images/Astrid_Criales_Johnson_1.jpg" alt="">
+
+                                </figure>
+
                             </div>
                         </div>
-                        </div>
-                   
-                    </div>
-<!-- INICIO Contenido tab NOVEDADES--> 
+                            <hr>
 
-                    </div>
+                            <h3 class="subtitles-content mb-4"  >
+                            TESTIMONIOS
+                           </h3>
+
+                                 
+                            <h3 class="subtitles-content mb-2 ">
+                                Kerly Mitsu Yupanqui Ramos
+                             </h3>
+                            <p class="text-fix-content"> 
+                                                    
+                            “Estudiar la carrera de Arquitectura en la USMP me permitió adquirir las capacidades necesarias tanto teóricas como prácticas para desarrollar proyectos arquitectónicos, urbanos y de diseño de interiores. La USMP me ofreció una infraestructura moderna donde pude desarrollar mis habilidades a todo nivel. Mi pasión por esta carrera me ha llevado a dirigir mi propia empresa, dedicada a la creación de ambientes personalizados y exclusivos”
+                            </p>
+
+                            <hr>
+
+                            <h3 class="subtitles-content mb-2 ">
+                            Henry Sebastián Lamadrid Alarcón
+                             </h3>
+
+
+                            <p class="text-fix-content"> 
+                                                    
+                            Como alumno de la carrera de Arquitectura, me siento a gusto de haber elegido esta universidad, ya que me permite desarrollar desde los primeros ciclos la carrera con cursos que son netamente prácticos en diseño, acercándome de manera real a mi profesión. La motivación de los docentes me permite aprender de sus experiencias, ya que ellos se encuentran trabajando en diferentes estudios de arquitectos y nos dotan de toda sus experiencias vividas. Esta formación permitirá que mis habilidades como profesional sean con una sólida base en el desarrollo futuro de mi profesión. Estoy seguro que la universidad me dará todas las herramientas para lograr ello”.
+                            </p>
+
+
+                    </div> 
+
+                 <!--  FIN  Graduados -->
+
+
         </section>
         
-    <!-- ##### Patrocinadores Area  ##### -->
-   <!-- <div class="partner-area section-padding-0-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="partners-logo d-flex align-items-center justify-content-between flex-wrap">
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>-->
-    <!-- ##### Partner Area End ##### -->
+ 
+    
+   
     <br>
-    <center>
-    <hr style="width:96%;">
-    </center>
+    
 
      <footer class="footer-area">
        

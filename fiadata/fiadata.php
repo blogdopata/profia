@@ -37,252 +37,250 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### titular ##### -->
-     <div class="breadcumb-area bg-img page-header4" style=>
+     <div class="breadcumb-area bg-img page-header4 img-fix-position2" style=>
         <div class="bradcumbContent">
             <h2>FIA - DATA</h2>
         </div>
     </div>
-    <!-- ##### titular ##### -->
+	<!-- ##### titular ##### -->
+	
+	<div class="container" style="transform: translateY(90%);">
+	<div class="row">
 
-    <!-- ##### contenido ##### -->
-    <section class="about-us-area mt-50 section-padding-100" style="padding-bottom:25px;padding-top:30px;">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-					<br>
-                    <div class=" text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
-                        <h3 id="azulfia">Facultad de Ingeniería y Arquitectura</h3>
-                    </div>
-					<br>
-                </div>
-            </div>
-			<!--si quieren poner algun fondo style="background-image:url(http://www.usmp.edu.pe/proFIA/img/fia/fachada2.jpg); no-repeat center top;background-size:cover;"-->
-            <div class="row rowAcad">
-                <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                    <p>
-                        Tenemos la mejor infraestructura en tecnologías de Información del Perú y detrás de ella, la excelencia profesional. Por que solo así podemos exigir calidad a nuestros estudiantes. Fuimos los primeros en acortar la brecha en cuanto a realidad tecnológica de una Empresa con una Universidad en nuestro país.
-                    </p>
-					<center>
-						<img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/FIADATA.jpg" alt="">
-					</center>
-                </div>
-                <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-                    <p>
-                        Por eso insistimos mucho en la formación personal y profesional de nuestros estudiantes. Cualidades como el afán de investigación, empeño, tenacidad e iniciativa son elementos importantes que juntos ayudarán a la consecución del éxito profesional y capacidad garantizada de nuestros graduados. Por eso decimos que en FIA-DATA el mejor equipo es HUMANO.
-                    </p>
-					<center>
-					<div class="card">
+	<div class="col-md-8" >
+		
+
+		<p class="text-fix-style">
+		Tenemos la mejor infraestructura en tecnologías de Información del Perú y detrás de ella, la excelencia profesional. Por que solo así podemos exigir calidad a nuestros estudiantes. Fuimos los primeros en acortar la brecha en cuanto a realidad tecnológica de una Empresa con una Universidad en nuestro país.		
+		</p>
+
+		<p class="text-fix-style">
+		Por eso insistimos mucho en la formación personal y profesional de nuestros estudiantes. Cualidades como el afán de investigación, empeño, tenacidad e iniciativa son elementos importantes que juntos ayudarán a la consecución del éxito profesional y capacidad garantizada de nuestros graduados. Por eso decimos que en FIA-DATA el mejor equipo es HUMANO.
+		</p>
+
+	</div>
+
+	<div class="col-md-4" >
+	<div class="card text-center">
 					<div class="card-body">
+					<img class="card-img-top" src="..." alt="Card image cap">						
 					<h5 id="mini" class="card-title"><p  class="link">Ing. Cesar Augusto Porras Quinto</p></h5>
 					<h6 id="mini" class="card-subtitle mb-2 text-muted">Jefe FIA-DATA</h6>
 					<a id="mini" style="color:#017090;" href="mailto:cporras@usmp.pe" class="link">cporras@usmp.pe</a>
 					<p class="card-text">USMP- FIA</p>
 					</div>
-					</center>
+					
                 </div>
-            </div>
-            <br>
-            <div class="card text-center">
-                <div class="card-header bg-info text-white">
-					 <?php  include("organigrama.php") ?>
+	</div>
+
+</div>
+	<hr>
+	</div>
+
+
+  
+       
+			<!--si quieren poner algun fondo style="background-image:url(http://www.usmp.edu.pe/proFIA/img/fia/fachada2.jpg); no-repeat center top;background-size:cover;"-->
+           
+                
+                <!-- <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                    
+					<div class="card text-center">
+					<div class="card-body">
+					<h5 id="mini" class="card-title"><p  class="link">Ing. Cesar Augusto Porras Quinto</p></h5>
+					<h6 id="mini" class="card-subtitle mb-2 text-muted">Jefe FIA-DATA</h6>
+					<a id="mini" style="color:#017090;" href="mailto:cporras@usmp.pe" class="link">cporras@usmp.pe</a>
+					<p class="card-text">USMP- FIA</p>
+					
                      <b>ORGANIZACIÓN:</b> &nbsp; <a  data-toggle="modal" data-target="#organigrama" class="link" href=""> Ver organigrama</a>
-                     <br><br>
-                     La Facultad de Ingeniería de Computación y Sistemas cuenta con áreas de soporte tecnológico-producción que sirven de apoyo a la Facultad las cuales se detallan a continuación:
-                </div>
-            </div>
+					</div>
+					
+                </div> -->
+          
+            <br>
         
-        </div>
-    </section>
-    <!-- ##### contenido ##### -->
+      <!-- ##### contenido ##### -->
+    <section class="about-us-area mt-50 section-padding-100">
+        <div class="container">
+            <div class="row">
+         
+                <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
+                <div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+					
+						<a class="nav-item nav-link active" id="nav-qsomos-tab" data-toggle="tab" href="#nav-qsomos" role="tab" aria-controls="nav-qsomos" aria-selected="true">Quienes somos</a>
 
+                        <a class="nav-item nav-link" id="nav-perfil-tab" data-toggle="tab" href="#nav-perfil" role="tab" aria-controls="nav-perfil" aria-selected="false">Misión y Visión</a>
+
+						<a class="nav-item nav-link" id="nav-val-tab" data-toggle="tab" href="#nav-val" role="tab" aria-controls="nav-val" aria-selected="false">Nuestros valores</a>
+						
+						<a class="nav-item nav-link" id="nav-organigrama-tab" data-toggle="tab" href="#nav-organigrama" role="tab" aria-controls="nav-organigrama" aria-selected="false">Organigrama</a>
+
+						<a class="nav-item nav-link" id="nav-servicios-tab" data-toggle="tab" href="#nav-servicios" role="tab" aria-controls="nav-servicios" aria-selected="false">Servicios</a>
+
+						<a class="nav-item nav-link" id="nav-proyectos-tab" data-toggle="tab" href="#nav-proyectos" role="tab" aria-controls="nav-proyectos" aria-selected="false">Proyectos</a>
+
+						<a class="nav-item nav-link ult-item" id="nav-doc-tab" data-toggle="tab" href="#nav-doc" role="tab" aria-controls="nav-doc" aria-selected="false">Documentación</a>
+
+                        
+
+                        <!--BACK UP PARA MOSTRAR PDFS NO TOCAR <a class="nav-item nav-link" id="nav-campo-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a> -->
+
+						<!-- <a class="nav-item nav-link"  href="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf"  target="_blank">Organización Plan de Estudios</a> -->
+
+                     
+
+
+					</div>
+                </nav>
+
+
+    <!-- CONTENIDO TAB QUIENES SOMOS -->
+    <div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
+
+    <div class="tab-pane fade show active" id="nav-qsomos" role="tabpanel" aria-labelledby="nav-qsomos-tab">
     
+	<div class="container">
+	<h4 class="titulo-principal">QUIENES SOMOS</h4>		
+	<p class="text-fix-style">
+	FIA DATA está conformada por un grupo de profesionales que a través de su trabajo buscan permanentemente proveer los mejores servicios y herramientas tecnológicas innovadoras que ayuden a la comunidad universitaria en su proceso de aprendizaje. Dentro de las herramientas tenemos acceso a internet, laboratorios de cómputo y especializados, aplicaciones de apoyo académico, videoconferencias, redes inalámbricas del campus, entre otros.            </p>
+	</div>
+    
+    </div>
+	<!-- FIN CONTENIDO TAB TAB QUIENES SOMOS-->
+	
+
+
+
+
+    <!-- Contendio Tab MISION VISION -->
+
+    <div class="tab-pane fade show " id="nav-perfil" role="tabpanel" aria-labelledby="nav-perfil-tab">
+        
     <div class="container">
-	<div class="row">
-	
-	<!--FUNCIONES-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/FUNCIONES.jpg" class="img-fluid" />
-	<h3>Funciones</h3>
-	<p>Fia-Data</p>
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini2" class="text align-self-center p-3">
-		FIA – DATA es el órgano encargado de planificar, organizar, dirigir y controlar todas las actividades relacionadas con las tecnologías de Información.
-		</p>
-		<?php  include("funciones.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funciones">Ver más</a>
-      </div>
+	<h4 class="titulo-principal">MISIÓN</h4>		
+	<p class="text-fix-style">
+	El campo laboral del ingeniero civil es muy amplio debido a que esta profesión se preocupa por el bienestar general de las personas: construye responsablemente, soluciona problemas sociales y de infraestructura, integrando pueblos alejados. Una recopilación muy sucinta establece que el ámbito ocupacional del ingeniero civil es el siguiente:
+	</p>
+	<br>			
+	<h4 class="titulo-principal">VISIÓN</h4>		
+	<p class="text-fix-style">
+	Ser un área estratégica y de referencia en su campo de acción, tanto internamente como externamente, siendo capaces de implementar soluciones TIC’s innovadoras que estén alineadas a las estrategias de la Facultad y de la Universidad.
+	</p>          
+    </div>   
+
+        
     </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--FUNCIONES-->
-	
-    <!--OBJETIVOS-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/OBJETIVOS.png" class="img-fluid" />
-	<h3>Objetivos</h3>
-	<p>Fia-Data</p>
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini2" class="text align-self-center p-3">
-		FIA – DATA es el órgano encargado de planificar, organizar, dirigir y controlar todas las actividades relacionadas con las tecnologías de Información.
-		</p>
-		<?php  include("objetivos.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#objetivos">Ver más</a>
-      </div>
+    <!-- FIN Contendio Tab MISION VISION -->
+
+
+    <!-- Contenido tab VALORES--> 
+    <div class="tab-pane fade" id="nav-val" role="tabpanel" aria-labelledby="nav-val-tab">
+        <div class="container">
+		<h4 class="titulo-principal">NUESTROS VALORES</h4>	
+            <div class="listaperfil2">
+				<li>Trabajo colaborativo del equipo.</li>
+				<li>Conducta y ética profesional.</li>
+				<li>Capacidad de innovación.</li>
+				<li>Comunicación efectiva.</li>
+				<li>Capacitación continúa</li>
+				<li>La igualdad de oportunidades de desarrollo profesional.</li>
+            </div>
+        </div>
     </div>
-	</span>
-	</div>
+	<!-- FIN Contenido tab VALORES --> 
 	
-	</div>
-	</div>
-	<!--OBJETIVOS-->
 
-    <!--Des.SW-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/DSW.jpg" class="img-fluid" />
-	<h3>Área de Desarrollo de Software</h3>
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini2" class="text align-self-center p-3">
-		La fábrica de software es una organización altamente organizada que produce partes en una línea de producción utilizando elementos ...
-		</p>
-		<a href="http://www.usmp.edu.pe/fabrica/" target="_blank" class="align-self-center p-3 link">Ver más</a>
-      </div>
+
+
+	<!-- Contenido tab organigrama--> 
+    <div class="tab-pane fade" id="nav-organigrama" role="tabpanel" aria-labelledby="nav-organigrama-tab">
+	<div class="container" style="display:flex;align-items: center;justify-content: center;">
+	<?php  include("organigrama.php") ?>
+	<a data-toggle="modal" data-target="#organigrama" href="">
+		<img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">	
+	</a>
+	</div>	
     </div>
-	</span>
-	</div>
+	<!-- FIN Contenido tab organigrama --> 
 	
-	</div>
-	</div>
-	<!--Des.SW-->
 
-    <!--Grafimedia-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/grafimedia.png" class="img-fluid" />
-	<h3>Área de Diseño Gráfico y Multimedia</h3>
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini2" class="text align-self-center p-3">
-		El Area de Diseño Gráfico y Multimedia brinda soluciones integrales utilizando tecnología de última generación complementados con creatividad ...
-		</p>
-		<?php  include("grafimedia.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#grafimedia">Ver más</a>
-      </div>
+
+	<!-- Contenido tab SERVICIOS--> 
+    <div class="tab-pane fade" id="nav-servicios" role="tabpanel" aria-labelledby="nav-servicios-tab">
+        <div class="container">
+		<h4 class="titulo-principal">SERVICIOS</h4>	
+            <div class="listaperfil2">
+				<li>Atención a alumnos, docentes y administrativos</li>
+				<li>Laboratorios académicos</li>
+				<li>Asignación de cuentas de correo</li>
+				<li>Audiovisuales</li>
+				<li>Digitalización de fotos</li>
+				<li>Páginas Web</li>
+				<li>Telefonía IP</li>
+				<li>Desarrollo de Sistemas y Aplicaciones</li>
+				<li>Análisis de Datos</li>
+				<li>Administración del Centro de Cómputo</li>
+				<li>Adquisiciones de TI</li>
+				<li>Servicios de videoconferencia</li>
+            </div>
+        </div>
     </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--Grafimedia-->
+	<!-- FIN Contenido tab SERVICIOS --> 
 
 
-    <!--STI-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
+	<!-- Contenido tab PROYECTOS--> 
+    <div class="tab-pane fade" id="nav-proyectos" role="tabpanel" aria-labelledby="nav-proyectos-tab">
+	<div class="container">
+	<h4 class="titulo-principal">CARTERA DE PROYECTOS POR AÑO</h4>	
+	</div>		
+	<div class="container" style="display:flex;align-items: center;justify-content: center;">
 	
-	<div class="fia-front">
-	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/STI.png" class="img-fluid" />
-	<h3>Servicios de Tecnología de la Información</h3>
-	</div>
+		<img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">	
 	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini2" class="text align-self-center p-3">
-		Es el órgano encargado de administrar los servicios de tecnología de la información y comunicaciones que soportan los procesos de negocio ...
-		</p>
-		<?php  include("sti.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#sti">Ver más</a>
-      </div>
+	</div>	
     </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--STI-->
+	<!-- FIN Contenido tab PROYECTOS--> 
 
-    <!--SDSK-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
+
+
+
+
+	<!-- Contenido tab DOCUMENTACIÓN--> 
+    <div class="tab-pane fade" id="nav-doc" role="tabpanel" aria-labelledby="nav-doc-tab">
+	<div class="container">
+	<h4 class="titulo-principal">MANUALES POR CATEGORÍAS</h4>	
+	</div>		
+	<div class="container" style="display:flex;align-items: center;justify-content: center;">
 	
-	<div class="fia-front">
-	<img src="http://www.usmp.edu.pe/proFIA/img/fiadata/SDSK.png" class="img-fluid" />
-	<h3>Service Desk</h3>
-	<p>Fia-Data</p>
-	</div>
+		<img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">	
 	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini2" class="text align-self-center p-3">
-		Service Desk es el área especializada en la gestión - solución de incidencias y requerimientos; realizados vía telefónica, presenciales, email ...
-		</p>
-		<?php  include("serviceDesk.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#sdsk">Ver más</a>
-      </div>
+	</div>	
     </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--SDSK-->
+	<!-- FIN Contenido tab PROYECTOS-->
 
 
-	</div>
 
-	
-	  
-	</div>
-	</div>
-	
 
-<center>
+   
+
+
+                    </div>
+                    </div>
+        </section>
+      
+   
+    <br>
+    <center>
     <hr style="width:96%;">
-</center>    
+    </center>                            
+    
 
-    <footer class="footer-area">
+     <footer class="footer-area">
        
        <?php include_once('../blocks/footer.html') ?>
     </footer>
 
-     <!-- ##### All Javascript Script ##### -->
+    <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
     <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->

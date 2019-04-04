@@ -56,225 +56,157 @@
          
                 <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
                 <div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
+						<a class="nav-item nav-link active" id="nav-escuela-tab" data-toggle="tab" href="#nav-escuela" role="tab" aria-controls="nav-escuela" aria-selected="true">Escuela</a>
 
-                        <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
+                        <a class="nav-link" id="nav-infacad-tab" data-toggle="pill" href="#nav-infacad" role="tab" aria-controls="nav-infacad" aria-selected="true">Información Académica</a>
 
-                        <a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
+                        <a class="nav-item nav-link" id="nav-perfil-tab" data-toggle="tab" href="#nav-perfil" role="tab" aria-controls="nav-perfil" aria-selected="false">Perfil profesional</a>
+
+                        <a class="nav-item nav-link" id="nav-faq-tab" data-toggle="tab" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
+
+                        <a class="nav-link " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
+
+                        <a class="nav-item nav-link" id="nav-campo-tab" data-toggle="tab" href="#nav-campo" role="tab" aria-controls="nav-campo" aria-selected="false">Campo Ocupacional</a>
+
+                        <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
+
+                        <a class="nav-link " data-toggle="pill" data-target="#contacto" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">
+                        <li data-toggle="modal" data-target="#contacto">Contacto</li>
+                        </a>
+
+                        <!--BACK UP PARA MOSTRAR PDFS NO TOCAR <a class="nav-item nav-link" id="nav-campo-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a> -->
+
 						<!-- <a class="nav-item nav-link"  href="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf"  target="_blank">Organización Plan de Estudios</a> -->
 
-                        <a class="nav-item nav-link ult-item" id="nav-catalogo-tab" data-toggle="tab" href="#nav-catalogo" role="tab" aria-controls="nav-catalogo" aria-selected="false">Catálogo de Cursos</a>
+                        <a class="nav-item nav-link" id="nav-estad-tab" data-toggle="tab" href="#nav-estad" role="tab" aria-controls="nav-estad" aria-selected="false">Estadísticas</a>
 
-                        <!--<a class="nav-item nav-link"  href="http://www.usmp.edu.pe/ffia/escuelas/civil/pdf/catalogo_cursos_civil2018.pdf" target="_blank">Catálogo de Cursos</a>-->
+                        <a class="nav-item nav-link ult-item" id="nav-proy-tab" data-toggle="tab" href="#nav-proy" role="tab" aria-controls="nav-proy" aria-selected="false">Proyectos</a>
 
-                        <!-- <a class="nav-item nav-link" id="nav-fotos-tab" data-toggle="tab" href="#nav-fotos" role="tab" aria-controls="nav-fotos" aria-selected="false">Fotos</a>                     -->
-
-                        <!-- <a class="nav-item nav-link " id="nav-ponencia-tab" data-toggle="tab" href="#nav-ponencia" role="tab" aria-controls="nav-ponencia" aria-selected="false">Ponencia</a> -->
-
-                        <!--<a class="nav-item nav-link" id="nav-novedades-tab" data-toggle="tab" href="#nav-novedades" role="tab" aria-controls="nav-novedades" aria-selected="false">Novedades</a>-->
-                      
 
 					</div>
                 </nav>
 
 
-                <!-- CONTENIDO TAB  BIENVENIDOS -->
-				<div class="col-md-9 tab-content " id="nav-tabContent">
+    <!-- CONTENIDO TAB ESCUELA -->
+    <div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
-                
-					<div class="tab-pane fade show active container " id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
-
-                        <div class="row">
-                        <div id="letracursiva" class="col-md-12 col-sm-12 col-xs-12">
-						<h2 id="grisfia">BIENVENIDOS</h2>
-                        <h5 id="grisfia">
-                           CONCEPCIÓN DE LA CARRERA DE INGENIERÍA CIVIL
-                        </h5></br>
-                  
-                        <b id="grisfia">
-                            DEFINICIÓN
-                        </b>
-                      
-                        <p id="justificar">
-                            La Ingeniería Civil es la rama de la ingeniería orientada hacia el diseño y construcción de la infraestructura en edificaciones, obras viales, obras hidráulicas, etc. El Ingeniero Civil, egresado de la Escuela de Ingeniería Civil de la Universidad de San Martín de Porres, es un profesional que posee un conjunto armónico de competencias, actitudes y valores, que lo califica para desarrollar soluciones de toda clase de obras y estudios de infraestructuras, técnica y económicamente factibles y sustentables, social y ambientalmente compatibles.
-                        </p>
-                      
-                        <b id="grisfia">
-                        ESFERAS DE ACTUACIÓN (Campo Ocupacional)
-                        </b>
-                        <p id="justificar">
-                            El campo laboral del ingeniero civil es muy amplio debido a que esta profesión se preocupa por el bienestar general de las personas: construye responsablemente, soluciona problemas sociales y de infraestructura, integrando pueblos alejados. Una recopilación muy sucinta establece que el ámbito ocupacional del ingeniero civil es el siguiente:                     
-                        </p>
-                        
-                        <div class="listaperfil" >
-                            <li id="arialj">En el área de la construcción: viviendas, edificios multifamiliares, complejos habitacionales, hospitales, colegios, centros comerciales, locales industriales, centros turísticos y recreacionales, obras de saneamiento, electrificación y de habilitación urbana.</li>
-                            <li id="arialj">En el área de transportes y obras viales: carreteras, puentes, túneles, puertos, aeropuertos, levantamientos topográficos y catastrales; estudios geológicos y de suelos.</li>
-                            <li id="arialj">En el área de estructuras: diseño estructural de las edificaciones en general, edificios, puentes, presas, reservorios, irrigaciones, obras de saneamiento, etc.</li>
-                            <li id="arialj">Hidráulica.</li>
-                            <li id="arialj">Gestión y Asesoría.</li>
-                        </div>
-                        </div>
-                       
-                        </div>
-                    </div>
-                    
-
-                    <!-- FIN CONTENIDO BIENVENIDOS -->
+    <div class="tab-pane fade show active" id="nav-escuela" role="tabpanel" aria-labelledby="nav-escuela-tab">
+    
+    <?php include('escuela.php') ?>
+    
+    </div>
+    <!-- FIN CONTENIDO ESCUELA -->
 
 
-                    <!-- Contendio Tab Perfil Graduados -->
+    <!-- Contendio Tab Perfil Graduados -->
 
-				    <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                       <h3 id="grisfia">PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
-                            <br>
-                    <div class="container">
-                        <div class="row">
-                        
-                            
-                            
-                            <div class="col-md-12">
-                               
-                                <h5 id="grisfia">
-                                    Competencias Genéricas Cognitivas
-                                </h5>
-                                
-                                <br>
-                                <div class="listaperfil">
-                                    <li>Aplica el análisis y la síntesis, la inducción y la deducción, y el enfoque sistémico, entre otros, como estrategias generales de adquisición del conocimiento.</li>
-                                    <li>Utiliza el pensamiento crítico, al analizar los diferentes contextos, fuentes de información y hechos de la realidad.</li>
-                                    <li>Realiza investigaciones, relacionadas con su profesión, bajo la guía de un profesional de mayor experiencia</li>
-                                    <li>Aplica adecuadamente estrategias metacognitivas, lo que lo capacita para el aprendizaje autónomo para toda la vida (Aprender a aprender).</li>
-                                </div>
-                                <br>
-                            </div>
+    <div class="tab-pane fade show " id="nav-perfil" role="tabpanel" aria-labelledby="nav-perfil-tab">
+        
+    <div class="container">
+       <?php include('perfil.php') ?>
+    </div>   
 
-                            
+        
+    </div>
+    <!-- FIN Contendio Tab Perfil Graduados -->
 
-                            <div class="col-md-12">
-                                
-                                <h5 id="grisfia">
-                                    Competencias Genéricas Instrumentales
-                                </h5>
-                                
-                                <br>
-                                <div class="listaperfil">
-                                    <li>Planifica y organiza eficazmente sus actividades y el tiempo dedicado a ellas.</li>
-                                    <li>Comunica ideas básicas de la vida cotidiana y de su profesión, en idioma inglés (inglés intermedio).</li>
-                                    <li>Se comunica asertivamente en idioma español, y puede comprender el inglés.</li>
-                                    <li>Utiliza eficazmente las nuevas tecnologías de la información y la comunicación.</li>
-                                    <li>Resuelve de manera creadora los problemas profesionales y personales a los que se enfrenta.</li>
-                                    <li>Lidera y participa activamente en equipos de trabajo, se compromete con las tareas y logros de los mismos.</li>
-                                    <li>Elabora y gestiona proyectos de diversa índole, vinculados a su profesión.</li>
-                                </div>
-                                <br>
-                            </div>
+
+    <!-- Contenido tab CAMPO OCUPACIONAL --> 
+    <div class="tab-pane fade" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
+        <div class="container">
+            <p class="text-fix-style">
+            El campo laboral del ingeniero civil es muy amplio debido a que esta profesión se preocupa por el bienestar general de las personas: construye responsablemente, soluciona problemas sociales y de infraestructura, integrando pueblos alejados. Una recopilación muy sucinta establece que el ámbito ocupacional del ingeniero civil es el siguiente:
+            </p>
+            <div class="listaperfil">
+            <li>En el área de la construcción: viviendas, edificios multifamiliares, complejos habitacionales, hospitales, colegios, centros comerciales, locales industriales, centros turísticos y recreacionales, obras de saneamiento, electrificación y de habilitación urbana.</li>
+            <li>En el área de transportes y obras viales: carreteras, puentes, túneles, puertos, aeropuertos, levantamientos topográficos y catastrales; estudios geológicos y de suelos.</li>
+            <li>En el área de estructuras: diseño estructural de las edificaciones en general, edificios, puentes, presas, reservorios, irrigaciones, obras de saneamiento, etc.</li>
+            <li>Hidráulica.</li>
+            <li>Gestión y Asesoría.</li>
+            </div>
+        </div>
+    </div>
+    <!-- FIN Contenido tab CAMPO OCUPACIONAL --> 
+
+
+    <!-- Contenido tab CAMPUS --> 
+
+    <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
+    <div class="container">
+
+    <?php include('../../blocks/modales.php') ?>
+
+    </div>
+        
+    </div>
+
+    <!-- FIN Contenido tab CAMPUS --> 
+
+
+    <!-- Contenido tab FAQ --> 
+
+    <div class="tab-pane fade" id="nav-faq" role="tabpanel" aria-labelledby="nav-faq-tab">
+       
+
+        <?php include('preguntasfrec.php') ?>
+
+        
+            
+    </div>
+
+    <!-- FIN Contenido tab FAQ --> 
 
 
 
-                            <div class="col-md-12">
-                                
-                                <h5 id="grisfia">
-                                    Competencias Específicas
-                                </h5>
-                                
-                                <br>
-                                <div class="listaperfil">
-                                    <b>Durante los primeros años después de su graduación, el graduado presentará las siguientes competencias (educationalobjectives):</b>
-
-                                        <li>Planifica, calcula, diseña, construye, supervisa y gestiona proyectos de ingeniería.</li>
-                                        <li>Trabaja en equipo multidisciplinario con capacidad de evaluar los procesos para la toma de decisiones.</li>
-                                        <li>Elabora y formula proyecto de pre inversión y proyectos de inversión pública y privada.</li>
-                                        <li>Evidencia actitudes de servicio, responsabilidad social, compromiso cívico, participación ciudadana y respeto por la cultura y el medio ambiente.</li>
-                                        <li>Es agente de cambio, líder emprendedor, con capacidad crítica, creativa e innovadora ejerciendo sus actividades con ética profesional.</li>
-                                        <li>Maneja habilidades profesionales: cuantitativas, para efectuar mediciones, cálculos y utilizar software especializado; y cualitativas, como técnicas para el uso de equipos de alta tecnología con precisión y destreza en sus experimentos e investigaciones.</li>
-                                        <li>Domina su profesión y se actualiza mediante la educación continua.</li>
-                                        <br>
-                                    <b>Para el momento de su graduación, el estudiante presentará las siguientes competencias (student outcomes):</b>
-
-                                        <li>Aplica conocimientos de matemática, ciencia e ingeniería.</li>
-                                        <li>Diseña y conduce experimentos, así como analizar e interpretar los datos obtenidos.</li>
-                                        <li>Diseña sistemas, componentes o procesos que satisfagan las necesidades requeridas.</li>
-                                        <li>Trabaja adecuadamente en un equipo multidisciplinario.</li>
-                                        <li>Identifica, formula y resuelve problemas de ingeniería.</li>
-                                        <li>Comprende lo que es la responsabilidad ética y profesional.</li>
-                                        <li>Se comunica con efectividad.</li>
-                                        <li>Posee una educación amplia y necesaria para entender el impacto que tienen las soluciones de ingeniería dentro de un contexto social y global.</li>
-                                        <li>Reconoce la necesidad y tiene la habilidad de seguir aprendiendo y capacitándose a lo largo de su vida.</li>
-                                        <li>Conoce los principales temas contemporáneos.</li>
-                                        <li>Usa técnicas, destrezas y herramientas modernas necesarias en la práctica de la ingeniería.</li>
-                                </div>
-                                <br>
-                            </div>
-
-                            
-
-                            <div class="col-md-12 ">
-                                
-                                <h5 id="grisfia">
-                                    Actitudes y Valores Generales
-                                </h5>
-                                
-                                <br>
-                                <div class="listaperfil" >
-                                    <li>Respeto al ser humano, reconocimiento de sus derechos y deberes.</li>
-                                    <li>Búsqueda de la verdad.
-                                    <li>Compromiso ético en todo su quehacer.</li>
-                                    <li>Integridad (honestidad, equidad, justicia, solidaridad y vocación de servicio).</li>
-                                    <li>Compromiso con la calidad y búsqueda permanente de la excelencia.</li>
-                                    <li>Actitud innovadora y emprendedora.</li>
-                                    <li>Conservación ambiental.
-                                    <li>Compromiso con el desarrollo sostenible del país.</li>
-                                </div>
-                                <br>
-                            </div>
-
-                             
-                            
-                        </div>
-
-                        
-
-                        
-                    </div>   
-                       
-                    </div>
-                   <!-- FIN Contendio Tab Perfil Graduados -->
 
 
-                    <!-- Contenido tab Organización plan de Estudios --> 
+    <!-- Contenido tab CONTACTO --> 
 
-                    <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
-                    <div class="container-fluid">
-                        
-                        <h2 id="grisfia">ORGANIZACIÓN PLAN DE ESTUDIOS</h2></br>   
-                        <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf" id="archivo" allowfullscreen></iframe>
-                        </div> 
-                        <br>
-                        <br>
-                        <br>
-                       </div>
-                    </div>
+        <?php include('modal_contacto.php') ?>
 
-                     <!-- FIN Contenido tab Organización plan de Estudios --> 
+    <!-- FIN Contenido tab CONTACTO--> 
+
+
+
+
+
+
+    <!-- Contenido tab PROYECTO --> 
+
+    <div class="tab-pane fade" id="nav-proy" role="tabpanel" aria-labelledby="nav-proy-tab">
+
+    <?php include('proyectos.php') ?>
+    
+    </div>
+
+    <!-- FIN Contenido tab PROYECTO--> 
+
+
+
+
+
+
+    <!-- Contenido tab INF ACADEMICA --> 
+
+    <div class="tab-pane fade" id="nav-infacad" role="tabpanel" aria-labelledby="nav-infacad-tab">
+        <div class="container" style="display:flex;align-items: center;justify-content: center;">
+
+        
+            <img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">
+        
+
+        </div>
+            
+    </div>
+    <!-- FIN Contenido tab INF ACADEMICA --> 
 
 
 
                      <!-- Contenido tab Catalogo de Cursos --> 
 
-                    <div class="tab-pane fade" id="nav-catalogo" role="tabpanel" aria-labelledby="nav-catalogo-tab">
-                        <div class="container">
-                            
-                            <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
-                        <div class="embed-responsive embed-responsive-16by9">
-                        <iframe src="http://www.usmp.edu.pe/ffia/escuelas/civil/pdf/catalogo_cursos_civil2018.pdf"  id="archivo"></iframe> 
-                        </div> 
-                        <br>
-                        <br><br>
-                        </div>
-                            
-                    </div>
-
+                    <div class="tab-pane fade" id="nav-estad" role="tabpanel" aria-labelledby="nav-estad-tab">
+                       <?php include('estadisticas.php') ?>
+                     </div>
                      <!-- FIN Contenido tab Catalogo de Cursos --> 
 
 
@@ -297,7 +229,7 @@
 
 
                      <!-- Contenido tab Ponencia --> 
-                    <div class="tab-pane fade" id="nav-ponencia" role="tabpanel" aria-labelledby="nav-ponencia-tab">
+                    <!-- <div class="tab-pane fade" id="nav-ponencia" role="tabpanel" aria-labelledby="nav-ponencia-tab">
                          <div class="container rowArqui">
                             <br>
                             <h1 id="azulfia" style="text-align:center;">PONENCIA</h1></br>  
@@ -306,8 +238,25 @@
                         </div>
                         <br><br>
                             </div>
-                    </div>
+                    </div> -->
                     <!-- FIN Contenido tab Ponencia --> 
+
+                     <!-- Contenido tab Organización plan de Estudios --> 
+
+                    <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
+                    <div class="container-fluid">
+                        
+                        <h2 id="grisfia">ORGANIZACIÓN PLAN DE ESTUDIOS</h2></br>   
+                        <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf" id="archivo" allowfullscreen></iframe>
+                        </div> 
+                        <br>
+                        <br>
+                        <br>
+                        </div>
+                    </div>
+
+                    <!-- FIN Contenido tab Organización plan de Estudios --> 
 
 
                     </div>
