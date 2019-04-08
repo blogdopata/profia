@@ -15,9 +15,9 @@
            <br>
            <br>
            <br>
-                    <center>
+                    <div class="container centrarimg">
                     <img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/organigrama-FIA-DATA.jpg" alt="">
-                    </center>
+                    </div>
            <br>
            <br>
            

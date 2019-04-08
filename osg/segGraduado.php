@@ -12,10 +12,11 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="img/core-img/logousmp.ico">
+    <link rel="icon" href="../img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
+
 
 
 </head>
@@ -26,41 +27,37 @@
         <i class="circle-preloader"></i>
     </div>
 
-    <!-- ##### Header Area Start ##### -->
+   
     <header class="header-area">
-
+        
       <?php include_once('../blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="page-header3">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="page-caption1 d-flex justify-content-center align-items-center" >
-                        <h1 class="page-title1 d-flex align-items-center justify-content-center ">
-                            Oficina de Seguimiento al Graduado
-                        </h1>
-                    </div>
-                </div>
+    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/proFIA/img/bg-img/img_osg.jpg');"  >
+     
+    </div>
+
+    <!-- ##### Breadcumb Area End ##### -->
+
+    <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
+      <div class="row">
+          <div class="col-12">
+                <h5  style="color:#585857; font-size:32px;">
+                       OFICINA DE SEGUIMIENTO AL GRADUADO
+                </h5>
             </div>
         </div>
     </div>
+
     <!-- ##### Breadcumb Area End ##### -->
 
     <!-- ##### About Us Area Start ##### -->
     <section class="about-us-area mt-50 ">
         <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
-                        <h3 id="azulfia">Facultad de Ingeniería y Arquitectura </h3>
-                    </div>
-                    <br>
-                </div>
-            </div>
+           
             <div class="row" style="background-image:url('/img/fia/fachada2.jpg'); no-repeat center top;background-size:cover;background-color:lavender;padding-top:30px;padding-bottom:30px;">
                 <div class="col-12 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="400ms">
                     <h5 id="azulfia">Alcance</h5>

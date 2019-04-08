@@ -26,9 +26,7 @@
     </div>
 
   <div class="collapse" id="fotosavion" style="margin-top:18px;">
-  <p class="text-fix-style">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-    </p>
+ 
     <?php include("popup.php") ?>
     <div class="row">
     
@@ -81,7 +79,8 @@
         </div>
     </div>
   </div>
-  <div class="col-md-12" style="height:2px;background-color:grey;margin-top:30px;margin-bottom:30px;"></div>
+  
+  <hr>
 
   <h5 class="titulo-generico" style="font-size:40px;">Simuladores</h5>
 
@@ -111,9 +110,8 @@
     </div>
 
   <div class="collapse" id="fotosimu" style="margin-top:18px;">
-  <p class="text-fix-style">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-    </p>
+ 
+  <?php include("popupsimu.php") ?>
     <div class="row">
         <div class="col-md-4">
         <a href="#" data-toggle="modal" data-target="#10">
@@ -168,6 +166,13 @@
         <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/10.jpg" alt="">
         </a>
         </div>
+        
+        
+
+     
+
+
+        
     </div>
   </div>
     

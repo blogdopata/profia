@@ -49,9 +49,13 @@
       <?php include_once('../blocks/header.html') ?>
 
     </header>
-<br><br><br><br>
-
-<div class="container">
+ <!-- ##### Breadcumb Area Start ##### -->
+ <div  class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/proFIA/img/bg-img/reglamentos.jpg');"  >
+     
+     </div>
+     <!-- ##### Breadcumb Area End ##### -->
+    
+<div class="container" style="margin-top:7%;">
 	<h3 class="text-center">
 		<b>LEY N° 21357-558523</b>
 	</h3>

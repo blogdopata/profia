@@ -1632,7 +1632,7 @@ padding: 7px;
      
    }
    .breakpoint-off .classynav ul li .megamenu {
-     z-index: 0 !important;
+    /* z-index: 0 !important;*/  /* fix error de superposiciÓN  */
    }
    .fix-position-items{
      left:-50px !important;
@@ -1883,7 +1883,7 @@ padding: 7px;
     }
 
     .modal-body{
-      background: url("http://www.usmp.edu.pe/proFIA/img/bg-img/marcasAgua/marca2.jpg");
+      /*background: url("http://www.usmp.edu.pe/proFIA/img/bg-img/marcasAgua/marca2.jpg");*/
       background-size:contain;
       background-repeat:no-repeat;
       background-position: right center;

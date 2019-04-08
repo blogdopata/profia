@@ -15,10 +15,14 @@
             </div>
         </div>
         <div class="col-md-4">
+            <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/2.jpg" alt="">
+            </div>
         </div>
         <div class="col-md-4">
+            <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/3.jpg" alt="">
+            </div>
         </div>
     </div>
     
@@ -43,10 +47,14 @@
             </div>
         </div>
         <div class="col-md-4">
+            <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/5.jpg" alt="">
+            </div>
         </div>
         <div class="col-md-4">
+            <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/6.jpg" alt="">
+            </div>
         </div>
     </div>
     <br>
@@ -61,6 +69,24 @@
     En el Laboratorio de Pavimentos, los alumnos de nuestra facultad realizan ensayos del control de calidad de materiales empleados en el diseño de estructuras de pavimentos, así como la caracterización física de materiales que componen las mezclas asfálticas (Pavimento Flexible) y mezclas de concreto hidráulico (Pavimento Hidráulico).
     </p>
     <br>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="container centrarimg">
+                <img class="img-fluid" src="img/lab/7.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="container centrarimg">
+                <img class="img-fluid" src="img/lab/8.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="container centrarimg">
+                <img class="img-fluid" src="img/lab/9.jpg" alt="">
+            </div>
+        </div>
+    </div>
+    <br>
     <br>
     
     <h2 class="titulo-generico">
@@ -72,6 +98,23 @@
     El Laboratorio de Hidráulica y Mecánica de Fluidos cuenta con infraestructuras y equipos que le permiten al alumno abordar problemas vinculados a casi cualquier ámbito de la hidráulica (Obtención de energía hidráulica, irrigación, potabilización, canalización), incluyendo flujo en presión o flujo en lámina libre; entendiendo que el laboratorio está orientado a proyectos de investigación ya que cuenta con Canal de pendiente variable, Pérdida de carga en tuberías, Cuba de Reynolds y Mesa de línea de corrientes.
     </p>
     <br>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="container centrarimg">
+                <img class="img-fluid" src="img/lab/10.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="container centrarimg">
+                <img class="img-fluid" src="img/lab/11.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="container centrarimg">
+                <img class="img-fluid" src="img/lab/12.jpg" alt="">
+            </div>
+        </div>
+    </div>
     
 
 

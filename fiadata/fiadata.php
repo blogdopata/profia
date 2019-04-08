@@ -38,45 +38,11 @@
 
  <!-- ##### titular ##### -->
      <div class="breadcumb-area bg-img page-header4 img-fix-position2" style=>
-        <div class="bradcumbContent">
-            <h2>FIA - DATA</h2>
-        </div>
+        
     </div>
 	<!-- ##### titular ##### -->
 	
-	<div class="container" style="transform: translateY(90%);">
-	<div class="row">
-
-	<div class="col-md-8" >
-		
-
-		<p class="text-fix-style">
-		Tenemos la mejor infraestructura en tecnologías de Información del Perú y detrás de ella, la excelencia profesional. Por que solo así podemos exigir calidad a nuestros estudiantes. Fuimos los primeros en acortar la brecha en cuanto a realidad tecnológica de una Empresa con una Universidad en nuestro país.		
-		</p>
-
-		<p class="text-fix-style">
-		Por eso insistimos mucho en la formación personal y profesional de nuestros estudiantes. Cualidades como el afán de investigación, empeño, tenacidad e iniciativa son elementos importantes que juntos ayudarán a la consecución del éxito profesional y capacidad garantizada de nuestros graduados. Por eso decimos que en FIA-DATA el mejor equipo es HUMANO.
-		</p>
-
-	</div>
-
-	<div class="col-md-4" >
-	<div class="card text-center">
-					<div class="card-body">
-					<img class="card-img-top" src="..." alt="Card image cap">						
-					<h5 id="mini" class="card-title"><p  class="link">Ing. Cesar Augusto Porras Quinto</p></h5>
-					<h6 id="mini" class="card-subtitle mb-2 text-muted">Jefe FIA-DATA</h6>
-					<a id="mini" style="color:#017090;" href="mailto:cporras@usmp.pe" class="link">cporras@usmp.pe</a>
-					<p class="card-text">USMP- FIA</p>
-					</div>
-					
-                </div>
-	</div>
-
-</div>
-	<hr>
-	</div>
-
+	
 
   
        
@@ -113,7 +79,8 @@
 
 						<a class="nav-item nav-link" id="nav-val-tab" data-toggle="tab" href="#nav-val" role="tab" aria-controls="nav-val" aria-selected="false">Nuestros valores</a>
 						
-						<a class="nav-item nav-link" id="nav-organigrama-tab" data-toggle="tab" href="#nav-organigrama" role="tab" aria-controls="nav-organigrama" aria-selected="false">Organigrama</a>
+						<?php  include("organigrama.php") ?>
+						<a class="nav-item nav-link" id="nav-organigrama-tab"  href="#nav-organigrama" role="tab" aria-controls="nav-organigrama" aria-selected="false" data-toggle="modal" data-target="#organigrama" >Organigrama</a>
 
 						<a class="nav-item nav-link" id="nav-servicios-tab" data-toggle="tab" href="#nav-servicios" role="tab" aria-controls="nav-servicios" aria-selected="false">Servicios</a>
 
@@ -142,8 +109,48 @@
 	<div class="container">
 	<h4 class="titulo-principal">QUIENES SOMOS</h4>		
 	<p class="text-fix-style">
-	FIA DATA está conformada por un grupo de profesionales que a través de su trabajo buscan permanentemente proveer los mejores servicios y herramientas tecnológicas innovadoras que ayuden a la comunidad universitaria en su proceso de aprendizaje. Dentro de las herramientas tenemos acceso a internet, laboratorios de cómputo y especializados, aplicaciones de apoyo académico, videoconferencias, redes inalámbricas del campus, entre otros.            </p>
 	</div>
+
+
+	<div class="container">
+	<div class="row">
+
+	<div class="col-md-8"  style="margin-top:2%;">
+
+		<p class="text-fix-style" >
+		FIA DATA está conformada por un grupo de profesionales que a través de su trabajo buscan permanentemente proveer los mejores servicios y herramientas tecnológicas innovadoras que ayuden a la comunidad universitaria en su proceso de aprendizaje. Dentro de las herramientas tenemos acceso a internet, laboratorios de cómputo y especializados, aplicaciones de apoyo académico, videoconferencias, redes inalámbricas del campus, entre otros.            </p>
+		</p>
+		
+
+		<p class="text-fix-style" >
+		Tenemos la mejor infraestructura en tecnologías de Información del Perú y detrás de ella, la excelencia profesional. Por que solo así podemos exigir calidad a nuestros estudiantes. Fuimos los primeros en acortar la brecha en cuanto a realidad tecnológica de una Empresa con una Universidad en nuestro país.		
+		</p>
+
+		<p class="text-fix-style" >
+		Por eso insistimos mucho en la formación personal y profesional de nuestros estudiantes. Cualidades como el afán de investigación, empeño, tenacidad e iniciativa son elementos importantes que juntos ayudarán a la consecución del éxito profesional y capacidad garantizada de nuestros graduados. Por eso decimos que en FIA-DATA el mejor equipo es HUMANO.
+		</p>
+
+	</div>
+
+	<div class="col-md-4" >
+	<div class="card text-fix-style">
+					<div class="card-body">
+					<img class="card-img-top img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/cesar_porras.jpg" alt="Card image cap">						
+					<h5 id="mini" class="card-title text-center"><p  class="link">Ing. Cesar Augusto Porras Quinto</p></h5>
+					<h6 id="mini" class="card-subtitle mb-2 text-muted text-center">Jefe FIA-DATA</h6>
+					<div class="text-center">
+					<a id="mini" class="text-fix-style" style="color:#017090;" href="mailto:cporras@usmp.pe" class="link">cporras@usmp.pe</a>
+					</div>
+					<p class="card-text text-center">USMP- FIA</p>
+					</div>
+					
+                </div>
+	</div>
+
+</div>
+	
+	</div>
+
     
     </div>
 	<!-- FIN CONTENIDO TAB TAB QUIENES SOMOS-->
@@ -195,10 +202,10 @@
 	<!-- Contenido tab organigrama--> 
     <div class="tab-pane fade" id="nav-organigrama" role="tabpanel" aria-labelledby="nav-organigrama-tab">
 	<div class="container" style="display:flex;align-items: center;justify-content: center;">
-	<?php  include("organigrama.php") ?>
-	<a data-toggle="modal" data-target="#organigrama" href="">
+	
+	<!-- <a data-toggle="modal" data-target="#organigrama" href="">
 		<img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">	
-	</a>
+	</a> -->
 	</div>	
     </div>
 	<!-- FIN Contenido tab organigrama --> 

@@ -391,45 +391,58 @@
 
                               <div class="card-deck" >
 
-                                <div class="card text-center" >
-                                  <div >
-                                  <img class="card-img-center w-50 text-center img-fluid"  src="img\autoridades\cardenasmartinez.jpg" alt="Card image cap">
-                                  </div>
-                                  <div class="card-body">
-                                    <div class="text-center">
-                                    <h5 class="card-title">COORDINADOR TURNO MAÑANA</h5>
-                                    <p class="card-text">Mg. José A. Cárdenas Martínez</p>
-                                    <p class="card-text"><small style="color:blue;">jcardenasm@usmp.pe</small></p>
+                                    <div class="card text-center" >
+                                      <div >
+                                        <img class="card-img-center w-50 text-center img-fluid"  src="img\autoridades\cardenasmartinez.jpg" alt="Card image cap">
+                                      </div>
+                                      <div class="card-body">
+                                        <div class="text-center">
+                                        <h5 class="card-title">COORDINADOR TURNO MAÑANA</h5>
+                                        <p class="card-text">Mg. José A. Cárdenas Martínez</p>
+                                        <p class="card-text"><small style="color:blue;">jcardenasm@usmp.pe</small></p>
+                                        </div>
+                                      </div>
+
                                     </div>
-                                  </div>
-                                </div>
-                                <div class="card text-center">
-                                  <div>
-                                    <img class="card-img-top w-50 img-fluid"  src="img\autoridades\edgar_fabian.jpg" alt="Card image cap">
-                                  </div>
-                                  <div class="card-body">
-                                    <div class="text-center">
-                                    <h5 class="card-title">COORDINADOR TURNO TARDE</h5>
-                                    <p class="card-text">Ing. Edgar Rivera Fabián</p>
-                                    <p class="card-text"><small style="color:blue;">eriveraf@usmp.pe</small></p>
+
+                                    <div class="card text-center">
+                                      <div>
+                                        <img class="card-img-top w-50 img-fluid"  src="img\autoridades\edgar_fabian.jpg" alt="Card image cap">
+                                      </div>
+
+                                      <div class="card-body">
+                                        <div class="text-center">
+                                        <h5 class="card-title">COORDINADOR TURNO TARDE</h5>
+                                        <p class="card-text">Ing. Edgar Rivera Fabián</p>
+                                        <p class="card-text"><small style="color:blue;">eriveraf@usmp.pe</small></p>
+                                        </div>
+
+                                      </div>
                                     </div>
-                                  </div>
-                                </div>
-                                <div class="card text-center">
-                                  <div>
-                                    <img class="card-img-top w-50 img-fluid"  src="img\autoridades\castro.jpg" alt="Card image cap">
-                                  </div>
-                                  <div class="card-body">
-                                    <div class="text-center">
-                                    <h5 class="card-title">COORDINADOR TURNO NOCHE</h5>
-                                    <p class="card-text">Ing. Fredy Adán Castro Salazar</p>
-                                    <p class="card-text"><small style="color:blue;">fcastros@usmp.pe</small></p>
+
+
+                                    <div class="card text-center">
+                                      <div>
+                                        <img class="card-img-top w-50 img-fluid"  src="img\autoridades\castro.jpg" alt="Card image cap">
+                                      </div>
+                                      <div class="card-body">
+                                        <div class="text-center">
+                                        <h5 class="card-title">COORDINADOR TURNO NOCHE</h5>
+                                        <p class="card-text">Ing. Fredy Adán Castro Salazar</p>
+                                        <p class="card-text"><small style="color:blue;">fcastros@usmp.pe</small></p>
+                                        </div>
+                                      </div>
                                     </div>
-                                  </div>
-                                </div>
-                      </div>
+                            </div>
+
+
+
+
                             </div>
                           </div>
+
+
+
                           <div class="card">
                           <div class="card-header bg-autoridades" id="heading4">
                             

@@ -1,3 +1,4 @@
+<div class="container">
 <div class="row text-fix-style">
     <p id="justificar">
     Escuela perteneciente a la Facultad de Ingeniería y Arquitectura. Esta carrera busca preparar a los estudiantes en una profesión competitiva, que le permita ejercer una gestión responsable en todas las actividades de la aviación. 
@@ -65,3 +66,4 @@
 
 </div>
     
+</div>

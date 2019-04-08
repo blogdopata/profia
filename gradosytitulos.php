@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/acreditaciones.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/proFIA/img/bg-img/img_grados.jpg');"  >
      
     </div>
 
@@ -46,7 +46,7 @@
       <div class="row">
           <div class="col-12">
                 <h5  style="color:#585857; font-size:32px;">
-                       OFICINA DE GRANDOS Y TÍTULOS 
+                       OFICINA DE GRADOS Y TÍTULOS 
                 </h5>
             </div>
         </div>
@@ -69,7 +69,7 @@
 
         <br><br>
 
-	<section style="background-color:lavender;">
+	<section  class=" wow fadeInUp" data-wow-delay="200ms" ">
     <br>
         <div class="page-full clearfix" style="border:solid 1px grey;border-radius:6px;box-shadow:2px 2px 3px grey;">
 

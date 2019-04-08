@@ -62,50 +62,147 @@
     
     <div class="container content mb-5">
 
+                <!-- INICIO FILA -->
+                <div class="row mt-3">
+
+            <div class="col-6 col-md-3 text-center" >
+                <div class="team-members">
+                    <div >
+                    <a href="#" target="_blank">   
+                    
+                        <img class="img-fluid" src="img/prestaciones/servicios/acreditacion.jpg" alt="">
+                    
+                    </a>
+                    </div>
+                
+                </div>
+                <a href="#" target="_blank">  Acreditación</a>
+            </div>
+
+            <div class="col-6 col-md-3 text-center">
+                <div class="team-members">
+                    <div >
+                    <a href="http://www.sibus.usmp.edu.pe/" target="_blank">
+                        <img class="img-fluid" src="img/prestaciones/servicios/biblio.jpg" alt="">
+                    </a>                              
+                    </div>
+                
+                </div>
+                <a href="http://www.sibus.usmp.edu.pe/" target="_blank"> Biblioteca</a>
+            </div>
+
+            <div class="col-6 col-md-3 text-center">
+                <div class="team-members">
+                    <div >
+                    <a href="servicios/bienestar.php">
+                        <img class="img-fluid" src="img/prestaciones/servicios/bienestar.jpg" alt="">
+                        </a>
+                    </div>
+                
+                </div>
+                <a href="servicios/bienestar.php"> Bienestar Universitario</a>
+            </div>
+
+
+            <div class="col-6 col-md-3 text-center">
+                <div class="team-members">
+                    <div >
+                        <a href="https://campusvirtual.usmp.edu.pe" target="_blank">
+                            <img class="img-fluid" src="img/prestaciones/servicios/campus_virtual.jpg" alt="">
+                        </a>
+                    </div>
+                
+                </div>
+                <a  href="https://campusvirtual.usmp.edu.pe" target="_blank">Campus virtual</a>
+
+            </div>
+
+
+
+            </div>
+            <!-- FIN DE FILA -->
+
+
+
+             <!-- INICIO DE FILA -->
             <div class="row mt-3">
 
                   <div class="col-6 col-md-3 text-center" >
                       <div class="team-members">
                           <div >
-                           <a href="http://www.sibus.usmp.edu.pe/" target="_blank">   
+                           <a href="#" target="_blank">   
                            
-                              <img class="img-fluid" src="img/prestaciones/biblio.jpg" alt="">
+                                <img class="img-fluid" src="img/prestaciones/servicios/categorizacion.jpg" alt="">   
                           
                             </a>
                           </div>
                         
                       </div>
-                      <a href="http://www.sibus.usmp.edu.pe/" target="_blank">  Biblioteca </a>
+                      <a href="#" target="_blank">  Categorización </a>
                   </div>
               
-                  <div class="col-6 col-md-3 text-center">
+                  <div class="col-6 col-md-3 text-center" >
                       <div class="team-members">
                           <div >
-                          <a href="servicios/bienestar.php">
-                              <img class="img-fluid" src="img/prestaciones/bienestar.jpg" alt="">
-                          </a>                              
+                           <a href="#" target="_blank">   
+                           
+                                <img class="img-fluid" src="img/prestaciones/servicios/conferencias.jpg" alt="">   
+                          
+                            </a>
                           </div>
                         
                       </div>
-                      <a href="servicios/bienestar.php" target="_blank"> Bienestar Universitario</a>
+                      <a href="#" target="_blank">  Conferencias </a>
                   </div>
 
-                  <div class="col-6 col-md-3 text-center">
+                  <div class="col-6 col-md-3 text-center" >
                       <div class="team-members">
                           <div >
-                              <img class="img-fluid" src="img/prestaciones/conferencia.jpg" alt="">
+                           <a href="#" target="_blank">   
+                           
+                                <img class="img-fluid" src="img/prestaciones/servicios/convenios.jpg" alt="">   
+                          
+                            </a>
                           </div>
-                      
+                        
                       </div>
-                      <a  href="#" target="_blank" >  Conferencias</a>
+                      <a href="#" target="_blank">  Convenios </a>
                   </div>
 
 
-                  <div class="col-6 col-md-3 text-center">
+                  
+
+
+                  <div class="col-6 col-md-3 text-center" >
+                      <div class="team-members">
+                          <div >
+                           <a href="#" target="_blank">   
+                           
+                                <img class="img-fluid" src="img/prestaciones/servicios/correo.jpg" alt="">   
+                          
+                            </a>
+                          </div>
+                        
+                      </div>
+                      <a href="#" target="_blank">  Correo institucional </a>
+                  </div>
+
+
+
+            </div>
+            <!-- FIN DE FILA -->
+
+
+
+
+            <!-- INICIO DE FILA -->
+            <div class="row mt-3">
+
+            <div class="col-6 col-md-3 text-center">
                       <div class="team-members">
                           <div >
                               <a href="servicios/actividad_cultural.php">
-                              <img class="img-fluid" src="img/prestaciones/cultural.jpg" alt="">
+                                    <img class="img-fluid" src="img/prestaciones/servicios/cultural.jpg" alt="">   
                               </a>
                           </div>
                         
@@ -116,19 +213,249 @@
 
 
 
-            </div><!-- //end row mt-4 -->
+
+                <div class="col-6 col-md-3 text-center" >
+                      <div class="team-members">
+                          <div >
+                           <a href="#" target="_blank">   
+                           
+                                <img class="img-fluid" src="img/prestaciones/servicios/defensoria.jpg" alt="">   
+                          
+                            </a>
+                          </div>
+                        
+                      </div>
+                      <a href="#" target="_blank">  Defensoría </a>
+                  </div>
 
 
+
+                  <div class="col-6 col-md-3 text-center" >
+                      <div class="team-members">
+                          <div >
+                           <a href="#" target="_blank">   
+                           
+                                <img class="img-fluid" src="img/prestaciones/servicios/discapacidad.jpg" alt="">   
+                          
+                            </a>
+                          </div>
+                        
+                      </div>
+                      <a href="#" target="_blank"> Servicios para discapacitados </a>
+                  </div>
+
+
+
+                  <div class="col-6 col-md-3 text-center" >
+                      <div class="team-members">
+                          <div >
+                           <a href="#" target="_blank">   
+                           
+                                <img class="img-fluid" src="img/prestaciones/servicios/ferias.jpg" alt="">   
+                          
+                            </a>
+                          </div>
+                        
+                      </div>
+                      <a href="#" target="_blank"> Ferias laborales </a>
+                  </div>
+
+
+            </div>
+            <!-- FIN DE FILA -->
+
+
+
+
+            <!-- INICIO DE FILA -->
             <div class="row mt-3">
+
+            <div class="col-6 col-md-3 text-center">
+                    <div class="team-members">
+                        <div >
+                            <a href="#">
+                                    <img class="img-fluid" src="img/prestaciones/servicios/fondo-editorial.jpg" alt="">   
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a  href="#">Fondo Editorial</a>
+
+                </div>
+
+
 
                 <div class="col-6 col-md-3 text-center" >
                     <div class="team-members">
                         <div >
-                            <img class="img-fluid" src="img/prestaciones/guia.jpg" alt="">
+                        <a href="#" target="_blank">   
+                        
+                                <img class="img-fluid" src="img/prestaciones/servicios/gimansio.jpg" alt="">   
+                        
+                            </a>
                         </div>
-                    
+                        
                     </div>
-                    <a href="#"  target=_blank> Guia del estudiante</a>
+                    <a href="#" target="_blank">  Gimnasio </a>
+                </div>
+
+
+
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                        <a href="#" target="_blank">   
+                        
+                                <img class="img-fluid" src="img/prestaciones/servicios/guia.jpg" alt="">   
+                        
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a href="#" target="_blank"> Guía estudiantil </a>
+                </div>
+
+
+
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                        <a href="#" target="_blank">   
+                        
+                                <img class="img-fluid" src="img/prestaciones/servicios/informacion-docente.jpg" alt="">   
+                        
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a href="#" target="_blank"> Información para docentes </a>
+                </div>
+
+
+            </div>
+            <!-- FIN DE FILA -->
+
+
+
+
+            <!-- INICIO DE FILA -->
+            <div class="row mt-3">
+
+            <div class="col-6 col-md-3 text-center">
+                    <div class="team-members">
+                        <div >
+                            <a href="#">
+                                    <img class="img-fluid" src="img/prestaciones/servicios/manual_calidad.jpg" alt="">   
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a  href="#">Manual calidad</a>
+
+                </div>
+
+
+
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                        <a href="#" target="_blank">   
+                        
+                                <img class="img-fluid" src="img/prestaciones/servicios/manual-portal.jpg" alt="">   
+                        
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a href="#" target="_blank">  Manual Portal </a>
+                </div>
+
+
+
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                        <a href="#" target="_blank">   
+                        
+                                <img class="img-fluid" src="img/prestaciones/servicios/portal-academico.jpg" alt="">   
+                        
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a href="#" target="_blank"> Portal académico </a>
+                </div>
+
+
+
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                        <a href="#" target="_blank">   
+                        
+                                <img class="img-fluid" src="img/prestaciones/servicios/practicas.jpg" alt="">   
+                        
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a href="#" target="_blank"> Prácticas </a>
+                </div>
+
+
+            </div>
+            <!-- FIN DE FILA -->
+
+
+
+
+
+            <!-- INICIO DE FILA -->
+            <div class="row mt-3">
+
+            <div class="col-6 col-md-3 text-center">
+                    <div class="team-members">
+                        <div >
+                            <a href="#">
+                                    <img class="img-fluid" src="img/prestaciones/servicios/programas-virtuales.jpg" alt="">   
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a  href="#">Programas virtuales</a>
+
+                </div>
+
+
+
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                        <a href="#" target="_blank">   
+                        
+                                <img class="img-fluid" src="img/prestaciones/servicios/reglamento-alumnos.jpg" alt="">   
+                        
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a href="#" target="_blank">  Reglamento alumnos </a>
+                </div>
+
+
+
+                <div class="col-6 col-md-3 text-center" >
+                    <div class="team-members">
+                        <div >
+                        <a href="#" target="_blank">   
+                        
+                                <img class="img-fluid" src="img/prestaciones/servicios/revista-campus.jpg" alt="">   
+                        
+                            </a>
+                        </div>
+                        
+                    </div>
+                    <a href="#" target="_blank"> Revista Campus </a>
                 </div>
 
 
@@ -137,7 +464,7 @@
                     <div class="team-members">
                         <div >
                         <a href="servicios/topico.php">
-                            <img class="img-fluid" src="img/prestaciones/topico.JPG" alt="">
+                            <img class="img-fluid" src="img/prestaciones/servicios/topico.jpg" alt="">
                         </a>
                         </div>
                     
@@ -146,47 +473,33 @@
                 </div>
 
 
-                <div class="col-6 col-md-3 text-center">
-                    <div class="team-members">
-                        <div >
-                            <img class="img-fluid" src="img/prestaciones/gimansio.jpg" alt="">
-                        </div>
-                    
-                    </div>
-                    <a  href="#" target="_blank">Gimnasio</a>
-
-                </div>
-
-                <div class="col-6 col-md-3 text-center">
-                    <div class="team-members">
-                        <div >
-                        <a href="http://www.usmp.edu.pe/ffia/files/calendario2017/Discapacidad_Enfermedad_Alumnos.pdf" target="_blank">
-                            <img class="img-fluid" src="img/prestaciones/discapacidad.JPG" alt="">
-                        </a>
-                        </div>
-                    
-                    </div>
-                    <a href="http://www.usmp.edu.pe/ffia/files/calendario2017/Discapacidad_Enfermedad_Alumnos.pdf" target="_blank">Servicios para discapacitados</a>
-                </div>
+            </div>
+            <!-- FIN DE FILA -->
 
 
-            </div><!-- //end row mt-4 -->
-
-
+            <!-- INICIO DE FILA -->
             <div class="row mt-3">
 
-                <div class="col-6 col-md-3 text-center" >
+            <div class="col-6 col-md-3 text-center">
                     <div class="team-members">
                         <div >
-                            <img class="img-fluid" src="img/prestaciones/ferias.jpg" alt="">
+                            <a href="#">
+                                    <img class="img-fluid" src="img/prestaciones/servicios/transparencia.jpg" alt="">   
+                            </a>
                         </div>
-                    
+                        
                     </div>
-                    <a href="#"  target=_blank> Ferias Laborales</a>
+                    <a  href="#">Transparencia</a>
+
                 </div>
 
 
-            </div><!-- //end row mt-4 -->
+
+
+            </div>
+            <!-- FIN DE FILA -->
+
+           
 
     </div>
                                 

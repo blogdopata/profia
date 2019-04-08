@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/evaluaciones.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/proFIA/img/bg-img/evaluaciones.jpg');"  >
      
     </div>
     <!-- ##### Breadcumb Area End ##### -->

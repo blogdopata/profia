@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/reglamentos.jpg');"  >
+    <div  class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/proFIA/img/bg-img/reglamentos.jpg');"  >
      
     </div>
     <!-- ##### Breadcumb Area End ##### -->
@@ -62,16 +62,18 @@
             <div class="col-3 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Compromiso de Excepción </h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <?php include('popuplegal/directivas/comprExcepcion.php') ?>
+                    <a data-toggle="modal" href="#miModal5" data-toogle="miModal5" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
-
+            
             
             <div class="col-3 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Reserva de Matrícula</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <?php include('popuplegal/directivas/reservaMatricula.php') ?>
+                    <a data-toggle="modal" href="#miModal6" data-toogle="miModal6" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
@@ -79,7 +81,8 @@
             <div class="col-3 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Retiro de Ciclo</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <?php include('popuplegal/directivas/retiroCiclo.php') ?>
+                    <a data-toggle="modal" href="#miModal7" data-toogle="miModal7" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
@@ -87,7 +90,8 @@
             <div class="col-3 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Retiro de Curso</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <?php include('popuplegal/directivas/retiroCurso.php') ?>
+                    <a data-toggle="modal" href="#miModal8" data-toogle="miModal8" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
@@ -100,7 +104,8 @@
             <div class="col-3 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Examen de Subsanación</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <?php include('popuplegal/directivas/examSubsanacion.php') ?>
+                    <a data-toggle="modal" href="#miModal9" data-toogle="miModal9" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
@@ -109,7 +114,8 @@
             <div class="col-3 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas del Curso de Nivelación</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <?php include('popuplegal/directivas/nivelacion.php') ?>
+                    <a data-toggle="modal" href="#miModal10" data-toogle="miModal10" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
@@ -117,15 +123,17 @@
             <div class="col-3 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Reglamentos de Registros Académicos</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <?php include('popuplegal/reglamentos/regAcademicos.php') ?>
+                    <a data-toggle="modal" href="#miModal2" data-toogle="miModal2" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
 
             <div class="col-3 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Reglamentos de Evalucación del Aprendizaje </h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <h5 class="text-info-gen text-center"  >Reglamentos de Evaluación del Aprendizaje </h5>
+                    <?php include('popuplegal/reglamentos/evalAprendizaje.php') ?>
+                    <a data-toggle="modal" href="#miModal3" data-toogle="miModal3" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
@@ -136,42 +144,22 @@
             
             <div class="col-3 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Directivas de Examen de Subsanación</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
+                    <h5 class="text-info-gen text-center"  >Normas para Reactualización de Matrícula </h5>
+                    <?php include('popuplegal/normas/reactualizacionMatricula.php') ?>
+                    <a data-toggle="modal" href="#miModal" data-toogle="miModal" class="text-link-gen" >Ver más</a>
                     
                 </div>
             </div>
 
             
-            <div class="col-3 col-md-3 font-mode"  >
-                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Directivas del Curso de Nivelación</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
-                    
-                </div>
-            </div>
-
-            <div class="col-3 col-md-3 font-mode"  >
-                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Reglamentos de Evaluación</h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
-                    
-                </div>
-            </div>
-
-            <div class="col-3 col-md-3 font-mode"  >
-                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Reglamentos de Evalucación del Aprendizaje </h5>
-                    <a  href="#" class="text-link-gen">Ver más</a>
-                    
-                </div>
-            </div>
+            
 
         </div>
 
 
 
     </div>
+
 
 
 

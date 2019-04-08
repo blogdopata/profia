@@ -9,7 +9,7 @@
         </button>
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
-                                    <!--<h6>Título I : Disposiciones Generales</h6> <br>
+                                    <h6>Título I : Disposiciones Generales</h6> <br>
                                     <h6>Capítulo I: Base Legal</h6>
                                     Artículo 1.- Fundamento Jurídico – Normativo <br> <br>
 
@@ -160,7 +160,7 @@
                                     Artículo 80.- De los casos no previstos <br> <br> <br>
 
                                     <hr>
-                                    <a href="legal/legalmodelo.php" ><h6>Disposiciones Finales</h6></a>-->
+                                    <a href="legal/legalmodelo.php" ><h6>Disposiciones Finales</h6></a>
       </div>
       <div class="modal-footer">
         <small>Oficina de Registros Académicos</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
