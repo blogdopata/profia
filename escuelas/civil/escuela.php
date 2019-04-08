@@ -1,4 +1,33 @@
 <div class="container text-fix-style">
+
+
+<div class="row">
+
+<div class="col-8" >
+    <h2 class="titulo-generico">
+    DIRECTOR DE ESCUELA EPIC / ING. ARNALDO FALCÓN SOTO
+    </h2> 
+
+    <p class="text-fix-style">
+    Estimados miembros de la comunidad universitaria de la Facultad de Ingeniería y Arquitectura (FIA) de la Universidad de San Martín de Porres, en nombre de la Escuela Profesional de Ingeniería Civil; deseo darles una cordial bienvenida a nuestro portal y a través de él, poder estar informados de las actividades que desarrollamos en la FIA. 
+    </p>
+
+    <p class="text-fix-style">
+    La Escuela Profesional de Ingeniería Civil tiene más de 30 años de funcionamiento y un sinnúmero de egresados que se encuentran en el mercado laboral trabajando al interior del país como en el entorno internacional, con gran éxito, prestigiando nuestra institución.
+    </p>
+
+</div>
+
+<div class="col-4" >
+    <figure>
+            <img class="img-fluid" src="img/director_EPIC.jpg" alt="">
+
+    </figure>
+
+</div>
+</div>
+<hr>
+
     <p id="justificar">
     La Ingeniería Civil es la rama de la ingeniería orientada hacia el diseño y construcción de la infraestructura en edificaciones, obras viales, obras hidráulicas, etc. El Ingeniero Civil, egresado de la Escuela de Ingeniería Civil de la Universidad de San Martín de Porres, es un profesional que posee un conjunto armónico de competencias, actitudes y valores, que lo califica para desarrollar soluciones de toda clase de obras y estudios de infraestructuras, técnica y económicamente factibles y sustentables, social y ambientalmente compatibles.
     </p>

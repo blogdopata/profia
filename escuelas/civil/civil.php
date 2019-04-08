@@ -70,15 +70,25 @@
 
                         <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
+
+                        <a class="nav-item nav-link" id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
+
+<!-- 
                         <a class="nav-link " data-toggle="pill" data-target="#contacto" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">
                         <li data-toggle="modal" data-target="#contacto">Contacto</li>
-                        </a>
+                        </a> -->
 
                         <!--BACK UP PARA MOSTRAR PDFS NO TOCAR <a class="nav-item nav-link" id="nav-campo-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a> -->
 
 						<!-- <a class="nav-item nav-link"  href="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf"  target="_blank">Organización Plan de Estudios</a> -->
 
                         <a class="nav-item nav-link" id="nav-estad-tab" data-toggle="tab" href="#nav-estad" role="tab" aria-controls="nav-estad" aria-selected="false">Estadísticas</a>
+
+                        <a class="nav-item nav-link" id="nav-lab-tab" data-toggle="tab" href="#nav-lab" role="tab" aria-controls="nav-lab" aria-selected="false">Laboratorios</a>
+
+                        <a class="nav-item nav-link" id="nav-eqlab-tab" data-toggle="tab" href="#nav-eqlab" role="tab" aria-controls="nav-eqlab" aria-selected="false">Equipos de Laboratorio</a>
+
+                        <a class="nav-item nav-link" id="nav-myp-tab" data-toggle="tab" href="#nav-myp" role="tab" aria-controls="nav-myp" aria-selected="false">Manuales y Protocolos de Seguridad</a>
 
                         <a class="nav-item nav-link ult-item" id="nav-proy-tab" data-toggle="tab" href="#nav-proy" role="tab" aria-controls="nav-proy" aria-selected="false">Proyectos</a>
 
@@ -114,6 +124,9 @@
     <!-- Contenido tab CAMPO OCUPACIONAL --> 
     <div class="tab-pane fade" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
         <div class="container">
+            <h2 class="titulo-generico">
+                Campo Ocupacional
+            </h2>
             <p class="text-fix-style">
             El campo laboral del ingeniero civil es muy amplio debido a que esta profesión se preocupa por el bienestar general de las personas: construye responsablemente, soluciona problemas sociales y de infraestructura, integrando pueblos alejados. Una recopilación muy sucinta establece que el ámbito ocupacional del ingeniero civil es el siguiente:
             </p>
@@ -132,15 +145,25 @@
     <!-- Contenido tab CAMPUS --> 
 
     <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
-    <div class="container">
+        <div class="container">
 
-    <?php include('../../blocks/modales.php') ?>
+        <?php include('../../blocks/campus.php') ?>
 
-    </div>
+        </div>
         
     </div>
 
     <!-- FIN Contenido tab CAMPUS --> 
+
+    <div class="tab-pane fade" id="nav-contacto" role="tabpanel" aria-labelledby="nav-contacto-tab">
+       
+
+        <?php include('../../blocks/contacto.php') ?>
+
+       
+        
+    </div>
+
 
 
     <!-- Contenido tab FAQ --> 
@@ -160,11 +183,43 @@
 
 
 
-    <!-- Contenido tab CONTACTO --> 
 
-        <?php include('modal_contacto.php') ?>
+     <!-- Contenido tab LABORATORIOS --> 
 
-    <!-- FIN Contenido tab CONTACTO--> 
+     <div class="tab-pane fade" id="nav-lab" role="tabpanel" aria-labelledby="nav-lab-tab">
+
+    <?php include('laboratorios.php') ?>
+
+    </div>
+
+    <!-- FIN Contenido tab LABORATORIOS--> 
+
+
+
+
+    <!-- Contenido tab MANUALES --> 
+
+    <div class="tab-pane fade" id="nav-myp" role="tabpanel" aria-labelledby="nav-myp-tab">
+
+    <?php include('manuales.php') ?>
+
+    </div>
+
+    <!-- FIN Contenido tab MANUALES--> 
+
+
+
+
+    <!-- Contenido tab eq.LABORATORIOS --> 
+
+    <div class="tab-pane fade" id="nav-eqlab" role="tabpanel" aria-labelledby="nav-eqlab-tab">
+
+    <?php include('equipos.php') ?>
+
+    </div>
+
+    <!-- FIN Contenido tab eq.LABORATORIOS --> 
+
 
 
 
@@ -175,7 +230,7 @@
 
     <div class="tab-pane fade" id="nav-proy" role="tabpanel" aria-labelledby="nav-proy-tab">
 
-    <?php include('proyectos.php') ?>
+         <?php include('proyectos.php') ?>
     
     </div>
 
@@ -189,11 +244,35 @@
     <!-- Contenido tab INF ACADEMICA --> 
 
     <div class="tab-pane fade" id="nav-infacad" role="tabpanel" aria-labelledby="nav-infacad-tab">
-        <div class="container" style="display:flex;align-items: center;justify-content: center;">
+        <div class="container">
 
-        
-            <img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">
-        
+
+            <h2 class="titulo-generico">
+                Información Académica
+            </h2>
+
+           <p class="text-fix-style">
+           La carrera de Ingeniería Civil en la USMP te permite ser un profesional responsable del planeamiento, diseño y construcción de todas las obras civiles que el país necesita, de manera sostenida y sustentable. Un País que progresa, es una sociedad que busca el bienestar de sus ciudadanos y tiene la necesidad de proyectar y construir viviendas, escuelas, edificios, hospitales, carreteras, puentes, aeropuertos, puertos, centrales hidroeléctricas, sistemas de irri­gación, etc. 
+           </p>
+           <br>
+
+           <div class="listaperfil2">
+               <li>Grado : Bachiller en Ingeniería Civil </li>
+               <li>Título : Ingeniero Civil. </li>
+               <li>Duración: 10 semestres </li>
+               <li>Tipo de enseñanza : Presencial </li>
+               <li>Régimen de estudios: Semestral </li>
+               <li>Idioma: Español </li>
+           </div>
+
+           <br>
+
+           <div class="container centrarimg" >
+           <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/I8pzTrHgzJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
+
+           
 
         </div>
             

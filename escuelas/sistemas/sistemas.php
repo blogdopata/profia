@@ -65,22 +65,16 @@
                         <a class="nav-item nav-link" id="imagen" data-toggle="tab" href="#nav-imagen" role="tab" aria-controls="nav-imagen"  aria-selected="false">Imagen Objetivo</a>
                         <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>
                         <a class="nav-item nav-link" id="nav-encuestaDoc-tab" data-toggle="tab" href="#nav-encuestaDoc" role="tab" aria-controls="nav-encuestaDoc" aria-selected="false">Encuesta Docentes</a>
-                        <a class="nav-item nav-link ult-item" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a>
+                        <a class="nav-item nav-link" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a>
+
                        
+                        <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
+
+
+                        <a class="nav-item nav-link  ult-item" id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Conctacto</a>
+
+
                         
-
-
-                        <!-- <a class="nav-item nav-link ult-item" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Encuestas
-                        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" >
-                                <li>
-                                    <a href="">hola</a>
-                                </li>
-                                <li>
-                                    <a href="">hola</a>
-                                </li>
-                        </div>
-                        </a> -->
       
                             
                         
@@ -322,6 +316,26 @@
                     </div>
 
                      <!-- FIN Contenido tab Catalogo de Cursos --> 
+
+                       <!-- Contenido tab CAMPUS --> 
+
+                    <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
+                        <div class="container">
+
+                        <?php include('../../blocks/campus.php') ?>
+
+                        </div>
+                        
+                    </div>
+
+                    <!-- FIN Contenido tab CAMPUS --> 
+
+                    <div class="tab-pane fade" id="nav-contacto" role="tabpanel" aria-labelledby="nav-contacto-tab">
+                    
+                        <?php include('../../blocks/contacto.php') ?>
+
+                    </div>
+       
 
 
                      <div class="tab-pane fade" id="nav-eventos" role="tabpanel" aria-labelledby="nav-novedades-tab">

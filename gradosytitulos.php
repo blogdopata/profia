@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,63 +12,56 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="http://www.usmp.edu.pe/proFIA/img/core-img/logousmp.ico">
+    <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
-      
+
+
 </head>
 
 <body>
+    <!-- ##### Preloader ##### -->
     <div id="preloader">
-            <i class="circle-preloader"></i>
-    </div>            
+        <i class="circle-preloader"></i>
+    </div>
 
    
     <header class="header-area">
-
+        
       <?php include_once('blocks/header.html') ?>
 
-    </header> 
+    </header>
+    <!-- ##### Header Area End ##### -->
 
+ <!-- ##### Breadcumb Area Start ##### -->
+    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/acreditaciones.jpg');"  >
+     
+    </div>
 
-    <section>
-        <div class="page-header2">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="page-caption1 d-flex justify-content-center align-items-center" >
-                        <h1 class="page-title1 d-flex align-items-center justify-content-center ">
-                            Grados y Títulos
-                        </h1>
-                    </div>
-                </div>
+    <!-- ##### Breadcumb Area End ##### -->
+
+    <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
+      <div class="row">
+          <div class="col-12">
+                <h5  style="color:#585857; font-size:32px;">
+                       OFICINA DE GRANDOS Y TÍTULOS 
+                </h5>
             </div>
         </div>
     </div>
-  
-    <div class="card-section1">
-        <div class="container">
-            <div  class="card-block1 bg-white mb30 fix-border rowArqui">
-                <div class="row">
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div class="section-title1 mb-0 wow fadeInUp" data-wow-delay="200ms" >
-                            <h2 id="azulfia">Oficina de Grados y Títulos</h2>
-                            <br>
-                            <p style="text-align:justify;">
-                                 La Oficina de Grados y Títulos de la Facultad de Ingeniería y Arquitectura se encarga de orientar al estudiante,
-                                 egresado o graduado en todo lo concerniente a los tramites para la obtención de los grados académicos y títulos
-                                 profesionales emitidos en nuestra Facultad
-                            </p>
-                            <br>
-                         </p>
-                        </div>
+
+    <div class="container wow fadeInUp" data-wow-delay="200ms" >
+      <div class="row">
+          <div class="col-12">
+    <p class="text-fix-content"> 
+    La Oficina de Grados y Títulos de la Facultad de Ingeniería y Arquitectura se encarga de orientar al estudiante, egresado o graduado en todo lo concerniente a los tramites para la obtención de los grados académicos y títulos profesionales emitidos en nuestra Facultad
+                    </p>
                     </div>
-                </div>
-            </div>
         </div>
-    </div>
+    </div>                    
+                    
       
 
 

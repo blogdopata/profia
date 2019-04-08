@@ -2563,6 +2563,7 @@ ul.ul-fix-square li{
 .text-link-gen:hover{
 
     padding: 0  30px; 
+    transform: scale(1.1);
     background-color: #E0134E;
     color:white;
     font-weight: normal;
@@ -3438,3 +3439,12 @@ ul.ul-fix-square li{
   font-family: "Roboto Condensed" !important;
 }
 /*boton modales*/
+
+
+/*centrar img*/
+.centrarimg{
+display:flex;
+align-items: center;
+justify-content: center;
+}
+/*fin de centrar img*/

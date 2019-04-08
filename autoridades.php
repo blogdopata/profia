@@ -96,7 +96,7 @@
                                 <br>
                                 <br>
                               <div class="text-center">
-                                  <img  class="img-fluid w-25" src="img\autoridades\ing_luis_cardenas.jpg" alt="decano">
+                                  <img  class="img-fluid w-25" src="img\autoridades\decano.jpg" alt="decano">
                                   <br>
                                   <b>Ing. Luis Cárdenas Lucero</b>
                                   <br>
@@ -405,7 +405,7 @@
                                 </div>
                                 <div class="card text-center">
                                   <div>
-                                    <img class="card-img-top w-50 img-fluid"  src="img\autoridades\Nuevo2.jpg" alt="Card image cap">
+                                    <img class="card-img-top w-50 img-fluid"  src="img\autoridades\edgar_fabian.jpg" alt="Card image cap">
                                   </div>
                                   <div class="card-body">
                                     <div class="text-center">
@@ -417,7 +417,7 @@
                                 </div>
                                 <div class="card text-center">
                                   <div>
-                                    <img class="card-img-top w-50 img-fluid"  src="img\autoridades\coornoche.jpg" alt="Card image cap">
+                                    <img class="card-img-top w-50 img-fluid"  src="img\autoridades\castro.jpg" alt="Card image cap">
                                   </div>
                                   <div class="card-body">
                                     <div class="text-center">

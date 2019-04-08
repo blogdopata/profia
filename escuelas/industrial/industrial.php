@@ -49,7 +49,7 @@
                 </div>
             </div>
         </div>
-    </div>
+</div>
     <!-- ##### Breadcumb Area End ##### -->
 
     <!-- ##### About Us Area Start ##### -->
@@ -57,26 +57,29 @@
     <div class="container">
          <div class="row">
                 <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
-					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
+				        	<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+						            <a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Bienvenida</a>
                         <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Graduado</a>
 
                         <a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
 						<!-- <a class="nav-item nav-link"  href="http://usmp.edu.pe/proFIA/pdf/calendarioAct/plan_de_estudio/plan_2019-I_Arquitectura.pdf"  target="_blank">Plan de Estudios</a> -->
-            <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>
+                        <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos" aria-selected="false" >Catálogo de Cursos</a>
             
-                        <a class="nav-item nav-link ult-item" id="nav-proyectos-tab" data-toggle="tab" href="#nav-proyectos" role="tab" aria-controls="nav-proyectos" aria-selected="false">Novedades</a>
+                        <a class="nav-item nav-link " id="nav-proyectos-tab" data-toggle="tab" href="#nav-proyectos" role="tab" aria-controls="nav-proyectos" aria-selected="false">Novedades</a>
                        
-                      
-					</div>
-                </nav>
+                        <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
+
+
+                        <a class="nav-item nav-link ult-item" id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Conctacto</a>
+				      	</div>
+            </nav>
 
 
                 <!-- CONTENIDO TAB  BIENVENIDOS -->
                 <div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
-					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
-						<h2 id="grisfia">BIENVENIDOS</h2>
+				        	  <div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
+					            	<h2 id="grisfia">BIENVENIDOS</h2>
                         <p id="justificar">
                             La Escuela de Ingeniería Industrial de la Universidad de San Martín de Porres es la Unidad Académica encargada de la formación profesional de nuevos ingenieros industriales con las competencias requeridas para su éxito laboral y bajo los valores y principios de nuestra universidad. Así mismo la Escuela está comprometida con el desarrollo nacional a través de la creación de nuevos conocimientos, su aplicación, la innovación y la transmisión de estos para beneficio de la sociedad.
                         </p>
@@ -84,7 +87,6 @@
                         <p>
                             Escuela perteneciente a la : Facultad de Ingeniería y Arquitectura
                         </p>
-        
                           <h2 id="grisfia">MISIÓN</h2>
                         <p id="justificar">
                         Formamos ingenieros industriales de alto nivel científico y tecnológico, con sólidos valores humanísticos, éticos y morales, que utilicen de manera racional y óptima los recursos de las organizaciones empresariales de todo tipo con la finalidad de obtener bienes y servicios competitivos. Desarrollamos investigación aplicada, promoviendo la innovación tecnológica y su transferencia como contribución al desarrollo nacional y protección al medio ambiente.
@@ -115,32 +117,32 @@
 
                     <!-- Contendio Tab Perfil Graduados -->
 
-				   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-           <h2 id="grisfia">PERFIL DEL GRADUADO DE LA CARRERA DE INGENIERÍA INDUSTRIAL</h2> <br>
-                       <p id="justificar">La Ingeniería Industrial estudia la utilización racional de los recursos humanos, técnicos, materiales y de información y el manejo óptimo de los sistemas de transformación de bienes y servicios, con la finalidad de obtener productos o servicios útiles  a la sociedad y con respeto al medio ambiente.<br>
-                       La formación del Ingeniero Industrial en la FIA – USMP, se basa en el desarrollo de las competencias ya mencionadas y que lo preparan para afrontar con éxito cualquier reto en cualquier ámbito.<br>
-                       Se les da también Una formación socio-humanística que le permita una actitud crítica que contribuya a su ubicación en la sociedad, de manera que su desarrollo profesional sea ejercido con plena conciencia y responsabilidad.<br>
-                       Al finalizar sus estudios  está capacitado para estudiar el sistema, entender el problema o la oportunidad y proponer y realizar soluciones innovadoras y adecuadas a los requerimientos de los interesados, aplicando los conocimientos científicos, teóricos y humanísticos aprendidos.</p>
+				               <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
+                        <h2 id="grisfia">PERFIL DEL GRADUADO DE LA CARRERA DE INGENIERÍA INDUSTRIAL</h2> <br>
+                        <p id="justificar">La Ingeniería Industrial estudia la utilización racional de los recursos humanos, técnicos, materiales y de información y el manejo óptimo de los sistemas de transformación de bienes y servicios, con la finalidad de obtener productos o servicios útiles  a la sociedad y con respeto al medio ambiente.<br>
+                        La formación del Ingeniero Industrial en la FIA – USMP, se basa en el desarrollo de las competencias ya mencionadas y que lo preparan para afrontar con éxito cualquier reto en cualquier ámbito.<br>
+                        Se les da también Una formación socio-humanística que le permita una actitud crítica que contribuya a su ubicación en la sociedad, de manera que su desarrollo profesional sea ejercido con plena conciencia y responsabilidad.<br>
+                        Al finalizar sus estudios  está capacitado para estudiar el sistema, entender el problema o la oportunidad y proponer y realizar soluciones innovadoras y adecuadas a los requerimientos de los interesados, aplicando los conocimientos científicos, teóricos y humanísticos aprendidos.</p>
                             
 
                     
-                                <h5 id="grisfia">Competencias que adquiere el estudiante al egresar de la carrera (Outcomes)</h5>
+                          <h5 id="grisfia">Competencias que adquiere el estudiante al egresar de la carrera (Outcomes)</h5>
 
-                                <div class="listaperfil3">
-                                <li> Habilidad para aplicar conocimientos de matemáticas, ciencia e ingeniería.</li>
-                                <li> Habilidad para diseñar y conducir experimentos, así como analizar e interpretar los datos obtenidos.</li>
-                                <li> Habilidad para diseñar sistemas, componentes o procesos que proporcionen las necesidades requeridas con restricciones realistas tales como son las económicas, ambientales, sociales, políticas, éticas, salud y seguridad, facilidad de fabricación y sostenibilidad.</li>
-                                <li> Habilidad para trabajar adecuadamente en un equipo multidisciplinario.</li>
-                                <li> Habilidad para identificar, formular y resolver problemas de ingeniería.</li>
-                                <li> Comprensión de lo que es la responsabilidad ética y profesional.</li>
-                                <li> Habilidad para comunicarse con efectividad.</li>
-                                <li> Una educación amplia necesaria para entender el impacto que tienen las soluciones de la ingeniería dentro de un contexto global, económico, ambiental y social.</li>
-                                <li> Reconocer la necesidad y tener la habilidad de seguir aprendiendo y capacitándose a lo largo de su vida.</li>
-                                <li> Conocimiento de los principales temas contemporáneos.</li>
-                                <li> Utilizar las técnicas, destrezas y herramientas modernas necesarias para la práctica de la ingeniería.</li>
-                                </div>
+                          <div class="listaperfil3">
+                          <li> Habilidad para aplicar conocimientos de matemáticas, ciencia e ingeniería.</li>
+                          <li> Habilidad para diseñar y conducir experimentos, así como analizar e interpretar los datos obtenidos.</li>
+                          <li> Habilidad para diseñar sistemas, componentes o procesos que proporcionen las necesidades requeridas con restricciones realistas tales como son las económicas, ambientales, sociales, políticas, éticas, salud y seguridad, facilidad de fabricación y sostenibilidad.</li>
+                          <li> Habilidad para trabajar adecuadamente en un equipo multidisciplinario.</li>
+                          <li> Habilidad para identificar, formular y resolver problemas de ingeniería.</li>
+                          <li> Comprensión de lo que es la responsabilidad ética y profesional.</li>
+                          <li> Habilidad para comunicarse con efectividad.</li>
+                          <li> Una educación amplia necesaria para entender el impacto que tienen las soluciones de la ingeniería dentro de un contexto global, económico, ambiental y social.</li>
+                          <li> Reconocer la necesidad y tener la habilidad de seguir aprendiendo y capacitándose a lo largo de su vida.</li>
+                          <li> Conocimiento de los principales temas contemporáneos.</li>
+                          <li> Utilizar las técnicas, destrezas y herramientas modernas necesarias para la práctica de la ingeniería.</li>
+                        </div>
 
-                             </div>
+                      </div>
 
                               
 
@@ -209,125 +211,128 @@
                                  </tbody>
                              </table>
                          </div>
+
                          <h2 id="grisfia">PROYECTOS REALIZADOS</h2>
                             <br>
                          <h5 id="grisfia" text align="left">El proyecto de diseño, y fabricación de Faja transportadora Automatizada</h5>
                          <br>
                          <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-6">
-<p id="justificar">
-El proyecto de diseño, y fabricación de Faja transportadora Automatizada, con una capacidad apta para simular procesos de transporte de materiales tan utilizados en las plantas Industriales, la cual se encuentra lista a ser proyectada a una escala industrial según los requerimientos actuales.<br><br>
+                          <div class="row">
+                            <div class="col-sm-6">
+                    <p id="justificar">
+                    El proyecto de diseño, y fabricación de Faja transportadora Automatizada, con una capacidad apta para simular procesos de transporte de materiales tan utilizados en las plantas Industriales, la cual se encuentra lista a ser proyectada a una escala industrial según los requerimientos actuales.<br><br>
 
 
-Permite observar todos los parámetros como: (coeficiente de rozamiento, velocidad, ángulo de inclinación, potencia de motor, material de la faja, ancho y largo de faja, entre otros), necesarios para simular un sistema de transportación de materiales específicos.<br><br>
+                    Permite observar todos los parámetros como: (coeficiente de rozamiento, velocidad, ángulo de inclinación, potencia de motor, material de la faja, ancho y largo de faja, entre otros), necesarios para simular un sistema de transportación de materiales específicos.<br><br>
 
 
-Las principales actividades desarrolladas fueron: indagación de información, diseño de gabinete, diseño industrial, diseño funcional, plano de ensamble, fabricación de piezas y partes, montaje, instalación y puesta en marcha.<br><br>
+                    Las principales actividades desarrolladas fueron: indagación de información, diseño de gabinete, diseño industrial, diseño funcional, plano de ensamble, fabricación de piezas y partes, montaje, instalación y puesta en marcha.<br><br>
 
-El proyecto fue desarrollado por un grupo de alumnos de la Escuela Profesional de Ingeniería Industrial, asesorados por un efectivo staff de profesionales de esta honorable casa de estudios.
-</p>
-        </div>
-        <div class="col-sm-6">
-            <p align="center"> <img border="0" class="img-fluid" src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_1.jpg"></p><br><br>
-            <p align="center"> <img border="0" class="img-fluid" src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_2.jpg"></p><br><br>
-            <p align="center"><img border="0"  class="img-fluid"src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_3.jpg"></p>
-        </div>
+                    El proyecto fue desarrollado por un grupo de alumnos de la Escuela Profesional de Ingeniería Industrial, asesorados por un efectivo staff de profesionales de esta honorable casa de estudios.
+                    </p>
+              </div>
+              <div class="col-sm-6">
+                  <p align="center"> <img border="0" class="img-fluid" src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_1.jpg"></p><br><br>
+                  <p align="center"> <img border="0" class="img-fluid" src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_2.jpg"></p><br><br>
+                  <p align="center"><img border="0"  class="img-fluid"src="http://www.usmp.edu.pe/ffia/escuelas/industrial/image/proy1_3.jpg"></p>
+              </div>
     </div>
   </div><br>
 
                         <h2 id="grisfia">PROYECTOS ACTUALES</h2>
                                 <div class="container">
-  <h5 id="grisfia">Proyectos que actualmente se realizan en los cursos de Proyecto Final de Ingeniería Industrial I y II</h5>
-  <table class="table" style="font-size:14px;color:#585857;">
-    <thead>
-      <tr>
-        <th></th>
-        <th>Empresa</th>
-        <th>Proyecto</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td>EMPRESA INTERNATIONAL BAKERY</td>
-        <td>INCREMENTO DE LA PRODUCTIVDAD EN LA LINEA DE PRODUCCION DE PAN DE MOLDE EN LA EMPRESA INTERNATIONAL BAKERY APLICANDO LA METODOLOGÍA PHVA</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>A & B ECOSISTEMAS</td>
-        <td>IMPLEMENTACIÓN DE UN PLAN DE MEJORA CONTÍNUA UTILIZANDO LA METODOLOGÍA PHVA EN LA EMPRESA A & B ECOSISTEMAS</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>LICAB E.I.R.L.</td>
-        <td>PROPUESTA DE UN SISTEMA DE MEJORA CONTINUA PARA LAS LINEAS DE PRODUCCION DE LA EMPRESA LICAB E.I.R.L. UTILIZANDO LA METODOLOGÍA DE PHVA</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>"VITAVID HERBAL INDUSTRIAL SAC"</td>
-        <td>MEJORA DE LA PRODUCTIVIDAD DE LOS PROCESOS CLAVES DE LA LINEA PATRON DE HARINAS PARA LA EMPRESA "VITAVID HERBAL INDUSTRIAL SAC" MEDIANTE LA METODOLOGIA PHVA</td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>ENVASES GRAFICOS SAC</td>
-        <td>APLICACIÓN DE LA METODOLOGIA PHVA PARA AUMENTAR LA PRODUCTIVIDAD EN EL AREA DE PRODUCCION DE LA EMPRESA ENVASES GRAFICOS SAC</td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>BRISELLI SAC</td>
-        <td>MEJORA CONTINUA DE LOS PROCESOS DE PRODUCCION TORTAS FINAS DE LA EMPRESA BRISELLI SAC APLICANDO METODOLOGIA PHVA</td>
-      </tr>
-      <tr>
-        <td>7</td>
-        <td>AGOLIMSA</td>
-        <td>DISEÑO DE UN SISTEMA DE MEJORA CONTINUA EN EL AREA DE PRODUCCION DE AGOLIMSA APLICANDO METODOLOGIA PHVA</td>
-      </tr>
-      <tr>
-        <td>8</td>
-        <td>INVERSIONES PACHVEL PERU SAC</td>
-        <td>MEJORA DE LA PRODUCTIVIDAD EN EL AREA DE PRODUCCION DE POLOS DE LA EMPRESA INVERSIONES PACHVEL PERU SAC, MEDIANTE LA APLICACIÓN DE LA METODOLOGIA PHVA</td>
-      </tr>
-      <tr>
-        <td>9</td>
-        <td>RODOMI SAC</td>
-        <td>IMPLEMENTACIÓN DE UN SISTEMA DE MEJORA CONTINUA EN LA EMPRESA DE CONFECCIONES RODOMI SAC PARA MEJORAR LA PRODUCTIVIDAD EN EL SISTEMA DE PRODUCCION</td>
-      </tr>
-      <tr>
-        <td>10</td>
-        <td>"AXE Y COMPAÑÍA SA"</td>
-        <td>MEJORA DE LA PRODUCTIVIDAD EN EL AREA DE PRODUCCION EN LA EMPRESA TEXTIL "AXE Y COMPAÑÍA SA" MEDIANTE LA APLICACIÓN DE LA METODOLOGIA PHVA</td>
-      </tr>
-      <tr>
-        <td>11</td>
-        <td>TEXTIL FIORELLY CLUB EIRL</td>
-        <td>MEJORA CONTINUA DE LA PRODUCTIVIDAD EN LA EMPRESA TEXTIL FIORELLY CLUB EIRL</td>
-      </tr>
-      <tr>
-        <td>12</td>
-        <td>WICOPEES</td>
-        <td>PROPUESTA DE MEJORA DE LA PRODUCTIVIDAD EN LA EMPRESA WICOPEES MEDIANTE LA METODOLOGIA PHVA</td>
-      </tr>
-      <tr>
-        <td>13</td>
-        <td>HIELOS BAJO CERO SAC</td>
-        <td>PROPUESTA DE IMPLEMENTACION DE MEJORA CONTINUA APLICANDO LA METODOLOGIA PHVA EN LA EMPRESA HIELOS BAJO CERO SAC</td>
-      </tr>
-      <tr>
-        <td>14</td>
-        <td>TECNIASES</td>
-        <td>MEJORA DE LA PRODUCTIVIDAD EN LA EMPRESA TECNIASES BAJO LA METODOLOGIA PHVA</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+                      <h5 id="grisfia">Proyectos que actualmente se realizan en los cursos de Proyecto Final de Ingeniería Industrial I y II</h5>
+                      <table class="table" style="font-size:14px;color:#585857;">
+                        <thead>
+                          <tr>
+                            <th></th>
+                            <th>Empresa</th>
+                            <th>Proyecto</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                              <td>1</td>
+                              <td>EMPRESA INTERNATIONAL BAKERY</td>
+                              <td>INCREMENTO DE LA PRODUCTIVDAD EN LA LINEA DE PRODUCCION DE PAN DE MOLDE EN LA EMPRESA INTERNATIONAL BAKERY APLICANDO LA METODOLOGÍA PHVA</td>
+                            </tr>
+                            <tr>
+                              <td>2</td>
+                              <td>A & B ECOSISTEMAS</td>
+                              <td>IMPLEMENTACIÓN DE UN PLAN DE MEJORA CONTÍNUA UTILIZANDO LA METODOLOGÍA PHVA EN LA EMPRESA A & B ECOSISTEMAS</td>
+                            </tr>
+                            <tr>
+                              <td>3</td>
+                              <td>LICAB E.I.R.L.</td>
+                              <td>PROPUESTA DE UN SISTEMA DE MEJORA CONTINUA PARA LAS LINEAS DE PRODUCCION DE LA EMPRESA LICAB E.I.R.L. UTILIZANDO LA METODOLOGÍA DE PHVA</td>
+                            </tr>
+                            <tr>
+                              <td>4</td>
+                              <td>"VITAVID HERBAL INDUSTRIAL SAC"</td>
+                              <td>MEJORA DE LA PRODUCTIVIDAD DE LOS PROCESOS CLAVES DE LA LINEA PATRON DE HARINAS PARA LA EMPRESA "VITAVID HERBAL INDUSTRIAL SAC" MEDIANTE LA METODOLOGIA PHVA</td>
+                            </tr>
+                            <tr>
+                              <td>5</td>
+                              <td>ENVASES GRAFICOS SAC</td>
+                              <td>APLICACIÓN DE LA METODOLOGIA PHVA PARA AUMENTAR LA PRODUCTIVIDAD EN EL AREA DE PRODUCCION DE LA EMPRESA ENVASES GRAFICOS SAC</td>
+                            </tr>
+                            <tr>
+                              <td>6</td>
+                              <td>BRISELLI SAC</td>
+                              <td>MEJORA CONTINUA DE LOS PROCESOS DE PRODUCCION TORTAS FINAS DE LA EMPRESA BRISELLI SAC APLICANDO METODOLOGIA PHVA</td>
+                            </tr>
+                            <tr>
+                              <td>7</td>
+                              <td>AGOLIMSA</td>
+                              <td>DISEÑO DE UN SISTEMA DE MEJORA CONTINUA EN EL AREA DE PRODUCCION DE AGOLIMSA APLICANDO METODOLOGIA PHVA</td>
+                            </tr>
+                            <tr>
+                              <td>8</td>
+                              <td>INVERSIONES PACHVEL PERU SAC</td>
+                              <td>MEJORA DE LA PRODUCTIVIDAD EN EL AREA DE PRODUCCION DE POLOS DE LA EMPRESA INVERSIONES PACHVEL PERU SAC, MEDIANTE LA APLICACIÓN DE LA METODOLOGIA PHVA</td>
+                            </tr>
+                            <tr>
+                              <td>9</td>
+                              <td>RODOMI SAC</td>
+                              <td>IMPLEMENTACIÓN DE UN SISTEMA DE MEJORA CONTINUA EN LA EMPRESA DE CONFECCIONES RODOMI SAC PARA MEJORAR LA PRODUCTIVIDAD EN EL SISTEMA DE PRODUCCION</td>
+                            </tr>
+                            <tr>
+                              <td>10</td>
+                              <td>"AXE Y COMPAÑÍA SA"</td>
+                              <td>MEJORA DE LA PRODUCTIVIDAD EN EL AREA DE PRODUCCION EN LA EMPRESA TEXTIL "AXE Y COMPAÑÍA SA" MEDIANTE LA APLICACIÓN DE LA METODOLOGIA PHVA</td>
+                            </tr>
+                            <tr>
+                              <td>11</td>
+                              <td>TEXTIL FIORELLY CLUB EIRL</td>
+                              <td>MEJORA CONTINUA DE LA PRODUCTIVIDAD EN LA EMPRESA TEXTIL FIORELLY CLUB EIRL</td>
+                            </tr>
+                            <tr>
+                              <td>12</td>
+                              <td>WICOPEES</td>
+                              <td>PROPUESTA DE MEJORA DE LA PRODUCTIVIDAD EN LA EMPRESA WICOPEES MEDIANTE LA METODOLOGIA PHVA</td>
+                            </tr>
+                            <tr>
+                              <td>13</td>
+                              <td>HIELOS BAJO CERO SAC</td>
+                              <td>PROPUESTA DE IMPLEMENTACION DE MEJORA CONTINUA APLICANDO LA METODOLOGIA PHVA EN LA EMPRESA HIELOS BAJO CERO SAC</td>
+                            </tr>
+                            <tr>
+                              <td>14</td>
+                              <td>TECNIASES</td>
+                              <td>MEJORA DE LA PRODUCTIVIDAD EN LA EMPRESA TECNIASES BAJO LA METODOLOGIA PHVA</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
                              
 
 
 
                                 <!-- Contenido tab Organización fotos de Estudios --> 
 
+                              <!-- Contenido tab CAMPUS --> 
 
+                      
                   <!--   <div class="tab-pane fade" id="nav-fotos" role="tabpanel" aria-labelledby="nav-fotos-tab">
                         
                     <h2>Fotos Industrial</h2>
@@ -361,16 +366,44 @@ La visita fue una visita guiada a cargo del Ing. Jorge Calderón, los alumnos vi
                  <!-- FIN Contenido tab Organización fotos de Estudios --> 
                                 
 
+
+
+
+                    </div>
+
+                          
   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
 
 
                             </li>    
                         </ol>
                    
-                    </div>
+                    </div>  
+                    
+                    <!-- Contenido tab CAMPUS --> 
+
+                  <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
+                      <div class="container">
+
+                      <?php include('../../blocks/campus.php') ?>
+
+                      </div>
+                      
+                  </div>
+
+                  <!-- FIN Contenido tab CAMPUS --> 
+                  
+                  <!-- Contenido tab Contactos --> 
+                  <div class="tab-pane fade" id="nav-contacto" role="tabpanel" aria-labelledby="nav-contacto-tab">
+                    
+
+                      <?php include('../../blocks/contacto.php') ?>
+
+                     <!-- FIN Contenido tab Contactos --> 
+                      
+                  </div>
 
 
-                    </div>
                     </div>
                     </div>
 

@@ -4,7 +4,7 @@
   
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
-  <img class="img-responsive " data-toggle="modal" data-target="#myModal1" src="http://www.usmp.edu.pe/proFIA/img/campus/1.jpg">
+  <img class="img-responsive " data-toggle="modal" data-target="#myModal1" src="http://usmp.edu.pe/proFIA/img/campus/1.jpg">
 </div>
 
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">

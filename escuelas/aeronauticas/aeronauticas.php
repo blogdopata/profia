@@ -77,10 +77,11 @@
 
                         <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
-                        <a class="nav-link " data-toggle="pill" data-target="#contacto" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">
-                        <li data-toggle="modal" data-target="#contacto">Contacto</li>
-                        </a>
 
+                        <a class="nav-link " id="nav-contactos-tab" data-toggle="pill" href="#nav-contactos" role="tab" aria-controls="nav-contactos" aria-selected="false">Contacto</a>
+
+
+                   
                         <a class="nav-link ult-item" id="nav-enlaces-tab" data-toggle="pill" href="#nav-enlaces" role="tab" aria-controls="nav-enlaces" aria-selected="false">Enlaces de Interés</a>
                     
                       
@@ -193,7 +194,7 @@
                     <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
                         <div class="container">
 
-                        <?php include('../../blocks/modales.php') ?>
+                        <?php include('../../blocks/campus.php') ?>
 
                         </div>
                             
@@ -202,6 +203,18 @@
                      <!-- FIN Contenido tab CAMPUS --> 
 
 
+                        <!-- Contenido tab contacto --> 
+
+                    <div class="tab-pane fade" id="nav-contactos" role="tabpanel" aria-labelledby="nav-contactos-tab">
+                        <div class="container">
+
+                        <?php include('../../blocks/contacto.php') ?>
+
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab contacto --> 
 
                      <!-- Contenido tab FAQ --> 
 
