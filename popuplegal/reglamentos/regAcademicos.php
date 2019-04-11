@@ -1,3 +1,8 @@
+<style>
+  .listaperfil ul li , .listaperfil2 ul li , .listafia ul li {
+    color:black;
+  }
+</style>
 <!--inicio modal Reglamento de Registros Académicos-->
 <div class="modal fade" id="miModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
@@ -10,27 +15,27 @@
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
                                       <h6>Título I : Disposiciones Generales</h6> <br>
-                                      <h6>Capítulo I: Base Legal</h6>
+                                      <a href="legal/legal1.php"><h6>Capítulo I: Base Legal</h6></a>
                                       Artículo 1.- Fundamento Jurídico – Normativo <br> <br>
 
 
-                                      <h6>Capítulo II: Generalidades</h6>
+                                      <a href="legal/legal2.php"><h6>Capítulo II: Generalidades</h6></a>
                                       Artículo 2.- De los Objetivos de la Oficina de Registros Académicos <br>
                                       Artículo 3.- De las Funciones de la Oficina de Registros Académicos <br> <br>
 
 
-                                      <h6>Capítulo III: de la Estructura de la Oficina de Registros Académicos</h6>
+                                      <a href="legal/legal3.php"><h6>Capítulo III: de la Estructura de la Oficina de Registros Académicos</h6></a>
                                       Artículo 4.- De la Oficina de Registros Académicos <br>
                                       Artículo 5.- Del Jefe de la Oficina de Registros Académicos <br>
                                       Artículo 6.- Del personal de apoyo <br> <br>
 
 
-                                      <h6>Capítulo IV: de las Actividades Conexas con el Departamento Académico</h6>
+                                      <a href="legal/legal4.php"><h6>Capítulo IV: de las Actividades Conexas con el Departamento Académico</h6></a>
                                       Artículo 7.- De la distribución horaria, del Plan de Estudios y los sílabos <br>
                                       Artículo 8.- De la distribución de aulas <br><br>
 
 
-                                      <h6>Capítulo V: de los Registros y Actas</h6>
+                                      <a href="legal/legal5.php"><h6>Capítulo V: de los Registros y Actas</h6></a>
                                       Artículo 9.- De los registros <br>
                                       Artículo 10.- De los Registros Provisionales <br>
                                       Artículo 11.- De los Registros Oficiales <br>
@@ -39,7 +44,7 @@
                                       <hr>
 
                                       <h6>Titulo II : de la Matrícula</h6> <br>
-                                      <h6>Capítulo I: Generalidades</h6>
+                                      <a href="legal/cap1.php"><h6>Capítulo I: Generalidades</h6></a>
                                       Artículo 13.- Naturaleza de la Matrícula  <br>
                                       Artículo 14.- Duración de la Matrícula <br>
                                       Artículo 15.- Efectos de la Matrícula <br>
@@ -51,20 +56,20 @@
                                       Artículo 21.- Pérdida del derecho de matrícula <br> <br>
 
 
-                                      <h6>Capítulo II: de la Matrícula de los Alumnos Ingresantes a través del Concurso Ordinario de Admisión</h6>
+                                      <a href="legal/cap2.php"><h6>Capítulo II: de la Matrícula de los Alumnos Ingresantes a través del Concurso Ordinario de Admisión</h6></a>
                                       Artículo 22.- Naturaleza <br>
                                       Artículo 23.- De los requisitos para matricularse <br>
                                       Artículo 24.- Del trámite de la matrícula <br>
                                       Artículo 25 .-De la obligatoriedad de la matrícula <br> <br>
 
 
-                                      <h6>Capítulo III: de las Matrícula de los Alumnos Ingresantes Exonerados del Concurso Ordinario de Admisión</h6>
+                                      <a href="legal/cap3.php"><h6>Capítulo III: de las Matrícula de los Alumnos Ingresantes Exonerados del Concurso Ordinario de Admisión</h6></a>
                                       Artículo 26.- Naturaleza <br>
                                       Artículo 27.- De los requisitos para matricularse <br>
                                       Artículo 28.- De la convalidación de asignaturas <br> <br>
 
 
-                                      <h6>Capítulo IV: de la Matrícula de los Alumnos Regulares</h6>
+                                      <a href="legal/cap4.php"><h6>Capítulo IV: de la Matrícula de los Alumnos Regulares</h6></a>
                                       Artículo 29.- Naturaleza <br>
                                       Artículo 30.- Condiciones del alumno regular <br>
                                       Artículo 31.- Del Procedimiento de la matrícula <br>
@@ -73,21 +78,21 @@
                                       Artículo 34.- De la Ampliación de créditos <br> <br>
 
 
-                                      <h6>Capítulo V: de la Matrícula de los Alumnos Especiales</h6>
+                                      <a href="legal/cap5.php"><h6>Capítulo V: de la Matrícula de los Alumnos Especiales</h6></a>
                                       Artículo 35.- Naturaleza <br>
                                       Artículo 36.- Casos de Matrículas Especiales <br>
                                       Artículo 37.- De la Matrícula Especial Simple <br>
                                       Artículo 38.- De los requisitos <br> <br>
 
 
-                                      <h6>Capítulo VI: del Retiro de Ciclo</h6>
+                                      <a href="legal/cap6.php"><h6>Capítulo VI: del Retiro de Ciclo</h6></a>
                                       Artículo 39.- Naturaleza <br>
                                       Artículo 40.- Requisitos especiales <br>
                                       Artículo 41.- Del otorgamiento y los efectos del retiro de ciclo <br>
                                       Artículo 42.- De la reincorporación a la Universidad <br> <br>
 
 
-                                      <h6>Capítulo VII: de la Reserva de Matrícula</h6> 
+                                      <a href="legal/cap7.php"><h6>Capítulo VII: de la Reserva de Matrícula</h6> </a>
                                       Artículo 43.- Naturaleza  <br>
                                       Artículo 44.- Requisitos para acogerse a la Reserva de Matrícula <br>
                                       Artículo 45.- Del otorgamiento del derecho de Reserva de Matrícula <br>
@@ -150,15 +155,14 @@
                                       Artículo 76.- De la Carta de Presentación <br>
                                       Artículo 77.- De la Carta de Prácticas Pre-Profesionales <br>
                                       Artículo 78.- De la Carta de Visita <br>
-                                      Artículo 79.- De la Constancia de Biblioteca <br> <br> <br>
+                                      Artículo 79.- De la Constancia de Biblioteca <br> 
 
                                       <hr>
 
 
-                                      <h6>Disposiciones Complementarias</h6>
+                                      <a href="legal/legalmodelo.php"><h6>Disposiciones Complementarias</h6></a>
 
-                                      Artículo 80.- De los casos no previstos <br> <br> <br>
-
+                                      Artículo 80.- De los casos no previstos <br> 
                                       <hr>
                                       <a href="legal/legalmodelo.php" ><h6>Disposiciones Finales</h6></a>
       </div>

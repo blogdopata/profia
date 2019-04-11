@@ -1,3 +1,9 @@
+
+<style>
+  .listaperfil ul li , .listaperfil2 ul li , .listafia ul li {
+    color:black;
+  }
+</style>
 <!--inicio modal Directivas de Reserva de Matrícula-->
 <div class="modal fade" id="miModal6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
@@ -11,10 +17,10 @@
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
         
                       <h6>Directivas</h6>
-                      <br><br>
+                      <br>
                       <div class="listaperfil">
-                        <ul class="ml-5">
-                          <li>La Reserva de Matrícula procede para los alumnos que no se han matriculado en el semestre académico vigente, pudiendo efectuarse hasta los sesenta (60) días posteriores al inicio de clases.</li>
+                        <ul class="ml-5 mr-1" >
+                          <li >La Reserva de Matrícula procede para los alumnos que no se han matriculado en el semestre académico vigente, pudiendo efectuarse hasta los sesenta (60) días posteriores al inicio de clases.</li>
                           <li>La Reserva de Matricula da origen a una Resolución Decanal. Este proceso no otorga derecho a Carné Universitario, ni a figurar en los Registros de Evaluación, ni en Actas de Notas del período lectivo en curso. Puede ser renovada hasta cuatro (04) veces consecutivas.</li>
                           <li>El alumno acreditará su Reserva de Matrícula con la Constancia respectiva.</li>
                           <li>El alumno ingresante no tiene derecho a efectuar Reserva de Matrícula.</li>
@@ -24,11 +30,12 @@
                       </div>
 
                       <br>
-                      <br>
+                      <hr>
                       <br>
 
                       <h6>Requisitos:</h6>
-                      <div class="listaperfil2">
+                      <br>
+                      <div class="listafia">
                         <ul class="ml-5">
                           <li>Solicitud valorada dirigida al Decano de la Facultad.</li>
                           <li>Recibo por el derecho, cancelado.</li>
@@ -38,8 +45,8 @@
                       </div>
                       
 
-                      <hr>
-                      <a href="legal/legalmodelo.php" ><h6>Disposiciones Finales</h6></a>
+                      <!-- <hr>
+                      <a href="legal/legalmodelo.php" ><h6>Disposiciones Finales</h6></a> -->
       </div>
       <div class="modal-footer">
         <small>Oficina de Registros Académicos</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>

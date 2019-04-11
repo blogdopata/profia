@@ -86,7 +86,7 @@
 
                                 <div class="card text-center" >
                                     <div >
-                                        <img class="card-img-center  text-center img-fluid" style="width:max-width:180px"  src="img\autoridades\cardenasmartinez.jpg" alt="Card image cap">
+                                        <img class="card-img-center  w-50 text-center img-fluid"  src="img\autoridades\cardenasmartinez.jpg" alt="Card image cap">
                                     </div>
                                     <div class="card-body">
                                         <div class="text-center">

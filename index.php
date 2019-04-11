@@ -13,12 +13,15 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- cambiar a serv-web para  pruebas local-->
-   <!-- <link rel="stylesheet" href="css/style.css">-->
+  <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
     
-    <!-- poner url absoluta en cuando este en servidor -->
-    <link rel="stylesheet" href="http://serv-web/Newweb/proFIA/css/style.css">
 
- <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
+
+
+    <!-- poner url absoluta en cuando este en servidor 
+    <link rel="stylesheet" href="http://serv-web/Newweb/proFIA/css/style.css">-->
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
 
 </head>
 
@@ -199,7 +202,7 @@
                 <div class="col-12 col-sm-6 col-lg-4 text-center">
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
-                            <a target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario">
+                            <a target="_blank" href="http://www.usmp.edu.pe/proFIA/servicios/bienestar.php">
                             <img  src="img/fia/bienestar_universitario.png" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
                             </a>
@@ -304,7 +307,7 @@
     <!-- ##### Testimonials Area End ##### -->
 
     <!-- ##### Top Popular Courses Area Start ##### -->
-    <div class="top-popular-courses-area section-padding-100-70">
+    <div class="top-popular-courses-area section-padding-100-70 wow fadeInUp" data-wow-delay="300ms">
         <div class="container">
             <div class="row">
                 <div class="col-12">

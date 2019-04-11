@@ -45,9 +45,9 @@
     <div class="container" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5  style="color:#585857; font-size:32px;">
+                <h2  class="title-general-fix">
                         AUTORIDADES
-                </h5>
+                </h2>
             </div>
         </div>
     </div>
@@ -78,7 +78,7 @@
 
                     <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
                         <div id="accordion">
-                          <h2 > ÓRGANOS DE DIRECCIÓN</h2>
+                          <h3 class="subtitle-general-fix"> ÓRGANOS DE DIRECCIÓN</h3>
 
                           <div class="card"  >
                             <div  class="card-header bg-autoridades" id="headingOne">
@@ -91,17 +91,20 @@
 
                             <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                               <div class="card-body">
+                                <p  class="text-fix-content">
                                 El Decano es el representante de la Facultad de Ingeniería y Arquitectura ante la Asamblea Universitaria, el Consejo Universitario y otras instituciones públicas y privadas, para lo cual se encuentra incluido de las prerrogativas inherentes a su cargo.
+                                </p>
                                 <br>
-                                <br>
-                                <br>
+                                
                               <div class="text-center">
                                   <img  class="img-fluid w-25" src="img\autoridades\decano.jpg" alt="decano">
                                   <br>
-                                  <b>Ing. Luis Cárdenas Lucero</b>
-                                  <br>
-                                  <small>Decano</small>
-                                  <address>decanofia@usmp.pe</address>
+                                  <p class="mt-2 text-fix-content d-flex justify-content-center flex-column"  >
+                                    <b  class="text-center" >Ing. Luis Cárdenas Lucero</b>
+                                  
+                                    <span class="text-center">Decano</span> 
+                                    <a href="#"  class="text-center " style="color:#585857">decanofia@usmp.pe</a>
+                                  </p>
                               </div>
                             </div>
                           </div>
@@ -120,20 +123,23 @@
                           </div>
                           <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                             <div class="card-body">
+                              <p class="text-fix-content">
                               Es el órgano de dirección de la Facultad. En él se encuentran representados los estamentos que por mandato imperativo de la ley, se encargan de la función de dirigir las actividades académicas y administrativas, de cumplir y hacer cumplir los dispositivos de orden legal que regulan el funcionamiento de la Facultad y de asumir solidariamente las responsabilidades inherentes a su función. El Consejo de Facultad como órgano máximo de gobierno dentro de la Facultad.
                               <br>
                               <br>
                               <b>Decano:</b> Ing. Luis Cárdenas Lucero
-                              <br> <br><br>
+                              <br> 
                               <b>Profesores Principales:</b> 
-                              <br><br>
-                              <li>Chang Escobedo, José Antonio </li>
-                              <li>Bao García, Raúl Eduardo</li>
-                              <li>Cáceres Lampén, Manuel Alejandro</li>
-                              <li>Mellado Méndez, Augusto</li>
-                              <li>Cárdenas Lucero, Luis</li>
-                              <li>Valencia Gutierrez, Andrés Avelino</li>
-                              
+                              <br>
+                              <ul>
+                                <li>Chang Escobedo, José Antonio </li>
+                                <li>Bao García, Raúl Eduardo</li>
+                                <li>Cáceres Lampén, Manuel Alejandro</li>
+                                <li>Mellado Méndez, Augusto</li>
+                                <li>Cárdenas Lucero, Luis</li>
+                                <li>Valencia Gutierrez, Andrés Avelino</li>
+                              </ul>
+                              </p>
                             </div>
                           </div>
                         </div>
@@ -152,27 +158,33 @@
                           </div>
                           <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
-                              <b>Profesores Asociados:</b> <br><br>
+                            <p class="text-fix-content">
+                              <b>Profesores Asociados:</b> <br>
+                              <ul>
                               <li>Cuadros Ricra, Ruben Dario</li>
                               <li>Agüero Martinez La Rosa, Julio César</li>
                               <li>López Goycochea, Jefferson</li>
                               <li>Tejada Polo, Jorge Isaac</li> 
-
-                              <br>
-                              <b>Profesores Auxiliares:</b>  <br><br>
+                              </ul>
+                          </p>
+                          <p class="text-fix-content">
+                              <b>Profesores Auxiliares:</b> 
+                              <ul>
                               <li>Cardenas Martinez, José Antonio</li>
                               <li>Trujillo Acosta, Juan Enrique</li>
-                              <br>
+                              </ul>
+                              </p>
 
-                              <b>REPRESENTANTES ESTUDIANTILES:</b>
+                              <p class="text-fix-content"> <b>Representantes Estudiantiles:</b>
+                              <ul>
                               <li>Changanaqui Arroyo, Lisett Patricia</li>
                               <li>Egoavil Casimir, Jose Luis</li>
                               <li>Atencia Mondragon, David Ronald</li>
                               <li>Ormeño Bonifacio, Emperatriz Johanna</li>
                               <li>Bautista Trujillo, Cesar Moises</li>
                               <li>Patiño Bohorquez, Esperanza Mercedes</li>
-                              <li>Sara García, Fidel Junior</li>
-
+                              <li>Sara García, Fidel Junior</li></ul>
+                            </p>
                             </div>
                           </div>
                         </div>

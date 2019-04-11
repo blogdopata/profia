@@ -46,12 +46,11 @@
     <div class="container" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5  style="color:#585857; font-size:32px;">
+                <h3 class="title-general-fix">
                         DIRECTORIO TELEFÓNICO
-                </h5>
+                </h3>
 
-                <p style=" color:black;font-size:20px; margin-bottom:24px;margin-top:20px;"> Facultad de Ingeniería y Arquitectura</p>
-             
+
          
             </div>
         </div> 

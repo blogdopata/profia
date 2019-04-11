@@ -128,21 +128,21 @@
                                     La Arquitectura es fusión del arte y las ciencias, cuyo contenido básicamente son las tecnologías que, mediante el diseño se aplicara en construcción de edificaciones. Los arquitectos egresados de la EPA, de la Universidad de San Martín de Porres, es un profesional que posee un conjunto de competencias, actitudes y valores, que lo califica para desarrollar soluciones de toda clase de obras y estudios de infraestructuras, factibles y sustentables, social y ambientalmente compatibles.
                                 </p>
                             
-                                <h3 class="subtitles-content">MISIÓN</h3>
+                                <h3 class="title-content-fix subname-title">MISIÓN</h3>
                                 <p class="text-fix-content">
                                     Formar arquitectos en forma integral, con sólida formación artística, científica, tecnológica y humanística, que lideren la profesión para poder realizar el diseño con ética, responsabilidad social, respeto a nuestros valores ancestrales, nuestro patrimonio monumental, la cultura, al medio ambiente y al desarrollo sostenible.
                                 </p>
                         
-                                <h3 class="subtitles-content">VISIÓN</h3>
+                                <h3 class="title-content-fix subname-title">VISIÓN</h3>
                                 <p class="text-fix-content">
                                 Nuestro objetivo creador de Escuela Profesional es la formación integral de profesionales, con habilidades para la investigación, con alta capacidad técnica de diseño, uso de la tecnología de avanzada.
                                 </p>
                                 
 
                                 
-                                <h3 class="subtitles-content">OBJETIVOS EDUCACIONALES</h3>
+                                <h3 class="title-content-fix subname-title">OBJETIVOS EDUCACIONALES</h3>
 
-                                <h3 class="subtitles-content">Objetivos Académicos</h3>
+                                <h3 class="title-content-fix subname-title">Objetivos Académicos</h3>
 
                                 <p class="text-fix-content">
                                     El profesional arquitecto está capacitado para:
@@ -155,7 +155,7 @@
                                 </ul>
 
 
-                                <h3 class="subtitles-content">Objetivos Profesionales</h3>
+                                <h3 class="title-content-fix subname-title">Objetivos Profesionales</h3>
 
                                 <p class="text-fix-content">
                                 Nuestros graduados tendrán la formación para desarrollarse en las siguientes competencias específicas:
@@ -178,13 +178,13 @@
                                 </ul>
                                 
 
-                                <h3 class="subtitles-content mb-4 mt-4">ORGANIGRAMA</h3>
+                                <h3 class="title-content-fix subname-title mb-4 mt-4">ORGANIGRAMA</h3>
 
                                 <figure class="text-center">
                                     <img src="images/organigrama.jpg" alt="">
                                 </figure>
 
-                                <h3 class="subtitles-content mb-4 mt-4">OFICINA DE ACREDITACIÓN</h3>
+                                <h3 class="title-content-fix subname-title mb-4 mt-4">OFICINA DE ACREDITACIÓN</h3>
 
                                 <p class="text-fix-content">
                                     La Escuela de Arquitectura ha logrado la acreditación internacional por la Axencia para la Calidad do Sistema Universitario de Galicia (ACSUG), institución de reconocido prestigio, especializada en evaluación de la calidad de la educación superior universitaria, la misma que el certificado, la calidad de los procesos académicos y administrativos con estándares europeos de calidad educativa.
@@ -233,11 +233,11 @@
                  
 
                        
-                       <h3 class="subtitles-content mb-2" >PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
+                       <h3 class="title-content-fix subname-title mb-2" >PERFIL DEL GRADUADO DE ARQUITECTURA </h3>
                       
                         <div class=" ">
                                 
-                                <h3 class="subtitles-content mb-1 mt-0 ">
+                                <h3 class="title-content-fix subname-title mb-1 mt-0 ">
                                     Competencias Cognitivas
                                 </h3>
                                 <ul class="text-fix-list">
@@ -249,7 +249,7 @@
                                 
                                 <br>
 
-                                <h3 class="subtitles-content mb-2 ">
+                                <h3 class="title-content-fix subname-title mb-2 ">
                                     Competencias Instrumentales
                                 </h3>
 
@@ -264,7 +264,7 @@
                                     <li>Elabora y gestiona proyectos de diversa índole, vinculados a su profesión.</li>
                                 </ul>
                                 <br>
-                                <h3 class="subtitles-content mb-2 ">
+                                <h3 class="title-content-fix subname-title mb-2 ">
                                     Competencias Específicas
                                 </h3>
 
@@ -294,7 +294,7 @@
                      
 				    <div class="tab-pane fade show" id="nav-convenios" role="tabpanel" aria-labelledby="nav-convenios-tab">
 
-                             <h3 class="subtitles-content mb-2 ">
+                             <h3 class="title-content-fix subname-title mb-2 ">
                              Convenios Nacionales e Internacionales
                                 </h3>             
                                     
@@ -331,7 +331,7 @@
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe>  -->
                            
-                            <h3 class="subtitles-content mb-2 ">
+                            <h3 class="title-content-fix subname-title mb-2 ">
                             PERFIL PROFESIONAL
                                 </h3>
 
@@ -357,7 +357,7 @@
 
                     <div class="tab-pane fade" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
                         
-                    <h3 class="subtitles-content mb-2 ">
+                    <h3 class="title-content-fix subname-title mb-2 ">
                           CAMPO OCUPACIONAL
                                 </h3>
                     
@@ -400,7 +400,7 @@
                     <!-- INICIO Contenido tab laboratorio--> 
                      <div class="tab-pane fade" id="nav-laboratorio" role="tabpanel" aria-labelledby="nav-laboratorio-tab">
                         
-                     <h3 class="subtitles-content mb-2 ">
+                     <h3 class="title-content-fix subname-title mb-2 ">
                           LABORATORIOS
                                 </h3>
                     
@@ -436,7 +436,7 @@
                     <!--
                     <div class="tab-pane fade" id="nav-servicios" role="tabpanel" aria-labelledby="nav-servicios-tab">
                         
-                        <h3 class="subtitles-content mb-2 ">
+                        <h3 class="title-content-fix subname-title mb-2 ">
                              serviciosS
                                    </h3>
                     </div> -->
@@ -447,7 +447,7 @@
 
                     <div class="tab-pane fade" id="nav-graduados" role="tabpanel" aria-labelledby="nav-graduados-tab">
                         
-                        <h3 class="subtitles-content mb-2 ">
+                        <h3 class="title-content-fix subname-title mb-2 ">
                              GRADUADOS EXITOSOS
                         </h3>
 
@@ -459,7 +459,7 @@
 
                                 </p> 
 
-                              <ul class="fix-items-li" style="font-size:13.5px;">
+                              <ul class="fix-items-li text-fix-content" style="font-size:13.5px;">
                                <li> Cuenta con una beca de estudios “Training Course on BambooTechnologies for developing Countries” promovida por el ministerio de economía de China.
                                    </li>
                                 
@@ -524,12 +524,12 @@
                         </div>
                             <hr>
 
-                            <h3 class="subtitles-content mb-4"  >
+                            <h3 class="title-content-fix subname-title mb-4"  >
                             TESTIMONIOS
                            </h3>
 
                                  
-                            <h3 class="subtitles-content mb-2 ">
+                            <h3 class="title-content-fix subname-title mb-2 ">
                                 Kerly Mitsu Yupanqui Ramos
                              </h3>
                             <p class="text-fix-content"> 
@@ -539,7 +539,7 @@
 
                             <hr>
 
-                            <h3 class="subtitles-content mb-2 ">
+                            <h3 class="title-content-fix subname-title mb-2 ">
                             Henry Sebastián Lamadrid Alarcón
                              </h3>
 

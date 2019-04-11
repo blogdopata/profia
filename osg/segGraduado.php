@@ -55,50 +55,52 @@
     <!-- ##### Breadcumb Area End ##### -->
 
     <!-- ##### About Us Area Start ##### -->
-    <section class="about-us-area mt-50 ">
+    <section class="  ">
         <div class="container">
            
-            <div class="row" style="background-image:url('/img/fia/fachada2.jpg'); no-repeat center top;background-size:cover;background-color:lavender;padding-top:30px;padding-bottom:30px;">
-                <div class="col-12 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="400ms">
-                    <h5 id="azulfia">Alcance</h5>
-                    <p>
+            <div class="row mt-3" >
+                <div class="col-12  wow fadeInUp" data-wow-delay="400ms"> 
+                    <h3 class="subtitles-content">Alcance</h3>
+                    <p class="text-fix-content">
                         El presente Plan de Seguimiento al Graduado de la FIA, establece los lineamientos de gestión de los graduados para la facultad.
                     </p>
-                    <h5 id="azulfia">Antecedentes</h5>
-                    <p>
+                    <h3 class="subtitles-content">Antecedentes</h3>
+                    <p class="text-fix-content">
                         El seguimiento a los graduados, es una de las actividades que muchas Facultades han venido desarrollando de manera aislada, y en algunos de los casos con experiencias que han resultado significativas. Sin embargo, al no existir coordinación entre las distintas facultades de nuestra universidad, estas experiencias exitosas en alguna de ellas no se han podido replicar en el resto de las facultades.
                     </p>
-					  <br>
-                    <p>
+					 
+                    <p class="text-fix-content">
                         Actualmente la Facultad de Ingeniería y Arquitectura viene desarrollando una política institucional con el fin de realizar el seguimiento de sus graduados, con el fin de conocer su ubicación, cargos que han desempeñado y desempeñan en su desarrollo profesional, para promover su inserción en el mercado laboral, conocer sus necesidades, su formación continua , establecer a través de sus graduados la vinculación con las empresas y el aporte que los graduados pueden ofrecer a la facultad en la mejora de las ofertas en las distintas carreras profesionales.
                     </p>
                 </div>
-                <div class="col-12 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="500ms">
-                  
-					<center>
-						<img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/osg/osgraduados.png" alt="">
-					</center>
-                </div>
+               
             </div>
+
             <br>
+
+        
+        
+
+
+
             <div class="row">
 
             <div class="col-md-6">
-            <div class="card text-center">
-                <div class="card-header bg-info text-white">
-                     <b>NOVEDADES:</b>
-                     <br><br>
-                     <center>
-                         <li> <a class="linkOSG" target="_blank" href="http://www.usmp.edu.pe/index.php?pag=novedades&sec=nov18_292">Segunda Feria Laboral </a>  </li>
-                         <li> <a class="linkOSG" target="_blank" href="http://www.usmp.edu.pe/index.php?pag=novedades&sec=nov17_281">Primera Feria Laboral </a> </li>
-                     </center>
+                <div class="card text-center">
+                    <div class="card-header text-white" style="background-color:#E0134E">
+                        <b>NOVEDADES:</b>
+                        <br><br>
+                        <center>
+                            <li> <a class="linkOSG" target="_blank" href="http://www.usmp.edu.pe/index.php?pag=novedades&sec=nov18_292">Segunda Feria Laboral </a>  </li>
+                            <li> <a class="linkOSG" target="_blank" href="http://www.usmp.edu.pe/index.php?pag=novedades&sec=nov17_281">Primera Feria Laboral </a> </li>
+                        </center>
+                    </div>
                 </div>
-            </div>
             </div>
 
              <div class="col-md-6">
             <div class="card text-center">
-                <div class="card-header bg-info text-white">
+                <div class="card-header text-white"  style="background-color:#E0134E"> 
                      <b>TEMAS DE INTERÉS</b>
                      <br><br>
                      <center>
@@ -116,184 +118,92 @@
     <!-- ##### About Us Area End ##### -->
 
     
+
+
+
+
+
     <div class="container">
-	<div class="row">
-	
-	<!--FUNCIONES OSG-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="..\img\osg\FUNCIONES.jpg" class="img-fluid" />
-	<h3>Funciones</h3>
-	
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini" class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado desempeña las funciones de proponer las políticas, objetivos, ...
-		</p>
-		<?php  include("funciones.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#funcionesOSG">Ver más</a>
-      </div>
-    </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--FUNCIONES OSG-->
-	
-    <!--OBJETIVOS OSG-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="..\img\osg\OBJETIVOS.png" class="img-fluid" />
-	<h3>Objetivos</h3>
-	
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini" class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado tiene como objetivos contar con un registro actualizado de ...
-		</p>
-		<?php  include("objetivos.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#objetivosOSG">Ver más</a>
-      </div>
-    </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--OBJETIVOS OSG-->
 
-    <!--estrategias OSG-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="..\img\osg\estrategias.png" class="img-fluid" />
-	<h3>Estrategias</h3>
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini" class="text align-self-center p-3">
-		Indispensable para llevar a cabo el compromiso y la responsabilidad de todos los miembros. 
-		</p>
-		<?php  include("estrategias.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#estrategiasOSG">Ver más</a>
-      </div>
-    </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--estrategias OSG-->
+        <div class="row">
+                
+            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Funciones</h5>
 
-    <!--Grafimedia-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="..\img\osg\indicadores.png" class="img-fluid" />
-	<h3>Indicadores</h3>
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini" class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado cuenta con una serie de indicadores como el porcentaje de ....
-		</p>
-		<?php  include("indicadores.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#indicadoresOSG">Ver más</a>
-      </div>
-    </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--Grafimedia-->
+                    <?php  include("funciones.php") ?>
+
+                    <a href="#"  data-toggle="modal" data-target="#funcionesOSG"  class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Objetivos</h5>
+
+                    <?php  include("objetivos.php") ?>
+
+                    <a href="#"  data-toggle="modal" data-target="#objetivosOSG"  class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Estrategias</h5>
+
+                    <?php  include("estrategias.php") ?>
+
+                    <a href="#"  data-toggle="modal" data-target="#estrategiasOSG"  class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5" >
+            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center">Indicadores</h5>
+
+                    <?php  include("indicadores.php") ?>
+                    <a href="#"  data-toggle="modal" data-target="#indicadoresOSG"  class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center">Beneficiarios</h5>
+
+                    <?php  include("beneficiarios.php") ?>
+                    <a href="#"  data-toggle="modal" data-target="#beneficiariosOSG"  class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center">Cuestionario</h5>
+
+                    
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScYzlBf0OUexlmT49GfxyvoKu9sjDnSwaW7D3g45-xFWvte8A/viewform"  target="_blank"  class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
 
 
-    <!--STI-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="..\img\osg\beneficiarios.png" class="img-fluid" />
-	<h3>Beneficiarios</h3>
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini" class="text align-self-center p-3">
-		La Oficina de Seguimiento al Graduado tiene como beneficiarios a ...
-		</p>
-		<?php  include("beneficiarios.php") ?>
-		<a href="#" class="align-self-center p-3 link" data-toggle="modal" data-target="#beneficiariosOSG">Ver más</a>
-      </div>
-    </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--STI-->
 
-    <!--SDSK-->
-	<div class="col-lg-4">
-	<div class="fiadatadiv">
-	
-	<div class="fia-front">
-	<img src="..\img\osg\cuestionario.png" class="img-fluid" />
-	<h3>Cuestionario</h3>
-	</div>
-	
-	<div class="fia-back">
-	<span>
-	<div class="d-flex align-items-center justify-content-center h-100">
-      <div class="d-flex flex-column">
-        <p id="pmini" class="text align-self-center p-4">
-		Cuestionario a graduados
-		</p>
-		<a href="https://docs.google.com/forms/d/e/1FAIpQLScYzlBf0OUexlmT49GfxyvoKu9sjDnSwaW7D3g45-xFWvte8A/viewform" target="_blank" class="align-self-center p-2 link">Ver más</a>
-      </div>
-    </div>
-	</span>
-	</div>
-	
-	</div>
-	</div>
-	<!--SDSK-->
 
-	
-	
-	
-	</div>
-	</div>
 
-<center>
-    <hr style="width:96%;">
-</center>    
+        </div>
 
-    <footer class="footer-area">
+
+
+	</div>
+  
+
+    <footer class="footer-area mt-5">
        
        <?php include_once('../blocks/footer.html') ?>
     </footer>

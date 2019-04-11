@@ -12,12 +12,12 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="img/core-img/logousmp.ico">
+    <link rel="icon" href="../img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
-   
+
 
 </head>
 
@@ -27,103 +27,136 @@
         <i class="circle-preloader"></i>
     </div>
 
-    <!-- ##### Header Area Start ##### -->
+   
     <header class="header-area">
-
+        
       <?php include_once('blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
 
-     <!-- ##### titular ##### -->
-       <section>
-        <div class="page-header6">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="page-caption1 d-flex justify-content-center align-items-center" >
-                        <h1 class="page-title1 d-flex align-items-center justify-content-center ">
-                            Departamento Académico 
-                        </h1>
-                    </div>
-                </div>
+ <!-- ##### Breadcumb Area Start ##### -->
+    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/proFIA/img/bg-img/img_osg.jpg');"  >
+     
+    </div>
+
+    <!-- ##### Breadcumb Area End ##### -->
+
+    <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
+      <div class="row">
+          <div class="col-12">
+                <h5  class="title-general-fix" >
+                       DEPARTAMENTO ACADÉMICO
+                </h5>
             </div>
         </div>
     </div>
       <!--style="background-image: url(img/bg-img/fiadir.jpg);height:370px;"-->
     <!-- ##### titular ##### -->
-   <br><br>
-    <div class="container rowArqui">
-    <div class="row">
-    <div class="col-md-8 col-xs-12 text-justify">
-        <br>
-        <p>El Departamento Académico de Ingeniería y Arquitectura apoya planeando, organizando, coordinando, dirigiendo y supervisando las actividades de enseñanza y proyección académica, en relación con las políticas específicas de la Facultad de Ingeniería y Arquitectura, y de las políticas generales de la Universidad de San Martín de Porres.
-        </p>
-    </div>
-    <div class="col-md-4 col-xs-12 text-justify">
-          <center>
-            <div class="card">
-            <div class="card-body">
-            <h5 id="mini" class="card-title"><p class="link">Ing. Andrés Ramos Salas</p></h5>
-            <h6 id="mini" class="card-subtitle mb-2 text-muted">Director del Departamento Académico de Ingeniería y Arquitectura</h6>
-            <a id="mini" style="color:#017090;" href="mailto:aramoss@usmp.pe" class="link">aramoss@usmp.pe</a>
-            </div>
-  	    </center>
-    </div>
-    </div>
-    </div>
-    <br>
-    <div class="container" style="height:3px;background-color:grey;"></div>
-<br>
-
-
-<!-- Mostrando los Artículos -->
-<section style="background-color:lavender;">
-    <br>
+    <section class="  ">
         <div class="container">
-				<div class='art-page-full clearfix'>
+           
+            <div class="row mt-3" >
+                <div class="col-12  wow fadeInUp" data-wow-delay="400ms"> 
+                   
+                    <p class="text-fix-content">
+                    El Departamento Académico de Ingeniería y Arquitectura apoya planeando, organizando, coordinando, dirigiendo y supervisando las actividades de enseñanza y proyección académica, en relación con las políticas específicas de la Facultad de Ingeniería y Arquitectura, y de las políticas generales de la Universidad de San Martín de Porres.
+                    </p>
+                  
+					 
+                 
+                </div>
+               
+            </div>
 
-				                    <header class="st-header">
-				                    	<h1>Descargables</h1>
-                                    </header>
+   
 
-                                        <section class="st-content">
-                                        <dl>
+<div class="container mt-5">
 
-                                       
-                                        <dt><a href="pdf\depAcademico\Directiva_para_docentes.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Directiva para los docentes</span></a></dt>
+        <div class="row">
+                
+            <div class="col-md-4 col-12 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Directivas para docentes</h5>
 
-                                        <dt><a href="pdf\depAcademico\esquemas_de_evaluacion.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Esquemas de evaluación  </span></a></dt>
+                  
+                    <a href="pdf/depAcademico/Directiva_para_docentes.pdf"  target="_blank"   class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
 
-                                        <dt><a href="pdf\depAcademico\Solicitud_de_libros_para_dictado_del_curso.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Solicitud de libros para dictado del curso</span></a></dt>
-                                                                                
-                                        <dt><a href="pdf\depAcademico\capacitacion_docente_general.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Capacitación Docente</span></a></dt>
-                                        
-                                        <dt><a href="pdf\depAcademico\Encuesta_Docente.pdf" target="_blank" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Encuesta Docente</span></a></dt>
+            <div class="col-md-4 col-12 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Esquema de evaluación</h5>
 
-                                        <dt><a href="pdf\depAcademico\Actualizacion_de_CV_Docentes_FIA.zip" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Actualización de currículum vitae docentes FIA</span></a></dt>
+                   
+
+                    <a href="pdf\depAcademico\esquemas_de_evaluacion.pdf"  target="_blank"   class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-4 col-12 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center"  >Solicitud de libros para  <br> dictado del curso</h5>
+
+                   
+
+                    <a href="pdf\depAcademico\Solicitud_de_libros_para_dictado_del_curso.pdf"  target="_blank" class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5" >
+            <div class="col-md-4 col-12 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center">Capacitación docente</h5>
+
+                   
+                    <a href="pdf\depAcademico\capacitacion_docente_general.pdf"  target="_blank" class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-4 col-12 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center">Encuesta docente</h5>
+
+                   
+                    <a href="pdf\depAcademico\Encuesta_Docente.pdf"  target="_blank"  class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-4 col-12 font-mode fix-height"  >
+                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                    <h5 class="text-info-gen text-center">Actualización de Currículim Vitae <br> docente FIA</h5>
+
+                    
+                    <a href="pdf\depAcademico\Actualizacion_de_CV_Docentes_FIA.zip"  target="_blank"  class="text-link-gen" >Ver más</a>
+                    
+                </div>
+            </div>
 
 
-                                        </dl>
-                                        </section>
-				</div>
-			</div>		
-            <br>	
-            </section>	
-		     <!-- Fin de los artículos -->
-  
 
-<center>
-<hr style="width:98%;">
-</center>
 
-    
+
+        </div>
+
+
+
+	</div>
+
+</div>
+
 
    
 
  
 
-     <footer class="footer-area">
+     <footer class="footer-area mt-5">
        
        <?php include_once('blocks/footer.html') ?>
     </footer>

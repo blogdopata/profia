@@ -1,4 +1,9 @@
 
+<style>
+  .listaperfil ul li , .listaperfil2 ul li , .listafia ul li {
+    color:black;
+  }
+</style>
 <!--inicio modal Directivas de Compromiso de Excepción -->
 <div class="modal fade" id="miModal5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
