@@ -1,86 +1,86 @@
-<div class="container">
-                  <h5 class="titulo-generico">
+<div class="container text-fix-content">
+                  <h5 class="subtitle-general-fix">
                                  SEGURO DE ACCIDENTES
                               </h5>
 
-                             <b id="grisfia" class="text-fix-style">¿Qué es un accidente?</b>
-                             <p class="text-fix-style">
+                             <b >¿Qué es un accidente?</b>
+                             <p class="text-fix-content">
                              Se considera accidente toda lesión corporal producida por la acción imprevista, fortuita y/u ocasional, de una fuerza externa que actúa de manera súbita o violenta sobre la persona, independientemente de su voluntad y que puede ser determinado por los médicos de una manera cierta.
                              </p>
 
                              
 
-                             <b id="grisfia" class="text-fix-style">Ámbito de la cobertura</b>
-                             <p class="text-fix-style">Accidentes ocurridos dentro de las instalaciones de la Facultad y/o cuando el alumno asegurado se encuentre en representación oficial de la universidad, actividades deportivas, que sean únicamente organizadas y autorizadas de manera oficial por las autoridades de la Universidad.</p>
+                             <b>Ámbito de la cobertura</b>
+                             <p class="text-fix-content">Accidentes ocurridos dentro de las instalaciones de la Facultad y/o cuando el alumno asegurado se encuentre en representación oficial de la universidad, actividades deportivas, que sean únicamente organizadas y autorizadas de manera oficial por las autoridades de la Universidad.</p>
 
                              
 
-                             <b id="grisfia" class="text-fix-style">Accidentes Dentro de los Predios de la Universidad</b>
-                             <p class="text-fix-style">
+                             <b>Accidentes Dentro de los Predios de la Universidad</b>
+                             <p class="text-fix-content">
                              En el caso que el accidente ocurriese dentro de los predios de la Universidad, el alumno, deberá acercarse OBLIGATORIAMENTE a las Unidades Médicas y/o Tópicos dentro del horario de atenciones indicadas en la presente, donde serán atendidos y evaluados por el médico. En el caso que el médico considere que la atención debe realizarse en una Clínica, el medico hará entrega de la Hoja de Denuncia de Accidentes, el cual deberá ser llenado, firmado y sellado por el médico tratante de la Unidad Médica y/o Tópico indicando el diagnóstico, asimismo el Médico le indicará a que Clínica puede ser derivado.
                              </p>
 
 
 
-                             <b id="grisfia" class="text-fix-style">Accidentes Ocurridos En El Cumplimiento De Actividades Deportivas Fuera De Los Predios De La Universidad</b>
-                             <p class="text-fix-style">
+                             <b>Accidentes Ocurridos En El Cumplimiento De Actividades Deportivas Fuera De Los Predios De La Universidad</b>
+                             <p class="text-fix-content">
                              En el caso que el accidente ocurriese al encontrarse realizando actividades oficiales deportivas y/o curriculares organizadas y autorizadas por la Universidad, el alumno podrá dirigirse a las clínicas afiliadas que constan en la presente Cartilla, acompañado del representante de la institución y con la Hoja de Denuncia de Accidentes debidamente llenado y firmado por el mismo representante de la Universidad.
                              </p>
 
                                 <br>
 
-                             <b id="grisfia" class="text-fix-style">UNIDADES MÉDICAS - TÓPICOS Y HORARIOS DE ATENCIÓN</b>
+                             <b>UNIDADES MÉDICAS - TÓPICOS Y HORARIOS DE ATENCIÓN</b>
                              <br><br>
-                             <b id="grisfia" class="text-fix-style">Facultad de Derecho</b>
-                             <p class="text-fix-style">
+                             <b class=" mt-3">Facultad de Derecho</b>
+                             <p class="text-fix-content">
                              Av. Alameda del Corregidor 1856 – Las Viñas, La Molina. <br>
                             Lunes a viernes de 9:00 a.m. a 09:00 p.m. <br>
                             Sábado de 8:00 a.m. a 12:30pm
                              </p>
                              
-                             <b id="grisfia" class="text-fix-style">Ciudad Universitaria</b>
-                             <p class="text-fix-style">
+                             <b>Ciudad Universitaria</b>
+                             <p class="text-fix-content">
                              Av. Las calandrias s/n, Santa Anita <br>
                             Lunes a viernes de 8:00 a.m. a 4:30 p.m.
                              </p>
                             
-                            <b id="grisfia" class="text-fix-style">Facultad de Ciencias de la Comunicación, Turismo y Psicología</b>
-                             <p class="text-fix-style">
+                            <b>Facultad de Ciencias de la Comunicación, Turismo y Psicología</b>
+                             <p class="text-fix-content">
                              Av. Tomas Marsano 155, Surquillo <br> 
                             Lunes a viernes de 8:00 a.m. a 09:00 p.m. <br>
                             Sábado de 8:00 a.m. a 12:00pm
                              </p>
                             
-                            <b id="grisfia" class="text-fix-style">Facultad de Odontología</b>
-                             <p class="text-fix-style">
+                            <b>Facultad de Odontología</b>
+                             <p class="text-fix-content">
                              Av. San Luis 1250, San Luis <br>
                             Lunes a viernes de 8:00 a.m. a 8:00 p.m. <br>
                             Sábado de 8:00 a.m. a 2:00 p.m.
                              </p>
                             
-                            <b id="grisfia" class="text-fix-style">Facultad de Derecho</b>
-                             <p class="text-fix-style">
+                            <b>Facultad de Derecho</b>
+                             <p class="text-fix-content">
                              Av. Alameda del Corregidor Cdra. 15 – Las Viñas, La Molina. <br>
                             Lunes a viernes de 8:00 a.m. a 02:45 p.m.
                              </p>
 
                              <br>
 
-                             <b id="grisfia" class="text-fix-style">RELACIÓN DE CLÍNICAS AFILIADAS</b>
+                             <b>RELACIÓN DE CLÍNICAS AFILIADAS</b>
                              <br>
-                             <p class="text-fix-style">Serán indicadas al momento que el médico tratante de la Unidad Médica y/o Tópico realice la derivación respectiva.</p>
+                             <p class="text-fix-content">Serán indicadas al momento que el médico tratante de la Unidad Médica y/o Tópico realice la derivación respectiva.</p>
                              
-                             <b id="grisfia" class="text-fix-style">Importante</b>
-                             <div class="listaperfil2">
+                             <b>Importante</b>
+                             <ul class="fix-items-li">
                              <li>Al ingresar a la Clínica deberás identificarte con tu DNI y presentar el formato de atención de accidentes.</li>
                              <li>No se atenderá ningún tipo de accidente bajo el sistema de reembolso por los gastos incurridos.</li>
                              <li>EN CASO NO SE CUMPLA CON LAS INSTRUCCIONES INDICADAS, MAPFRE SEGUROS Y EL CORREDOR TAS CORREDORES DE SEGUROS, QUEDARAN EXIMIDAS DE TODA RESPONSABILIDAD, NO PUDIENDO EL ALUMNO O SUS FAMILIARES DAR COMO EXCUSA DEL INCUMPLIMIENTO, LA IGNORANCIA, OLVIDO, ERROR O DESCONOCIMIENTO DE LA EXISTENCIA DE LOS PROCEDIMIENTOS YA MENCIONADOS.</li>
-                             </div>
+                              </ul>
 
                              <br>
 
-                             <b id="grisfia" class="text-fix-style">Principales Exclusiones</b>
-                             <div class="listaperfil2">
+                             <b>Principales Exclusiones</b>
+                             <ul class="fix-items-li">
                              <li>Cualquier enfermedad corporal o mental, y a las consecuencias de tratamientos médicos o quirúrgicos que no sean motivados por accidentes amparados por la presente Póliza.</li>
                              <li>Los llamados 'Accidentes Médicos', tales como, pero no limitado a apoplejías, congestiones , sincopes vértigos, edemas agudos, infarto al miocardio, trombosis y ataques epilépticos; así como los casos de negligencia o impericia médica.</li>
                              <li>Los accidentes ocurridos cuando el ASEGURADO se encuentra bajo la influencia de alcohol y/o drogas (sin importar su grado de presencia en la sangre) o en estado de sonambulismo.</li>
@@ -96,12 +96,12 @@
                              <li>Actos que infrinjan las leyes o reglamentos vigentes.</li>
                              <li>Intento de dolo o fraude. En donde se anulara automáticamente la cobertura del Seguro, comunicando lo acontecido al Contratante de la Póliza, los Sres. Universidad de San Martin de Porres.</li>
                              <li>La información contenida en la presente cartilla es a titulo parcial e informativo. Prevalecen los términos y condiciones generales de la póliza de seguro.</li>
-                             </div>
+                              </ul>
 
                              <br>
 
-                             <u id="grisfia" class="text-fix-style"><b>Oficina de Bienestar Universitario</b></u>
-                             <p class="text-fix-style">
+                             <u ><b>Oficina de Bienestar Universitario</b></u>
+                             <p class="text-fix-content">
                              Horario de Atención <br>
                             Lunes a Viernes 8:00am a 10:00pm <br>
                             Teléfonos Directo: 2086014 /Central: 2086000 anexo 1114 <br>

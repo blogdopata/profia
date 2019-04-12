@@ -71,6 +71,8 @@
 
                         <a class="nav-link" id="nav-convenios-tab" data-toggle="pill" href="#nav-convenios" role="tab" aria-controls="nav-convenios" aria-selected="false">Convenios</a>
 
+                        <a class="nav-link" id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
+
 
                         <a class="nav-link " id="nav-laboratorio-tab" data-toggle="pill" href="#nav-laboratorio" role="tab" aria-controls="nav-laboratorio" aria-selected="false">Laboratorios</a>
 
@@ -100,7 +102,7 @@
 
                                     <div class="col-8" >
                                         <p class="text-fix-content  subname-title">
-                                            DIRECTOR DE ESCUELA EPA / DR. ARQ. GORKI MESONES VARGAS
+                                            Director de la Escuela EPA / DR. Arq. Gorki Mesones Vargas
                                         </p> 
 
                                         <p class="text-fix-content">
@@ -207,6 +209,20 @@
                     <!-- FIN CONTENIDO BIENVENIDOS -->
 
 
+                    <!-- Contenido tab CAMPUS --> 
+
+                  <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
+                      <div class="container">
+
+                      <?php include('../../blocks/campus.php') ?>
+
+                      </div>
+                      
+                  </div>
+
+                  <!-- FIN Contenido tab CAMPUS --> 
+
+
 
                     <!-- Contendio Tab  Info academicas -->
 
@@ -219,7 +235,7 @@
                     La formación integral del hombre implica desarrollar sus potencialidades humanas, como persona individual, y, luego, como profesional integrado a la sociedad, cuyo rol es mejorarla en todos sus aspectos, para contribuir así en la transformación de una nueva sociedad.
                     </p>
                     <p class="text-fix-content"> 
-                    Grados y Títulos que se otorgan :  <br>
+                   <b>Grados y Títulos que se otorgan : </b>  <br>
                     <b>Grado : </b> Bachiller en Arquitectura  <br>
                     <b>Título :  </b>Arquitecto  <br>
                     <b>Duración:  </b>10 semestres  <br>
@@ -332,7 +348,7 @@
                         <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe>  -->
                            
                             <h3 class="title-content-fix subname-title mb-2 ">
-                            PERFIL PROFESIONAL
+                            Perfil Profesional
                                 </h3>
 
                             <p class="text-fix-content"> 
@@ -358,7 +374,7 @@
                     <div class="tab-pane fade" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
                         
                     <h3 class="title-content-fix subname-title mb-2 ">
-                          CAMPO OCUPACIONAL
+                          Campo Ocupacional
                                 </h3>
                     
                     <br>
@@ -401,7 +417,7 @@
                      <div class="tab-pane fade" id="nav-laboratorio" role="tabpanel" aria-labelledby="nav-laboratorio-tab">
                         
                      <h3 class="title-content-fix subname-title mb-2 ">
-                          LABORATORIOS
+                          Laboratorios
                                 </h3>
                     
                     <br>
@@ -448,9 +464,9 @@
                     <div class="tab-pane fade" id="nav-graduados" role="tabpanel" aria-labelledby="nav-graduados-tab">
                         
                         <h3 class="title-content-fix subname-title mb-2 ">
-                             GRADUADOS EXITOSOS
+                             Graduados Exitosos
                         </h3>
-
+ <br>
                         <div class="row">
 
                             <div class="col-8" >

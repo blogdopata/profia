@@ -311,22 +311,23 @@
                     <a href="http://www.usmp.edu.pe/portalacademico" target="_blank"> Portal académico </a>
                 </div>
 
+                <div class="col-6 col-md-3 text-center">
+                            <div class="team-members">
+                                <div >
+                                    <a href="http://usmp.edu.pe/index.php?pag=raiz&sec=difusion" target="_blank">
+                                            <img class="img-fluid" src="img/prestaciones/servicios/transparencia.jpg" alt="">   
+                                    </a>
+                                </div>
+                                
+                            </div>
+                            <a  href="http://usmp.edu.pe/index.php?pag=raiz&sec=difusion" target="_blank">Transparencia</a>
 
-
-                <div class="col-6 col-md-3 text-center" >
-                    <div class="team-members">
-                        <div >
-                        <a href="#" target="_blank">   
-                        
-                                <img class="img-fluid" src="img/prestaciones/servicios/practicas.jpg" alt="">   
-                        
-                            </a>
                         </div>
-                        
-                    </div>
-                    <a href="#" target="_blank"> Prácticas </a>
-                </div>
 
+
+
+
+              
                 
             </div>
             <!-- FIN DE FILA -->
@@ -407,30 +408,8 @@
             <!-- FIN DE FILA -->
 
 
-            <!-- INICIO DE FILA -->
-            <div class="row mt-3">
-
-                    <div class="col-6 col-md-3 text-center">
-                            <div class="team-members">
-                                <div >
-                                    <a href="http://usmp.edu.pe/index.php?pag=raiz&sec=difusion" target="_blank">
-                                            <img class="img-fluid" src="img/prestaciones/servicios/transparencia.jpg" alt="">   
-                                    </a>
-                                </div>
-                                
-                            </div>
-                            <a  href="http://usmp.edu.pe/index.php?pag=raiz&sec=difusion" target="_blank">Transparencia</a>
-
-                        </div>
-
-
-
-
-            </div>
-            <!-- FIN DE FILA -->
-
            
-
+           
     </div>
                                 
 

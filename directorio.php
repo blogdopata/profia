@@ -337,47 +337,13 @@
                             <br>
             </div>
             <br>
+            
             <div class="row">
                 <div class="card col-6 col-md-3" style="width: 18rem;">
                     <div class="card-body text-center">
-                        <h5 class="card-title card-title-fix mb-4">Fábrica de Software (Sala 1)</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Elmer Laureano</h6>
-                        <p class="card-text">Directos 2086025 <br> Anexos 1126</p>
-                    </div>
-                </div>
-                <br>
-                <div class="card col-6 col-md-3" style="width: 18rem;">
-                    <div class="card-body text-center">
-                        <h5 class="card-title card-title-fix mb-4">Fábrica de Software (Sala 2)</h5>
+                        <h5 class="card-title card-title-fix mb-4">Fábrica de Software</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Luis Toledo</h6>
                         <p class="card-text">Directos 2086000 <br> Anexos 1125</p>
-                    </div>
-                </div>
-                <br>
-                <div class="card col-6 col-md-3" style="width: 18rem;">
-                    <div class="card-body text-center">
-                        <h5 class="card-title card-title-fix mb-4">Administración de Base de Datos</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Alberto Galloso / Ivan Casma</h6>
-                        <p class="card-text">Directos 2086027 <br> Anexos 1127</p>
-                    </div>
-                </div>
-                <br>
-                <div class="card col-6 col-md-3" style="width: 18rem;">
-                    <div class="card-body text-center">
-                        <h5 class="card-title card-title-fix mb-4">Fábrica de Software (Sala 3)</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Daud Alejos </h6>
-                        <p class="card-text">Directos 2086000 <br> Anexos 1163</p>
-                    </div>
-                </div>
-                <br>
-            </div>
-            <br>
-            <div class="row">
-                <div class="card col-6 col-md-3" style="width: 18rem;">
-                    <div class="card-body text-center">
-                        <h5 class="card-title card-title-fix mb-4">Internetworking</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Personal</h6>
-                        <p class="card-text">Directos 2086000 <br>Anexos 1180</p>
                     </div>
                 </div>
                 <br>

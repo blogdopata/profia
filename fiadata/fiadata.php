@@ -65,8 +65,19 @@
           
             <br>
         
+			<div class="container mb-3" style='margin-top:80px; ' >
+				<div class="row">
+					<div class="col-12">
+							<h2  class="title-general-fix">
+									FIA DATA
+							</h2>
+						</div>
+					</div> 
+    			</div>
+
+
       <!-- ##### contenido ##### -->
-    <section class="about-us-area mt-50 section-padding-100">
+    <section class="about-us-area">
         <div class="container">
             <div class="row">
          
@@ -107,28 +118,22 @@
     <div class="tab-pane fade show active" id="nav-qsomos" role="tabpanel" aria-labelledby="nav-qsomos-tab">
     
 	<div class="container">
-	<h4 class="titulo-principal">QUIENES SOMOS</h4>		
-	<p class="text-fix-style">
+		<h3 class="subtitle-general-fix">QUIENES SOMOS</h3>		
+	
 	</div>
 
 
 	<div class="container">
 	<div class="row">
 
-	<div class="col-md-8"  style="margin-top:2%;">
+	<div class="col-md-8"  >
 
-		<p class="text-fix-style" >
+		<p class="text-fix-content" >
 		FIA DATA está conformada por un grupo de profesionales que a través de su trabajo buscan permanentemente proveer los mejores servicios y herramientas tecnológicas innovadoras que ayuden a la comunidad universitaria en su proceso de aprendizaje. Dentro de las herramientas tenemos acceso a internet, laboratorios de cómputo y especializados, aplicaciones de apoyo académico, videoconferencias, redes inalámbricas del campus, entre otros.            </p>
 		</p>
 		
 
-		<p class="text-fix-style" >
-		Tenemos la mejor infraestructura en tecnologías de Información del Perú y detrás de ella, la excelencia profesional. Por que solo así podemos exigir calidad a nuestros estudiantes. Fuimos los primeros en acortar la brecha en cuanto a realidad tecnológica de una Empresa con una Universidad en nuestro país.		
-		</p>
-
-		<p class="text-fix-style" >
-		Por eso insistimos mucho en la formación personal y profesional de nuestros estudiantes. Cualidades como el afán de investigación, empeño, tenacidad e iniciativa son elementos importantes que juntos ayudarán a la consecución del éxito profesional y capacidad garantizada de nuestros graduados. Por eso decimos que en FIA-DATA el mejor equipo es HUMANO.
-		</p>
+	
 
 	</div>
 
@@ -136,7 +141,7 @@
 	<div class="card text-fix-style">
 					<div class="card-body">
 					<img class="card-img-top img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/cesar_porras.jpg" alt="Card image cap">						
-					<h5 id="mini" class="card-title text-center"><p  class="link">Ing. Cesar Augusto Porras Quinto</p></h5>
+					<h5 id="mini" class="card-title text-center"><p  class="link">Ing. César Augusto Porras Quinto</p></h5>
 					<h6 id="mini" class="card-subtitle mb-2 text-muted text-center">Jefe FIA-DATA</h6>
 					<div class="text-center">
 					<a id="mini" class="text-fix-style" style="color:#017090;" href="mailto:cporras@usmp.pe" class="link">cporras@usmp.pe</a>
@@ -164,13 +169,13 @@
     <div class="tab-pane fade show " id="nav-perfil" role="tabpanel" aria-labelledby="nav-perfil-tab">
         
     <div class="container">
-	<h4 class="titulo-principal">MISIÓN</h4>		
-	<p class="text-fix-style">
-	El campo laboral del ingeniero civil es muy amplio debido a que esta profesión se preocupa por el bienestar general de las personas: construye responsablemente, soluciona problemas sociales y de infraestructura, integrando pueblos alejados. Una recopilación muy sucinta establece que el ámbito ocupacional del ingeniero civil es el siguiente:
+	<h3 class="subtitle-general-fix">MISIÓN </h3>		
+	<p class="text-fix-content">
+	Facilitar y promover la aplicación de las TIC’s en la Facultad de Ingeniería y Arquitectura - USMP a través de la innovación, buscando la optimización de los procesos y cumplimiento de los objetivos académico, de investigación y corporativos.
 	</p>
 	<br>			
-	<h4 class="titulo-principal">VISIÓN</h4>		
-	<p class="text-fix-style">
+	<h3 class="subtitle-general-fix">VISIÓN </h3>		
+	<p class="text-fix-content">
 	Ser un área estratégica y de referencia en su campo de acción, tanto internamente como externamente, siendo capaces de implementar soluciones TIC’s innovadoras que estén alineadas a las estrategias de la Facultad y de la Universidad.
 	</p>          
     </div>   
@@ -183,15 +188,15 @@
     <!-- Contenido tab VALORES--> 
     <div class="tab-pane fade" id="nav-val" role="tabpanel" aria-labelledby="nav-val-tab">
         <div class="container">
-		<h4 class="titulo-principal">NUESTROS VALORES</h4>	
-            <div class="listaperfil2">
-				<li>Trabajo colaborativo del equipo.</li>
-				<li>Conducta y ética profesional.</li>
-				<li>Capacidad de innovación.</li>
-				<li>Comunicación efectiva.</li>
-				<li>Capacitación continúa</li>
-				<li>La igualdad de oportunidades de desarrollo profesional.</li>
-            </div>
+		<h3 class="subtitle-general-fix">NUESTROS VALORES </h3>	
+            <p class="text-fix-content">
+				Trabajo colaborativo del equipo. <br>
+				Conducta y ética profesional. <br>
+				Capacidad de innovación. <br>
+				Comunicación efectiva. <br>
+				Capacitación continúa <br>
+				La igualdad de oportunidades de desarrollo profesional. <br>
+				</p>
         </div>
     </div>
 	<!-- FIN Contenido tab VALORES --> 
@@ -215,8 +220,8 @@
 	<!-- Contenido tab SERVICIOS--> 
     <div class="tab-pane fade" id="nav-servicios" role="tabpanel" aria-labelledby="nav-servicios-tab">
         <div class="container">
-		<h4 class="titulo-principal">SERVICIOS</h4>	
-            <div class="listaperfil2">
+		<h3 class="subtitle-general-fix">SERVICIOS </h3>	
+           <ul class="fix-items-li">
 				<li>Atención a alumnos, docentes y administrativos</li>
 				<li>Laboratorios académicos</li>
 				<li>Asignación de cuentas de correo</li>
@@ -229,7 +234,7 @@
 				<li>Administración del Centro de Cómputo</li>
 				<li>Adquisiciones de TI</li>
 				<li>Servicios de videoconferencia</li>
-            </div>
+				</ul>
         </div>
     </div>
 	<!-- FIN Contenido tab SERVICIOS --> 
@@ -238,7 +243,7 @@
 	<!-- Contenido tab PROYECTOS--> 
     <div class="tab-pane fade" id="nav-proyectos" role="tabpanel" aria-labelledby="nav-proyectos-tab">
 	<div class="container">
-	<h4 class="titulo-principal">CARTERA DE PROYECTOS POR AÑO</h4>	
+	<h3 class="subtitle-general-fix">CARTERA DE PROYECTOS POR AÑO </h3>	
 	</div>		
 	<div class="container" style="display:flex;align-items: center;justify-content: center;">
 	
@@ -255,7 +260,7 @@
 	<!-- Contenido tab DOCUMENTACIÓN--> 
     <div class="tab-pane fade" id="nav-doc" role="tabpanel" aria-labelledby="nav-doc-tab">
 	<div class="container">
-	<h4 class="titulo-principal">MANUALES POR CATEGORÍAS</h4>	
+	<h3 class="subtitle-general-fix">MANUALES POR CATEGORÍAS </h3>	
 	</div>		
 	<div class="container" style="display:flex;align-items: center;justify-content: center;">
 	
@@ -277,9 +282,7 @@
       
    
     <br>
-    <center>
-    <hr style="width:96%;">
-    </center>                            
+                            
     
 
      <footer class="footer-area">

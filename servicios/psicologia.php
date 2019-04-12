@@ -1,20 +1,20 @@
 <div class="container">
-                  <h5 class="titulo-generico">
+                  <h5 class="subtitle-general-fix">
                   SERVICIO DE ORIENTACIÓN PSICOLÓGICA
                               </h5>
 
                              <!-- <b id="grisfia" class="text-fix-style">¿Qué es un accidente?</b> -->
-                             <p class="text-fix-style">
+                             <p class="text-fix-content">
                              Somos profesionales, que brindamos  servicios de asistencia y capacitación, con un abordaje dinámico que busca apoyar a las personas que presentan dificultades tanto emocionales, vocacionales, de familia e interpersonales.
                              <br>                             
                             Nuestro trabajo consiste en entrevistas, diagnósticos, prevención, orientación individual y/o familiar en forma individual y/o grupal según el caso lo requiera.                            
                              </p>
 
-                             <p class="text-fix-style">
+                             <p class="text-fix-content">
                              Contamos con el apoyo de la Oficina de Bienestar Universitario, quienes nos proporcionan todos los medios y herramientas que nos permiten tener mayor acceso a nuestra comunidad educativa, integrada por toda la familia FIA.
                              </p>
 
-                             <p class="text-fix-style">
+                             <p class="text-fix-content">
                              Nuestra labor consiste en brindar  atención a nuestra comunidad educativa FIA, aquellos  alumnos que presente dificultades en el  rendimiento académico, alumnos con  problemas de Conducta, Problemas Emocionales y/o familiares, entre otros, y aquellos alumnos que presenten conflictos en la elección de la carrera, llevando a   acabo la atención integral del cliente interno que consiste en la entrevista, evaluación, diagnóstico, orientación, consejería y acompañamiento psicológico a los alumnos y padres de familia.
                              </p>
                              
@@ -88,8 +88,8 @@
                             </div>
 
                         
-                             <u id="grisfia" class="text-fix-style"><b>Horarios de atención:</b></u>
-                             <p class="text-fix-style">
+                             <u  class="text-fix-content"><b>Horarios de atención:</b></u>
+                             <p class="text-fix-content">
                             
                              Días: Lunes a Viernes <br>
                             Mañanas: 9:00 h - 14:00 h <br>

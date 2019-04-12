@@ -10,8 +10,8 @@
 
                     <div class=" text-left">
                       
-                        <h3 class="titulo-generico">Contáctanos</h3>
-                        <p class="mt-3 text-fix-style">
+                        <h3 class="subtitle-general-fix">Contáctanos</h3>
+                        <p class="mt-3 text-fix-content">
                             Estamos para ayudarte , envía tus consultas a los medios de abajo o SÍGUENOS en nuestras
                             redes sociales y mantente informado 
                             con las últimas noticias y eventos de la facultad.
@@ -25,7 +25,7 @@
                                 <div class="contact-icon mr-15 mt-1" >
                                     <i style=" font-size:16px;font-weight:bold;" class="icon-placeholder"></i>
                                 </div>
-                                <p class="text-fix-style">Av. La Fontana 1250 Urb. Sta. Patricia 2da Etapa  <br> La Molina</p>
+                                <p class="text-fix-content">Av. La Fontana 1250 Urb. Sta. Patricia 2da Etapa  <br> La Molina</p>
                             </div>
 
                             <!-- Single Contact Info -->
@@ -33,7 +33,7 @@
                                 <div class="contact-icon mr-15 mt-1" >
                                     <i style="font-size:16px" class="icon-telephone-1"></i>
                                 </div>
-                                <p class="text-fix-style">Fia:(511) 2086000 <br> Oficina de administración: (511) 2086000</p>
+                                <p class="text-fix-content">Fia:(511) 2086000 <br> Oficina de administración: (511) 2086000</p>
                             </div>
 
                             <!-- Single Contact Info -->
@@ -41,7 +41,7 @@
                                 <div class="contact-icon mr-15 mt-1" >
                                     <i style="font-size:16px" class="icon-contract"></i>
                                 </div>
-                                <p class="text-fix-style">fia@usmp.pe</p>
+                                <p class="text-fix-content">fia@usmp.pe</p>
                             </div>
                        
                     </div>   

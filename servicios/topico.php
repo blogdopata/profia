@@ -51,11 +51,11 @@
     <!-- ##### banner ##### -->
 
     <!-- ##### contenido ##### -->
-    <section class="about-us-area mt-50 section-padding-100">
+    <section class="about-us-area mt-15 section-padding-100">
     <div class="container">
       <div class="row">
           <div class="col-md-12">
-                <h5  class="titulo-principal">
+                <h5  class="title-general-fix">
                         TÓPICO DE ENFERMERÍA
                 </h5>
             </div>
@@ -87,26 +87,26 @@
                         <div class="container">
 
                             
-                           <p class="text-fix-style">
+                           <p class="text-fix-content">
                            El Tópico de Enfermería les da la más cordial bienvenida a todos los miembros de la Facultad de Ingeniería y Arquitectura de la Universidad San Martín de Porres y a todas aquellas personas que accedan a nuestra página web en busca de información.
                            </p>
                            
-                           <p class="text-fix-style">
+                           <p class="text-fix-content">
                            El Tópico de Enfermería, brinda atención primaria de salud eficiente y oportuna al alumno, docente y personal administrativo en general, contribuyendo al bienestar físico, mental y social de nuestra comunidad universitaria.
                            </p>
-                           <br>
-                           <h5 class="titulo-generico">
-                                  VISIÓN
+                          
+                           <h5 class="subtitle-general-fix">
+                                  Visión
                            </h5>
-                           <p class="text-fix-style">
+                           <p class="text-fix-content">
                            El Tópico de enfermería es un consultorio de asistencia inmediata de atención de la salud, como un equipo que acciona sus servicios de calidad al alumno, docente y personal administrativo en general, desarrollando los objetivos de un buen estado de salud de la comunidad universitaria, con responsabilidad para una buena marcha académica.
                            </p>
-                           <br>
+                         
 
-                           <h5 class="titulo-generico">
-                                  MISIÓN
+                           <h5 class="subtitle-general-fix">
+                                  Misión
                            </h5>
-                           <p class="text-fix-style">
+                           <p class="text-fix-content">
                            El Tópico de enfermería, tiene la misión principal de brindarle al alumno, docente y personal administrativo en general, una atención primaria de salud, de calidad y orientación oportuna sin fines de lucro, logrando el bienestar de salud de la comunidad universitaria.
                            </p>
                             
@@ -125,11 +125,11 @@
                   
                             
                     <div class="container">
-                    <h5 class="titulo-generico">
+                    <h5 class="subtitle-general-fix">
                                    OBJETIVOS
                                 </h5>
-                                    <br><br>
-                                <p class="text-fix-style">
+                                    
+                                <p class="text-fix-content">
                                 Brindar atención primaria de salud de calidad con eficacia y eficiencia a los pacientes que pudiesen presentar cuadros que en forma súbita comprometen su integridad física y/o su vida.
 
 
@@ -145,17 +145,17 @@
 
 				   <div class="tab-pane fade show " id="nav-act" role="tabpanel" aria-labelledby="nav-act-tab">
 
-                   <h5 class="titulo-generico">
+                   <h5 class="subtitle-general-fix">
                                   ACTIVIDADES QUE DESARROLLA
                                 </h5>
-                                <br>
-                        <div class="listaperfil2">
+                                
+                        <ul class="fix-items-li">
                             <li>Brinda primeros auxilios.</li>
                             <li>De ser el caso refiere al paciente que presenta signos de emergencia que compromete su integridad física y/o su vida, al centro de salud más cercano a la universidad, con el apoyo de Bienestar Universitario.</li>
                             <li>Administra medicamentos según receta médica.</li>
                             <li>Seguimiento de pacientes que así lo requieran.</li>
                             <li>Acciones de prevención y promoción de la salud.</li>
-                        </div> 
+                        </ul> 
                   </div>
                  <!-- FIN Contendio Tab servicio social -->
 
@@ -163,11 +163,11 @@
                  <!-- Contendio Tab servicio orientacion psicologica -->
 
 				   <div class="tab-pane fade show " id="nav-ben" role="tabpanel" aria-labelledby="nav-ben-tab">
-                   <h5 class="titulo-generico">
+                   <h5 class="subtitle-general-fix">
                                   BENEFICIOS DEL USUARIO
                                 </h5>
-                                <br>
-                            <div class="listaperfil2">
+                                
+                            <ul class="fix-items-li">
                                 <li>Atención de emergencias y urgencias de salud.</li>
                                 <li>Atención y consulta gratuita.</li>
                                 <li>Consejería</li>
@@ -175,7 +175,7 @@
                                 <li>Aplicación de inyectables con receta médica.</li>
                                 <li>Curaciones (en caso de accidentes).</li>
                                 <li>Toma de Funciones Vitales (Presión Arterial, Temperatura, Respiración, Pulso).</li>
-                            </div>
+                            </ul>
                   </div>
                  <!-- FIN Contendio Tab servicio orientacion psicologica -->
 
@@ -183,10 +183,10 @@
                  <!-- Contendio Tab BECAS -->
 
 				   <div class="tab-pane fade show " id="nav-hora" role="tabpanel" aria-labelledby="nav-hora-tab">
-                   <h5 class="titulo-generico">
+                   <h5 class="subtitle-general-fix">
                                   HORARIO DE ATENCIÓN
                                 </h5>
-                                <p class="text-fix-style ">
+                                <p class="text-fix-content ">
                                 Lunes a Viernes <br>
                                 08.00 a.m. – 10.00 p.m. <br>
                                 Sábados <br>
@@ -211,9 +211,7 @@
 
    
         <br>
-    <center>
-    <hr style="width:96%;">
-    </center>
+   
 
     
 

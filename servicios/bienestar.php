@@ -51,11 +51,11 @@
     <!-- ##### banner ##### -->
 
     <!-- ##### contenido ##### -->
-    <section class="about-us-area mt-50 section-padding-100">
+    <section class="about-us-area mt-15 section-padding-100">
     <div class="container">
       <div class="row">
           <div class="col-md-12">
-                <h5  class="titulo-principal">
+                <h5  class="title-general-fix">
                         BIENESTAR UNIVERSITARIO
                 </h5>
             </div>
@@ -85,15 +85,15 @@
                         <div class="container">
 
                             
-                           <p class="text-fix-style">
+                           <p class="text-fix-content">
                            La Oficina de Bienestar Universitario de la Facultad de Ingeniería y Arquitectura, es la encargada de orientar, asistir y promover al estudiante que se encuentra en situación de riesgo, contribuyendo a superarlos con la participación de un equipo multidisciplinario, a través de una adecuada atención integral, humanizando el proceso de enseñanza y aprendizaje, contribuyendo, de esta manera, al mejoramiento de la calidad de vida de los miembros de nuestra Comunidad Universitaria.
                            </p>
 
                            <br>
 
-                           <h2 class="titulo-generico">MISIÓN</h2>
+                           <h2 class="subtitle-general-fix">MISIÓN</h2>
                            
-                           <p class="text-fix-style">
+                           <p class="text-fix-content">
                            Contribuir a una óptima formación integral del estudiante, propiciando las condiciones adecuadas para un eficiente desarrollo físico, psicoafectivo y social, fomentando principios y valores de nuestra Comunidad Universitaria, para el logro de una buena Cultura Institucional.
                            </p>
                             
@@ -112,11 +112,11 @@
                   
                             
                     <div class="container">
-                    <h5 class="titulo-generico">
+                    <h5 class="subtitle-general-fix">
                                    SERVICIO SOCIAL
                                 </h5>
 
-                                <p class="text-fix-style">
+                                <p class="text-fix-content">
                                 Es la unidad encargada de evaluar los casos sociales y/o situaciones de riesgo de la población universitaria, así como brindar la orientación e información respectiva de los trámites a seguir para la obtención de beneficios que otorga la Facultad, además de organizar y promover actividades de bienestar social para los estudiantes, personal docente y administrativo de nuestra Comunidad Universitaria.
                                 </p>
                                
@@ -160,18 +160,18 @@
                   
                             
                   <div class="container">
-                  <h5 class="titulo-generico">
+                  <h5 class="subtitle-general-fix">
                                  ACTUALIZACIÓN DE DATOS PERSONALES
                               </h5>
-                                <br><br>
-                              <p class="text-fix-style">
+                                
+                              <p class="text-fix-content">
                               La Facultad de Ingeniería y Arquitectura, pensando siempre en mantener una excelente relación Universidad-alumno, considera necesaria la constante actualización de la base de datos personales de sus estudiantes, por lo que se les recuerda lo siguiente:
                               </p>
                              
-                              <div class="listaperfil2">
+                              <ul class="fix-items-li">
                                   <li>Aquellos alumnos regulares que, por diversas razones, no brindaron oportunamente sus datos personales o se haya producido un cambio en la información proporcionada inicialmente, están obligados a actualizar sus datos ante la Oficina de Bienestar Universitario.</li>
                                   <li>Los alumnos ingresantes y aquellos que realicen su Reactualización de Matrícula, deberán presentar su Ficha de Datos Personales debidamente llenada al momento de matricularse.</li>
-                              </div>
+                            </ul>
                       
                   </div>        
                   </div>
@@ -188,9 +188,7 @@
 
    
         <br>
-    <center>
-    <hr style="width:96%;">
-    </center>
+    
 
     
 

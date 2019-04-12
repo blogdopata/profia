@@ -51,11 +51,11 @@
     <!-- ##### banner ##### -->
 
     <!-- ##### contenido ##### -->
-    <section class="about-us-area mt-50 section-padding-100">
+    <section class="about-us-area mt-15 section-padding-100">
     <div class="container">
       <div class="row">
           <div class="col-md-12">
-                <h5  class="titulo-principal">
+                <h5  class="title-general-fix">
                         ACTIVIDADES CULTURALES
                 </h5>
             </div>
@@ -82,18 +82,18 @@
                         <div class="container">
                         
                             
-                           <p class="text-fix-style">La Facultad de Ingeniería y Arquitectura cuenta actualmente con 2 talleres dirigidos a los estudiantes universitarios en General:
+                           <p class="text-fix-content">La Facultad de Ingeniería y Arquitectura cuenta actualmente con 2 talleres dirigidos a los estudiantes universitarios en General:
                            </p>
 
-                           <h5 class="titulo-generico">TALLER DE DANZA</h5>
+                           <h5 class="subtitle-general-fix">TALLER DE DANZA</h5>
                            
                            <p class="text-fix-style">
                            El taller de Danza nace con la finalidad de practicar en todo su esplendor las Danzas que tenemos a nivel nacional, fomentando así el espíritu cultural en todos los estudiantes universitarios.
                            </p>
                             <br>
-                           <h5 class="titulo-generico">TALLER DE PROGRAMACIÓN</h5>
+                           <h5 class="subtitle-general-fix">TALLER DE PROGRAMACIÓN</h5>
                            
-                           <p class="text-fix-style">
+                           <p class="text-fix-content">
                            El taller es un organismo que nace en concordancia con las nuevas directivas del Decano de la Facultad de elevar el nivel de preparación de los alumnos. Está conformado por alumnos de la Facultad que se incorporan a él en forma voluntaria con la intención de formar grupos de trabajo e investigación en todas las áreas de desarrollo de software y uno o más profesores asesores que serán el profesional orientador, conjuntamente con la Oficina de Proyección Social. El Taller es un organismo de acceso libre, donde el horario de ingreso o de salida, no existe.
                            </p>
                             
@@ -113,14 +113,14 @@
                     <!-- Contendio Tab Perfil Graduados -->
 
 				   <div class="tab-pane fade show " id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
-                   <h5 class="titulo-generico">
+                   <h5 class="subtitle-general-fix">
                                    OBJETIVOS
                                 </h5>
                             
                     <div class="container">
                         <div class="row">
 
-                                <p class="text-fix-style">
+                                <p class="text-fix-content">
                                 El objetivo del taller es promover el espíritu de investigación de los alumnos de la Facultad, formando inicialmente cuadros con conocimientos avanzados en lenguajes de programación tales como en lenguajes orientados a objetos y visuales, y en un futuro la explotación de las diversas tecnologías de información, multimedia, red de redes, Internet, la utilización de lenguajes de cuarta generación, la investigación y aplicación de herramientas Case-Icase para el desarrollo de Sistemas de Información y todo aquello que implique el uso de lo último en Tecnologías de Información. La formación de cuadros capaces, redundará en beneficio tanto de las personas interesadas que verán así incrementar sus potencialidades profesionales de manera exponencial, así como también para la Facultad, ya que la Institución estará enviando al mercado elementos con una muy alta calificación, lo que redundará en prestigio para la institución y esto irá incrementando más y más el privilegio de la Facultad y por tanto de todos sus egresados.
                                 </p>
                         </div>
@@ -143,10 +143,7 @@
 
    
         <br>
-    <center>
-    <hr style="width:96%;">
-    </center>
-
+  
     
 
      <footer class="footer-area">

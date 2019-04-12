@@ -45,7 +45,7 @@
     <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5  style="color:#585857; font-size:32px;">
+                <h5 class="title-general-fix"  style="color:#585857; font-size:32px;">
                        OFICINA DE GRADOS Y TÍTULOS 
                 </h5>
             </div>
@@ -129,10 +129,10 @@
             </a>
             <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/Formato_Inscripcion_Practicas_Pre-profesionales.pdf"
                 target="_blank">
-                <i class="fa fa-check"></i>Formato de Inscripción de Prácticas Preprofesionales
+                <i class="fa fa-check"></i> Formato de Inscripción de Prácticas Preprofesionales
             </a>
             <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/GUIA_ESQUEMA_PPP.zip">
-                <i class="fa fa-check"></i>Estructura Informe P.P.
+                <i class="fa fa-check"></i> Estructura Informe P.P.
             </a>
             <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/F_EVAL_DESEMPENO PRACTICA PRE 2012.zip">
               <i class="fa fa-check"></i> Informe J.I.  para practicantes
@@ -180,10 +180,10 @@
             </a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2sSCaGXtOXq-6xP2BVPmxsw7k2d3v70C84EpPl5oFOESoSA/viewform"
                 target="_blank">
-                <i class="fa fa-check"></i>Formulario
+                <i class="fa fa-check"></i> Formulario
             </a>
             <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/modelo_cv_fia.pdf">
-                <i class="fa fa-check"></i>Modelo de Currículum Vitae
+                <i class="fa fa-check"></i> Modelo de Currículum Vitae
             </a>
             </div>
         

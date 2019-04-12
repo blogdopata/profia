@@ -19,11 +19,14 @@
     }
 </style>
 
+<div class="container">
+<h4 class="title-general-fix">ESTADÍSTICAS</h4>
+</div>
 
 <div class="container">
-<h4 class="titulo-principal">ESTADÍSTICAS</h4>
+
     <br>
-    <h5 class="titulo-generico" style="text-align:center;">Cantidad de ingresantes por año</h5>
+    <h5 class="subtitle-general-fix" style="text-align:center;">Cantidad de ingresantes por año</h5>
     <div class="table-responsive" style="background-color: white;">
 					  <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 					 	
@@ -64,7 +67,7 @@
 
 
 
-                <h5 class="titulo-generico" style="text-align:center;">Cantidad de egresados por año</h5>
+                <h5 class="subtitle-general-fix" style="text-align:center;">Cantidad de egresados por año</h5>
     <div class="table-responsive" style="background-color: white;">
 					  <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
                                  <tr>
@@ -109,7 +112,7 @@
 
 
 
-                <h5 class="titulo-generico" style="text-align:center;">Alumnos matriculados por año</h5>
+                <h5 class="subtitle-general-fix" style="text-align:center;">Alumnos matriculados por año</h5>
     <div class="table-responsive" style="background-color: white;">
 					  <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
                                  <tr>

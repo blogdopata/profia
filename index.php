@@ -64,7 +64,7 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content"   >
-                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms"  class="ml-5" >FIA USMP</h4>
+                                <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms"  class="ml-5" >FIA USMP</h4> -->
                                 <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">AMA LO QUE HACES, <br>APRENDE CÓMO.</h2>
                                 <a href="http://admision.usmp.edu.pe/" class="ml-5 btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
                             </div>
@@ -75,7 +75,7 @@
 
 
             <!-- Imagen del slider de fondo n°3 -->
-            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-3.jpg);">
+            <!-- <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-3.jpg);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
@@ -86,7 +86,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
            
         </div>

@@ -73,7 +73,7 @@
 
                         <a class="nav-link " id="nav-faq-tab" data-toggle="pill" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
 
-                        <a class="nav-link " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
+                        <a class="nav-link " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
 
                         <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
@@ -128,11 +128,11 @@
                     <div class="container ">
                                 
                                 
-                                <div class="listaperfil2 ">
+                                <div>
+                                <p class="subtitle-general-fix" >Perfil Profesional </p>
+                                <p class="text-fix-content">El Licenciado en Ciencias Aeronáuticas utilizará el conocimiento y habilidades obtenidos en el programa, para:</p>
 
-                                <p class="text-fix-style">El Licenciado en Ciencias Aeronáuticas utilizará el conocimiento y habilidades obtenidos en el programa, para:</p>
-
-                               
+                               <ul class="fix-items-li">
                                 <li>Gestionar de manera eficiente las diferentes operaciones de negocios aeronáuticos.</li>
                                 <li>Gestionar empresas de transporte aéreo.</li>
                                 <li>Gestionar las operaciones en aeropuertos.</li>
@@ -141,14 +141,16 @@
                                 <li>Comprender la responsabilidad profesional y temas éticos, legales, de seguridad y sociales.</li>
                                 <li>Aplicar el uso de herramientas y tecnología moderna necesaria en la operación de las actividades de un profesional de la aviación.</li>
                                 <li>Formar parte de la reserva de la aviación militar del Perú.</li>
+
+                                </ul>
                                 
                                 <br>
 
-                                <b id="grisfia" class="text-fix-style">Grados y Títulos que se otorgan :</b> <br><br>
-
+                                <b class="subtitle-general-fix" class="text-fix-content">Grados y Títulos que se otorgan :</b> <br><br>
+                                <ul class="fix-items-li">
                                 <li>Grados : Bachiller en Ciencias Aeronáuticas.</li>
                                 <li>Título : Licenciado en Ciencias Aeronáuticas.</li>
-                                    
+                                </ul> 
                                 </div>
                             
                         </div>
@@ -166,17 +168,18 @@
                        <div class="container ">
                                    
                                    
-                                   <div class="listaperfil2 ">
+                                   <div >
+                                   <p class="subtitle-general-fix" >Campo Ocupacional </p>
+                                   <p class="text-fix-content">El profesional en Ciencias Aeronáuticas, podrá desempeñarse en los campos ocupacionales siguientes:</p>
    
-                                   <p class="text-fix-style">El profesional en Ciencias Aeronáuticas, podrá desempeñarse en los campos ocupacionales siguientes:</p>
-   
-                                  
+                                  <ul class="fix-items-li">
                                    <li>Gerencia de empresas de transporte aéreo.</li>
                                    <li>Gerencia de aeropuertos.</li>
                                    <li>Gestionar cualquier área funcional o gerencia general de empresas comerciales.</li>
                                    <li>Piloto al mando de aerolíneas de transporte de pasajeros y de carga.</li>
                                    <li>Gerencia de operaciones.</li>
                                    <li>Docencia.</li>
+                                   </ul>
                                   
                                   
                                        
@@ -438,9 +441,7 @@
     </div>-->
     <!-- ##### Partner Area End ##### -->
     <br>
-    <center>
-    <hr style="width:96%;">
-    </center>
+ 
 
      <footer class="footer-area">
        

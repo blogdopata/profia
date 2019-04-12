@@ -103,14 +103,14 @@
                 <div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
 				        	  <div class="tab-pane fade show active" id="nav-escuela" role="tabpanel" aria-labelledby="nav-escuela-tab">
-					            	<h2 class="titulo-generico">BIENVENIDOS</h2>
-                        <p class="text-fix-style">
+					            	<h2 class="subtitle-general-fix">BIENVENIDOS</h2>
+                        <p class="text-fix-content">
                             La Escuela Profesional de Ingeniería Industrial (EPII) es la Unidad Académica encargada de la formación profesional de nuesvos ingenieros industriales con las competencias requeridas para su éxito laboral y bajo los valores y principios de nuestra universidad. Está comprometida con el desarrollo nacional a través de la creación de nuevos conocimientos, aplicaciones, innovación y la transmisión de estos para beneficio de la sociedad. 
                         </p>
                       
                       
-                        <h2 class="titulo-generico">CAMPOS DE ACCIÓN</h2>
-                        <p class="text-fix-style">
+                        <h2 class="subtitle-general-fix">CAMPOS DE ACCIÓN</h2>
+                        <p class="text-fix-content">
                         El Ingeniero Industrial puede incorporarse sin problemas a instituciones públicas como privadas abarcando áreas tan amplias como la administración y la gestión, la investigación de operaciones, la ergonomía, el control y la ingeniería de la calidad, la optimización de procesos y sistemas, la formulación y el desarrollo de proyectos entre otras. Esta versatilidad y visión holística de los procesos lo hacen muy útil en empresas grandes y pequeñas. <br><br>
 
                         El programa de Ingeniería Industrial de la USMP está acreditado por:
@@ -119,30 +119,30 @@
                        <br>
 
                       <div class="row">
-                      <div class="col-md-4 text-fix-style">
+                      <div class="col-md-4 text-content">
                           <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/ABET.png" alt="">
+                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ICACIT.jpg" alt="">
                           </div>
                       </div>
-                      <div class="col-md-4 text-fix-style">
+                      <div class="col-md-4 text-content">
                           <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/ABET.png" alt="">
+                          <img class="img-fluid"  src="../../img/acreditaciones/logos/EUR-ACE.jpg" alt="">
                           </div>
                       </div>
-                      <div class="col-md-4 text-fix-style">
+                      <div class="col-md-4 text-content">
                           <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/ABET.png" alt="">
+                          <img class="img-fluid"  src="../../img/acreditaciones/logos/SINEACE.jpg" alt="">
                           </div>
                       </div>
                       <div class="col-md-12" style="height:20px;"></div>
-                      <div class="col-md-6 text-fix-style">
+                      <div class="col-md-6 text-fix-content">
                           <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/ABET.png" alt="">
+                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ABET.jpg" alt="">
                           </div>
                       </div>
-                      <div class="col-md-6 text-fix-style">
+                      <div class="col-md-6 text-fix-content">
                           <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/ABET.png" alt="">
+                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ASIIN.jpg" alt="">
                           </div>
                       </div>
                      
@@ -174,28 +174,31 @@
                     <!-- Contendio Tab Perfil Graduados -->
 
 				               <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                        <h2 class="titulo-generico">PERFIL DEL GRADUADO DE LA CARRERA DE INGENIERÍA INDUSTRIAL</h2> <br>
-                        <p class="text-fix-style">La Ingeniería Industrial estudia la utilización racional de los recursos humanos, técnicos, materiales y de información y el manejo óptimo de los sistemas de transformación de bienes y servicios, con la finalidad de obtener productos o servicios útiles  a la sociedad y con respeto al medio ambiente.<br>
+                        <h2 class="subtitle-general-fix">PERFIL DEL GRADUADO DE LA CARRERA DE INGENIERÍA INDUSTRIAL</h2> <br>
+                        <p class="text-fix-content">La Ingeniería Industrial estudia la utilización racional de los recursos humanos, técnicos, materiales y de información y el manejo óptimo de los sistemas de transformación de bienes y servicios, con la finalidad de obtener productos o servicios útiles  a la sociedad y con respeto al medio ambiente.<br>
                         La formación del Ingeniero Industrial en la FIA – USMP, se basa en el desarrollo de las competencias ya mencionadas y que lo preparan para afrontar con éxito cualquier reto en cualquier ámbito.<br>
                         Se les da también Una formación socio-humanística que le permita una actitud crítica que contribuya a su ubicación en la sociedad, de manera que su desarrollo profesional sea ejercido con plena conciencia y responsabilidad.<br>
                         Al finalizar sus estudios  está capacitado para estudiar el sistema, entender el problema o la oportunidad y proponer y realizar soluciones innovadoras y adecuadas a los requerimientos de los interesados, aplicando los conocimientos científicos, teóricos y humanísticos aprendidos.</p>
                             <br><br>
 
-                        <h2 class="titulo-generico ">DECLARACIÓN DE LOS OBJETIVOS EDUCACIONALES</h2> <br>
-                        <div class="listaperfil3 mt-2 mb-2">
+                        <h2 class="subtitle-general-fix">DECLARACIÓN DE LOS OBJETIVOS EDUCACIONALES</h2> <br>
+                        <div class="mt-2 mb-2">
+                        <ul class="fix-items-li text-fix-content">
                           <li>Diseñan, desarrollan, implementan y/o mejoran sistemas integrados de producción o servicios con capacidad innovadora, analítica y emprendedora.</li>
                           <li>Utilizan de manera racional y óptima recursos disponibles con la finalidad de obtener productos y servicios que demanda la sociedad.</li>
                           <li>Practican un ejercicio profesional ético incidiendo en la seguridad, responsabilidad social y protección del medio ambiente..</li>
                           <li>Dirigen y/o participan en la gestión de los sistemas de producción o servicios dentro de las tendencias post-industriales.</li>
                           <li>Participan activamente en equipos de trabajo multidisciplinarios haciendo uso de una comunicación efectiva.</li>
                           <li>Adquieren nuevas habilidades y conocimientos para mejorar su desarrollo profesional y personal a lo largo de su vida.</li>
+                          </ul>
                         </div>
 
                         <br><br>
                     
-                          <b class="titulo-generico">Competencias que adquiere el estudiante al egresar de la carrera (Outcomes)</b>
+                          <b class="subtitle-general-fix">Competencias que adquiere el estudiante al egresar de la carrera (Outcomes)</b>
 
-                          <div class="listaperfil3 mt-2 mb-2">
+                          <div class="mt-4 mb-2">
+                          <ul class="fix-items-li text-fix-content">
                           <li> Habilidad para aplicar conocimientos de matemáticas, ciencia e ingeniería.</li>
                           <li> Habilidad para diseñar y conducir experimentos, así como analizar e interpretar los datos obtenidos.</li>
                           <li> Habilidad para diseñar sistemas, componentes o procesos que proporcionen las necesidades requeridas con restricciones realistas tales como son las económicas, ambientales, sociales, políticas, éticas, salud y seguridad, facilidad de fabricación y sostenibilidad.</li>
@@ -207,6 +210,8 @@
                           <li> Reconocer la necesidad y tener la habilidad de seguir aprendiendo y capacitándose a lo largo de su vida.</li>
                           <li> Conocimiento de los principales temas contemporáneos.</li>
                           <li> Utilizar las técnicas, destrezas y herramientas modernas necesarias para la práctica de la ingeniería.</li>
+                          </ul>
+
                         </div>
 
                       </div>
@@ -267,7 +272,7 @@
                    <div class="tab-pane fade" id="nav-plan" role="tabpanel" aria-labelledby="nav-plan-tab">
                         <div class="container">
                             
-                            <h2 class="titulo-generico">PLAN DE ESTUDIOS</h2></br> 
+                            <h2 class="subtitle-general-fix">PLAN DE ESTUDIOS</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://usmp.edu.pe/proFIA/pdf/planestudio/industrial.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
@@ -287,7 +292,7 @@
 
                    <div class="tab-pane fade" id="nav-acred" role="tabpanel" aria-labelledby="nav-acred-tab">
                    <div class="container">
-                   <h2 class="titulo-generico">ACREDITACIÓN</h2>
+                   <h2 class="subtitle-general-fix">ACREDITACIÓN</h2>
                    </div>
                         <div class="container centrarimg">
                         
@@ -307,7 +312,7 @@
 
                    <div class="tab-pane fade" id="nav-act" role="tabpanel" aria-labelledby="nav-act-tab">
                    <div class="container">
-                   <h2 class="titulo-generico">ACTIVIDADES EPII</h2>
+                   <h2 class="subtitle-general-fix">ACTIVIDADES EPII</h2>
                    </div>
                         <div class="container centrarimg">
                             <img class="img-fluid" src="../../img/encontruccion.jpg" alt="">

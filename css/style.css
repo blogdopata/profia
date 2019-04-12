@@ -1765,6 +1765,10 @@ padding: 7px;
         font-size: 22px;
     }
 
+    ul.list-fix li{
+        list-style-type: disc !important;
+        color:#585857;
+    }
     .text-fix-list{
       margin-left:14px;
     }
@@ -1856,6 +1860,7 @@ padding: 7px;
     overflow-y: initial !important
     }
     .modal-body{
+    color:#585857;
     height: 550px;
     overflow-y: auto;
     }
@@ -1867,7 +1872,7 @@ padding: 7px;
     color:#017090;
     }
     .popupheader{
-        background-color:black;
+        background-color:#E0134E;
         text-align:center;
     }
     .fade{
@@ -1892,7 +1897,7 @@ padding: 7px;
       background-size:contain;
       background-repeat:no-repeat;
       background-position: right center;
-      color:black;
+      color:#585857;
       font-weight:500;
       font-size:14px;
     }
@@ -2047,7 +2052,7 @@ padding: 7px;
     padding-left: 10px;
     padding-right: 10px;
     color: #990033;
-    border-bottom: 3px solid rgba(176, 183, 187, 0.7);
+    border-bottom: 1px solid rgba(176, 183, 187, 0.7);
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
@@ -2057,7 +2062,7 @@ padding: 7px;
     display: block;
     padding: 10px 16px;
     text-decoration: none;
-    color: #262626;
+    color: #585857;
     border-left: 4px solid #bfbfbf;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;

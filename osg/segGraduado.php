@@ -45,7 +45,7 @@
     <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5  style="color:#585857; font-size:32px;">
+                <h5 class="title-general-fix"  style="color:#585857; font-size:32px;">
                        OFICINA DE SEGUIMIENTO AL GRADUADO
                 </h5>
             </div>
@@ -60,11 +60,11 @@
            
             <div class="row mt-3" >
                 <div class="col-12  wow fadeInUp" data-wow-delay="400ms"> 
-                    <h3 class="subtitles-content">Alcance</h3>
+                    <h3 class="subtitle-general-fix">Alcance</h3>
                     <p class="text-fix-content">
                         El presente Plan de Seguimiento al Graduado de la FIA, establece los lineamientos de gestión de los graduados para la facultad.
                     </p>
-                    <h3 class="subtitles-content">Antecedentes</h3>
+                    <h3 class="subtitle-general-fix">Antecedentes</h3>
                     <p class="text-fix-content">
                         El seguimiento a los graduados, es una de las actividades que muchas Facultades han venido desarrollando de manera aislada, y en algunos de los casos con experiencias que han resultado significativas. Sin embargo, al no existir coordinación entre las distintas facultades de nuestra universidad, estas experiencias exitosas en alguna de ellas no se han podido replicar en el resto de las facultades.
                     </p>
@@ -104,7 +104,7 @@
                      <b>TEMAS DE INTERÉS</b>
                      <br><br>
                      <center>
-                         <li> <a class="linkOSG" target="_blank" href="http://www.usmp.edu.pe/index.php?pag=novedades&sec=nov18_292">Sección de Posgrado </a>  </li>
+                         <li> <a class="linkOSG" target="_blank" href="http://www.usmp.edu.pe/posgradofia/">Sección de Posgrado </a>  </li>
                          <br>
                      </center>
                 </div>

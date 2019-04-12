@@ -1,10 +1,10 @@
-<h2 class="titulo-principal">EVENTOS</h2>
+<h2 class="title-general-fix">EVENTOS</h2>
 <br>
-<h5 class="titulo-generico">Entrega de Carga Académica 2019 - I </h5>
+<h5 class="subtitle-general-fix">Entrega de Carga Académica 2019 - I </h5>
 <br>
 
 <table>
-    <tr class="text-fix-style">
+    <tr class="text-fix-content">
         <td>
             <b>FECHA:</b>
         </td>
@@ -12,7 +12,7 @@
             jueves 21 de febrero de 2019 
         </td>
     </tr>
-    <tr class="text-fix-style">
+    <tr class="text-fix-content">
         <td>
             <b>HORA:</b>
         </td>
@@ -20,7 +20,7 @@
             19:00 horas 
         </td>
     </tr>
-    <tr class="text-fix-style">
+    <tr class="text-fix-content">
         <td>
             <b>LUGAR:</b>
         </td>

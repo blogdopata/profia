@@ -64,7 +64,7 @@
 
                         <a class="nav-item nav-link" id="nav-faq-tab" data-toggle="tab" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
 
-                        <a class="nav-link " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
+                        <a class="nav-link " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
 
                         <a class="nav-item nav-link" id="nav-campo-tab" data-toggle="tab" href="#nav-campo" role="tab" aria-controls="nav-campo" aria-selected="false">Campo Ocupacional</a>
 
@@ -124,19 +124,19 @@
     <!-- Contenido tab CAMPO OCUPACIONAL --> 
     <div class="tab-pane fade" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
         <div class="container">
-            <h2 class="titulo-generico">
+            <h2 class="subtitle-general-fix">
                 Campo Ocupacional
             </h2>
-            <p class="text-fix-style">
+            <p class="text-fix-content">
             El campo laboral del ingeniero civil es muy amplio debido a que esta profesión se preocupa por el bienestar general de las personas: construye responsablemente, soluciona problemas sociales y de infraestructura, integrando pueblos alejados. Una recopilación muy sucinta establece que el ámbito ocupacional del ingeniero civil es el siguiente:
             </p>
-            <div class="listaperfil">
+            <ul class="fix-items-li mt-2">
             <li>En el área de la construcción: viviendas, edificios multifamiliares, complejos habitacionales, hospitales, colegios, centros comerciales, locales industriales, centros turísticos y recreacionales, obras de saneamiento, electrificación y de habilitación urbana.</li>
             <li>En el área de transportes y obras viales: carreteras, puentes, túneles, puertos, aeropuertos, levantamientos topográficos y catastrales; estudios geológicos y de suelos.</li>
             <li>En el área de estructuras: diseño estructural de las edificaciones en general, edificios, puentes, presas, reservorios, irrigaciones, obras de saneamiento, etc.</li>
             <li>Hidráulica.</li>
             <li>Gestión y Asesoría.</li>
-            </div>
+</ul>
         </div>
     </div>
     <!-- FIN Contenido tab CAMPO OCUPACIONAL --> 
@@ -247,27 +247,27 @@
         <div class="container">
 
 
-            <h2 class="titulo-generico">
+            <h2 class="subtitle-general-fix">
                 Información Académica
             </h2>
 
-           <p class="text-fix-style">
+           <p class="text-fix-content">
            La carrera de Ingeniería Civil en la USMP te permite ser un profesional responsable del planeamiento, diseño y construcción de todas las obras civiles que el país necesita, de manera sostenida y sustentable. Un País que progresa, es una sociedad que busca el bienestar de sus ciudadanos y tiene la necesidad de proyectar y construir viviendas, escuelas, edificios, hospitales, carreteras, puentes, aeropuertos, puertos, centrales hidroeléctricas, sistemas de irri­gación, etc. 
            </p>
            <br>
 
-           <div class="listaperfil2">
+           <ul class="fix-items-li">
                <li>Grado : Bachiller en Ingeniería Civil </li>
                <li>Título : Ingeniero Civil. </li>
                <li>Duración: 10 semestres </li>
                <li>Tipo de enseñanza : Presencial </li>
                <li>Régimen de estudios: Semestral </li>
                <li>Idioma: Español </li>
-           </div>
+            </ul>
 
            <br>
 
-           <div class="container centrarimg" >
+           <div class="container centrarimg mt-5" >
            <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/I8pzTrHgzJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
@@ -344,9 +344,7 @@
       
    
     <br>
-    <center>
-    <hr style="width:96%;">
-    </center>                            
+                              
     
 
      <footer class="footer-area">

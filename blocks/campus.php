@@ -4,46 +4,70 @@
   
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+  <a href="#">
   <img class="img-responsive " data-toggle="modal" data-target="#myModal1" src="http://usmp.edu.pe/proFIA/img/campus/1.jpg">
+  </a>
 </div>
 
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal2" src="http://www.usmp.edu.pe/proFIA/img/campus/2.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal3" src="http://www.usmp.edu.pe/proFIA/img/campus/3.jpg">
+</a>  
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal4" src="http://www.usmp.edu.pe/proFIA/img/campus/4.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal5" src="http://www.usmp.edu.pe/proFIA/img/campus/5.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal6" src="http://www.usmp.edu.pe/proFIA/img/campus/6.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal7" src="http://www.usmp.edu.pe/proFIA/img/campus/7.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal8" src="http://www.usmp.edu.pe/proFIA/img/campus/8.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal9" src="http://www.usmp.edu.pe/proFIA/img/campus/9.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal10" src="http://www.usmp.edu.pe/proFIA/img/campus/10.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal11" src="http://www.usmp.edu.pe/proFIA/img/campus/11.jpg">
+</a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
+<a href="#">
   <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal12" src="http://www.usmp.edu.pe/proFIA/img/campus/12.jpg">
+</a>
 </div>
 
 <div class="col-md-12" style="height:20px;"></div>
 
-<p class="text-fix-style" id="grisfia">Observa de manera virtual nuestro campus</p>
+<p class="text-fix-content" id="grisfia">Observa de manera virtual nuestro campus</p>
 
 <div class="col-md-12" style="height:20px;"></div>
 

@@ -1,22 +1,22 @@
-<h2 class="titulo-generico">INVESTIGACIÓN</h2>
+<h2 class="subtitle-general-fix">INVESTIGACIÓN</h2>
 
-<p class="text-fix-style">
+<p class="text-fix-content">
 La Escuela Profesional de Ingeniería Industrial (EPII) consiente de las necesidades tecnológicas de las Pymes y Mypes en el Perú desarrolla proyectos de Investigación Aplicada desde el año de 1,998 con el objetivo de aportar con la mejora tecnológica que permita a las micro y pequeñas empresas a potenciarse y ser más competitivas en el mercado global, la EPII es una escuela profesional acreditada por ABET, ASIIN e ICACIT que le permite tener un programa académico de nivel mundial y sistematizar sus prácticas académicas interrelacionándolas con las necesidades del sector productivo manteniendo una relación adecuada con sus constituyentes (Estudiantes, Docentes y Empresarios).
 <br><br>
 Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se establecen las Condiciones Básicas de Calidad (CBC) que establecen a la Investigación Científica como uno de los componentes fundamentales de la educación universitaria. Las actividades de investigación de la EPII se encuentran alineadas con los estándares requeridos por estas entidades pero de acuerdo a los procesos mejora continua a los que es afecto el programa teniendo en cuenta el manual de Frascati de la OCDE, el Plan Nacional de CTI y Plan Nacional de CTI del CONCYTEC.
 </p>
 
     <table>
-        <tr class="text-fix-style" style="color:#606060;">
-            <td>Líneas de investigación EPII <br> <a href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
+        <tr class="text-fix-content" style="color:#606060;">
+            <td>Líneas de investigación EPII <br> <a style="font-size:16px;" href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
         </tr>
         <tr style="height:10px;"></tr>
-        <tr class="text-fix-style" style="color:#606060;">
-            <td>CIPRI <br> <a href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
+        <tr class="text-fix-content" style="color:#606060;">
+            <td>CIPRI <br> <a style="font-size:16px;" href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
         </tr>
         <tr style="height:10px;"></tr>
-        <tr class="text-fix-style" style="color:#606060;">
-            <td>CIDPA <br> <a href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
+        <tr class="text-fix-content" style="color:#606060;">
+            <td>CIDPA <br> <a style="font-size:16px;" href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
         </tr>
     </table>
 
@@ -63,7 +63,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
       </h5>
     </div>
 
-    <div id="collapse1" class="collapse text-fix-style" aria-labelledby="heading1" data-parent="#accordionC">
+    <div id="collapse1" class="collapse text-fix-content" aria-labelledby="heading1" data-parent="#accordionC">
       <div class="card-body" style="color:#575858;">
       El proyecto de diseño, y fabricación de Faja transportadora Automatizada, con una capacidad apta para simular procesos de transporte de materiales tan utilizados en las plantas Industriales, la cual se encuentra lista a ser proyectada a una escala industrial según los requerimientos actuales. <br><br>
       Permite observar todos los parámetros como: (coeficiente de rozamiento, velocidad, ángulo de inclinación, potencia de motor, material de la faja, ancho y largo de faja, entre otros), necesarios para simular un sistema de transportación de materiales específicos. <br><br>
@@ -88,7 +88,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
       </h5>
     </div>
 
-    <div id="collapse2" class="collapse text-fix-style" aria-labelledby="heading2" data-parent="#accordionC">
+    <div id="collapse2" class="collapse text-fix-content" aria-labelledby="heading2" data-parent="#accordionC">
       <div class="card-body" style="color:#575858;">
       El proyecto de elaboración de una deshidratadora de frutas y verduras fue diseñado y construido por alumnos de la Escuela de Ingeniería Industrial y la supervisión progresiva de docentes capacitados. <br><br>
       Alumnos y practicantes a la vez del taller de la escuela, preocupados por la pérdida que generaba la transportación de alimentos a grandes distancias, motivadas a la vez por la acogida de los productos deshidratados en el mercado nacional e internacional y no carecer de estos alimentos en tiempos de escasez, se desarrolló un prototipo de deshidratadora de frutas y hortalizas que tiene como uno de sus objetivos la preservación y conservación de los alimentos, la adaptación a nuestras tres regiones y la solución de generar divisas para nuestro país con la exportación de frutas secas de gran calidad conservando sus propiedades organolépticas, la automatización de la misma generara un control preciso de temperatura y humedad para cada tipo de frutas y Hortalizas, el sistema no requerirá de una persona capacitada en su manejo. <br><br>
@@ -111,7 +111,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
       </h5>
     </div>
 
-    <div id="collapse3" class="collapse text-fix-style" aria-labelledby="heading3" data-parent="#accordionC">
+    <div id="collapse3" class="collapse text-fix-content" aria-labelledby="heading3" data-parent="#accordionC">
       <div class="card-body" style="color:#575858;">
       El proyecto fue orientado al diseño y fabricación de un prototipo de Molino, involucrado dentro de los sistemas de reducción de tamaño de productos sólidos deshidratados, semillas, granos, productos no metálicos, etc. <br><br>
       Tan importante en los procesos utilizados en la industria alimentaría e industria en general; constituyéndose como un proceso que complemente un diseño sincronizado con máquinas y equipos de un proceso integrado de producción.
@@ -162,7 +162,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
       </h5>
     </div>
 
-    <div id="collapse5" class="collapse text-fix-style" aria-labelledby="heading5" data-parent="#accordionC">
+    <div id="collapse5" class="collapse text-fix-content" aria-labelledby="heading5" data-parent="#accordionC">
       <div class="card-body" style="color:#575858;">
       El desarrollo de la actividad productiva de pisco se viene fortaleciendo en el marco de campañas de promoción en el mercado externo e interno, promovido mayormente por empresarios agroindustriales (de productores y de plantas de procesamiento), lo que se ha manifestado por un incremento bastante significativo en nuestras exportaciones en el periodo 2003-2004. <br><br> Es conveniente remarcar que el posicionamiento de nuestro producto de bandera será posible en tanto se logre fortalecer la "cadena productiva del pisco" y desarrollar tecnologías nacionales de avanzada de manera de lograr su rentabilidad y sostenibilidad, que estará determinada por la satisfacción de las expectativas de los agentes responsables: productores, centros de procesamiento y del mercado.
         <br><br> Justamente la destilación que es una parte importante del proceso presenta deficiencias que afectan la calidad del producto final de muchas empresas, asimismo también afectan la falta de estandarización del pisco peruano respecto a la presencia de componentes aromáticos y volátiles en concentraciones definidas y de su grado alcohólico. <br><br>
@@ -187,7 +187,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
       </h5>
     </div>
 
-    <div id="collapse6" class="collapse text-fix-style" aria-labelledby="heading6" data-parent="#accordionC">
+    <div id="collapse6" class="collapse text-fix-content" aria-labelledby="heading6" data-parent="#accordionC">
       <div class="card-body" style="color:#575858;">
       El Proyecto construcción e implementación del Prototipo de Quemador Automatizado fue desarrollado con alumnos y profesores del área de investigación con el objetivo de controlar de manera automática el proceso de calentamiento del Mosto en la destilación del Pisco. <br><br> Para lo que se diseñó un sistema basado en microcontrolador capaz de controlar la transmisión térmica del fuego hacia la paila, por medio de una servo-válvula para regular el gas y sensores de temperatura para el monitoreo de las temperaturas. Además el sistema permite el encendido y apagado automático, así como el registro y monitoreo de los datos a través de interfases hombre-máquina. <br><br>
       Con el prototipo se obtiene un proceso mas eficiente en el tema de la eficiencia energética, lográndose ahorro sustancial de energía frente a un sistema manual y además el sistema permite llegar a buenas prácticas de conservación del medio ambiente y buenas prácticas con respecto a la destilación del Pisco con respecto al calentamiento de la Paila.
@@ -214,7 +214,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
       </h5>
     </div>
 
-    <div id="collapse7" class="collapse text-fix-style" aria-labelledby="heading7" data-parent="#accordionC">
+    <div id="collapse7" class="collapse text-fix-content" aria-labelledby="heading7" data-parent="#accordionC">
       <div class="card-body" style="color:#575858;">
       Los procesos biotecnológicos se basan en el metabolismo de microorganismos como levaduras y bacterias que en este proceso vital consumen los componentes del sustrato base (jugos de frutas, cereales etc.) y producen las sustancias de interés económico. <br><br> Entre las principales industrias que utilizas estos procesos tenemos: la producción de alcohol y bebidas alcohólicas, la elaboración de levaduras para fermentación y panificación, la industria láctea, las fermentaciones cárnicas, la elaboración de antibióticos y probióticos, los procesos de biorremedación de aguas y sólidos, etc. <br><br>
       Una encuesta realizada en el medio, muestra que prácticamente no existen biorreactores en la industrias que permitan el monitoreo de las variables y mucho menos el control automatizado, lo que no permite la optimización y replicabilidad del proceso en cuanto a calidad de los productos y su eficiencia económico. <br><br> Este problema tecnológico arriba señalado, ha sido abordado en forma integral por un grupo de investigadores y profesionales del más alto nivel en este tema y se ha construido a escala piloto, un biorreactor con medidores en línea (temperatura, pH, grados Brix, presión parcial de oxígeno, etc.) y automatizado en sus variables más importantes. 
