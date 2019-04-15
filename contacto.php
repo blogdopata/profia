@@ -45,7 +45,7 @@
     <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5  style="color:#585857; font-size:32px;">
+                <h5 class="title-general-fix">
                      CONTACTO
                 </h5>
             </div>
@@ -67,7 +67,7 @@
                                     <div class="section-heading text-left">
                                  
                                  
-                                        <p class="mt-30">
+                                        <p class="mt-30 text-fix-content">
                                             Estamos para ayudarte , envía tus consultas a los medios de abajo o SÍGUENOS en nuestras
                                             redes sociales y mantente informado 
                                             con las últimas noticias y eventos de la facultad.
@@ -90,7 +90,7 @@
                                         <div class="contact-icon mr-15">
                                             <i style="font-size:24px;font-weight:bold;" class="icon-placeholder"></i>
                                         </div>
-                                        <p>Av. La Fontana 1250 Urb. Sta. Patricia 2da Etapa  <br> La Molina</p>
+                                        <p class="text-fix-content">Av. La Fontana 1250 Urb. Sta. Patricia 2da Etapa  <br> La Molina</p>
                                     </div>
 
                                     <!-- Single Contact Info -->
@@ -98,7 +98,7 @@
                                         <div class="contact-icon mr-15">
                                             <i style="font-size:24px" class="icon-telephone-1"></i>
                                         </div>
-                                        <p>Fia:(511) 2086000 <br> Oficina de administración: (511) 2086000</p>
+                                        <p class="text-fix-content">Fia:(511) 2086000 <br> Oficina de administración: (511) 2086000</p>
                                     </div>
 
                                     <!-- Single Contact Info -->
@@ -106,7 +106,7 @@
                                         <div class="contact-icon mr-15">
                                             <i style="font-size:24px" class="icon-contract"></i>
                                         </div>
-                                        <p>fia@usmp.pe</p>
+                                        <p class="text-fix-content">fia@usmp.pe</p>
                                     </div>
                                 </div>
                             </div>

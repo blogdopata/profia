@@ -73,7 +73,7 @@
 
                         <a class="nav-link " id="nav-faq-tab" data-toggle="pill" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
 
-                        <a class="nav-link " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
+                        
 
                         <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
@@ -82,7 +82,9 @@
 
 
                    
-                        <a class="nav-link ult-item" id="nav-enlaces-tab" data-toggle="pill" href="#nav-enlaces" role="tab" aria-controls="nav-enlaces" aria-selected="false">Enlaces de Interés</a>
+                        <a class="nav-link " id="nav-enlaces-tab" data-toggle="pill" href="#nav-enlaces" role="tab" aria-controls="nav-enlaces" aria-selected="false">Enlaces de Interés</a>
+
+                        <a class="nav-link ult-item" id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
                     
                       
 					</div>
@@ -123,13 +125,13 @@
 
 				    <div class="tab-pane fade show" id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
                        
-                       
-                       
+                       <div class="container">
+                    <h2 class="subtitle-general-fix" >Perfil Profesional </h2>   </div>
                     <div class="container ">
                                 
-                                
+                    
                                 <div>
-                                <p class="subtitle-general-fix" >Perfil Profesional </p>
+                                
                                 <p class="text-fix-content">El Licenciado en Ciencias Aeronáuticas utilizará el conocimiento y habilidades obtenidos en el programa, para:</p>
 
                                <ul class="fix-items-li">
@@ -164,12 +166,12 @@
 				    <div class="tab-pane fade show" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
                        
                        
-                       
+                       <div class="container"><h2 class="subtitle-general-fix" >Campo Ocupacional </h2></div>
                        <div class="container ">
                                    
                                    
                                    <div >
-                                   <p class="subtitle-general-fix" >Campo Ocupacional </p>
+                                   
                                    <p class="text-fix-content">El profesional en Ciencias Aeronáuticas, podrá desempeñarse en los campos ocupacionales siguientes:</p>
    
                                   <ul class="fix-items-li">

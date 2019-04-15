@@ -1,3 +1,8 @@
+<div class="container text-center">
+<h2 class="subtitle-general-fix">
+  Campus
+</h2></div>
+
 <div class="row campus">
   
 <div class="col-lg-10 col-md-11 col-sm-12 col-xs-12 cont-campus">

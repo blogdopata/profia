@@ -1,4 +1,4 @@
-<h2 class="title-general-fix">EVENTOS</h2>
+<h2 class="subtitle-general-fix">Eventos</h2>
 <br>
 <h5 class="subtitle-general-fix">Entrega de Carga Académica 2019 - I </h5>
 <br>

@@ -5,7 +5,7 @@
 
 <div class="col-8" >
     <h2 class="subtitle-general-fix">
-    DIRECTOR DE ESCUELA EPIC / ING. ARNALDO FALCÓN SOTO
+    Director de la escuela EPIC / Ing. Arnaldo Falcón Soto
     </h2> 
 
     <p class="text-fix-content">

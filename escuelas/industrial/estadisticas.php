@@ -20,7 +20,7 @@
 </style>
 
 <div class="container">
-<h4 class="title-general-fix">ESTADÍSTICAS</h4>
+<h4 class="subtitle-general-fix">Estadísticas</h4>
 </div>
 
 <div class="container">

@@ -253,7 +253,7 @@
                     <div class="col-6 col-md-3 text-center" >
                         <div class="team-members">
                             <div >
-                            <a href="#" target="_blank">   
+                            <a href="servicios/gimnasio.php" target="_blank">   
                             
                                     <img class="img-fluid" src="img/prestaciones/servicios/gimansio.jpg" alt="">   
                             
@@ -261,7 +261,7 @@
                             </div>
                             
                         </div>
-                        <a href="#" target="_blank">  Gimnasio </a>
+                        <a href="servicios/gimnasio.php" target="_blank">  Gimnasio </a>
                     </div>
 
                 </div>

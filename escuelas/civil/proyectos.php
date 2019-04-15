@@ -2,7 +2,7 @@
           
                   <div class="row">
                       <div  class="col-md-12">
-                          <h3 class="titulo-generico" >
+                          <h3 class="subtitle-general-fix" >
                           Lista de Proyecto Final de Ingeniería Civil
                           </h3>
 

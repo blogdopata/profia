@@ -5,7 +5,7 @@
 </style>
 <!--inicio modal Directivas de Retiro de Cursos -->
 <div class="modal fade" id="miModal8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-sm" role="document">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header popupheader">
         <h5 style="color:white;" class="modal-title" id="exampleModalLabel">Directivas de Retiro de Cursos      </h5>

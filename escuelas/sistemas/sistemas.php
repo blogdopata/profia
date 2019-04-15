@@ -66,7 +66,7 @@
                         <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>
                        
                        
-                        <a class="nav-link  " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
+                        
 
                         <!-- <a class="nav-item nav-link" id="nav-encuestaDoc-tab" data-toggle="tab" href="#nav-encuestaDoc" role="tab" aria-controls="nav-encuestaDoc" aria-selected="false">Encuesta Docentes</a>
                         <a class="nav-item nav-link" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a> -->
@@ -75,14 +75,10 @@
                         <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
 
-                        <a class="nav-item nav-link  ult-item" id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Conctacto</a>
+                        <a class="nav-item nav-link " id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Conctacto</a>
 
+                        <a class="nav-link  ult-item  " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
 
-                        
-      
-                            
-                        
-                      
                       
 					</div>
                 </nav>
@@ -92,7 +88,11 @@
 				<div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
-						
+						<div class="container">
+                            <h2 class="subtitle-general-fix">
+                                Escuela
+                            </h2>
+                        </div>
                         <div class="container "  >
                         
                             
@@ -181,7 +181,7 @@
                     <!-- Contendio Tab Perfil Graduados -->
 
 				   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                       <h2 class="title-general-fix"> PERFIL DEL GRADUADO DE SISTEMAS</h2>
+                       <h2 class="subtitle-general-fix"> Perfil del graduado de Sistemas</h2>
                             <br>
                     <div class="container">
                         <div class="row">
@@ -190,13 +190,13 @@
 
                            
                                
-                                <h5 class="subtitle-general-fix">
+                                <b class="text-fix-content mb-3" style="color:black;">
                                     Durante los primeros años después de su graduación, el graduado presentará las siguientes competencias (educational objectives):
-                                </h5>
+                                </b>
                                 
                                 <br>
-                                <div class="text-fix-content">
-                                <ul class="fix-items-li">
+                                <div class="text-fix-content mt-2">
+                                <ul class="fix-items-li mb-4">
                                     <li>Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad,que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li>
 
                                      <li>Desenvolverse adecuadamente con capacidad analítica y comunicativa para aportar soluciones que agreguen valor a la organización.</li>
@@ -209,9 +209,9 @@
                                     </ul>
                                 </div>
                                <br>
-                                <h5 class="subtitle-general-fix">
-                                    Para el momento de su graduación, el estudiante presentará las siguientes competencias (student outcomes):</br></br>
-                                </h5>
+                                <b class="text-fix-content mb-3 " style="color:black;">
+                                    Para el momento de su graduación, el estudiante presentará las siguientes competencias (student outcomes):
+                                </b>
                                 
                                 
                                 <div class="text-fix-content">
@@ -241,7 +241,7 @@
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
                     <div class="container-fluid">
                         
-                        <h2 class="subtitle-general-fix">ORGANIZACIÓN PLAN DE ESTUDIOS</h2></br>   
+                        <h2 class="subtitle-general-fix">Organización del Plan de Estudios</h2></br>   
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/proFIA/escuelas/sistemas/pdf/Plan_estudio_sistemas_2019.pdf" id="archivo" allowfullscreen></iframe>
                         </div> 
@@ -258,7 +258,7 @@
                     <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
                         <div class="container">
                             
-                            <h2 class="subtitle-general-fix">CATÁLOGO DE CURSOS</h2></br> 
+                            <h2 class="subtitle-general-fix">Catálogo de Cursos</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://www.usmp.edu.pe/ffia/escuelas/sistemas/pdf/6.LIST_OF_COURSES-EPICS.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 

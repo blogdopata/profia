@@ -1,6 +1,6 @@
 <div class="row">
                       <div  class="col-md-12">
-                          <h3 class="titulo-generico" >
+                          <h3 class="subtitle-general-fix" >
                           Manuales y Protocolos de Seguridad
                           </h3>
 

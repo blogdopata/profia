@@ -189,14 +189,22 @@
     <div class="tab-pane fade" id="nav-val" role="tabpanel" aria-labelledby="nav-val-tab">
         <div class="container">
 		<h3 class="subtitle-general-fix">NUESTROS VALORES </h3>	
-            <p class="text-fix-content">
+           <!--  <p class="text-fix-content">
 				Trabajo colaborativo del equipo. <br>
 				Conducta y ética profesional. <br>
 				Capacidad de innovación. <br>
 				Comunicación efectiva. <br>
 				Capacitación continúa <br>
 				La igualdad de oportunidades de desarrollo profesional. <br>
-				</p>
+				</p> -->
+				<ul class="fix-items-li">
+				<li>Trabajo colaborativo del equipo</li>
+				<li>Conducta y ética profesional</li>
+				<li>Capacidad de innovación</li>
+				<li>Comunicación efectiva</li>
+				<li>Capacitación continúa </li>
+				<li>La igualdad de oportunidades de desarrollo profesional</li>
+			</ul>
         </div>
     </div>
 	<!-- FIN Contenido tab VALORES --> 

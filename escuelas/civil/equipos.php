@@ -1,5 +1,5 @@
 <div class="container">
-<h2 class="titulo-generico">
+<h2 class="subtitle-general-fix">
 Equipos de Laboratorio EPIC
 </h2>
 <hr>

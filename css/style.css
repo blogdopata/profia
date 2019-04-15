@@ -61,10 +61,10 @@ a,
 a:hover,
 a:focus {
   -webkit-transition-duration: 500ms;
-  transition-duration: 500ms;
+  transition-duration: 5ms;
   text-decoration: none;
   outline: 0 solid transparent;
-  color: #141414;
+  color: #585857;
   font-weight: 600;
   font-size: 14px; }
 
@@ -1865,7 +1865,8 @@ padding: 7px;
     overflow-y: auto;
     }
     .modal-body h6{
-    color:#017090;
+    color:#585857;
+    font-weight: bold;
     }
 
     .modal-body h6 a{
@@ -1899,10 +1900,11 @@ padding: 7px;
       background-position: right center;
       color:#585857;
       font-weight:500;
-      font-size:14px;
+      font-size:16px;
+      text-align: justify;
     }
     .modal-body p{
-      color:black;
+      color:#585857;
       
     }
     .modal-body a:hover h6{

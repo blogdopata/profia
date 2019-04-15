@@ -227,7 +227,11 @@
                     <!-- Contendio Tab  Info academicas -->
 
 				    <div class="tab-pane fade show" id="nav-infoacademica" role="tabpanel" aria-labelledby="nav-infoacademica-tab">
-
+                    
+                        <h2 class="subtitle-general-fix">
+                            Información académica
+                        </h2>
+                                                       
                     <p class="text-fix-content"> 
                     La carrera de Arquitectura en la USMP permite ser un profesional responsable del diseño y construcción de todas las edificaciones que el país necesita, de manera sostenida y sustentable.
                     </p> 
@@ -310,7 +314,7 @@
                      
 				    <div class="tab-pane fade show" id="nav-convenios" role="tabpanel" aria-labelledby="nav-convenios-tab">
 
-                             <h3 class="title-content-fix subname-title mb-2 ">
+                             <h3 class="subtitle-general-fix mb-2 ">
                              Convenios Nacionales e Internacionales
                                 </h3>             
                                     
@@ -347,7 +351,7 @@
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe>  -->
                            
-                            <h3 class="title-content-fix subname-title mb-2 ">
+                            <h3 class="subtitle-general-fix mb-2 ">
                             Perfil Profesional
                                 </h3>
 
@@ -373,7 +377,7 @@
 
                     <div class="tab-pane fade" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
                         
-                    <h3 class="title-content-fix subname-title mb-2 ">
+                    <h3 class="subtitle-general-fix mb-2 ">
                           Campo Ocupacional
                                 </h3>
                     
@@ -416,7 +420,7 @@
                     <!-- INICIO Contenido tab laboratorio--> 
                      <div class="tab-pane fade" id="nav-laboratorio" role="tabpanel" aria-labelledby="nav-laboratorio-tab">
                         
-                     <h3 class="title-content-fix subname-title mb-2 ">
+                     <h3 class="subtitle-general-fix mb-2 ">
                           Laboratorios
                                 </h3>
                     
@@ -463,7 +467,7 @@
 
                     <div class="tab-pane fade" id="nav-graduados" role="tabpanel" aria-labelledby="nav-graduados-tab">
                         
-                        <h3 class="title-content-fix subname-title mb-2 ">
+                        <h3 class="subtitle-general-fix mb-2 ">
                              Graduados Exitosos
                         </h3>
  <br>

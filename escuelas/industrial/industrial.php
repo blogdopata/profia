@@ -103,13 +103,13 @@
                 <div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
 				        	  <div class="tab-pane fade show active" id="nav-escuela" role="tabpanel" aria-labelledby="nav-escuela-tab">
-					            	<h2 class="subtitle-general-fix">BIENVENIDOS</h2>
+					            	<h2 class="subtitle-general-fix">Bienvenidos</h2>
                         <p class="text-fix-content">
                             La Escuela Profesional de Ingeniería Industrial (EPII) es la Unidad Académica encargada de la formación profesional de nuesvos ingenieros industriales con las competencias requeridas para su éxito laboral y bajo los valores y principios de nuestra universidad. Está comprometida con el desarrollo nacional a través de la creación de nuevos conocimientos, aplicaciones, innovación y la transmisión de estos para beneficio de la sociedad. 
                         </p>
                       
                       
-                        <h2 class="subtitle-general-fix">CAMPOS DE ACCIÓN</h2>
+                        <h2 class="subtitle-general-fix">Campos de Acción</h2>
                         <p class="text-fix-content">
                         El Ingeniero Industrial puede incorporarse sin problemas a instituciones públicas como privadas abarcando áreas tan amplias como la administración y la gestión, la investigación de operaciones, la ergonomía, el control y la ingeniería de la calidad, la optimización de procesos y sistemas, la formulación y el desarrollo de proyectos entre otras. Esta versatilidad y visión holística de los procesos lo hacen muy útil en empresas grandes y pequeñas. <br><br>
 
@@ -174,14 +174,14 @@
                     <!-- Contendio Tab Perfil Graduados -->
 
 				               <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
-                        <h2 class="subtitle-general-fix">PERFIL DEL GRADUADO DE LA CARRERA DE INGENIERÍA INDUSTRIAL</h2> <br>
+                        <h2 class="subtitle-general-fix">Perfil del graduado de la carrera de Ingeniería Industrial</h2> <br>
                         <p class="text-fix-content">La Ingeniería Industrial estudia la utilización racional de los recursos humanos, técnicos, materiales y de información y el manejo óptimo de los sistemas de transformación de bienes y servicios, con la finalidad de obtener productos o servicios útiles  a la sociedad y con respeto al medio ambiente.<br>
                         La formación del Ingeniero Industrial en la FIA – USMP, se basa en el desarrollo de las competencias ya mencionadas y que lo preparan para afrontar con éxito cualquier reto en cualquier ámbito.<br>
                         Se les da también Una formación socio-humanística que le permita una actitud crítica que contribuya a su ubicación en la sociedad, de manera que su desarrollo profesional sea ejercido con plena conciencia y responsabilidad.<br>
                         Al finalizar sus estudios  está capacitado para estudiar el sistema, entender el problema o la oportunidad y proponer y realizar soluciones innovadoras y adecuadas a los requerimientos de los interesados, aplicando los conocimientos científicos, teóricos y humanísticos aprendidos.</p>
                             <br><br>
 
-                        <h2 class="subtitle-general-fix">DECLARACIÓN DE LOS OBJETIVOS EDUCACIONALES</h2> <br>
+                        <h2 class="subtitle-general-fix">Declaración de los objetivos educacionales</h2> <br>
                         <div class="mt-2 mb-2">
                         <ul class="fix-items-li text-fix-content">
                           <li>Diseñan, desarrollan, implementan y/o mejoran sistemas integrados de producción o servicios con capacidad innovadora, analítica y emprendedora.</li>
@@ -227,7 +227,7 @@
                    <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
                         <div class="container">
                             
-                            <h2 class="titulo-generico">CATÁLOGO DE CURSOS</h2></br> 
+                            <h2 class="subtitle-general-fix">Catálogo de Cursos</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://usmp.edu.pe/proFIA/pdf/catalogocurso/industrial.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
@@ -272,7 +272,7 @@
                    <div class="tab-pane fade" id="nav-plan" role="tabpanel" aria-labelledby="nav-plan-tab">
                         <div class="container">
                             
-                            <h2 class="subtitle-general-fix">PLAN DE ESTUDIOS</h2></br> 
+                            <h2 class="subtitle-general-fix">Plan de Estudios</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://usmp.edu.pe/proFIA/pdf/planestudio/industrial.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
@@ -292,7 +292,7 @@
 
                    <div class="tab-pane fade" id="nav-acred" role="tabpanel" aria-labelledby="nav-acred-tab">
                    <div class="container">
-                   <h2 class="subtitle-general-fix">ACREDITACIÓN</h2>
+                   <h2 class="subtitle-general-fix">Acreditación</h2>
                    </div>
                         <div class="container centrarimg">
                         
@@ -312,7 +312,7 @@
 
                    <div class="tab-pane fade" id="nav-act" role="tabpanel" aria-labelledby="nav-act-tab">
                    <div class="container">
-                   <h2 class="subtitle-general-fix">ACTIVIDADES EPII</h2>
+                   <h2 class="subtitle-general-fix">Actividades EPII</h2>
                    </div>
                         <div class="container centrarimg">
                             <img class="img-fluid" src="../../img/encontruccion.jpg" alt="">

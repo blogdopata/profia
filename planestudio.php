@@ -46,7 +46,7 @@
     <div class="container" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5  class="titulo-principal">
+                <h5  class="title-general-fix">
                      PLAN DE ESTUDIOS 
                 </h5>
             </div>
@@ -80,7 +80,7 @@
           </a>  
       </td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+          <a  target="_blank" href="pdf\malla_curricular\sistemas.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
@@ -93,7 +93,7 @@
       
       <td class="text-left">Ingeniería Industrial</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+          <a  target="_blank" href="pdf\planestudio\industrial.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
@@ -109,7 +109,7 @@
       
       <td class="text-left">Ingeniería Civil</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+          <a  target="_blank" href="pdf\planestudio\civil.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>    
      </td>
@@ -124,7 +124,7 @@
       
       <td class="text-left">Arquitectura</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+          <a  target="_blank" href="pdf\planestudio\arquitectura.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
@@ -140,17 +140,17 @@
       
       <td class="text-left">Ciencias Aeronáuticas</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+          <a  target="_blank" href="pdf\planestudio\aeronauticas.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
       <td>
-        <a  target="_blank" href="#.pdf">
+        <a  target="_blank" href="pdf\malla_curricular\aeronauticas.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
       <td>
-        <a  target="_blank" href="#.pdf">
+        <a  target="_blank" href="pdf\planestudio\epca-equivalencias.pdf">
           <i class="fa fa-download" style="color:#85929E  ;font-size:36px;"></i><i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>

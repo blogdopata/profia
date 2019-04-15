@@ -45,7 +45,7 @@
     <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5  style="color:#585857; font-size:32px;">
+                <h5 class="title-general-fix">
                      COORDINACIÓN ACADÉMICA
                 </h5>
             </div>
@@ -57,16 +57,13 @@
         <div class="container">
            
             <div class="row ">
-                <div class="col-md-8 col-sm-12  wow fadeInUp text-justify " data-wow-delay="400ms">
-                    <p>La Oficina de Coordinación Académica es una dependencia del Decanato y es el nexo principal entre la Facultad, los alumnos, sus docentes y el público en general.</p>
-                     <p>Con el fin de garantizar la calidad de la enseñanza, provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.</p>
-                     <p>Encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. <br> Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas. </p>
+                <div class="col-md-11 ml-10 wow fadeInUp ">
+                <p class="text-fix-content ">La Oficina de Coordinación Académica es una dependencia del Decanato y es el nexo principal entre la Facultad, los alumnos, sus docentes y el público en general. <br><br>
+                Con el fin de garantizar la calidad de la enseñanza, provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos. <br><br>
+               Encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. <br> Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas. 
+               </p>
                 </div>
-                <div class="col-md-4 col-sm-12  wow fadeInUp" data-wow-delay="500ms">
-                     <center>
-                         <img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fia/fia35años.jpg" alt="">
-                     </center>
-                </div>
+                <div class="col-md-1"></div>
             </div>
             
         </div>

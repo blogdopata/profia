@@ -21,7 +21,7 @@
 
 
 <div class="container">
-<h4 class="titulo-principal">ESTADÍSTICAS</h4>
+<h4 class="subtitle-general-fix">Estadísticas</h4>
     <br>
     <h5 class="titulo-generico" style="text-align:center;">Ingresantes Ingeniería Cívil</h5>
     <div class="table-responsive" style="background-color: white;">

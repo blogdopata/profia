@@ -1,4 +1,4 @@
-<h2 class="subtitle-general-fix">INVESTIGACIÓN</h2>
+<h2 class="subtitle-general-fix">Investigación</h2>
 
 <p class="text-fix-content">
 La Escuela Profesional de Ingeniería Industrial (EPII) consiente de las necesidades tecnológicas de las Pymes y Mypes en el Perú desarrolla proyectos de Investigación Aplicada desde el año de 1,998 con el objetivo de aportar con la mejora tecnológica que permita a las micro y pequeñas empresas a potenciarse y ser más competitivas en el mercado global, la EPII es una escuela profesional acreditada por ABET, ASIIN e ICACIT que le permite tener un programa académico de nivel mundial y sistematizar sus prácticas académicas interrelacionándolas con las necesidades del sector productivo manteniendo una relación adecuada con sus constituyentes (Estudiantes, Docentes y Empresarios).

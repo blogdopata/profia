@@ -91,7 +91,7 @@
                             <div class="row">
                                 <div  class="col-md-12">
                                     <h3 class="subtitle-general-fix" >
-                                        CRONOGRAMA 2019 - I 
+                                        Cronograma 2019 - I 
                                     </h3>
 
                                     <p  class="text-fix-content">
@@ -111,7 +111,7 @@
 
                             <div class="row  mb-2 mt-3">
                                 <div class="col-12 mb-3"  >
-                                        <h3 class="subtitle-general-fix">INFORMACIÓN GENERAL </h3>
+                                        <h3 class="subtitle-general-fix">Información General </h3>
                                 </div>
 
                                 <div class="col-4 col-md-4 font-mode"  >
