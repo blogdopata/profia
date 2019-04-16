@@ -45,9 +45,9 @@
     <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5 class="title-general-fix">
+                <h2 class="title-general-fix">
                      COORDINACIÓN ACADÉMICA
-                </h5>
+                </h2>
             </div>
         </div>
     </div>
@@ -58,10 +58,15 @@
            
             <div class="row ">
                 <div class="col-md-11 ml-10 wow fadeInUp ">
-                <p class="text-fix-content ">La Oficina de Coordinación Académica es una dependencia del Decanato y es el nexo principal entre la Facultad, los alumnos, sus docentes y el público en general. <br><br>
-                Con el fin de garantizar la calidad de la enseñanza, provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos. <br><br>
-               Encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. <br> Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas. 
-               </p>
+                    <p class="text-fix-content ">La Oficina de Coordinación Académica es una dependencia del Decanato y es el nexo principal entre la Facultad, los alumnos, sus docentes y el público en general.
+                        
+                    </p>
+                    <p class="text-fix-content ">
+                    Con el fin de garantizar la calidad de la enseñanza, provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.
+                    </p>
+                    <p class="text-fix-content ">
+                    Es la oficina encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. <br> Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas. 
+                    </p>
                 </div>
                 <div class="col-md-1"></div>
             </div>
@@ -87,9 +92,9 @@
                                     </div>
                                     <div class="card-body">
                                         <div class="text-center">
-                                        <h5 class="card-title">COORDINADOR TURNO MAÑANA</h5>
+                                        <h5 class="card-title">Coodinador Turno Mañana</h5>
                                         <p class="card-text">Mg. José A. Cárdenas Martínez</p>
-                                        <p class="card-text"><small style="color:blue;">jcardenasm@usmp.pe</small></p>
+                                        <p class="card-text"><a href="#">jcardenasm@usmp.pe</a></p>
                                         </div>
                                     </div>
 
@@ -102,9 +107,9 @@
 
                                     <div class="card-body">
                                         <div class="text-center">
-                                        <h5 class="card-title">COORDINADOR TURNO TARDE</h5>
-                                        <p class="card-text">Ing. Edgar Rivera Fabián</p>
-                                        <p class="card-text"><small style="color:blue;">eriveraf@usmp.pe</small></p>
+                                        <h5 class="card-title">Coodinador Turno Tarde</h5>
+                                        <p class="card-text">Ing. Édgar Rivera Fabián</p>
+                                        <p class="card-text"><a href="#">eriveraf@usmp.pe</a></p>
                                         </div>
 
                                     </div>
@@ -117,9 +122,9 @@
                                     </div>
                                     <div class="card-body">
                                         <div class="text-center">
-                                        <h5 class="card-title">COORDINADOR TURNO NOCHE</h5>
+                                        <h5 class="card-title">Coodinador Turno Noche</h5>
                                         <p class="card-text">Ing. Fredy Adán Castro Salazar</p>
-                                        <p class="card-text"><small style="color:blue;">fcastros@usmp.pe</small></p>
+                                        <p class="card-text"><a href="#">fcastros@usmp.pe</a></p>
                                         </div>
                                     </div>
                                 </div>

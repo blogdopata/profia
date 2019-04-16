@@ -1,9 +1,6 @@
-/* [Master Stylesheet v1.0] */
-/* :: :: 1.0 Import Fonts */
 
-/* xq monseerrat */ 
-/* @import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900");*/
-/* :: 2.0 Import All CSS */
+
+
 @import url(bootstrap.min.css);
 @import url(owl.carousel.min.css);
 @import url(animate.css);
@@ -13,9 +10,8 @@
 @import url(classy-nav.min.css);
 
 
-/* :: 3.0 Base CSS */
 
-/*FUENTES */
+
 /* @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed'); */
 @import url("http://www.usmp.edu.pe/proFIA/fonts/robotocondensed.woff2");
 
@@ -1750,8 +1746,13 @@ padding: 7px;
       line-height: unset;
       font-family: "Roboto Condensed";
       font-size: 15.9px;
+      color:#585857 !important;
 
     }
+    span.text-fix-content  b , b{
+      color:#585857 !important;
+    }
+
     .subname-title{
         color: #585857;
         font-weight: bold;
@@ -1838,12 +1839,9 @@ padding: 7px;
         color:royalblue;
     }
     .link{
-    color: #0062cc;
+    color: #585857;
     }
-    a.link:hover{
-    color:black !important;
-    text-decoration:underline !important;    
-    }
+    
 
     .linkOSG{
     color: white;
@@ -2188,6 +2186,7 @@ padding: 7px;
 .frontside .card .card-title,
 .backside .card .card-title {
     color: #007b5e !important;
+      font-family: "Roboto Condensed" !important; 
 }
 
 .frontside .card .card-body img {
@@ -2732,8 +2731,11 @@ ul.ul-fix-square li{
 
 
 .info-insti{
-  text-transform: capitalize !important;
+  text-transform:none !important;
   font-weight: normal !important;
+}
+li b.bold-w , b.bold-w, b.title-table{
+  color:white !important;
 }
 
 
@@ -2812,7 +2814,7 @@ ul.ul-fix-square li{
  /*escuelas */
 
 .fa {
-  color:red;
+  color:white !important;
 }
 
 
@@ -3475,3 +3477,9 @@ justify-content: center;
 }
 /*fin de centrar img*/
 
+.footer-text{
+  font-family: "Roboto Condensed" !important;
+}
+.fa-file-pdf-o, .fa-download{
+  color:red !important;
+}

@@ -52,17 +52,17 @@
                 <p class="text-fix-content"> La Universidad de San Martín de Porres y especialmente la Facultad de Ingeniería y Arquitectura le expresa su más cordial bienvenida a este site.  </p>
 
                 <p class="text-fix-content"> 
-La filosofía que inspiró la fundación de la USMP se orienta a la búsqueda de la verdad (VERITAS LIBERABIT VOS) y a la preparación de profesionales altamente capacitados, con cultura humanística y criterios de permanente actualización y superación. Formar a los estudiantes dentro de normas éticas y principios democráticos constituye uno de sus objetivos prioritarios. 
+                        La filosofía que inspiró la fundación de la USMP se orienta a la búsqueda de la verdad (VERITAS LIBERABIT VOS) y a la preparación de profesionales altamente capacitados, con cultura humanística y criterios de permanente actualización y superación. Formar a los estudiantes dentro de normas éticas y principios democráticos constituye uno de sus objetivos prioritarios. 
 
-</p>
-<p class="text-fix-content"> 
-El avance de la ciencia y la tecnología, que se produce de manera cada vez más intensa, representa un constante desafío para toda institución universitaria, a la cual es preciso dar respuestas adecuadas, destinando importantes recursos a la docencia y a la investigación. Una y otra deben estar respaldadas por los más modernos laboratorios y equipos.  
-</p>
+                </p>
+                <p class="text-fix-content"> 
+                El avance de la ciencia y la tecnología, que se produce de manera cada vez más intensa, representa un constante desafío para toda institución universitaria, a la cual es preciso dar respuestas adecuadas, destinando importantes recursos a la docencia y a la investigación. Una y otra deben estar respaldadas por los más modernos laboratorios y equipos.  
+                </p>
 
-<p class="text-fix-content"> 
+                <p class="text-fix-content"> 
+                La vocación de servicio de la Universidad de San Martín de Porres impulsa a la Institución a forjar líderes con una visión integradora, comprometidos con el país y dispuestos a contribuir decisivamente con el progreso y el desarrollo de la sociedad peruana.
 
-La vocación de servicio de la Universidad de San Martín de Porres impulsa a la Institución a forjar líderes con una visión integradora, comprometidos con el país y dispuestos a contribuir decisivamente con el progreso y el desarrollo de la sociedad peruana.
-</p>
+                </p>
             </div>
         </div>
     </div>
@@ -74,40 +74,44 @@ La vocación de servicio de la Universidad de San Martín de Porres impulsa a la
                 <h3 class="acreditacion-title  mb-4">VALORES</h3>
 
                 <div style="margin-left:20px; ">
-                <p class="text-fix-content"><strong>Respeto a la persona: </strong><br> Es la clara y completa comprensión de los derechos y deberes individuales como colectivos, así como la disposición para reconocer y entender las diferencias.
-</p>
+                    <p class="text-fix-content"><strong>Respeto a la persona: </strong><br> Es la clara y completa comprensión de los derechos y deberes individuales como colectivos, así como la disposición para reconocer y entender las diferencias.
+                    </p>
 
-<p class="text-fix-content">
-                <strong> Compromiso: </strong> <br>   Mantenemos un alto compromiso con la constante educación del quehacer universitario para responder a realidades sociales.
-</p>
-<p class="text-fix-content">
-      
+                    <p class="text-fix-content">
+                                    <strong> Compromiso: </strong> <br>   Mantenemos un alto compromiso con la constante educación del quehacer universitario para responder a realidades sociales.
+                    </p>
+                    <p class="text-fix-content">
+                        
 
-                <strong> Búsqueda de la excelencia: <br></strong> orientación permanente hacia el mejoramiento continuo.</p>    
-                <p class="text-fix-content">
-                <strong>Conservación ambiental </strong> </p>
+                        <strong> Búsqueda de la excelencia: </strong> <br> 
+                        Orientación permanente hacia el mejoramiento continuo.
+                    </p>    
+
+                    <p class="text-fix-content">
+                        <strong>Conservación ambiental </strong> 
+                    </p>
                 </div>    
-                
+                        
 
 
                 <h3 class="acreditacion-title mb-4">PRINCIPIOS</h3>
 
-                <div style="margin-left:20px; ">
-                    <p  class="text-fix-content"><strong>Trabajo en equipo: </strong><br> 
-                    Espíritu permanente de colaboración poniendo por delante los objetivos institucionales.
-</p>
-                <p class="text-fix-content">
-                    <strong> Compromiso con el desarrollo del país: </strong> <br>  Participación activa en proyectos de impacto para la sociedad apoyando al desarrollo empresarial.
-                    </p>
+                    <div style="margin-left:20px; ">
+                        <p  class="text-fix-content"><strong>Trabajo en equipo: </strong><br> 
+                        Espíritu permanente de colaboración, poniendo por delante los objetivos institucionales.
+                        </p>
+                        <p class="text-fix-content">
+                            <strong> Compromiso con el desarrollo del país: </strong> <br>  Participación activa en proyectos de impacto para la sociedad apoyando al desarrollo empresarial.
+                        </p>
 
-                    
-                    <p class="text-fix-content">
+                        
+                        <p class="text-fix-content">
 
-                    <strong>Actitud Emprendedora e Innovadora:</strong> 
-                    <br> 
-                    Búsqueda del desarrollo auto sostenido e innovador en nuestros servicios y propuesta de valor.
-                    </p>
-                </div>    
+                        <strong>Actitud emprendedora e innovadora:</strong> 
+                        <br> 
+                        Búsqueda del desarrollo autosostenido e innovador en nuestros servicios y propuesta de valor.
+                        </p>
+                    </div>    
 
 
             </div>

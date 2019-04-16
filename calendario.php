@@ -46,9 +46,9 @@
     <div class="container" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5  class="title-general-fix">
+                <h2  class="title-general-fix">
                        CALENDARIO DE ACTIVIDADES
-                </h5>
+                </h2>
             </div>
         </div> 
     </div>
@@ -62,10 +62,10 @@
                         
                         <a class="nav-link  active" id="nav-horarios-tab" data-toggle="pill" href="#nav-horarios" role="tab" aria-controls="nav-horarios" aria-selected="false">Horarios Ingresantes - Regulares</a>
 
-                        <a class="nav-link " id="nav-regulares-tab" data-toggle="pill" href="#nav-regulares" role="tab" aria-controls="nav-regulares" aria-selected="true">Alumnos Regulares</a>
+                        <a class="nav-link " id="nav-regulares-tab" data-toggle="pill" href="#nav-regulares" role="tab" aria-controls="nav-regulares" aria-selected="true">Calendario Alumnos Regulares</a>
 
                         
-                        <a class="nav-link ult-item " id="nav-ingresantes-tab" data-toggle="pill" href="#nav-ingresantes" role="tab" aria-controls="nav-ingresantes" aria-selected="false">Alumnos Ingresantes</a>
+                        <a class="nav-link ult-item " id="nav-ingresantes-tab" data-toggle="pill" href="#nav-ingresantes" role="tab" aria-controls="nav-ingresantes" aria-selected="false">Calendario Alumnos Ingresantes</a>
                         
                        
 		
@@ -176,28 +176,28 @@
                             <div class="row">
                                 <div  class="col-md-12 mb-30">
                                     <h3 class="subtitle-general-fix" >
-                                    Calendario Académico Alumnos Regulares
+                                    Calendario Académico de Alumnos Regulares
 
                                     </h3>
 
                                     <ul>
                                         <li> 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/calendario.pdf" target="_blank"> - Calendario Académico :   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/calendario.pdf" target="_blank"> - Calendario Académico   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                         <li> 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/fechas_matricula.pdf" target="_blank"> - Fechas de matrícula :  <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/fechas_matricula.pdf" target="_blank"> - Fechas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                         <li> 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/directivas_matricula.pdf" target="_blank"> -  Directivas de matrícula :  <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/directivas_matricula.pdf" target="_blank"> -  Directivas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                         <li> 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula  :   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula     <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li > 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/Carta_Permanencia.pdf" target="_blank"> - Carta de Permanencia  :   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/Carta_Permanencia.pdf" target="_blank"> - Carta de Permanencia     <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <hr>
-                                         <li class="mt-4"> 
+                                         <li class="subtitle-general-fix"> 
                                              <b style="color:#585857;">Relación del Buen Pagador por Escuela  :   </b>
                                          </li>
                                          
@@ -233,24 +233,24 @@
                         <div class="row">
                             <div  class="col-md-12 mb-30">
                                 <h3 class="subtitle-general-fix" >
-                                Calendario Académico Alumnos Ingresantes
+                                Calendario Académico de Alumnos Ingresantes
                                 </h3>
 
                                 <ul>
                                     <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/calendario_academico.pdf" target="_blank"> - Calendario Académico :   <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/calendario_academico.pdf" target="_blank"> - Calendario Académico    <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                     <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/directivas_matricula.pdf" target="_blank"> - Directivas de Matrícula :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/directivas_matricula.pdf" target="_blank"> - Directivas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                     <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/croquis_FIA.pdf" target="_blank"> -  Croquis FIA :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/croquis_FIA.pdf" target="_blank"> -  Croquis FIA   <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                     <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/guia_matricula.pdf" target="_blank"> - Material para ingresantes - Guía de matrícula  :   <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/guia_matricula.pdf" target="_blank"> - Material para ingresantes - Guía de matrícula    <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                      <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula  :   <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula    <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                 </ul>
 

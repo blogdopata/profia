@@ -45,9 +45,9 @@
     <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5 class="title-general-fix"  style="color:#585857; font-size:32px;">
+                <h3 class="title-general-fix" >
                        OFICINA DE SEGUIMIENTO AL GRADUADO
-                </h5>
+                </h3>
             </div>
         </div>
     </div>
@@ -62,15 +62,15 @@
                 <div class="col-12  wow fadeInUp" data-wow-delay="400ms"> 
                     <h3 class="subtitle-general-fix">Alcance</h3>
                     <p class="text-fix-content">
-                        El presente Plan de Seguimiento al Graduado de la FIA, establece los lineamientos de gestión de los graduados para la facultad.
+                        El presente Plan de Seguimiento al Graduado de la FIA establece los lineamientos de gestión de los graduados para la Facultad.
                     </p>
                     <h3 class="subtitle-general-fix">Antecedentes</h3>
                     <p class="text-fix-content">
-                        El seguimiento a los graduados, es una de las actividades que muchas Facultades han venido desarrollando de manera aislada, y en algunos de los casos con experiencias que han resultado significativas. Sin embargo, al no existir coordinación entre las distintas facultades de nuestra universidad, estas experiencias exitosas en alguna de ellas no se han podido replicar en el resto de las facultades.
+                        El seguimiento a los graduados es una de las actividades que muchas Facultades han venido desarrollando de manera aislada, y en algunos de los casos con experiencias que han resultado significativas. Sin embargo, al no existir coordinación entre las distintas facultades de nuestra universidad, estas experiencias exitosas en alguna de ellas no se han podido replicar en el resto.
                     </p>
 					 
                     <p class="text-fix-content">
-                        Actualmente la Facultad de Ingeniería y Arquitectura viene desarrollando una política institucional con el fin de realizar el seguimiento de sus graduados, con el fin de conocer su ubicación, cargos que han desempeñado y desempeñan en su desarrollo profesional, para promover su inserción en el mercado laboral, conocer sus necesidades, su formación continua , establecer a través de sus graduados la vinculación con las empresas y el aporte que los graduados pueden ofrecer a la facultad en la mejora de las ofertas en las distintas carreras profesionales.
+                        Actualmente la Facultad de Ingeniería y Arquitectura viene desarrollando una política institucional con el fin de realizar el seguimiento de sus graduados, con el objetivo de conocer su ubicación, cargos que han desempeñado y desempeñan en su desarrollo profesional para promover su inserción en el mercado laboral, conocer sus necesidades, su formación continua , establecer a través de sus graduados la vinculación con las empresas y el aporte que ellos pueden ofrecer a la Facultad en la mejora de las ofertas en las distintas carreras profesionales.
                     </p>
                 </div>
                
@@ -88,7 +88,7 @@
             <div class="col-md-6">
                 <div class="card text-center">
                     <div class="card-header text-white" style="background-color:#E0134E">
-                        <b>NOVEDADES:</b>
+                        <b class="bold-w">NOVEDADES:</b>
                         <br><br>
                         <center>
                             <li> <a class="linkOSG" target="_blank" href="http://www.usmp.edu.pe/index.php?pag=novedades&sec=nov18_292">Segunda Feria Laboral </a>  </li>
@@ -101,7 +101,7 @@
              <div class="col-md-6">
             <div class="card text-center">
                 <div class="card-header text-white"  style="background-color:#E0134E"> 
-                     <b>TEMAS DE INTERÉS</b>
+                     <b class="bold-w">TEMAS DE INTERÉS</b>
                      <br><br>
                      <center>
                          <li> <a class="linkOSG" target="_blank" href="http://www.usmp.edu.pe/posgradofia/">Sección de Posgrado </a>  </li>

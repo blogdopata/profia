@@ -127,19 +127,19 @@
                      
                  
         
-                         <h2 class="subtitle-general-fix">MISIÓN</h2>       
+                         <h2 class="subtitle-general-fix">Misión</h2>       
 
                         <p class="text-fix-content">
                             Formar profesionales en la especialidad de Ingeniería de Computación y Sistemas con sólidos valores, competentes y creativos para resolver problemas en el contexto laboral y social; desarrollar habilidades para responder a los cambios y desafíos del entorno; fomentar la investigación aplicada en el desarrollo de sistemas de información; promover actividades de extensión y proyección social que beneficien a la sociedad.
                         </p> 
 
-                         <h2 class="subtitle-general-fix">VISIÓN</h2>       
+                         <h2 class="subtitle-general-fix">Visión</h2>       
 
                         <p class="text-fix-content">
                             Llegar a ser la mejor Escuela Profesional del país dedicada a la formación de Ingenieros de Computación y Sistemas de clase internacional; con una cultura institucional en la que se fortalezcan los valores; comprometida con la búsqueda constante de la excelencia, el desarrollo integral del estudiante, la investigación y su proyección a la sociedad.
                         </p> 
 
-                        <h2 class="subtitle-general-fix">OBJETIVOS</h2>      
+                        <h2 class="subtitle-general-fix">Objetivos</h2>      
 
                         <ul class="text-fix-content  list-fix" >
                             <li> Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad, que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li>
@@ -150,7 +150,7 @@
                         </ul>
                         <br>
 
-                        <h2 class="subtitle-general-fix">RESULTADOS</h2> 
+                        <h2 class="subtitle-general-fix">Resultados</h2> 
                     <p class="text-fix-content">
                         RESULTADOS QUE EL ESTUDIANTE DEBE LOGRAR AL EGRESAR DE LA ESPECIALIDAD DE INGENIERÍA DE COMPUTACIÓN Y SISTEMAS
                         </p>

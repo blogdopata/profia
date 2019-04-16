@@ -14,7 +14,7 @@
         </button>
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
-                                      <h6>Título I : Disposiciones Generales</h6> <br>
+                                      <h6>Título I: Disposiciones Generales</h6> <br>
                                       <a href="legal/legal1.php"><h6>Capítulo I: Base Legal</h6></a>
                                       Artículo 1.- Fundamento Jurídico – Normativo <br> <br>
 
@@ -43,11 +43,11 @@
 
                                       <hr>
 
-                                      <h6>Titulo II : de la Matrícula</h6> <br>
+                                      <h6>Titulo II: de la Matrícula</h6> <br>
                                       <a href="legal/cap1.php"><h6>Capítulo I: Generalidades</h6></a>
-                                      Artículo 13.- Naturaleza de la Matrícula  <br>
-                                      Artículo 14.- Duración de la Matrícula <br>
-                                      Artículo 15.- Efectos de la Matrícula <br>
+                                      Artículo 13.- Naturaleza de la matrícula  <br>
+                                      Artículo 14.- Duración de la matrícula <br>
+                                      Artículo 15.- Efectos de la matrícula <br>
                                       Artículo 16.- De la individualidad de la matrícula <br>
                                       Artículo 17.- Actos administrativos derivados de la matrícula <br>
                                       Artículo 18.- De la Ficha de Matrícula <br>
@@ -60,7 +60,7 @@
                                       Artículo 22.- Naturaleza <br>
                                       Artículo 23.- De los requisitos para matricularse <br>
                                       Artículo 24.- Del trámite de la matrícula <br>
-                                      Artículo 25 .-De la obligatoriedad de la matrícula <br> <br>
+                                      Artículo 25.-De la obligatoriedad de la matrícula <br> <br>
 
 
                                       <a href="legal/cap3.php"><h6>Capítulo III: de las Matrícula de los Alumnos Ingresantes Exonerados del Concurso Ordinario de Admisión</h6></a>
@@ -72,9 +72,9 @@
                                       <a href="legal/cap4.php"><h6>Capítulo IV: de la Matrícula de los Alumnos Regulares</h6></a>
                                       Artículo 29.- Naturaleza <br>
                                       Artículo 30.- Condiciones del alumno regular <br>
-                                      Artículo 31.- Del Procedimiento de la matrícula <br>
+                                      Artículo 31.- Del Procedimiento de la Matrícula <br>
                                       Artículo 32.- De la matrícula en asignaturas de diferentes ciclos <br>
-                                      Artículo 33.- De la matrícula de extemporáneos <br>
+                                      Artículo 33.- De la Matrícula de Extemporáneos <br>
                                       Artículo 34.- De la Ampliación de créditos <br> <br>
 
 
@@ -88,7 +88,7 @@
                                       <a href="legal/cap6.php"><h6>Capítulo VI: del Retiro de Ciclo</h6></a>
                                       Artículo 39.- Naturaleza <br>
                                       Artículo 40.- Requisitos especiales <br>
-                                      Artículo 41.- Del otorgamiento y los efectos del retiro de ciclo <br>
+                                      Artículo 41.- Del otorgamiento y los efectos del Retiro de Ciclo <br>
                                       Artículo 42.- De la reincorporación a la Universidad <br> <br>
 
 
@@ -96,32 +96,32 @@
                                       Artículo 43.- Naturaleza  <br>
                                       Artículo 44.- Requisitos para acogerse a la Reserva de Matrícula <br>
                                       Artículo 45.- Del otorgamiento del derecho de Reserva de Matrícula <br>
-                                      Artículo 46.- Del reincorporación a la Universidad <br> <br>
+                                      Artículo 46.- De la reincorporación a la Universidad <br> <br>
 
 
-                                      <h6>Capítulo VIII: de la Reactualización de Matrícula</h6> 
+                                      <a href="legal/cap8.php"><h6>Capítulo VIII: de la Reactualización de Matrícula</h6> </a>
                                       Artículo 47.- Naturaleza <br>
-                                      Artículo 48.- Requisitos en la Reactualización de matrícula <br>
+                                      Artículo 48.- Requisitos en la Reactualización de Matrícula <br>
                                       Artículo 49.- Del procedimiento en la Reactualización de Matrícula <br>
                                       Artículo 50.- De la Convalidación de Estudios <br> <br> <br>
 
                                       <hr>
 
 
-                                      <h6>Titulo III : Otros Actos Administrativos</h6> <br>
-                                      <h6>Capítulo I: del Promedio Ponderado</h6>
+                                      <h6>Titulo III: Otros Actos Administrativos</h6> <br>
+                                      <a href="legal/capi1.php"><h6>Capítulo I: del Promedio Ponderado</h6></a>
                                       TERCIO Y QUINTO SUPERIOR <br>
                                       Artículo 51.- Del promedio ponderado <br>
                                       Artículo 52.- Tercio y Quinto Superior <br><br>
 
 
-                                      <h6>Capítulo II: de los Exámenes de Subsanación </h6>
+                                      <a href="legal/capi2.php"><h6>Capítulo II: de los Exámenes de Subsanación </h6></a>
                                       Artículo 53.- Del examen de subsanación  <br>
                                       Artículo 54.- Requisitos de Examen de Subsanación <br>
                                       Artículo 55.- Del otorgamiento del examen de subsanación <br> <br>
 
 
-                                      <h6>Capítulo III: de los Exámenes de Aplazados</h6>
+                                      <a href="legal/capi3.php"><h6>Capítulo III: de los Exámenes de Aplazados</h6></a>
                                       Artículo 56.- De los exámenes de aplazados <br> 
                                       Artículo 57.- Requisitos del examen de aplazados <br> <br>
 
@@ -133,7 +133,7 @@
                                       Artículo 61.- De la responsabilidad de los docentes <br> <br>
 
 
-                                      <h6>Capitulo V: de las Renuncias a la Universidad</h6>
+                                      <h6>Capítulo V: de las Renuncias a la Universidad</h6>
                                       Artículo 62.- De la renuncia a la Universidad <br>
                                       Artículo 63.- De los requisitos <br><br>
 
@@ -147,7 +147,7 @@
                                       Artículo 68.- De la Constancia de Notas <br>
                                       Artículo 69.- De la Constancia de Egresado <br>
                                       Artículo 70.- Del Duplicado del Carné Universitario <br>
-                                      Artículo 71.- Del Record Académico <br>
+                                      Artículo 71.- Del Récord Académico <br>
                                       Articulo 72.- Del cambio de turno o aula. <br>
                                       Artículo 73.- De la constancia de orden de mérito y promedio ponderado <br>
                                       Artículo 74.- De la Constancia de Tercio o Quinto Superior <br>

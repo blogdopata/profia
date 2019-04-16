@@ -19,11 +19,11 @@
         <div class="listafia">
           <ul style="margin-left:30px;">
             <br>
-            <li>Proponer las políticas, objetivos, procedimientos y planes de seguimiento a los Graduados.</li>
+            <li>Proponer las políticas, objetivos, procedimientos y planes de seguimiento a los graduados.</li>
             <br>
-            <li>Coordinar con los decanos y los directores de los institutos y filiales los procesos se seguimiento a los graduados.</li>
+            <li>Coordinar con los Decanos y los directores de los institutos y filiales los procesos de seguimiento a los graduados.</li>
             <br>
-            <li>Realizar y promover acciones y eventos dirigidos a la inserción laboral de los graduados.</li>
+            <li>Realizar y promover acciones así como eventos dirigidos a la inserción laboral de los graduados.</li>
             <br>
             <li>Coordinar los servicios de la bolsa de trabajo de la Facultad.</li>
             <br>

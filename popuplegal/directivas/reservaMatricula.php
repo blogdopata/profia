@@ -16,33 +16,33 @@
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
         
-                      <h6>Directivas</h6>
-                      <br>
-                      <div class="listaperfil">
-                        <ul class="ml-5 mr-1" >
+                      <h6 class="subtitle-general-fix mt-3 ">Directivas</h6>
+                      
+                      
+                        <ul class="ml-5 mr-1 fix-items-li" >
                           <li >La Reserva de Matrícula procede para los alumnos que no se han matriculado en el semestre académico vigente, pudiendo efectuarse hasta los sesenta (60) días posteriores al inicio de clases.</li>
-                          <li>La Reserva de Matricula da origen a una Resolución Decanal. Este proceso no otorga derecho a Carné Universitario, ni a figurar en los Registros de Evaluación, ni en Actas de Notas del período lectivo en curso. Puede ser renovada hasta cuatro (04) veces consecutivas.</li>
+                          <li>La Reserva de Matrícula da origen a una Resolución Decanal. Este proceso no otorga derecho a Carné Universitario, ni a figurar en los Registros de Evaluación, ni en Actas de Notas del período lectivo en curso. Puede ser renovada hasta cuatro (04) veces consecutivas.</li>
                           <li>El alumno acreditará su Reserva de Matrícula con la Constancia respectiva.</li>
                           <li>El alumno ingresante no tiene derecho a efectuar Reserva de Matrícula.</li>
-                          <li>El alumno que haya repetido tres veces una asignatura o dos veces tres asignaturas, no podrá realizar Reserva de Matrícula sino cuenta con la autorización del Presidente de la Comisión de Evaluación de Rendimiento Mínimo.</li>
+                          <li>El alumno que haya repetido tres veces una asignatura o dos veces tres asignaturas, no podrá realizar Reserva de Matrícula si no cuenta con la autorización del Presidente de la Comisión de Evaluación de Rendimiento Mínimo.</li>
                           <li>El alumno, al momento de reincorporarse a su Facultad o Escuela, debe presentar la Resolución Decanal o la Constancia correspondiente para actualizar su matrícula.</li>
                         </ul>
-                      </div>
+                      
 
-                      <br>
+                    
                       <hr>
-                      <br>
+                      
 
-                      <h6>Requisitos:</h6>
-                      <br>
-                      <div class="listafia">
-                        <ul class="ml-5">
+                      <h6 class="subtitle-general-fix ">Requisitos:</h6>
+                      
+                      
+                        <ul class="ml-5 fix-items-li">
                           <li>Solicitud valorada dirigida al Decano de la Facultad.</li>
                           <li>Recibo por el derecho, cancelado.</li>
-                          <li>Record de Notas.</li>
+                          <li>Récord de Notas.</li>
                           <li>Resolución Decanal o Constancia de Reserva de Matrícula anterior, en caso de renovación.</li>
                         </ul>
-                      </div>
+                     
                       
 
                       <!-- <hr>

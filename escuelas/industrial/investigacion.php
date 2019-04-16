@@ -40,7 +40,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
                             <div  class="card-header bg-autoridades" id="headingOne">
                               
                                 <button class="btn btn-link " data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                  <b>PROYECTOS REALIZADOS</b>
+                                  <b  style="color:white">PROYECTOS REALIZADOS</b>
                                 </button>
                              
                             </div>
@@ -271,7 +271,7 @@ Para estudios básicos de procesos biotecnológicos lo que incluye la docencia u
                           <div class="card-header  bg-autoridades" id="headingTwo">
                             
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                              <b>PROYECTOS ACTUALES</b>
+                              <b style="color:white">PROYECTOS ACTUALES</b>
                               </button>
                            
                           </div>

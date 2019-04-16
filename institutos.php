@@ -47,14 +47,11 @@
       <div class="row">
           <div class="col-12">
                 <h3  class="title-general-fix">
-                  INSTITUTOS Y  LABORATORIOS DE INVESTIGACIÓN
+                  INSTITUTOS Y  LABORATORIOS DE INVESTIGACIÓN <br> 
+                  <br> 
+                 
                 </h3>
 
-                <p class="subtitle-general-fix"> Misión</p>
-                <p class="text-fix-content">Formar profesionales competentes, con sólidos valores humanísticos, éticos y cívicos. Contribuir a la creación de conocimientos a través de la investigación y promover la difusión de la ciencia, la tecnología y la cultura.
-                </p>
-                <p class="text-fix-content">
-                Proyectar nuestra acción a la comunidad, propiciando la construcción de una sociedad moderna y equitativa". </p>
          
             </div>
         </div> 

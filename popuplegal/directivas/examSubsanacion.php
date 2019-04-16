@@ -14,22 +14,22 @@
         </button>
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
-                          <h6>Reglamento de la Oficina de Registros Académicos</h6>
+                          <h6 class="subtitle-general-fix mt-3 ">Reglamento de la Oficina de Registros Académicos</h6>
                           <p style="text-transform: uppercase;">(Aprobado por Resolución Rectoral Nro. 1270-2003-CU-R-USMP de fecha 15 de octubre del 2003)</p>
 
 
-                          <br>
+                          
 
                           <h6>Título III <br> Otros Actos Administrativos </h6>
 
                           <br><br>
 
-                          <h6>Capítulo II <br> de los Exámenes de Subsanación</h6>
+                          <h6>Capítulo II <br> De los Exámenes de Subsanación</h6>
 
-                          <br><br>
+                          <br>
 
 
-                          El examen de subsanación procede con la autorización del Jefe del Departamento Académico, cuando el alumno al concluir la vigencia de su Plan Curricular tiene desaprobadas hasta dos asignaturas o adeuda una o más que ya no ofrece la facultad por cambio de currículo, debiendo tener como promedio mínimo siete (07).
+                          El Examen de Subsanación procede con la autorización del Jefe del Departamento Académico cuando el alumno al concluir la vigencia de su Plan Curricular tiene desaprobadas hasta dos asignaturas o adeuda una o más que ya no ofrece la Facultad por cambio de currículo, debiendo tener como promedio mínimo siete (07).
 
                           <br><br>
 
@@ -50,13 +50,13 @@
 
                           <br><br>
 
-                          <div class="listafia">
-                            <ul class="ml-5 mr-1">
+                          
+                            <ul class="ml-5 mr-1 fix-items-li">
                               <li>Constancia de Notas.</li>
                               <li>Constancia de Tesorería (no tener deudas pendientes con la Universidad).</li>
                               <li>Recibo por derecho de subsanación cancelado y registrado.</li>
                             </ul>
-                          </div>
+
 
 
                           <br><br>
@@ -70,7 +70,7 @@
 
                           <br><br>
 
-                          La Oficina de Registros académicos, conforme a la Resolución Decanal procede a informar al solicitante y expedir el Acta de Subsanación en la cual el docente designado ha de consignar las calificaciones respectivas.
+                          La Oficina de Registros Académicos, conforme a la Resolución Decanal procede a informar al solicitante y expedir el Acta de Subsanación en la cual el docente designado ha de consignar las calificaciones respectivas.
 
                
       </div>

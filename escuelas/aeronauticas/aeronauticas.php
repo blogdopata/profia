@@ -15,7 +15,7 @@
     <link rel="icon" href="http://www.usmp.edu.pe/proFIA/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
+    <link rel="stylesheet" href="../../css/style.css">
 
  
 

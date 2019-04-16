@@ -31,8 +31,8 @@
 					  <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 					 	
 								  <tr>
-								    <th><b>Año Académico</b></th>
-								    <th><b>Número de ingresantes</b></th>
+								    <th><b class=title-tabla>Año Académico</b></th>
+								    <th><b class=title-tabla>Número de ingresantes</b></th>
 								  </tr>
 								  <tr>
 								   
@@ -71,11 +71,11 @@
     <div class="table-responsive" style="background-color: white;">
 					  <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
                                  <tr>
-                                    <th colspan="2"><b>Consolidado de Egresados por Año</b></th>
+                                    <th colspan="2"><b class=title-tabla>Consolidado de Egresados por Año</b></th>
                                  </tr>
 								  <tr>
-								    <th><b>Año</b></th>
-								    <th><b>Cantidad</b></th>
+								    <th><b class=title-tabla>Año</b></th>
+								    <th><b class=title-tabla>Cantidad</b></th>
 								  </tr>
 								  <tr>
 								   
@@ -117,12 +117,12 @@
 					  <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
                                  <tr>
                                   <th></th>
-                                    <th colspan="2"><b>2010</b></th>
-                                    <th colspan="2"><b>2011</b></th>
-                                    <th colspan="2"><b>2012</b></th>
-                                    <th colspan="2"><b>2013</b></th>
-                                    <th colspan="2"><b>2014</b></th>
-                                    <th colspan="2"><b>2015</b></th>
+                                    <th colspan="2"><b class=title-tabla>2010</b></th>
+                                    <th colspan="2"><b class=title-tabla>2011</b></th>
+                                    <th colspan="2"><b class=title-tabla>2012</b></th>
+                                    <th colspan="2"><b class=title-tabla>2013</b></th>
+                                    <th colspan="2"><b class=title-tabla>2014</b></th>
+                                    <th colspan="2"><b class=title-tabla>2015</b></th>
                                  </tr>
 								  <tr>
                                   <td style="background-color:#8f0222;"></td>

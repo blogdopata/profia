@@ -84,7 +84,7 @@
                 <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
                 <div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 					
-						<a class="nav-item nav-link active" id="nav-qsomos-tab" data-toggle="tab" href="#nav-qsomos" role="tab" aria-controls="nav-qsomos" aria-selected="true">Quienes somos</a>
+						<a class="nav-item nav-link active" id="nav-qsomos-tab" data-toggle="tab" href="#nav-qsomos" role="tab" aria-controls="nav-qsomos" aria-selected="true">Quiénes somos</a>
 
                         <a class="nav-item nav-link" id="nav-perfil-tab" data-toggle="tab" href="#nav-perfil" role="tab" aria-controls="nav-perfil" aria-selected="false">Misión y Visión</a>
 
@@ -118,7 +118,7 @@
     <div class="tab-pane fade show active" id="nav-qsomos" role="tabpanel" aria-labelledby="nav-qsomos-tab">
     
 	<div class="container">
-		<h3 class="subtitle-general-fix">QUIENES SOMOS</h3>		
+		<h3 class="subtitle-general-fix">Quiénes Somos</h3>		
 	
 	</div>
 
@@ -169,14 +169,14 @@
     <div class="tab-pane fade show " id="nav-perfil" role="tabpanel" aria-labelledby="nav-perfil-tab">
         
     <div class="container">
-	<h3 class="subtitle-general-fix">MISIÓN </h3>		
+	<h3 class="subtitle-general-fix">Misión </h3>		
 	<p class="text-fix-content">
-	Facilitar y promover la aplicación de las TIC’s en la Facultad de Ingeniería y Arquitectura - USMP a través de la innovación, buscando la optimización de los procesos y cumplimiento de los objetivos académico, de investigación y corporativos.
+	Facilitar y promover la aplicación de las TIC’s en la Facultad de Ingeniería y Arquitectura - USMP a través de la innovación, buscando la optimización de los procesos y cumplimiento de los objetivos académicos, de investigación y corporativos.
 	</p>
 	<br>			
-	<h3 class="subtitle-general-fix">VISIÓN </h3>		
+	<h3 class="subtitle-general-fix">Visión </h3>		
 	<p class="text-fix-content">
-	Ser un área estratégica y de referencia en su campo de acción, tanto internamente como externamente, siendo capaces de implementar soluciones TIC’s innovadoras que estén alineadas a las estrategias de la Facultad y de la Universidad.
+	Ser un área estratégica y de referencia en su campo de acción, tanto interna como externamente, siendo capaces de implementar soluciones TIC’s innovadoras que estén alineadas a las estrategias de la Facultad y de la Universidad.
 	</p>          
     </div>   
 
@@ -188,23 +188,18 @@
     <!-- Contenido tab VALORES--> 
     <div class="tab-pane fade" id="nav-val" role="tabpanel" aria-labelledby="nav-val-tab">
         <div class="container">
-		<h3 class="subtitle-general-fix">NUESTROS VALORES </h3>	
-           <!--  <p class="text-fix-content">
-				Trabajo colaborativo del equipo. <br>
-				Conducta y ética profesional. <br>
-				Capacidad de innovación. <br>
-				Comunicación efectiva. <br>
-				Capacitación continúa <br>
-				La igualdad de oportunidades de desarrollo profesional. <br>
-				</p> -->
-				<ul class="fix-items-li">
-				<li>Trabajo colaborativo del equipo</li>
+		<h3 class="subtitle-general-fix">Nuestros Valores </h3>	
+          <ul class="fix-items-li">
+				<li>Trabajo colaborativo del equipo </li>
 				<li>Conducta y ética profesional</li>
 				<li>Capacidad de innovación</li>
 				<li>Comunicación efectiva</li>
-				<li>Capacitación continúa </li>
+				<li>Capacitación continua</li>
 				<li>La igualdad de oportunidades de desarrollo profesional</li>
-			</ul>
+				</ul>
+				
+
+
         </div>
     </div>
 	<!-- FIN Contenido tab VALORES --> 
@@ -228,7 +223,7 @@
 	<!-- Contenido tab SERVICIOS--> 
     <div class="tab-pane fade" id="nav-servicios" role="tabpanel" aria-labelledby="nav-servicios-tab">
         <div class="container">
-		<h3 class="subtitle-general-fix">SERVICIOS </h3>	
+		<h3 class="subtitle-general-fix">Servicios </h3>	
            <ul class="fix-items-li">
 				<li>Atención a alumnos, docentes y administrativos</li>
 				<li>Laboratorios académicos</li>
@@ -251,7 +246,7 @@
 	<!-- Contenido tab PROYECTOS--> 
     <div class="tab-pane fade" id="nav-proyectos" role="tabpanel" aria-labelledby="nav-proyectos-tab">
 	<div class="container">
-	<h3 class="subtitle-general-fix">CARTERA DE PROYECTOS POR AÑO </h3>	
+	<h3 class="subtitle-general-fix">Cartera de Proyectos por año </h3>	
 	</div>		
 	<div class="container" style="display:flex;align-items: center;justify-content: center;">
 	
@@ -268,7 +263,7 @@
 	<!-- Contenido tab DOCUMENTACIÓN--> 
     <div class="tab-pane fade" id="nav-doc" role="tabpanel" aria-labelledby="nav-doc-tab">
 	<div class="container">
-	<h3 class="subtitle-general-fix">MANUALES POR CATEGORÍAS </h3>	
+	<h3 class="subtitle-general-fix">Manuales de Categorías </h3>	
 	</div>		
 	<div class="container" style="display:flex;align-items: center;justify-content: center;">
 	

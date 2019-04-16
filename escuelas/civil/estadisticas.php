@@ -28,12 +28,12 @@
 					  <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 					 	
 								  <tr>
-								    <th><b>Escuela</b></th>
-								    <th><b>Año</b></th>
-								    <th><b>Semestre</b></th>
-								    <th><b>Matriculados</b></th>
-								    <th><b>No Matriculados</b></th>
-								    <th><b>Total Ingresantes</b></th>
+								    <th><b class="title-table">Escuela</b></th>
+								    <th><b class="title-table">Año</b></th>
+								    <th><b class="title-table">Semestre</b></th>
+								    <th><b class="title-table">Matriculados</b></th>
+								    <th><b class="title-table">No Matriculados</b></th>
+								    <th><b class="title-table">Total Ingresantes</b></th>
 								  </tr>
 								  <tr>
 								    <td rowspan="18"><b>Ingeniería Cívil</b></td>
@@ -165,10 +165,10 @@
                 <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 					 	
 								  <tr>
-								    <th><b>Escuela</b></th>
-								    <th><b>Año</b></th>
-								    <th><b>Semestre</b></th>
-								    <th><b>Matriculados</b></th>
+								    <th><b class="title-table">Escuela</b></th>
+								    <th><b class="title-table">Año</b></th>
+								    <th><b class="title-table">Semestre</b></th>
+								    <th><b class="title-table">Matriculados</b></th>
 								  
 								  </tr>
 								  <tr>
@@ -276,10 +276,10 @@
                 <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 					 	
 								  <tr>
-								    <th><b>Escuela</b></th>
-								    <th><b>Año</b></th>
-								    <th><b>Semestre</b></th>
-								    <th><b>Egresados</b></th>
+								    <th><b class="title-table">Escuela</b></th>
+								    <th><b class="title-table">Año</b></th>
+								    <th><b class="title-table">Semestre</b></th>
+								    <th><b class="title-table">Egresados</b></th>
 								  
 								  </tr>
 								  <tr>
@@ -378,13 +378,13 @@
                 <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 								 <tr>
 								    <th rowspan="2" colspan="2"><b></b></th>
-								    <th colspan="3"><b>Años</b></th>
+								    <th colspan="3"><b class="title-table">Años</b></th>
 								  </tr>
 
 								  <tr>								   
-								    <th><b>2016</b></th>
-								    <th><b>2017</b></th>
-								     <th><b>2018</b></th>								  
+								    <th><b class="title-table">2016</b></th>
+								    <th><b class="title-table">2017</b></th>
+								     <th><b class="title-table">2018</b></th>								  
 								  </tr>
 
 								 <tr>
@@ -404,10 +404,10 @@
                 <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 					 	
 								  <tr>
-								    <th><b>Escuela</b></th>
-								    <th><b>Año</b></th>
-								    <th><b>Semestre</b></th>
-								    <th><b>Egresados</b></th>
+								    <th><b class="title-table">Escuela</b></th>
+								    <th><b class="title-table">Año</b></th>
+								    <th><b class="title-table">Semestre</b></th>
+								    <th><b class="title-table">Egresados</b></th>
 								  
 								  </tr>
 								  <tr>
@@ -511,8 +511,8 @@
                 <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 					 	
 								  <tr>
-								    <th rowspan="2" colspan="2"><b>Indicadores</b></th>
-								    <th colspan="2"><b>Cursos Académicos</b></th>
+								    <th rowspan="2" colspan="2"><b class="title-table">Indicadores</b></th>
+								    <th colspan="2"><b class="title-table">Cursos Académicos</b></th>
 								  </tr>
 								  <tr>
 								   
@@ -570,10 +570,10 @@
                 <table class="table table-bordered celda-style cabecera-style" style="background-color: white;">
 					 	
 								  <tr>
-								    <th><b>Escuela</b></th>
-								    <th><b>Año</b></th>
-								    <th><b>Semestre</b></th>
-								    <th><b>Cantidad</b></th>
+								    <th><b class="title-table">Escuela</b></th>
+								    <th><b class="title-table">Año</b></th>
+								    <th><b class="title-table">Semestre</b></th>
+								    <th><b class="title-table">Cantidad</b></th>
 								  
 								  </tr>
 								  <tr>

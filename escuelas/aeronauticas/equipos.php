@@ -3,7 +3,7 @@
     <h3 class="subtitle-general-fix" >Aeronaves</h3>
 
 
-    <b class="subtitle-general-fix" >CESSNA 172S</b>
+    <span class="text-fix-content" > <b> CESSNA 172S </b></span>
 
     <p class="text-fix-content">
     Es un avión de última generación adquirido desde nuevo por la universidad en el 2012. Cuenta con sistemas de navegación Garmin 1000, Piloto automático y visión sintética 3D. Dichos equipos ayudan a nuestros alumnos a familiarizarme con los sistemas más modernos usados en aviación comercial.
@@ -84,8 +84,8 @@
 
     
     <br>
-
-    <b class="subtitle-general-fix" >REDBIRD FMX</b>
+    <span class="text-fix-content" > <b> REDBIRD FMX </b></span>
+   
 
     <p class="text-fix-content">
     El FMX es el modelo insignia de la familia Redbird. Se trata de una calidad superior, de movimiento completo, certificado como dispositivo de aviación para entrenamiento avanzado por la FAA. REDBIRD FMX es usado por las mejores escuelas y universidades en el mundo. Cuenta con una cabina completamente cerrada, que puede simular hasta 3 tipos de aeronaves, el entrenamiento en basado en escenarios reales y, por supuesto, una plataforma de movimiento eléctrico, el FMX ofrece un nivel de realismo que simplemente no está disponible en otros dispositivos de entrenamiento en el mercado.

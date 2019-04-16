@@ -9,158 +9,183 @@
         </button>
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
-                            <h6>Título I : Disposiciones Generales</h6> <br>
-                            <h6>Capítulo I: Base Legal</h6>
-                            Artículo 1.- Fundamento Jurídico – Normativo <br> <br>
+              <h6 class="subtitle-general-fix mt-3">Reglamento de Convalidación de Asignaturas</h6>
+              <p style="text-transform: uppercase;">(Aprobado por Resolución Rectoral Nro. 1180-2001-CU-R-USMP de fecha 27 de setiembre de 2001) 
+              </p>
+
+              <h6 class="subtitle-general-fix mt-2">Capítulo I <br>Naturaleza, Fines y Criterios de la Convalidación</h6>
+
+              <h6 class="subtitle-general-fix mt-4">Artículo 1°</h6>
+              Constituyen bases legales y normativas del presente Reglamento los dispositivos siguientes :
 
 
-                            <h6>Capítulo II: Generalidades</h6>
-                            Artículo 2.- De los Objetivos de la Oficina de Registros Académicos <br>
-                            Artículo 3.- De las Funciones de la Oficina de Registros Académicos <br> <br>
+              <ul class="fix-items-li mt-3 ml-5">
+                <li>Ley Universitaria, Ley N° 23733 (artículos 55° y 56°).</li>
+                <li>Estatuto de la Universidad de San Martín de Porres (artículos 15° - incs. A y 16°). Resolución Rectoral Nro. 658-2000-AU-R- SMP de 25 de agosto de 2000.</li>
+                <li>Reglamento de la Oficina de Admisión de la Universidad (artículo 9, último parágrafo; 53° -B): Resolución Rectoral Nro. 1033-2000-CU-R-SMP de 20 de diciembre de 2000.</li>
+                <li>Reglamento de la Oficina de Registros Académicos de la Universidad (artículos 93° a 110°). Resolución Rectoral Nro. 987-97-R-SMP de 30 de octubre de 1997.</li>
+                <li>Reglamento de Evaluación del Aprendizaje (artículo 6°). Resolución Rectoral Nro. 539-2000-CU-R-SMP de 3 de agosto de 2000.</li>
+                <li>Normas para Reactualización de Matrícula (artículo 2°). Resolución Rectoral N° 539-2000-CU-R-SMP de 3 de agosto de 2000.</li>
+              </ul>
 
 
-                            <h6>Capítulo III: de la Estructura de la Oficina de Registros Académicos</h6>
-                            Artículo 4.- De la Oficina de Registros Académicos <br>
-                            Artículo 5.- Del Jefe de la Oficina de Registros Académicos <br>
-                            Artículo 6.- Del personal de apoyo <br> <br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 2°</h6>
+              La convalidación de asignaturas es una actividad académico-administrativa que la Universidad ejecuta, a través de sus facultades, con el propósito de evaluar los expedientes, dar por cursadas y aprobadas las asignaturas y determinar la situación curricular de los alumnos que ingresen por la modalidad de Exoneración al Concurso Ordinario de Admisión por poseer Título Profesional o hayan realizado traslado interno o externo; y, de aquellos que soliciten reactualización de matrícula para adecuarlos a un Plan Curricular vigente.
+              .
+
+              <h6 class="subtitle-general-fix mt-4">Artículo 3°</h6>
+              Tienen derecho a solicitar convalidación de asignaturas : <br><br>
+              Los que posean Título Profesional o Grado Académico obtenidos en la Universidad, en otras universidades nacionales o extranjeras o en otros centros de educación de nivel superior reconocidos por la USMP. <br>
+              Quienes hayan aprobado en la Universidad, en otras universidades nacionales o extranjeras o en centros educativos de nivel superior, reconocidos por la Universidad, por lo menos dos (02) períodos lectivos semestrales completos o uno anual o (36) treinta y seis créditos. <br>
+              Quienes soliciten Reactualización de matrícula, debiendo tenerse en cuenta el tiempo transcurrido de haber dejado los estudios.
 
 
-                            <h6>Capítulo IV: de las Actividades Conexas con el Departamento Académico</h6>
-                            Artículo 7.- De la distribución horaria, del Plan de Estudios y los sílabos <br>
-                            Artículo 8.- De la distribución de aulas <br><br>
+
+              <h6 class="subtitle-general-fix mt-4">Artículo 4°</h6>
+              Son fines de la convalidación de asignaturas :
+              <ul class="fix-items-li ml-5">
+                <li>Revalidar las asignaturas y/o actividades curriculares aprobadas con similar denominación, contenido y peso en créditos, de acuerdo con el plan curricular vigente.</li>
+                <li>Ubicar al alumno ingresante, de acuerdo con la convalidación efectuada, en el ciclo académico que le corresponda del Plan Curricular vigente de la carrera.</li>
+              </ul>
 
 
-                            <h6>Capítulo V: de los Registros y Actas</h6>
-                            Artículo 9.- De los registros <br>
-                            Artículo 10.- De los Registros Provisionales <br>
-                            Artículo 11.- De los Registros Oficiales <br>
-                            Artículo 12.- De las Actas <br><br> <br>
-
-                            <hr>
-
-                            <h6>Titulo II : de la Matrícula</h6> <br>
-                            <h6>Capítulo I: Generalidades</h6>
-                            Artículo 13.- Naturaleza de la Matrícula  <br>
-                            Artículo 14.- Duración de la Matrícula <br>
-                            Artículo 15.- Efectos de la Matrícula <br>
-                            Artículo 16.- De la individualidad de la matrícula <br>
-                            Artículo 17.- Actos administrativos derivados de la matrícula <br>
-                            Artículo 18.- De la Ficha de Matrícula <br>
-                            Artículo 19.- Del Formato de la Ficha de Matrícula <br>
-                            Artículo 20.- Error en la Ficha de Matrícula <br>
-                            Artículo 21.- Pérdida del derecho de matrícula <br> <br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 5°</h6>
+              Son criterios para efectuar la convalidación de asignaturas : <br><br>
+              Similar denominación, contenido y peso en créditos de la asignatura. <br>
+              Denominación diferente, pero afinidad en cuanto a contenido temático como mínimo en un 70%, en relación con la asignatura a convalidar. <br>
+              Juicio de experto, cuando se trate de asignaturas de especialidad y él o los convalidadores no tengan los suficientes elementos de juicio académico para determinar la pertinencia o no derecho invocado. <br>
+              En el caso de haber aprobado dos asignaturas similares y/o afines, con menor peso en créditos al existente en la Facultad, se realizará la suma dándosele la equivalencia correspondiente. <br>
+              En caso de la Facultad de Medicina Humana sólo se podrá convalidas asignaturas aprobadas en los últimos tres (03) años; si hubieran sido aprobadas con una antigüedad de 3 a 5 años debería el postulante someterse a un examen de conocimientos de la respectiva asignatura.
 
 
-                            <h6>Capítulo II: de la Matrícula de los Alumnos Ingresantes a través del Concurso Ordinario de Admisión</h6>
-                            Artículo 22.- Naturaleza <br>
-                            Artículo 23.- De los requisitos para matricularse <br>
-                            Artículo 24.- Del trámite de la matrícula <br>
-                            Artículo 25 .-De la obligatoriedad de la matrícula <br> <br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 6°</h6>
+              Los calificativos serán tomados directamente del Certificado de Estudios original expedido por la Universidad o Instituto Superior de origen, siendo el único documento válido para la convalidación.
 
 
-                            <h6>Capítulo III: de las Matrícula de los Alumnos Ingresantes Exonerados del Concurso Ordinario de Admisión</h6>
-                            Artículo 26.- Naturaleza <br>
-                            Artículo 27.- De los requisitos para matricularse <br>
-                            Artículo 28.- De la convalidación de asignaturas <br> <br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 7°</h6>
+              Si el sistema de calificación acreditado en el Certificado de Estudios fuera centesimal o literal, para efectos de convalidación, deberá ser convertido mediante una tabla de equivalencias al sistema vigesimal.
 
 
-                            <h6>Capítulo IV: de la Matrícula de los Alumnos Regulares</h6>
-                            Artículo 29.- Naturaleza <br>
-                            Artículo 30.- Condiciones del alumno regular <br>
-                            Artículo 31.- Del Procedimiento de la matrícula <br>
-                            Artículo 32.- De la matrícula en asignaturas de diferentes ciclos <br>
-                            Artículo 33.- De la matrícula de extemporáneos <br>
-                            Artículo 34.- De la Ampliación de créditos <br> <br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 8°</h6>
+              Para la calificación con sistema centesimal, se toma en cuenta que la nota aprobatoria mínima es de cincuenta y cinco (55) equivalente a once (11), y las demás notas se van computando de cinco en cinco para adaptarse al sistema vigesimal.
+
+              <h6 class="subtitle-general-fix mt-4">Artículo 9°</h6>
+              Para la calificación con sistema literal, se aplica el Sistema Americano de Equivalencias, que considera la siguiente escala cualitativa :
+              <br><br>
+              <ul class="fix-items-li   ml-5">
+                <li>E = Desaprobado</li>
+                <li>D = Deficiente</li>
+                <li>C = Regular</li>
+                <li>B = Bien</li>
+                <li>A = Excelente</li>
+              </ul>
 
 
-                            <h6>Capítulo V: de la Matrícula de los Alumnos Especiales</h6>
-                            Artículo 35.- Naturaleza <br>
-                            Artículo 36.- Casos de Matrículas Especiales <br>
-                            Artículo 37.- De la Matrícula Especial Simple <br>
-                            Artículo 38.- De los requisitos <br> <br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 10°</h6>
+              Reducido el sistema literal al vigesimal, resultan las siguientes equivalencias :
 
 
-                            <h6>Capítulo VI: del Retiro de Ciclo</h6>
-                            Artículo 39.- Naturaleza <br>
-                            Artículo 40.- Requisitos especiales <br>
-                            Artículo 41.- Del otorgamiento y los efectos del retiro de ciclo <br>
-                            Artículo 42.- De la reincorporación a la Universidad <br> <br>
+              <br><br>
+              <ul class="fix-items-li   ml-5">
+                <li>E = 0 - 10</li>
+                <li>D = 11 - 12</li>
+                <li>C = 13 - 15</li>
+                <li>B = 16 - 18</li>
+                <li>A = 19 - 20</li>
+              </ul>
+              
 
 
-                            <h6>Capítulo VII: de la Reserva de Matrícula</h6> 
-                            Artículo 43.- Naturaleza  <br>
-                            Artículo 44.- Requisitos para acogerse a la Reserva de Matrícula <br>
-                            Artículo 45.- Del otorgamiento del derecho de Reserva de Matrícula <br>
-                            Artículo 46.- Del reincorporación a la Universidad <br> <br>
+              <h6 class="subtitle-general-fix mt-4 ">Artículo 11°</h6> 
+              En el caso singular que figuren en los certificados de estudios, en vez de la calificación numérica o literal, la palabra “convalidado” queda autorizado el convalidador a tomar como fuente de referencia la nota numérica de la institución de origen que dio lugar a la palabra o expresión similar “convalidado”. Igual si apareciera en el Certificado de Estudios la palabra “aprobado” “ desaprobado”. 
+
+              <br><br>
+              <hr>
 
 
-                            <h6>Capítulo VIII: de la Reactualización de Matrícula</h6> 
-                            Artículo 47.- Naturaleza <br>
-                            Artículo 48.- Requisitos en la Reactualización de matrícula <br>
-                            Artículo 49.- Del procedimiento en la Reactualización de Matrícula <br>
-                            Artículo 50.- De la Convalidación de Estudios <br> <br> <br>
+              <!--- GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
 
-                            <hr>
+              <h6 class="subtitle-general-fix mt-5">Capítulo II <br>De los Requisitos</h6>
 
-
-                            <h6>Titulo III : Otros Actos Administrativos</h6> <br>
-                            <h6>Capítulo I: del Promedio Ponderado</h6>
-                            TERCIO Y QUINTO SUPERIOR <br>
-                            Artículo 51.- Del promedio ponderado <br>
-                            Artículo 52.- Tercio y Quinto Superior <br><br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 12°</h6>
+              Los alumnos de la Universidad de San Martín de Porres sólo podrán solicitar convalidaciones de asignaturas, en caso de haber realizado traslado interno o solicitar Reactualización de matrícula, en las siguientes circunstancias :
+              <ul class="fix-items-li   ml-5">
+                <li>Cuando se inician los estudios de un semestre lectivo.</li>
+                <li>Cuando se matriculan por primera vez en la Facultad correspondiente.</li>
+              </ul>
 
 
-                            <h6>Capítulo II: de los Exámenes de Subsanación </h6>
-                            Artículo 53.- Del examen de subsanación  <br>
-                            Artículo 54.- Requisitos de Examen de Subsanación <br>
-                            Artículo 55.- Del otorgamiento del examen de subsanación <br> <br>
+
+              <h6 class="subtitle-general-fix mt-4">Artículo 13°</h6>
+              Para solicitar la convalidación el alumno de nuestra Universidad debe :
 
 
-                            <h6>Capítulo III: de los Exámenes de Aplazados</h6>
-                            Artículo 56.- De los exámenes de aplazados <br> 
-                            Artículo 57.- Requisitos del examen de aplazados <br> <br>
+              <ul class="fix-items-li   ml-5">
+                <li>Presentar los certificados de estudios originales emitidos por la Facultad de procedencia.</li>
+                <li>Sílabos de las asignaturas por convalidar, sellados y firmados por el Secretario de la Facultad de origen, sólo en caso de traslados.</li>
+                <li>Efectuar el trámite dentro de las fechas establecidas en el cronograma de matrícula respectivo.</li>
+              </ul>
 
 
-                            <h6>Capítulo IV: Curso de Nivelación </h6>
-                            Artículo 58.- Naturaleza <br>
-                            Artículo 59.- De la proyección y programación del Curso de Nivelación  <br>
-                            Artículo 60.- Requisitos para la matrícula en el Curso de Nivelación  <br>
-                            Artículo 61.- De la responsabilidad de los docentes <br> <br>
+
+              <h6 class="subtitle-general-fix mt-4">Artículo 14°</h6>
+              A los alumnos que provienen de universidades nacionales o privadas por traslado externo, se les exige :
+
+              <ul class="fix-items-li   ml-5">
+               <li>Certificados de Estudios originales debidamente autenticados.</li>
+               <li>Los sílabos de las asignaturas por convalidar, debidamente autenticados por la Secretaría de la Facultad respectiva.</li>
+              </ul>
 
 
-                            <h6>Capitulo V: de las Renuncias a la Universidad</h6>
-                            Artículo 62.- De la renuncia a la Universidad <br>
-                            Artículo 63.- De los requisitos <br><br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 15°</h6>
+              A los alumnos que provienen de institutos superiores se les exige los siguientes documentos :
 
 
-                            <h6>Capítulo VI: de los Tramites Documentarios en la Oficina de Registros Académicos</h6> 
 
-                            Artículo 64.- De los Trámites Documentarios  <br>
-                            Artículo 65.- De la Constancia de Estudio <br>
-                            Artículo 66- De los Certificados de Estudio  <br>
-                            Artículo 67.- Del Duplicado de la Constancia de Matrícula <br>
-                            Artículo 68.- De la Constancia de Notas <br>
-                            Artículo 69.- De la Constancia de Egresado <br>
-                            Artículo 70.- Del Duplicado del Carné Universitario <br>
-                            Artículo 71.- Del Record Académico <br>
-                            Articulo 72.- Del cambio de turno o aula. <br>
-                            Artículo 73.- De la constancia de orden de mérito y promedio ponderado <br>
-                            Artículo 74.- De la Constancia de Tercio o Quinto Superior <br>
-                            Artículo 75.- De la Constancia de Conducta <br>
-                            Artículo 76.- De la Carta de Presentación <br>
-                            Artículo 77.- De la Carta de Prácticas Pre-Profesionales <br>
-                            Artículo 78.- De la Carta de Visita <br>
-                            Artículo 79.- De la Constancia de Biblioteca <br> <br> <br>
-
-                            <hr>
+              <ul class="fix-items-li   ml-5">
+               <li>Título Profesional debidamente autenticado por la institución de origen, si el ingreso fuera por la modalidad de Complementación Académica.</li>
+               <li>Certificados originales de los estudios profesionales.</li>
+               <li>Sílabos de las asignaturas por convalidar debidamente autenticados por la oficina correspondiente.</li>
+              </ul>
 
 
-                            <h6>Disposiciones Complementarias</h6>
 
-                            Artículo 80.- De los casos no previstos <br> <br> <br>
+              <h6 class="subtitle-general-fix mt-4">Artículo 16°</h6>
+              A los alumnos que provienen de universidades extranjeras se les exige :
 
-                            <hr>
-                            <a href="legal/legalmodelo.php" ><h6>Disposiciones Finales</h6></a>
+              <ul class="fix-items-li   ml-5">
+                <li>Acreditación de la Universidad de origen.</li>
+                <li>Certificado de Estudios visados por el Ministerio de Relaciones Exteriores del país de origen y el Consulado respectivo y traducidos oficialmente al español cuando sea necesario.</li>
+                <li>Sílabos de las asignaturas por convalidar debidamente autenticados por la institución.</li>
+                <li>Documento de residencia en el Perú debidamente certificada.</li>
+                <li>Dominio del Idioma.</li>
+              </ul>
+
+
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       </div>
       <div class="modal-footer">
         <small>Oficina de Registros Académicos</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>

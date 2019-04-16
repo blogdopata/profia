@@ -49,8 +49,7 @@
                 </h3>
 
               
-                <p class="text-fix-content"> <strong> Conoce los servicios de la FIA</strong><br> Un nuevo ciclo ha empezado, una nueva oportunidad para dar lo mejor de tí y la Facultad de Ingeniería y Arquitectura (FIA) te brinda las herramientas para que puedeas lograrlo. </p>
-         
+               
             </div>
         </div> 
     </div>
@@ -140,7 +139,7 @@
                             </div>
                         
                         </div>
-                        <a  href="https://campusvirtual.usmp.edu.pe" target="_blank">Campus virtual</a>
+                        <a  href="https://campusvirtual.usmp.edu.pe" target="_blank">Campus Virtual</a>
 
                     </div>
                     <div class="col-6 col-md-3 text-center" >
@@ -154,7 +153,7 @@
                             </div>
                             
                         </div>
-                        <a href="http://usmp.edu.pe/categorizacion/" target="_blank">  Categorización </a>
+                        <a href="http://usmp.edu.pe/categorizacion/" target="_blank">  Unidad de Categorización </a>
                     </div>
               
                     <div class="col-6 col-md-3 text-center" >
@@ -213,7 +212,7 @@
                           </div>
                         
                       </div>
-                      <a href="http://outlook.com/usmp.pe" target="_blank">  Correo institucional </a>
+                      <a href="http://outlook.com/usmp.pe" target="_blank">  Correo Institucional </a>
                   </div>
 
 
@@ -261,7 +260,7 @@
                             </div>
                             
                         </div>
-                        <a href="servicios/gimnasio.php" target="_blank">  Gimnasio </a>
+                        <a href="servicios/gimnasio.php" target="_blank">  Gimnasio y Coliseo </a>
                     </div>
 
                 </div>
@@ -278,7 +277,7 @@
                         </div>
                         
                     </div>
-                    <a href="#" target="_blank"> Guía estudiantil </a>
+                    <a href="#" target="_blank"> Guía Estudiantil </a>
                 </div>
 
                 <div class="col-6 col-md-3 text-center" >
@@ -292,7 +291,7 @@
                         </div>
                         
                     </div>
-                    <a href="http://filialnorte.usmp.edu.pe/pdf/manuales/Manual_Portal_Acad%C3%A9mico_[Alumno].pdf" target="_blank">  Manual Portal </a>
+                    <a href="http://filialnorte.usmp.edu.pe/pdf/manuales/Manual_Portal_Acad%C3%A9mico_[Alumno].pdf" target="_blank">  Manual del Portal Académico </a>
                 </div>
 
 
@@ -308,7 +307,7 @@
                         </div>
                         
                     </div>
-                    <a href="http://www.usmp.edu.pe/portalacademico" target="_blank"> Portal académico </a>
+                    <a href="http://www.usmp.edu.pe/portalacademico" target="_blank"> Portal Académico </a>
                 </div>
 
                 <div class="col-6 col-md-3 text-center">
@@ -351,7 +350,7 @@
                             </div>
                             
                         </div>
-                        <a  href="#">Programas virtuales</a>
+                        <a  href="#">Programas Virtuales</a>
 
                     </div>
 
@@ -368,7 +367,7 @@
                             </div>
                             
                         </div>
-                        <a href="http://www.usmp.edu.pe/proFIA/reglamentos.php" target="_blank">  Reglamento alumnos </a>
+                        <a href="http://www.usmp.edu.pe/proFIA/reglamentos.php" target="_blank"> Reglamento de Difusión para el alumnado </a>
                     </div>
 
                 

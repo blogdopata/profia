@@ -14,26 +14,26 @@
         </button>
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
-                                    <h6>Directivas</h6>
-                                    <br>
-                                    <div class="listaperfil">
-                                      <ul class="ml-5 mr-1">
+                                    <h6 class="subtitle-general-fix mt-3">Directivas</h6>
+                                    
+                                    
+                                      <ul class="ml-5 mr-1 fix-items-li">
                                         <li>El alumno que solicite el retiro de uno o mas cursos, lo podrá hacer hasta la fecha de inicio de exámenes parciales.</li>
-                                        <li>Éste retiro del curso, no generará disminución alguna en el pago de la pensión establecida (Titulo II de la matricula, Capitulo I Generalidades, Artículo 15, inciso del Reglamento de la Oficina de Registros Académicos).</li>
+                                        <li>Este retiro del curso no generará disminución alguna en el pago de la pensión establecida (Título II de la matrícula, Capítulo I Generalidades, Artículo 15, inciso del Reglamento de la Oficina de Registros Académicos).</li>
                                         <li>Si el alumno se ha matriculado en cursos desaprobados en el semestre anterior, no podrá solicitar el retiro de tales cursos.</li>
                                       </ul>
-                                    </div>
-                                    <br><hr><br>
-                                    <h6>Requisitos :</h6>
-                                    <br>
-                                    <div class="listaperfil2">
-                                      <ul class="ml-5 mr-1">
+                                    
+                                    <hr>
+                                    <h6 class="subtitle-general-fix ">Requisitos :</h6>
+                                    
+                                    
+                                      <ul class="ml-5 mr-1 fix-items-li">
                                         <li>Solicitud valorada dirigida.</li>
                                         <li>Recibo por el derecho, cancelado.</li>
                                         <li>Constancia de Matrícula.</li>
                                         <li>No estar con Compromiso de Excepción.</li>
                                       </ul>
-                                    </div>
+                                    
       </div>
       <div class="modal-footer">
         <small>Oficina de Registros Académicos</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>

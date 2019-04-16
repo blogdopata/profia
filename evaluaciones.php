@@ -97,12 +97,12 @@
                                     <p  class="text-fix-content">
                                     La Oficina de Coordinación Académica es una dependencia del Decanato y es el nexo principal entre la Facultad, los alumnos, sus docentes y el público en general.  </p>
                                     <p class="text-fix-content">
-                                    Con el fin de garantizar la calidad de la enseñanza, provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.
+                                    Con el fin de garantizar la calidad de la enseñanza provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.
                                     </p>  
 
                                     <p class="text-fix-content">
 
-                                    Encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas.
+                                    Es la oficina encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas.
                                     </p>
                                 </div>
                             </div>

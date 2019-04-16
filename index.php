@@ -13,7 +13,7 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- cambiar a serv-web para  pruebas local-->
-  <link rel="stylesheet" href="http://usmp.edu.pe/proFIA/css/style.css">
+  <link rel="stylesheet" href="css/style.css">
     
 
 
@@ -66,7 +66,7 @@
                             <div class="hero-slides-content"   >
                                 <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms"  class="ml-5" >FIA USMP</h4> -->
                                 <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">AMA LO QUE HACES, <br>APRENDE CÓMO.</h2>
-                                <a href="http://admision.usmp.edu.pe/" class="ml-5 btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
+                                <a href="http://admision.usmp.edu.pe/"  target="_blank" class="ml-5 btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
                             </div>
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                             <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <img style="height:50px;" src="img/licenciados.png" alt="">
-                                    <h5 style="font-family:Roboto Condensed">Licenciados <br> SUNEDU</h5>
+                                    <h5 style="font-family:Roboto Condensed">Licenciados por la <br> SUNEDU</h5>
                                 </div>
                             </div>
                         </div>
@@ -243,9 +243,9 @@
                             <h6 class="text-white pb-2">CÉSAR ALFREDO BEZADA SÁNCHEZ</h6>
                             <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
                             <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
-                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b>Proyectos de Gloria S.A.</b></li>
+                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b class="bold-w">Proyectos de Gloria S.A.</b></li>
                         
-                                <li >Ex-Consultor del <b>Banco Mundial[BIRF]-SINEACE.</b> </li>
+                                <li >Ex-Consultor del <b class="bold-w">Banco Mundial [BIRF] -SINEACE.</b> </li>
                             </ul>
                             
                         </div>
@@ -265,9 +265,9 @@
                             <h6 class="text-white pb-2">LESLIA TALAVERA GUEVARA</h6>
                             <span class="bg-white py-1 px-3"> Arquitectura</span>
                             <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
-                                <li class="mb-2 " >Actualmente dirige la empresa de arquitectura, diseño y construcción <b> Spazioscrea2.</b></li>
+                                <li class="mb-2 " >Actualmente dirige la empresa de arquitectura, diseño y construcción <b class="bold-w"> Spazioscrea2.</b></li>
                         
-                                <li>Ex Gerente de Proyectos en <b> Álvarez Maza Diseño y Producción E.I.R.L. </b> </li>
+                                <li>Ex Gerente de Proyectos en <b class="bold-w"> ÁLVAREZ MAZA Diseño y Producción E.I.R.L. </b> </li>
                             </ul>
                             
                         </div>
@@ -286,9 +286,9 @@
                             <h6 class="text-white pb-2">SEBASTIAN BURGOS DÍAZ</h6>
                             <span class="bg-white py-1 px-3"> Ingeniería de Computación y Sistemas</span>
                             <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
-                                <li class="mb-2 " >Actualmente labora como Software Architect en <b> Fandango.</b></li>
+                                <li class="mb-2 " >Actualmente labora como Software Architect en <b class="bold-w"> Fandango.</b></li>
                          <br>
-                                <li>Ex Analista y Desarrollador de software en <b>Cinepapaya. </b> </li>
+                                <li>Ex Analista y Desarrollador de Software en <b class="bold-w">Cinepapaya. </b> </li>
                             </ul>
                   
                         </div>
@@ -325,14 +325,14 @@
                 <div class="col-12 col-lg-4 mt-lg-0 mt-2"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 8</span> 
-                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
+                            <span style="font-size:40px;font-weight:bold"> 15</span> 
+                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Charla: Evalúa la adquisición de tu laptop</h6> 
+                            <h6 class="agenda-title">Encuentro Cultural: <br>Ingresantes en acción</h6> 
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>   <br>
-                            <span class="agenda-info">Hora: 09:00 a 14:00 h</span>   <br>
-                            <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span>  <br>
+                            <span class="agenda-info">Hora: 12:00 a 14:00 h</span>   <br>
+                            <span class="agenda-info ">  <strong>    jlopezg@usmp.pe </strong></span>  <br>
                             <a href="https://www.facebook.com/epufia/photos/pcb.2092910370745201/2092906767412228/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -343,14 +343,14 @@
                 <div class="col-12 col-lg-4 mt-lg-0 mt-2"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span class="agenda-day"> 15</span> 
-                            <span class="agenda-mes" >MARZO</span> 
+                            <span class="agenda-day"> 16</span> 
+                            <span class="agenda-mes" >ABRIL</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Visitas guiadas</h6>
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
+                            <h6 class="agenda-title">Salud: <br>Campaña Gratuita de Salud</h6>
+                            <span class="agenda-info">Lugar: Campus FIA</span>   <br>
                             <span class="agenda-info">Hora: 09: 00 a 17:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    comarkfia@usmp.pe</strong></span> <br>
+                            <span class="agenda-info ">  <strong>    obu_fia@usmp.pe</strong></span> <br>
                             <a href="#" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -361,32 +361,14 @@
                 <div class="col-12 col-lg-4 mt-lg-0 mt-2 "  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 16</span> 
-                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
+                            <span style="font-size:40px;font-weight:bold"> 17</span> 
+                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Curso: Excel básico</h6>
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
-                            <span class="agenda-info">Hora: 09:00 a 14:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span> <br>
-                            <a href="#" class="agenda-text-info">Más información</a>
-                        </div>   
-                    </div>
-                </div>
-                
-                <!-- Single Top Popular Course -->
-
-                <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 16</span> 
-                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Taller: Proyect básico</h6>
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
-                            <span class="agenda-info">Hora: 09:00 a 14:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span> <br>
+                            <h6 class="agenda-title">Taller: <br>Automatización industrial</h6>
+                            <span class="agenda-info">Lugar: 06 - A2 / Laboratorios</span> <br>
+                            <span class="agenda-info">Hora: 09:30 a 12:30 h</span> <br>
+                            <span class="agenda-info ">  <strong>    jlopezg@usmp.pe </strong></span> <br>
                             <a href="#" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -398,13 +380,31 @@
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 23</span> 
-                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
+                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Curso: Excel intermedio</h6>
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
-                            <span class="agenda-info">Hora: 09:00 a 11:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    epufia@usmp.pe </strong></span> <br>
+                            <h6 class="agenda-title">Audiencia Pública: <br>ACSUG - EPIC</h6>
+                            <span class="agenda-info">Lugar: Auditorio FIA DATA</span> <br>
+                            <span class="agenda-info">Hora: 15:45 a 16:15 h</span> <br>
+                            <span class="agenda-info ">  <strong>    enunezg@usmp.pe </strong></span> <br>
+                            <a href="#" class="agenda-text-info">Más información</a>
+                        </div>   
+                    </div>
+                </div>
+                
+                <!-- Single Top Popular Course -->
+
+                <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 24</span> 
+                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Conferencia: <br>Historia de la Aviación en Lima</h6>
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
+                            <span class="agenda-info">Hora: 10:00 a 12:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>    jlopezg@usmp.pe </strong></span> <br>
                             <a href="https://www.facebook.com/epufia/photos/a.261123367257253/2100096210026617/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -415,14 +415,14 @@
                 <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 26</span> 
-                            <span style="font-size:26px;font-weight:bold">MARZO</span> 
+                            <span style="font-size:40px;font-weight:bold"> 24</span> 
+                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Visitas guiadas</h6>
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>
-                            <span class="agenda-info">Hora: 09:00 a 17:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>cormakfia@usmp.pe </strong></span> <br>
+                            <h6 class="agenda-title">Seminario: <br>Deshidratación de alimentos</h6>
+                            <span class="agenda-info">Lugar: 06-A1 / Laboratorios</span> <br>
+                            <span class="agenda-info">Hora: 09:30 a 12:30 h</span> <br>
+                            <span class="agenda-info ">  <strong>    jlopezg@usmp.pe </strong></span> <br>
                             <span><a href="#" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>

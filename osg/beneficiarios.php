@@ -18,9 +18,8 @@
         <br>
       
         <h6 style="font-size:2em;">Beneficiarios:</h6> <br> 
-        <br>
-        <br>
-        <br>
+        
+        
         <div class="listafia">
           <ul style="margin-left:30px;">
               <br>
