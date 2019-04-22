@@ -105,7 +105,7 @@
 
         <li>
           <a href="../pdf/graduados/Titulo-Profesional.pdf" target="_blank">
-           <i class="fa fa-check"></i> Requisitos y trámite Documentario para La obtención del Título Profesional
+           <i class="fa fa-check"></i> Requisitos y trámite Documentario para la obtención del Título Profesional
           </a>
         </li>
         <li>

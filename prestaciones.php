@@ -238,13 +238,13 @@
                     <div class="col-6 col-md-3 text-center">
                         <div class="team-members">
                             <div >
-                                <a href="#">
+                                <a href="http://www.usmp.edu.pe/fondo_editorial/" target="_blank">
                                         <img class="img-fluid" src="img/prestaciones/servicios/fondo-editorial.jpg" alt="">   
                                 </a>
                             </div>
                             
                         </div>
-                        <a  href="#">Fondo Editorial</a>
+                        <a  href="http://www.usmp.edu.pe/fondo_editorial/" target="_blank">Fondo Editorial</a>
 
                     </div>
 
@@ -344,13 +344,13 @@
                     <div class="col-6 col-md-3 text-center">
                         <div class="team-members">
                             <div >
-                                <a href="#">
+                                <a href="http://www.usmpvirtual.edu.pe/" target="_blank">
                                         <img class="img-fluid" src="img/prestaciones/servicios/programas-virtuales.jpg" alt="">   
                                 </a>
                             </div>
                             
                         </div>
-                        <a  href="#">Programas Virtuales</a>
+                        <a  href="http://www.usmpvirtual.edu.pe/" target="_blank">Programas Virtuales</a>
 
                     </div>
 

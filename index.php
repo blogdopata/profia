@@ -13,15 +13,18 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- cambiar a serv-web para  pruebas local-->
-  <link rel="stylesheet" href="css/style.css">
+   
+   
+   
+   
+   
+    <link rel="stylesheet" href="css/style.css">
     
-
-
 
     <!-- poner url absoluta en cuando este en servidor 
     <link rel="stylesheet" href="http://serv-web/Newweb/proFIA/css/style.css">-->
 
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
+ <!--   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet"> -->
 
 </head>
 
@@ -44,12 +47,12 @@
 
 
             <!-- Imagen del slider de fondo n°1 -->
-            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-2.jpg);">
+            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-2.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">FIA USMP</h4>
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
                                 <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">35 AÑOS FORMANDO  <br>PROFESIONALES.</h2>
                             </div>
                         </div>
@@ -59,7 +62,7 @@
 
 
             <!-- Imagen del slider de fondo n°2 -->
-            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-5.jpg);">
+            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-5.jpg); background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
@@ -137,11 +140,11 @@
     <!-- ##### Top Feature Area End ##### -->
 
     <!-- ##### Course Area Start ##### -->
-    <div class="academy-courses-area mt-5"  >
+    <div class="academy-courses-area mt-0 mt-lg-5"  >
         <div class="container" style='max-width:60%;' >
             <div class="row" >
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4 text-center"   >
+                <div class="col-6 col-sm-6 col-lg-4 text-center"   >
 
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="300ms">
                         <div >
@@ -154,7 +157,7 @@
                 </div>
 
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4 text-center"    >
+                <div class="col-6 col-sm-6 col-lg-4 text-center"    >
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="400ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/">
@@ -165,7 +168,7 @@
                     </div>
                 </div>
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4 text-center"   >
+                <div class="col-6 col-sm-6 col-lg-4 text-center"   >
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="500ms">
                         <div>
                             <a target="_blank" href="http://fia.usmp.trabajando.pe/">
@@ -176,7 +179,7 @@
                     </div>
                 </div>
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4 text-center" >
+                <div class="col-6 col-sm-6 col-lg-4 text-center" >
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="600ms" >
                         <div>
                             <a target="_blank" href="http://ingles.usmp.edu.pe/">
@@ -188,7 +191,7 @@
                 </div>
                 
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4 text-center">
+                <div class="col-6 col-sm-6 col-lg-4 text-center">
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.sibus.usmp.edu.pe/">
@@ -199,7 +202,7 @@
                     </div>
                 </div>
                 <!-- Single Course Area -->
-                <div class="col-12 col-sm-6 col-lg-4 text-center">
+                <div class="col-6 col-sm-6 col-lg-4 text-center">
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/proFIA/servicios/bienestar.php">
@@ -243,7 +246,7 @@
                             <h6 class="text-white pb-2">CÉSAR ALFREDO BEZADA SÁNCHEZ</h6>
                             <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
                             <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
-                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b class="bold-w">Proyectos de Gloria S.A.</b></li>
+                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b class="bold-w">Proyectos de Gloria S.A.</b></li> <br>
                         
                                 <li >Ex-Consultor del <b class="bold-w">Banco Mundial [BIRF] -SINEACE.</b> </li>
                             </ul>
@@ -254,7 +257,7 @@
 
                 
                 <!-- Single Testimonials Area -->
-                <div class="col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
+                <div class="d-none d-md-block col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
 
                     <div  class="bg-destacado pb-4">
 
@@ -275,7 +278,7 @@
                 </div>
 
                   <!-- Single Testimonials Area -->
-                <div class="col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
+                <div class="d-none d-md-block col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
 
                     <div  class="bg-destacado pb-4">
 
@@ -332,7 +335,7 @@
                             <h6 class="agenda-title">Encuentro Cultural: <br>Ingresantes en acción</h6> 
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>   <br>
                             <span class="agenda-info">Hora: 12:00 a 14:00 h</span>   <br>
-                            <span class="agenda-info ">  <strong>    jlopezg@usmp.pe </strong></span>  <br>
+                            <span class="agenda-info ">  <strong>    <a href="mailto:jlopezg@usmp.pe">jlopezg@usmp.pe</a> </strong></span>  <br>
                             <a href="https://www.facebook.com/epufia/photos/pcb.2092910370745201/2092906767412228/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -350,7 +353,7 @@
                             <h6 class="agenda-title">Salud: <br>Campaña Gratuita de Salud</h6>
                             <span class="agenda-info">Lugar: Campus FIA</span>   <br>
                             <span class="agenda-info">Hora: 09: 00 a 17:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    obu_fia@usmp.pe</strong></span> <br>
+                            <span class="agenda-info ">  <strong>    <a href="mailto:obu_fia@usmp.pe">obu_fia@usmp.pe</a></strong></span> <br>
                             <a href="#" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -368,7 +371,7 @@
                             <h6 class="agenda-title">Taller: <br>Automatización industrial</h6>
                             <span class="agenda-info">Lugar: 06 - A2 / Laboratorios</span> <br>
                             <span class="agenda-info">Hora: 09:30 a 12:30 h</span> <br>
-                            <span class="agenda-info ">  <strong>    jlopezg@usmp.pe </strong></span> <br>
+                            <span class="agenda-info ">  <strong>   <a href="mailto:jlopezg@usmp.pe">jlopezg@usmp.pe</a> </strong></span> <br>
                             <a href="#" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -386,7 +389,7 @@
                             <h6 class="agenda-title">Audiencia Pública: <br>ACSUG - EPIC</h6>
                             <span class="agenda-info">Lugar: Auditorio FIA DATA</span> <br>
                             <span class="agenda-info">Hora: 15:45 a 16:15 h</span> <br>
-                            <span class="agenda-info ">  <strong>    enunezg@usmp.pe </strong></span> <br>
+                            <span class="agenda-info ">  <strong>    <a href="mailto:enunezg@usmp.pe ">enunezg@usmp.pe </a> </strong></span> <br>
                             <a href="#" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -404,7 +407,7 @@
                             <h6 class="agenda-title">Conferencia: <br>Historia de la Aviación en Lima</h6>
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
                             <span class="agenda-info">Hora: 10:00 a 12:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    jlopezg@usmp.pe </strong></span> <br>
+                            <span class="agenda-info ">  <strong>    <a href="mailto:jlopezg@usmp.pe">jlopezg@usmp.pe</a> </strong></span> <br>
                             <a href="https://www.facebook.com/epufia/photos/a.261123367257253/2100096210026617/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -422,7 +425,7 @@
                             <h6 class="agenda-title">Seminario: <br>Deshidratación de alimentos</h6>
                             <span class="agenda-info">Lugar: 06-A1 / Laboratorios</span> <br>
                             <span class="agenda-info">Hora: 09:30 a 12:30 h</span> <br>
-                            <span class="agenda-info ">  <strong>    jlopezg@usmp.pe </strong></span> <br>
+                            <span class="agenda-info ">  <strong>    <a href="mailto:jlopezg@usmp.pe">jlopezg@usmp.pe</a> </strong></span> <br>
                             <span><a href="#" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
@@ -430,13 +433,13 @@
                 
                 <!-- Single Top Popular Course -->
 
-
-
-
             </div>
         </div>
     </div>
-    
+     <div id="lol">
+
+            <!-- {{titulo}} -->
+     </div>   
     <footer class="footer-area">
        
        <?php include_once('blocks/footer.html') ?>
@@ -454,6 +457,23 @@
     <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
     <!-- Active js -->
     <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+
+    <script>
+        
+        
+        var app = new Vue({
+            el : '#lol',
+            data: {
+                titulo: ' wtf '
+
+
+            }
+        })
+    
+    
+    </script>
 </body>
 
 </html>

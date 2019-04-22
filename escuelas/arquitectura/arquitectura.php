@@ -69,10 +69,9 @@
                         
                         <a class="nav-link" id="nav-campo-tab" data-toggle="pill" href="#nav-campo" role="tab" aria-controls="nav-campo" aria-selected="false">Campo Ocupacional</a>
 
+                        <a class="nav-link" data-toggle="pill" target="_blank" href="#nav-manual" role="tab" aria-controls="nav-manual" aria-selected="false" >Manual de Calidad</a>
+
                         <a class="nav-link" id="nav-convenios-tab" data-toggle="pill" href="#nav-convenios" role="tab" aria-controls="nav-convenios" aria-selected="false">Convenios</a>
-
-                        <a class="nav-link" id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
-
 
                         <a class="nav-link " id="nav-laboratorio-tab" data-toggle="pill" href="#nav-laboratorio" role="tab" aria-controls="nav-laboratorio" aria-selected="false">Laboratorios</a>
 
@@ -80,7 +79,9 @@
 
                         <a class="nav-link " id="nav-graduados-tab" data-toggle="pill" href="#nav-graduados" role="tab" aria-controls="nav-graduados" aria-selected="false">Graduados exitosos</a>
 
-                    
+                        <a class="nav-item nav-link " id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
+
+                        <a class="nav-link" id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
                     
 
                         <a class="nav-link ult-item"  target="_blank"  href="http://admision.usmp.edu.pe/" >Admisión</a>
@@ -242,7 +243,10 @@
                    <b>Grados y Títulos que se otorgan : </b>  <br>
                     <b>Grado : </b> Bachiller en Arquitectura  <br>
                     <b>Título :  </b>Arquitecto  <br>
-                    <b>Duración:  </b>10 semestres  <br>
+                    <b>Duración :  </b>10 semestres  <br>
+                    <b>Tipo de enseñanza : </b>Presencial<br> 
+                    <b>Régimen de estudios : </b>Semestral <br>
+                    <b>Idioma : </b>Español <br>
                                 </p>
                     <p class="text-fix-content"> 
                     De acuerdo a leyes vigentes nuestro régimen académico de enseñanza es presencial y de régimen semestral, permitiendo fundamentalmente el desarrollo del plan de estudio.
@@ -448,9 +452,22 @@
                         <li> Laboratorio de Construcción</li>
                         <li> Laboratorio de Informática</li>
                     </ul>
+
+                    <div class="container">
+                        <?php include('fotosarqui.php') ?>
+                    </div>
                    
                 </div> 
                         <!-- FIN LABORATORIO -->
+                         <!-- Contenido tab Contactos --> 
+                  <div class="tab-pane fade" id="nav-contacto" role="tabpanel" aria-labelledby="nav-contacto-tab">
+                    
+
+                    <?php include('contacto.php') ?>
+
+                   <!-- FIN Contenido tab Contactos --> 
+                    
+                </div>
 
                     <!-- INICIO Contenido tab servicios--> 
                     <!--
@@ -573,6 +590,24 @@
                     </div> 
 
                  <!--  FIN  Graduados -->
+
+
+                 <!-- Contenido tab manual --> 
+
+                 <div class="tab-pane fade" id="nav-manual" role="tabpanel" aria-labelledby="nav-manual-tab">
+                        <div class="container">
+                            
+                            <h2 class="subtitle-general-fix">Manual de Calidad</h2></br> 
+                        <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="http://usmp.edu.pe/proFIA/pdf/manual_calidad.pdf" allowfullscreen id="archivo"></iframe> 
+                        </div> 
+                        <br>
+                        <br><br>
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab  manual --> 
 
 
         </section>

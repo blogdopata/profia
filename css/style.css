@@ -12,7 +12,11 @@
 
 
 
-/* @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed'); */
+
+
+/* -------- FUENTES -------- */ 
+
+
 @import url("http://www.usmp.edu.pe/proFIA/fonts/robotocondensed.woff2");
 
 @font-face {
@@ -21,21 +25,33 @@ src: url("http://www.usmp.edu.pe/proFIA/fonts/robotocondensed.woff2");
 }
 
 
-
 @import url("http://www.usmp.edu.pe/proFIA/fonts/roboto.woff2");
 
 @font-face {
 font-family: "Roboto";
 src: url("http://www.usmp.edu.pe/proFIA/fonts/roboto.woff2");
 }
-/*FUENTES */
+
+
+@import url("http://www.usmp.edu.pe/proFIA/fonts/Roboto-Bold.woff2");
+
+@font-face {
+  font-family: "RobotoBold";
+  src: url("http://www.usmp.edu.pe/proFIA/fonts/roboto.woff2");
+  }
+
+
+/* -------- FIN FUENTES --------- */
+
+
+
 * {
   margin: 0;
   padding: 0; }
 
 body {
   /*font-family: "Montserrat", sans-serif; xq usaste monserrat */
-  font-family: "Roboto Condensed", sans-serif; xq usaste monserrat : NO LO SE :V 
+  font-family: "Roboto Condensed", sans-serif !important; /* xq usaste monserrat : NO LO SE :V */
   font-size: 14px; }
 
 h1,
@@ -1358,7 +1374,8 @@ background-repeat: no-repeat;
 /*PRESTACIONES*/
 .page-header13 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/actcultural.jpg)no-repeat; position: relative; background-size: cover; }        
 .page-header14 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/actBienestar.jpg)no-repeat; position: relative; background-size: cover; }        
-.page-header15 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/banner_topico.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header15 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/banner_topico.jpg)no-repeat; position: relative; background-size: cover; }      
+.page-header16 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/coliseo_cabecera.jpg)no-repeat; position: relative; background-size: cover; }          
 /*FIN DE LOS BANNERS DE PRESTACIONES */
 
 .page-caption1 { padding-top: 170px; padding-bottom: 174px; }
@@ -3482,4 +3499,39 @@ justify-content: center;
 }
 .fa-file-pdf-o, .fa-download{
   color:red !important;
+}
+
+
+/* tablas de industrial - navs */
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: white;
+  font-family: 'Roboto Condensed' !important;
+  background-color: #E0134E !important;
+  border-color: #E0134E !important;
+}
+
+/* FIN tablas de industrial - navs */
+
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #000000 !important;
+    text-decoration: none !important;
+    background-color: transparent !important;
+}
+
+.dropdown-menu{
+  min-width: 13.6rem !important;
+  font-family: 'Roboto Condensed' !important;
+}
+
+.dropdown-item {
+  font-family:'Roboto Condensed' !important;
+  }
+
+  .btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    font-family: 'Roboto Condensed' !important;
+}
+
+.btn-secondary {
+  font-family: 'Roboto Condensed' !important;
 }

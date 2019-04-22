@@ -11,7 +11,7 @@
         </button>
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
-          <br><br>
+          
        La Oficina de Seguimiento al Graduado se encarga de mantener contacto con los distintos graduados de todas las escuelas profesionales de nuestra casa de estudios, para brindarles los mecanismos de inserción laboral necesarios.
         <br>
         <br>
@@ -22,12 +22,12 @@
         
         <div class="listafia">
           <ul style="margin-left:30px;">
-              <br>
-            <li>Graduados de las diferentes carreras de la FIA.</li><br>
-            <li>Graduados de los Programas de Maestrías y Doctorados de la FIA.</li><br>
-            <li>Empresas públicas y privadas de la comunidad local, regional y nacional.</li><br>
-            <li>La FIA como la institución formadora de profesionales en diferentes áreas.</li><br>
-              <br>
+              
+            <li>Graduados de las diferentes carreras de la FIA.</li>
+            <li>Graduados de los Programas de Maestrías y Doctorados de la FIA.</li>
+            <li>Empresas públicas y privadas de la comunidad local, regional y nacional.</li>
+            <li>La FIA como la institución formadora de profesionales en diferentes áreas.</li>
+              
           </ul>
         </div>
         

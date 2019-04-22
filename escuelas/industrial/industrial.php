@@ -75,21 +75,21 @@
 
                         <a class="nav-item nav-link" id="nav-act-tab" data-toggle="tab" href="#nav-act" role="tab" aria-controls="nav-act" aria-selected="false">Actividades EPII</a>
 
-                        <a class="nav-link" id="nav-link-tab"  href="http://www.usmp.edu.pe/ffia/acreditacionfia.html" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">CIPRI</a>
+                
 
-                        <a class="nav-link" id="nav-link-tab"  href="http://www.usmp.edu.pe/PFII/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Curso PFII</a>
-
-                        <a class="nav-link" id="nav-link-tab"  href="https://iiesanmartinpe.wixsite.com/usmp" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Capítulo Estudiantil</a>
+                      
 
                        
 			
                         <a class="nav-item nav-link" id="nav-estad-tab" data-toggle="tab" href="#nav-estad" role="tab" aria-controls="nav-estad" aria-selected="false">Estadísticas</a>
 
    
-                        <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
+                        
 
 
                         <a class="nav-item nav-link " id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
+
+                        <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
 
                         <a class="nav-link ult-item " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
@@ -119,6 +119,31 @@
                        <br>
 
                       <div class="row">
+
+                      <div class="col-md-6 text-fix-content">
+                          <div class="container centrarimg">
+                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ABET.jpg" alt="">
+                          </div>
+                      </div>
+                     
+                     
+                      <div class="col-md-6 text-fix-content">
+                          <div class="container centrarimg">
+                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ASIIN.jpg" alt="">
+                          </div>
+                      </div>
+                    
+                      <div class="col-md-12" style="height:20px;"></div>
+                     
+                  
+                      <div class="col-md-4 text-content">
+                          <div class="container centrarimg">
+                          <img class="img-fluid"  src="../../img/acreditaciones/logos/EUR-ACE.jpg" alt="">
+                          </div>
+                      </div>
+
+
+
                       <div class="col-md-4 text-content">
                           <div class="container centrarimg">
                           <img class="img-fluid"  src="../../img/acreditaciones/logos/ICACIT.jpg" alt="">
@@ -126,27 +151,9 @@
                       </div>
                       <div class="col-md-4 text-content">
                           <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/logos/EUR-ACE.jpg" alt="">
-                          </div>
-                      </div>
-                      <div class="col-md-4 text-content">
-                          <div class="container centrarimg">
                           <img class="img-fluid"  src="../../img/acreditaciones/logos/SINEACE.jpg" alt="">
                           </div>
                       </div>
-                      <div class="col-md-12" style="height:20px;"></div>
-                      <div class="col-md-6 text-fix-content">
-                          <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ABET.jpg" alt="">
-                          </div>
-                      </div>
-                      <div class="col-md-6 text-fix-content">
-                          <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ASIIN.jpg" alt="">
-                          </div>
-                      </div>
-                     
-                      
 
                       
                       </div>
@@ -259,7 +266,7 @@
                   <div class="tab-pane fade" id="nav-contacto" role="tabpanel" aria-labelledby="nav-contacto-tab">
                     
 
-                      <?php include('../../blocks/contacto.php') ?>
+                      <?php include('contacto.php') ?>
 
                      <!-- FIN Contenido tab Contactos --> 
                       
@@ -314,9 +321,12 @@
                    <div class="container">
                    <h2 class="subtitle-general-fix">Actividades EPII</h2>
                    </div>
-                        <div class="container centrarimg">
-                            <img class="img-fluid" src="../../img/encontruccion.jpg" alt="">
+                        <div class="container ">
                         
+                        
+                        <p class="text-fix-content"><a href="https://iiesanmartinpe.wixsite.com/usmp" target="_blank">
+                        Capítulo Estudiantil IIE San Martín #688
+                    </a> </p>  
                         </div>
                             
                     </div>
@@ -369,7 +379,7 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script> -->
     <!-- Popper js -->
     <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->

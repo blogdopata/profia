@@ -85,7 +85,7 @@
                             <div class="row">
                                 <div  class="col-md-12">
                                     <h3 class="subtitle-general-fix" >
-                                       Ciclo Regular 2019 - I 
+                                    Horarios Ciclo Regular 2019-I
                                     </h3>
 
                                    

@@ -90,8 +90,8 @@
 
 						<a class="nav-item nav-link" id="nav-val-tab" data-toggle="tab" href="#nav-val" role="tab" aria-controls="nav-val" aria-selected="false">Nuestros valores</a>
 						
-						<?php  include("organigrama.php") ?>
-						<a class="nav-item nav-link" id="nav-organigrama-tab"  href="#nav-organigrama" role="tab" aria-controls="nav-organigrama" aria-selected="false" data-toggle="modal" data-target="#organigrama" >Organigrama</a>
+						
+						<a class="nav-item nav-link" id="nav-organigrama-tab" data-toggle="tab" href="#nav-organigrama" role="tab" aria-controls="nav-val" aria-selected="false">Organigrama</a>
 
 						<a class="nav-item nav-link" id="nav-servicios-tab" data-toggle="tab" href="#nav-servicios" role="tab" aria-controls="nav-servicios" aria-selected="false">Servicios</a>
 
@@ -209,11 +209,16 @@
 
 	<!-- Contenido tab organigrama--> 
     <div class="tab-pane fade" id="nav-organigrama" role="tabpanel" aria-labelledby="nav-organigrama-tab">
-	<div class="container" style="display:flex;align-items: center;justify-content: center;">
+	<div class="container">
+	<h2 class="subtitle-general-fix">
+		Organigrama
+	</h2>
+	</div>
+	<div class="container centrarimg" style="display:flex;align-items: center;justify-content: center;">
 	
-	<!-- <a data-toggle="modal" data-target="#organigrama" href="">
-		<img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">	
-	</a> -->
+	
+		<img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/organigrama-FIA-DATA.jpg" alt="">	
+	
 	</div>	
     </div>
 	<!-- FIN Contenido tab organigrama --> 
@@ -248,10 +253,25 @@
 	<div class="container">
 	<h3 class="subtitle-general-fix">Cartera de Proyectos por año </h3>	
 	</div>		
-	<div class="container" style="display:flex;align-items: center;justify-content: center;">
+	<div class="container" >
 	
-		<img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">	
+			<h3 class="subtitle-general-fix"> 2019  </h3>
 	
+			<ul class="fix-items-li ml-4" >
+					<li> Sistemas de Registro de Control de Asistencia </li>
+		</ul>		
+
+			<h3 class="subtitle-general-fix">2018 </h3>
+				<ul class="fix-items-li ml-4" >
+					<li> Sistema de gestión de vuelos</li>
+					<li> Sistema de registro de silabos</li>
+					<li> Sistema de reserva de laboratorios - escuela de industrial</li>
+					<li> Sistema de encuestas del desempeño al docente pregrado y posgrado</li>
+					<li> Sistema de registro de posrtulantes para colegios</li>
+					<li> App mobile chahchapoyas - andorid</li>
+					<li> Aplicación de impresión de certificados y constancias</li>
+				</ul>
+</p>
 	</div>	
     </div>
 	<!-- FIN Contenido tab PROYECTOS--> 
@@ -265,10 +285,11 @@
 	<div class="container">
 	<h3 class="subtitle-general-fix">Manuales de Categorías </h3>	
 	</div>		
-	<div class="container" style="display:flex;align-items: center;justify-content: center;">
+	<div class="container">
 	
-		<img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">	
-	
+	<ul class="fix-items-li ml-4" >
+					<li> <a href="http://www.usmp.edu.pe/proFIA/pdf/manuales/manual-encuestas-alumno.pdf" target="_blank"> Sistema de Encuestas de Desempeño Docente </a></li>
+		</ul>		
 	</div>	
     </div>
 	<!-- FIN Contenido tab PROYECTOS-->

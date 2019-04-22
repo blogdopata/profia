@@ -41,7 +41,8 @@
                                 <div class="contact-icon mr-15 mt-1" >
                                     <i style="font-size:16px" class="icon-contract"></i>
                                 </div>
-                                <p class="text-fix-content">fia@usmp.pe</p>
+                                <p class="text-fix-content">
+                                <a href="mailto:fia@usmp.pe">fia@usmp.pe</a></p>
                             </div>
                        
                     </div>   

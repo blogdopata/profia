@@ -15,7 +15,7 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/style.css"> 
 
 
 
@@ -104,7 +104,7 @@
                                     <b  class="text-center" >Ing. Luis Cárdenas Lucero</b>
                                   
                                     <span class="text-center">Decano</span> 
-                                    <a href="#"  class="text-center " style="color:#585857">lcardenasl@usmp.pe</a>
+                                    <a href="mailto:lcardenasl@usmp.pe"  class="text-center " style="color:#585857">lcardenasl@usmp.pe</a>
                                   </p>
                               </div>
                             </div>
@@ -154,7 +154,7 @@
                           <div class="card-header  bg-autoridades" id="headingThree">
                           
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Otros Miembros
+                                Otros miembros
                               </button>
                            
                           </div>
@@ -173,7 +173,7 @@
                               <b>Profesores Auxiliares:</b> 
                               <ul class="fix-items-li">
                               <li>Cárdenas Martínez, José Antonio</li>
-                              <li>Trujillo Acosta, Juan Enrique</li>
+                          
                               </ul>
                               </p>
 
@@ -243,7 +243,8 @@
 
                             <p class=text-center"  >
                               <span style="color:#585857" class="text-center">Dr. Jaime Palacios Olivos <br>
-                                Director del Instituto de Investigación</span>
+                                Director del Instituto de Investigación</span><br>
+                                <a href="mailto:jpalacioso@usmp.pe">jpalacioso@usmp.pe</a>
                             </p>
 
                               <p class="text-center"  > 
@@ -293,7 +294,7 @@
                               <br>
                                 <span>Dr. Carlos Bernal Ortiz <br>
                                 Director de la Oficina de Extensión y Proyección Universitaria </span> <br>
-                              <a href="#">cbernalog@usmp.pe</a>
+                              <a href="mailto:cbernalo@usmp.pe">cbernalo@usmp.pe</a>
                               </p > 
                             </div>
 
@@ -320,7 +321,7 @@
                                       <br><br>
                                       <div class="text-center">
                                         <p>
-                                            <span>Ing. Luis Celi Saavedra <br> Director de la Sección Posgrado <br> <a href="#">lcelis@usmp.pe</a>
+                                            <span>Ing. Luis Celi Saavedra <br> Director de la Sección Posgrado <br> <a href="mailto:lcelis@usmp.pe">lcelis@usmp.pe</a>
                                             </span>
                                         </p>
                                       </div>
@@ -347,7 +348,7 @@
                               <p>
                                 Vajk Miklos Lukacs de Pereny Martens <br>
                                 Director de la Oficina de Relaciones Internacionales <br>
-                                <a  href="#">mlukacs@usmp.pe</a>
+                                <a  href="mailto:mlukacs@usmp.pe">mlukacs@usmp.pe</a>
                           
                               </p>
                               </div>
@@ -382,7 +383,7 @@
                                       <p>
                                        Econ. César A. Sánchez Montalván  <br>
                               Secretario de la Facultad  <br>
-                                <a href="#">csanchezm@usmp.pe</a>
+                                <a href="mailto:csanchezm@usmp.pe">csanchezm@usmp.pe</a>
                                 </p>
                               </div>
                             </div>
@@ -409,7 +410,7 @@
                                 <p >Ing. Andrés Ramos Salas  <br> 
                                      Director del Departamento Académico <br>
                           
-                                <a href="#">aramoss@usmp.pe</a>
+                                <a href="mailto:aramoss@usmp.pe">aramoss@usmp.pe</a>
                                        </p >
                              </div>
 
@@ -448,7 +449,7 @@
                                         <div class="text-center">
                                         <h5 class="card-title">COORDINADOR TURNO MAÑANA</h5>
                                         <p class="card-text">Mg. José A. Cárdenas Martínez  <br>
-                                           jcardenasm@usmp.pe</p>
+                                           <a href="mailto:jcardenasm@usmp.pe">jcardenasm@usmp.pe</a></p>
                                         </div>
                                       </div>
 
@@ -463,7 +464,7 @@
                                         <div class="text-center">
                                         <h5 class="card-title">COORDINADOR TURNO TARDE</h5>
                                         <p class="card-text">Ing. Édgar Rivera Fabián <br>
-                                      eriveraf@usmp.pe</p>
+                                      <a href="mailto:eriveraf@usmp.pe">eriveraf@usmp.pe</a></p>
                                         </div>
 
                                       </div>
@@ -478,7 +479,7 @@
                                         <div class="text-center">
                                         <h5 class="card-title">COORDINADOR TURNO NOCHE</h5>
                                         <p class="card-text">Ing. Fredy Adán Castro Salazar <br>
-                                         castros@usmp.pe</p>
+                                         <a href="mailto:castros@usmp.pe">castros@usmp.pe</a></p>
                                         </div>
                                       </div>
                                     </div>
@@ -526,8 +527,8 @@
                                   Lic. Rosalva Rojas Reyes  <br>
                                    Jefe de la Of. Administrativa <br>
                                  
-                              <a  href="#">rrojasr@usmp.pe  / 
-                            administracion_fia@usmp.pe</a>
+                              <a  href="mailto:rrojasr@usmp.pe ">rrojasr@usmp.pe  
+                           </a> / <a href="mailto:administracion_fia@usmp.pe">administracion_fia@usmp.pe</a>
                       </p>
                       </div>
                             </div>
@@ -558,7 +559,7 @@
                                   Ing. Rubén Cuadros Ricra <br>
                       Director (e) de la Oficina de Grados y Títulos
                                   <br>
-                        <a  href="#">rcuadrosr@usmp.pe</a>
+                        <a  href="mailto:rcuadrosr@usmp.pe">rcuadrosr@usmp.pe</a>
                         </p>
                               </div>
 
@@ -585,7 +586,7 @@
                                 Sr. Alberto Misari Conde <br>
                       Of. de Bienestar Universitario <br>
                                 
-                        <a href="">amisaric@usmp.pe</a>
+                        <a href="mailto:amisaric@usmp.pe">amisaric@usmp.pe</a>
                           
 </p>
                               </div>
@@ -609,7 +610,7 @@
                                 Ing. José Francisco Ladera Nieto <br>
                                 Jefe de la Oficina de Registros Académicos
                             <br>    
-                        <a  href="">jladeran@usmp.pe</a>
+                        <a  href="mailto:jladeran@usmp.pe">jladeran@usmp.pe</a>
                         </p>
                             </div>
                           </div>

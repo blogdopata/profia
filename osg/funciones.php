@@ -18,21 +18,21 @@
 
         <div class="listafia">
           <ul style="margin-left:30px;">
-            <br>
+            
             <li>Proponer las políticas, objetivos, procedimientos y planes de seguimiento a los graduados.</li>
-            <br>
+            
             <li>Coordinar con los Decanos y los directores de los institutos y filiales los procesos de seguimiento a los graduados.</li>
-            <br>
+           
             <li>Realizar y promover acciones así como eventos dirigidos a la inserción laboral de los graduados.</li>
-            <br>
+            
             <li>Coordinar los servicios de la bolsa de trabajo de la Facultad.</li>
-            <br>
+           
             <li>Realizar estudios para evaluar la inserción laboral de los graduados y conocer su percepción y la de los empleadores acerca de ese proceso.</li>
-            <br>
+          
             <li>Proponer los planes y acciones de mejora conducentes a optimizar los procesos de inserción laboral de los graduados de la Facultad.</li>
-            <br>
+          
             <li>Otras que le asigne el Rector y Vicerrector Académico.</li>
-            <br>
+            
           </ul>
         </div>
         

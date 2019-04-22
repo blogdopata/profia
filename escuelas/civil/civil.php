@@ -62,16 +62,16 @@
 
                         <a class="nav-item nav-link" id="nav-perfil-tab" data-toggle="tab" href="#nav-perfil" role="tab" aria-controls="nav-perfil" aria-selected="false">Perfil profesional</a>
 
-                        <a class="nav-item nav-link" id="nav-faq-tab" data-toggle="tab" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
+                        <!-- <a class="nav-item nav-link" id="nav-faq-tab" data-toggle="tab" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a> -->
 
                         
 
                         <a class="nav-item nav-link" id="nav-campo-tab" data-toggle="tab" href="#nav-campo" role="tab" aria-controls="nav-campo" aria-selected="false">Campo Ocupacional</a>
 
-                        <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
+                        
 
 
-                        <a class="nav-item nav-link" id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
+                        
 
                         
 
@@ -93,6 +93,10 @@
                         <a class="nav-item nav-link" id="nav-myp-tab" data-toggle="tab" href="#nav-myp" role="tab" aria-controls="nav-myp" aria-selected="false">Manuales y Protocolos de Seguridad</a>
 
                         <a class="nav-item nav-link " id="nav-proy-tab" data-toggle="tab" href="#nav-proy" role="tab" aria-controls="nav-proy" aria-selected="false">Proyectos</a>
+
+                        <a class="nav-item nav-link" id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
+
+                        <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
                         <a class="nav-link ult-item " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
 

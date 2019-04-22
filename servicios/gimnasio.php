@@ -35,7 +35,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### banner ##### -->
- <div class="page-header13 img-fix-position2">
+ <div class="page-header16 img-fix-position2">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">

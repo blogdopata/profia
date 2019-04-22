@@ -18,13 +18,13 @@
 
         <div class="listafia">
           <ul style="margin-left:30px;">
-              <br>
-            <li>% de egresados, graduados y titulados registrados en la base de datos correspondiente.</li><br>
-            <li>% de graduados que participan en las reuniones y capacitaciones a las que son convocados.</li><br>
+              
+            <li>% de egresados, graduados y titulados registrados en la base de datos correspondiente.</li>
+            <li>% de graduados que participan en las reuniones y capacitaciones a las que son convocados.</li>
             <li>% de graduados que responden las encuestas de la U.A.</li><br>
-            <li>Cantidad de graduados que son empleados mediante los procedimientos de la bolsa de trabajo de la Universidad.</li><br>
-            <li>Grado de satisfacción de los graduados con los mecanismos de seguimiento y vinculación con los graduados de la Universidad.</li><br>
-              <br>
+            <li>Cantidad de graduados que son empleados mediante los procedimientos de la bolsa de trabajo de la Universidad.</li>
+            <li>Grado de satisfacción de los graduados con los mecanismos de seguimiento y vinculación con los graduados de la Universidad.</li>
+             
           </ul>
         </div>
         

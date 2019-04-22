@@ -72,17 +72,12 @@
                         <a class="nav-link " id="nav-instructor-tab" data-toggle="pill" href="#nav-instructor" role="tab" aria-controls="nav-instructor" aria-selected="false">Instructores</a>
 
                         <a class="nav-link " id="nav-faq-tab" data-toggle="pill" href="#nav-faq" role="tab" aria-controls="nav-faq" aria-selected="false">Preguntas frecuentes</a>
-
-                        
-
-                        <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
-
+                   
+                        <a class="nav-link " id="nav-enlaces-tab" data-toggle="pill" href="#nav-enlaces" role="tab" aria-controls="nav-enlaces" aria-selected="false">Enlaces de Interés</a>
 
                         <a class="nav-link " id="nav-contactos-tab" data-toggle="pill" href="#nav-contactos" role="tab" aria-controls="nav-contactos" aria-selected="false">Contacto</a>
 
-
-                   
-                        <a class="nav-link " id="nav-enlaces-tab" data-toggle="pill" href="#nav-enlaces" role="tab" aria-controls="nav-enlaces" aria-selected="false">Enlaces de Interés</a>
+                        <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
 
                         <a class="nav-link ult-item" id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
                     

@@ -89,7 +89,7 @@
 
             <div class="col-3 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Directivas de Retiro de Curso</h5>
+                    <h5 class="text-info-gen text-center"  >Directivas de Retiro de Cursos</h5>
                     <?php include('popuplegal/directivas/retiroCurso.php') ?>
                     <a data-toggle="modal" href="#miModal8" data-toogle="miModal8" class="text-link-gen" >Ver más</a>
                     
@@ -122,7 +122,7 @@
 
             <div class="col-3 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Reglamentos de Registros Académicos</h5>
+                    <h5 class="text-info-gen text-center"  >Reglamento de Registros Académicos</h5>
                     <?php include('popuplegal/reglamentos/regAcademicos.php') ?>
                     <a data-toggle="modal" href="#miModal2" data-toogle="miModal2" class="text-link-gen" >Ver más</a>
                     
@@ -131,7 +131,7 @@
 
             <div class="col-3 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Reglamentos de Evaluación del Aprendizaje </h5>
+                    <h5 class="text-info-gen text-center"  >Reglamento de Evaluación del Aprendizaje </h5>
                     <?php include('popuplegal/reglamentos/evalAprendizaje.php') ?>
                     <a data-toggle="modal" href="#miModal3" data-toogle="miModal3" class="text-link-gen" >Ver más</a>
                     
@@ -144,7 +144,7 @@
 
         <div class="col-3 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center"  >Reglamentos de Convalidación de Asignaturas </h5>
+                    <h5 class="text-info-gen text-center"  >Reglamento de Convalidación de Asignaturas </h5>
                     <?php include('popuplegal/reglamentos/convAsignaturas.php') ?>
                     <a data-toggle="modal" href="#miModal4" data-toogle="miModal4" class="text-link-gen" >Ver más</a>
                     

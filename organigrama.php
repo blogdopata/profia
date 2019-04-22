@@ -63,9 +63,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-
+                    <a href="pdf/Organigrama_FIA.pdf" target="_blank">
                         <img class="img-fluid" src="img/fia/Organigrama-01.jpg" alt="" class="img-fluid">
-               
+                    </a>   
                     
                 </div>
             </div>

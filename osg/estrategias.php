@@ -18,12 +18,12 @@
 
         <div class="listafia">
           <ul style="margin-left:30px;">
-              <br>
-            <li>Creación de un área o asignación de la función del seguimiento de los graduados a una unidad existente.</li><br>
-            <li>Control y mantenimiento del sistema de registro y seguimiento de graduados.</li><br>
-            <li>Realización de estudios de la trayectoria profesional de los graduados con la finalidad de mejorar los planes curriculares de las carreras.</li><br>
-            <li>Difusión continua sobre eventos de interés que realiza la unidad académica.</li><br>
-            <li>Difusión de ofertas laborales, becas e información diferencial a los graduados registrados en el sistema de seguimiento.</li><br>
+             
+            <li>Creación de un área o asignación de la función del seguimiento de los graduados a una unidad existente.</li>
+            <li>Control y mantenimiento del sistema de registro y seguimiento de graduados.</li>
+            <li>Realización de estudios de la trayectoria profesional de los graduados con la finalidad de mejorar los planes curriculares de las carreras.</li>
+            <li>Difusión continua sobre eventos de interés que realiza la unidad académica.</li>
+            <li>Difusión de ofertas laborales, becas e información diferencial a los graduados registrados en el sistema de seguimiento.</li>
               <br>
           </ul>
         </div>

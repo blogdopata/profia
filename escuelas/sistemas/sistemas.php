@@ -72,10 +72,12 @@
                         <a class="nav-item nav-link" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a> -->
 
                        
+                        
+
+
+                        <a class="nav-item nav-link " id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
+
                         <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
-
-
-                        <a class="nav-item nav-link " id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Conctacto</a>
 
                         <a class="nav-link  ult-item  " id="nav-link-tab"  href="http://admision.usmp.edu.pe/" target="_blank" role="tab" aria-controls="nav-campus" aria-selected="false">Admisión</a>
 
@@ -276,7 +278,7 @@
                     
                      
 
-                      <!-- Contenido tab Catalogo de Cursos --> 
+                      <!-- Contenido tab Catalogo de Cursos
 
                     <div class="tab-pane fade" id="nav-encuestaDoc" role="tabpanel" aria-labelledby="nav-encuestaDoc-tab">
                         <div class="container">
@@ -292,9 +294,9 @@
                             
                     </div>
 
-                     <!-- FIN Contenido tab Catalogo de Cursos --> 
+                     <!-- FIN Contenido tab Catalogo de Cursos 
 
-                      <!-- Contenido tab Catalogo de Cursos --> 
+                      <!-- Contenido tab Catalogo de Cursos  
 
                     <div class="tab-pane fade" id="nav-encuestaAlu" role="tabpanel" aria-labelledby="nav-encuestaAlu-tab">
                         <div class="container">

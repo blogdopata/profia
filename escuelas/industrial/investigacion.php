@@ -8,16 +8,17 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
 
     <table>
         <tr class="text-fix-content" style="color:#606060;">
-            <td>Líneas de investigación EPII <br> <a style="font-size:16px;" href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
+            <td> <p>   Líneas de investigación EPII</p>
+              <img src="http://www.usmp.edu.pe/proFIA/img/lineas_investigacion.jpg" class="img-fluid" alt="">
+          
+          </td>
         </tr>
         <tr style="height:10px;"></tr>
         <tr class="text-fix-content" style="color:#606060;">
-            <td>CIPRI <br> <a style="font-size:16px;" href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
+            <td>CIPRI <br> <a style="font-size:16px;" href="http://usmp.edu.pe/CIPRI/"  target="_blank" class="link">http://www.usmp.edu.pe/CIPRI/</a> </td>
         </tr>
-        <tr style="height:10px;"></tr>
-        <tr class="text-fix-content" style="color:#606060;">
-            <td>CIDPA <br> <a style="font-size:16px;" href="http://www.usmp.edu.pe/PFII/" class="link">http://www.usmp.edu.pe/PFII/</a> </td>
-        </tr>
+   
+    
     </table>
 
     <br><br>
@@ -40,7 +41,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
                             <div  class="card-header bg-autoridades" id="headingOne">
                               
                                 <button class="btn btn-link " data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                  <b  style="color:white">PROYECTOS REALIZADOS</b>
+                                  <b  class="bold-w">PROYECTOS REALIZADOS</b>
                                 </button>
                              
                             </div>
@@ -271,7 +272,7 @@ Para estudios básicos de procesos biotecnológicos lo que incluye la docencia u
                           <div class="card-header  bg-autoridades" id="headingTwo">
                             
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                              <b style="color:white">PROYECTOS ACTUALES</b>
+                              <b class="bold-w">PROYECTOS ACTUALES</b>
                               </button>
                            
                           </div>

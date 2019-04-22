@@ -94,7 +94,7 @@
                                         <div class="text-center">
                                         <h5 class="card-title">Coodinador Turno Mañana</h5>
                                         <p class="card-text">Mg. José A. Cárdenas Martínez</p>
-                                        <p class="card-text"><a href="#">jcardenasm@usmp.pe</a></p>
+                                        <p class="card-text"><a href="mailto:jcardenasm@usmp.pe">jcardenasm@usmp.pe</a></p>
                                         </div>
                                     </div>
 
@@ -109,7 +109,7 @@
                                         <div class="text-center">
                                         <h5 class="card-title">Coodinador Turno Tarde</h5>
                                         <p class="card-text">Ing. Édgar Rivera Fabián</p>
-                                        <p class="card-text"><a href="#">eriveraf@usmp.pe</a></p>
+                                        <p class="card-text"><a href="mailto:eriveraf@usmp.pe">eriveraf@usmp.pe</a></p>
                                         </div>
 
                                     </div>
@@ -124,7 +124,7 @@
                                         <div class="text-center">
                                         <h5 class="card-title">Coodinador Turno Noche</h5>
                                         <p class="card-text">Ing. Fredy Adán Castro Salazar</p>
-                                        <p class="card-text"><a href="#">fcastros@usmp.pe</a></p>
+                                        <p class="card-text"><a href="mailto:fcastros@usmp.pe">fcastros@usmp.pe</a></p>
                                         </div>
                                     </div>
                                 </div>

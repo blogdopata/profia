@@ -18,14 +18,14 @@
 
         <div class="listafia">
           <ul style="margin-left:30px;">
-              <br>
-            <li>Contar con un registro actualizado de los graduados de las carreras que brindan la Facultad.</li> <br>
-            <li>Identificar el posicionamiento de los graduados en el mercado.</li> <br>
-            <li>Conocer los grados de satisfacción de los graduados con la formación recibida.</li> <br>
-            <li>Conocer los grados de satisfacción de los empleadores sobre el desempeño de los graduados.</li> <br>
-            <li>Identificar las exigencias del mercado y los empleadores, para su incorporación en los planes curriculares de pre y posgrado.</li> <br>
-            <li>Fortalecer y consolidar el vínculo de los graduados con su Alma Máter.</li> <br>
-              <br>
+              
+            <li>Contar con un registro actualizado de los graduados de las carreras que brindan la Facultad.</li> 
+            <li>Identificar el posicionamiento de los graduados en el mercado.</li> 
+            <li>Conocer los grados de satisfacción de los graduados con la formación recibida.</li>
+            <li>Conocer los grados de satisfacción de los empleadores sobre el desempeño de los graduados.</li> 
+            <li>Identificar las exigencias del mercado y los empleadores, para su incorporación en los planes curriculares de pre y posgrado.</li> 
+            <li>Fortalecer y consolidar el vínculo de los graduados con su Alma Máter.</li> 
+             
           </ul>
         </div>
         
