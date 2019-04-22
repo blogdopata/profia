@@ -3,7 +3,7 @@
 
 <div class="row">
 
-<div class="col-8" >
+<div class="col-12 col-md-8" >
     <h2 class="subtitle-general-fix">
     Director de la escuela EPIC / Ing. Arnaldo Falcón Soto
     </h2> 
@@ -18,7 +18,7 @@
 
 </div>
 
-<div class="col-4" >
+<div class="col-12 col-md-4" >
     <figure>
             <img class="img-fluid" src="img/director_EPIC.jpg" alt="">
 

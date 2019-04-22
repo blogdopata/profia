@@ -1629,10 +1629,12 @@ padding: 7px;
   /* Funciona de 360px para arriba  */
 @media only screen and (min-width:360px){
   
-  .texto-general {
-  }
+
     
 }
+
+
+
 
 @media only screen and (min-width: 1270px) {
   .breakpoint-off .classynav ul li:hover .dropdown{
@@ -2064,6 +2066,9 @@ padding: 7px;
             font-size:16px;
         }
     }
+
+
+
     .modaltramite{
     margin-top: 10px;
     padding-left: 10px;
@@ -2293,10 +2298,13 @@ padding: 7px;
   color:cadetblue;
   text-shadow: 2px 2px darkgray;
 }
-@media only screen and (max-width: 329px){ 
+@media only screen and (max-width: 605px){ 
     #titulobonito{
       font-size: .1rem !important;
     }
+  
+  
+
 }
 
 
@@ -2508,7 +2516,7 @@ ul.ul-fix-square li{
 
 .bg-date{
   background-color: #E0134E;
-
+  width: 130px !important ;
 }
 .agenda-text-info{
   color:#E0134E;

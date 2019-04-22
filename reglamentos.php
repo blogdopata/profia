@@ -59,7 +59,7 @@
 
         <div class="row  mb-2 mt-3">
                                
-            <div class="col-3 col-md-3 font-mode fix-height"  >
+            <div class="col-12 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Compromiso de Excepción </h5>
                     <?php include('popuplegal/directivas/comprExcepcion.php') ?>
@@ -69,7 +69,7 @@
             </div>
             
             
-            <div class="col-3 col-md-3 font-mode fix-height"  >
+            <div class="col-12 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Reserva de Matrícula</h5>
                     <?php include('popuplegal/directivas/reservaMatricula.php') ?>
@@ -78,7 +78,7 @@
                 </div>
             </div>
         
-            <div class="col-3 col-md-3 font-mode fix-height"  >
+            <div class="col-12 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Retiro de Ciclo</h5>
                     <?php include('popuplegal/directivas/retiroCiclo.php') ?>
@@ -87,7 +87,7 @@
                 </div>
             </div>
 
-            <div class="col-3 col-md-3 font-mode fix-height"  >
+            <div class="col-12 col-md-3 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Retiro de Cursos</h5>
                     <?php include('popuplegal/directivas/retiroCurso.php') ?>
@@ -101,7 +101,7 @@
 
         <div class="row  mb-5 mt-3">
             
-            <div class="col-3 col-md-3 font-mode"  >
+            <div class="col-12 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas de Examen de Subsanación</h5>
                     <?php include('popuplegal/directivas/examSubsanacion.php') ?>
@@ -111,7 +111,7 @@
             </div>
 
             
-            <div class="col-3 col-md-3 font-mode"  >
+            <div class="col-12 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Directivas del Curso de Nivelación</h5>
                     <?php include('popuplegal/directivas/nivelacion.php') ?>
@@ -120,7 +120,7 @@
                 </div>
             </div>
 
-            <div class="col-3 col-md-3 font-mode"  >
+            <div class="col-12 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Reglamento de Registros Académicos</h5>
                     <?php include('popuplegal/reglamentos/regAcademicos.php') ?>
@@ -129,7 +129,7 @@
                 </div>
             </div>
 
-            <div class="col-3 col-md-3 font-mode"  >
+            <div class="col-12 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Reglamento de Evaluación del Aprendizaje </h5>
                     <?php include('popuplegal/reglamentos/evalAprendizaje.php') ?>
@@ -142,7 +142,7 @@
 
         <div class="row  mb-5 mt-3">
 
-        <div class="col-3 col-md-3 font-mode"  >
+        <div class="col-12 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Reglamento de Convalidación de Asignaturas </h5>
                     <?php include('popuplegal/reglamentos/convAsignaturas.php') ?>
@@ -152,7 +152,7 @@
             </div>
 
             
-            <div class="col-3 col-md-3 font-mode"  >
+            <div class="col-12 col-md-3 font-mode"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Normas para Reactualización de Matrícula </h5>
                     <?php include('popuplegal/normas/reactualizacionMatricula.php') ?>

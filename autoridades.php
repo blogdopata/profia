@@ -70,7 +70,7 @@
 
              </div>
              
-                <div class="col-md-9 tab-content  mb-5"  >
+                <div class="col-md-9 mt-4 mt-md-0 tab-content  mb-5"  >
                   <div class="tab-content" id="nav-tabContent">
 
                   <!--  *************** Primer panel ****************** -->

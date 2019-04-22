@@ -216,9 +216,9 @@
 	</div>
 	<div class="container centrarimg" style="display:flex;align-items: center;justify-content: center;">
 	
-	
+	 <a href="http://www.usmp.edu.pe/proFIA/pdf/organigrama_FIA _DATA.pdf" target="_blank">
 		<img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/organigrama-FIA-DATA.jpg" alt="">	
-	
+		</a>
 	</div>	
     </div>
 	<!-- FIN Contenido tab organigrama --> 

@@ -120,40 +120,41 @@
 
                       <div class="row">
 
-                      <div class="col-md-6 text-fix-content">
-                          <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ABET.jpg" alt="">
-                          </div>
-                      </div>
-                     
-                     
-                      <div class="col-md-6 text-fix-content">
-                          <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ASIIN.jpg" alt="">
-                          </div>
-                      </div>
-                    
-                      <div class="col-md-12" style="height:20px;"></div>
-                     
-                  
-                      <div class="col-md-4 text-content">
-                          <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/logos/EUR-ACE.jpg" alt="">
-                          </div>
-                      </div>
+                            <div class="col-6 col-lg-6 "  >
+                                <div class=" centrarimg">
+                                        <img class="img-fluid"  src="../../img/acreditaciones/logos/ABET.jpg" alt="">
+                                </div>
+                            </div>
+                            
+                            
+                            <div class="col-6 col-lg-6 "  >
+                                <div class=" centrarimg">
+                                <img class="img-fluid"  src="../../img/acreditaciones/logos/ASIIN.jpg" alt="">
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        
+                            <div class="col-6 col-lg-4 "  >
+                                <div class=" centrarimg">
+                                <img class="img-fluid"  src="../../img/acreditaciones/logos/EUR-ACE.jpg" alt="">
+                                </div>
+                            </div>
 
 
 
-                      <div class="col-md-4 text-content">
-                          <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/logos/ICACIT.jpg" alt="">
-                          </div>
-                      </div>
-                      <div class="col-md-4 text-content">
-                          <div class="container centrarimg">
-                          <img class="img-fluid"  src="../../img/acreditaciones/logos/SINEACE.jpg" alt="">
-                          </div>
-                      </div>
+                            <div class="col-6 col-lg-4 "  >
+                                <div class=" centrarimg">
+                                <img class="img-fluid"  src="../../img/acreditaciones/logos/ICACIT.jpg" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-lg-4 "  >
+                                <div class=" centrarimg">
+                                <img class="img-fluid"  src="../../img/acreditaciones/logos/SINEACE.jpg" alt="">
+                                </div>
+                            </div>
 
                       
                       </div>
@@ -368,10 +369,8 @@
   
 
     
-        <br>
-    <center>
-    <hr style="width:96%;">
-    </center>
+   
+
      <footer class="footer-area">
        
        <?php include_once('../../blocks/footer.html') ?>
@@ -379,7 +378,7 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <!-- <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script> -->
+    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script> 
     <!-- Popper js -->
     <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->

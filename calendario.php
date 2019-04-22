@@ -96,7 +96,7 @@
 
                             <div class="row  mb-2 mt-3">
                                
-                                <div class="col-4 col-md-4 font-mode fix-height"  >
+                                <div class="col-12 col-md-4 font-mode fix-height"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Ingeniería de Computación y Sistemas</h5>
                                         <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/sistemas.pdf" target="_blank" class="text-link-gen">Ver más</a>
@@ -105,7 +105,7 @@
                                 </div>
 
                                
-                                <div class="col-4 col-md-4 font-mode fix-height"  >
+                                <div class="col-12 col-md-4 font-mode fix-height"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Ingeniería Civil</h5>
                                         <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/civil.pdf" target="_blank" class="text-link-gen">Ver más</a>
@@ -113,7 +113,7 @@
                                     </div>
                                 </div>
                             
-                                <div class="col-4 col-md-4 font-mode fix-height"  >
+                                <div class="col-12 col-md-4 font-mode fix-height"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Ingeniería Industrial</h5>
                                         <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/industrial.pdf" target="_blank" class="text-link-gen">Ver más</a>
@@ -127,7 +127,7 @@
 
                             <div class="row  mb-5 mt-3">
                               
-                                <div class="col-4 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Ciencias Aeronáuticas</h5>
                                         <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/aeronauticas.pdf" target="_blank" class="text-link-gen">Ver más</a>
@@ -136,7 +136,7 @@
                                 </div>
 
                                
-                                <div class="col-4 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Arquitectura</h5>
                                         <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/arquitectura.pdf" target="_blank" class="text-link-gen">Ver más</a>

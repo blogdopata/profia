@@ -2,13 +2,12 @@
  
   
   
-  
-    
+
         <div class="container">
             <div class="row">
                 <div class="col-12">
 
-                    <div class=" text-left">
+                    <div class="text-left">
                       
                         <h3 class="subtitle-general-fix">Contáctanos</h3>
                         <p class="mt-3 text-fix-content">

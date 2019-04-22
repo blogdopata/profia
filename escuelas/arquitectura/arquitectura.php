@@ -92,16 +92,16 @@
 
 
                 <!-- CONTENIDO TAB  BIENVENIDOS -->
-				<div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
+				<div class="col-md-9 tab-content pt-3 pt-md-0" id="nav-tabContent " style="font-family:Arial;">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
                         
                         <div class="row">
                             <div  class="col-md-12">
                         
-                                <div class="row">
+                                <div class="row pt-md-0"  >
 
-                                    <div class="col-8" >
+                                    <div class="col-12 col-lg-8" >
                                         <p class="text-fix-content  subname-title">
                                             Director de la Escuela EPA / DR. Arq. Gorki Mesones Vargas
                                         </p> 
@@ -116,7 +116,7 @@
 
                                     </div>
 
-                                    <div class="col-4" >
+                                    <div class="col-12 col-lg-4" >
                                         <figure>
                                                 <img src="images/gorki_mesones.jpg" alt="">
 

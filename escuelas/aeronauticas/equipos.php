@@ -11,7 +11,7 @@
     
     <br>
     <div class="row">
-    <img class="img-fluid" style="margin:auto;" src="http://usmp.edu.pe/proFIA/escuelas/aeronauticas/images/aviones/avion.jpg" alt="">
+    <img class="img-fluid"  src="http://usmp.edu.pe/proFIA/escuelas/aeronauticas/images/aviones/avion.jpg" alt="">
     </div>
 
 
@@ -28,51 +28,51 @@
     <?php include("popup.php") ?>
     <div class="row">
     
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a data-toggle="modal" href="#1">
-        <img class="img-fluid img-campus" style="margin:auto;" src="images/aviones/aviones/1.jpg" alt="">
+        <img class="img-fluid img-campus"  src="images/aviones/aviones/1.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a data-toggle="modal" href="#2">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/aviones/2.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/aviones/2.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#3">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/aviones/3.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/aviones/3.jpg" alt="">
         </a>
         </div>
         <div class="col-md-12" style="height:15px;"></div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#4">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/aviones/4.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/aviones/4.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#5">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/aviones/5.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/aviones/5.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#6">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/aviones/6.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/aviones/6.jpg" alt="">
         </a>
         </div>
         <div class="col-md-12" style="height:15px;"></div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#7">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/aviones/7.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/aviones/7.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#8">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/aviones/8.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/aviones/8.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#9">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/aviones/9.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/aviones/9.jpg" alt="">
         </a>
         </div>
     </div>
@@ -94,7 +94,7 @@
     <br>
     <div class="row">
     
-    <img class="img-fluid" style="margin:auto;" src="http://usmp.edu.pe/proFIA/escuelas/aeronauticas/images/aviones/simulador.jpg" alt="">
+    <img class="img-fluid"  src="http://usmp.edu.pe/proFIA/escuelas/aeronauticas/images/aviones/simulador.jpg" alt="">
     </div>
 
 
@@ -102,66 +102,66 @@
 
 
     <div class="d-flex justify-content-center">
-    <button class="btn text-white text-fix-style text-center" type="button" style="background-color:#E0134E;border-radius:unset;outline:none;" data-toggle="collapse" data-target="#fotosimu" aria-expanded="false" aria-controls="collapseExample">
-    ver más imágenes
-    </button>
+      <button class="btn text-white text-fix-style text-center" type="button" style="background-color:#E0134E;border-radius:unset;outline:none;" data-toggle="collapse" data-target="#fotosimu" aria-expanded="false" aria-controls="collapseExample">
+      ver más imágenes
+      </button>
     </div>
 
   <div class="collapse" id="fotosimu" style="margin-top:18px;">
  
   <?php include("popupsimu.php") ?>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#10">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/1.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/1.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#11">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/2.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/2.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#12">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/3.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/3.jpg" alt="">
         </a>
         </div>
         <div class="col-md-12" style="height:15px;"></div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#13">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/4.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/4.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#14">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/5.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/5.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#15">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/6.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/6.jpg" alt="">
         </a>
         </div>
         <div class="col-md-12" style="height:15px;"></div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#16">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/7.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/7.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#17">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/8.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/8.jpg" alt="">
         </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#18">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/9.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/9.jpg" alt="">
         </a>
         </div>
         <div class="col-md-12" style="height:15px;"></div>
-        <div class="col-md-4">
+        <div class="col-12 mb-4 mb-md-0 text-center  col-md-4">
         <a href="#" data-toggle="modal" data-target="#19">
-        <img class="img-fluid" style="margin:auto;" src="images/aviones/sub-simuladores/10.jpg" alt="">
+        <img class="img-fluid"  src="images/aviones/sub-simuladores/10.jpg" alt="">
         </a>
         </div>
         

@@ -310,7 +310,7 @@
     <!-- ##### Testimonials Area End ##### -->
 
     <!-- ##### Top Popular Courses Area Start ##### -->
-    <div class="top-popular-courses-area section-padding-100-70 wow fadeInUp" data-wow-delay="300ms">
+    <div class="top-popular-courses-area  mt-5   wow fadeInUp" data-wow-delay="300ms">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -322,15 +322,16 @@
             </div>
 
 
-            <div class="row">
+            <div class="row" >
                
                 <!-- Single Top Popular Course -->
-                <div class="col-12 col-lg-4 mt-lg-0 mt-2"  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 "  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 15</span> 
                             <span style="font-size:26px;font-weight:bold">ABRIL</span> 
                         </div>
+
                         <div>
                             <h6 class="agenda-title">Encuentro Cultural: <br>Ingresantes en acción</h6> 
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>   <br>
@@ -343,7 +344,7 @@
                 
                 <!-- Single Top Popular Course -->
                 
-                <div class="col-12 col-lg-4 mt-lg-0 mt-2"  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span class="agenda-day"> 16</span> 
@@ -361,7 +362,7 @@
                 
                 <!-- Single Top Popular Course -->
 
-                <div class="col-12 col-lg-4 mt-lg-0 mt-2 "  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 "  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 17</span> 
@@ -379,7 +380,7 @@
                 
                 <!-- Single Top Popular Course -->
 
-                <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 23</span> 
@@ -397,7 +398,7 @@
                 
                 <!-- Single Top Popular Course -->
 
-                <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 24</span> 
@@ -415,7 +416,7 @@
                 
                 <!-- Single Top Popular Course -->
 
-                <div class="col-12 col-lg-4 mt-lg-5 mt-2"  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 24</span> 

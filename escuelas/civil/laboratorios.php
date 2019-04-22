@@ -8,18 +8,18 @@
     El Laboratorio de Mecánica de Suelos ofrece los medios necesarios para realizar ensayos de diferente naturaleza (Análisis granulométrico por tamizado y sedimentación, Determinación de Límites de Atterberg, Densidad, Peso específico relativo de sólidos, Permeabilidad, Compactación, Capacidad de Soporte CBR, Corte Directo, Consolidación Unidimensional) sobre muestras de suelo con el objetivo de definir sus propiedades que los caracteriza. Los ensayos realizados en el Laboratorio de Mecánica de Suelos pueden ser rutinarios y normalizados, a la vez que estos se desarrollan para tesis de investigación.
     </p>
     <br>
-    <div class="row">
-        <div class="col-md-4">
+    <div class="row" >
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/1.jpg" alt="">
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/2.jpg" alt="">
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/3.jpg" alt="">
             </div>
@@ -41,17 +41,17 @@
     </p>
     <br>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/4.jpg" alt="">
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/5.jpg" alt="">
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/6.jpg" alt="">
             </div>
@@ -70,17 +70,17 @@
     </p>
     <br>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/7.jpg" alt="">
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/8.jpg" alt="">
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/9.jpg" alt="">
             </div>
@@ -99,17 +99,17 @@
     </p>
     <br>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/10.jpg" alt="">
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/11.jpg" alt="">
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-12 mt-3 mt-md-0 col-md-4">
             <div class="container centrarimg">
                 <img class="img-fluid" src="img/lab/12.jpg" alt="">
             </div>

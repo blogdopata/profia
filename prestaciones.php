@@ -269,7 +269,7 @@
                 <div class="col-6 col-md-3 text-center" >
                     <div class="team-members">
                         <div >
-                        <a href="#" target="_blank">   
+                        <a href="http://www.usmp.edu.pe/proFIA/pdf/guia_estudiante.zip" target="_blank">   
                         
                                 <img class="img-fluid" src="img/prestaciones/servicios/guia.jpg" alt="">   
                         
@@ -277,7 +277,7 @@
                         </div>
                         
                     </div>
-                    <a href="#" target="_blank"> Guía Estudiantil </a>
+                    <a href="http://www.usmp.edu.pe/proFIA/pdf/guia_estudiante.zip" target="_blank"> Guía Estudiantil </a>
                 </div>
 
                 <div class="col-6 col-md-3 text-center" >

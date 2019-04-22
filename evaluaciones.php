@@ -114,7 +114,7 @@
                                         <h3 class="subtitle-general-fix">Información General </h3>
                                 </div>
 
-                                <div class="col-4 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Evaluaciones</h5>
                                         <a  target="_blank" href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/directiva_evaluaciones-2019.pdf" class="text-link-gen">Directivas</a>
@@ -123,7 +123,7 @@
                                 </div>
 
                                
-                                <div class="col-4 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Inicio de Clases</h5>
                                         <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/directiva_inicio-2019.pdf" class="text-link-gen">Directivas</a>
@@ -131,7 +131,7 @@
                                     </div>
                                 </div>
                             
-                                <div class="col-4 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Semana de Exámenes</h5>
                                         <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/recomendaciones_examenes_2019.pdf" class="text-link-gen">Recomendaciones</a>
@@ -145,7 +145,7 @@
 
                             <div class="row  mb-5 mt-3">
                               
-                                <div class="col-4 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Evaluaciones en Aula</h5>
                                         <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/recomendaciones_evaluacion_2019.pdf" class="text-link-gen">Recomendaciones</a>
@@ -154,7 +154,7 @@
                                 </div>
 
                                
-                                <div class="col-4 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Devolución de Cuadernillos</h5>
                                         <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/recomendaciones_dev_cuadernillos_2019.pdf" class="text-link-gen">Recomendaciones</a>
@@ -162,7 +162,7 @@
                                     </div>
                                 </div>
                             
-                                <div class="col-4 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Prácticas y Exámenes</h5>
                                         <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/CRONOGRAMA_PRACTICA_2019.pdf" class="text-link-gen">Cronograma</a>

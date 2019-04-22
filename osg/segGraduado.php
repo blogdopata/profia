@@ -115,7 +115,7 @@
 			<br>
         </div>
     </section>
-    <!-- ##### About Us Area End ##### -->
+    
 
     
 
@@ -125,9 +125,9 @@
 
     <div class="container">
 
-        <div class="row">
+        <div class="row" >
                 
-            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+            <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Funciones</h5>
 
@@ -138,7 +138,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+            <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Objetivos</h5>
 
@@ -149,7 +149,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+            <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center"  >Estrategias</h5>
 
@@ -159,10 +159,15 @@
                     
                 </div>
             </div>
+
+
         </div>
 
+
+
+
         <div class="row mt-5" >
-            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+            <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center">Indicadores</h5>
 
@@ -172,7 +177,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+            <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center">Beneficiarios</h5>
 
@@ -182,7 +187,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 col-sm-2 font-mode fix-height"  >
+            <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center">Cuestionario</h5>
 

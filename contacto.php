@@ -45,7 +45,7 @@
     <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5 class="title-general-fix">
+                <h5 class="title-general-fix" style='border: 1px solid red;' > 
                      CONTACTO
                 </h5>
             </div>
@@ -63,11 +63,11 @@
                         <div class="row">
                             <!-- Contact Information -->
                             <div class="col-12 col-lg-6">
-                                <div class="contact-information wow fadeInUp" data-wow-delay="400ms">
-                                    <div class="section-heading text-left">
+                                <div class="wow fadeInUp" data-wow-delay="400ms">
+                                    <div class="text-left">
                                  
                                  
-                                        <p class="mt-30 text-fix-content">
+                                        <p class=" text-fix-content">
                                             Estamos para ayudarte , envía tus consultas a los medios de abajo o SÍGUENOS en nuestras
                                             redes sociales y mantente informado 
                                             con las últimas noticias y eventos de la facultad.
