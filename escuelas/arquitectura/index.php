@@ -95,7 +95,7 @@
 				<div class="col-md-9 tab-content pt-3 pt-md-0" id="nav-tabContent " style="font-family:Arial;">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
-                        
+                        <div class="container">
                         <div class="row">
                             <div  class="col-md-12">
                         
@@ -195,7 +195,7 @@
                                 <p class="text-fix-content">
                                     La Universidad de San Martin de Porres ha obtenido la licencia institucional por la Superintendencia Nacional de Educación Superior Universitaria (SUNEDU), que garantiza la calidad educativa de todas nuestras carreras.
                                 </p>
-
+                                </div>
 
 
 
@@ -213,11 +213,11 @@
                     <!-- Contenido tab CAMPUS --> 
 
                   <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
-                      <div class="container">
+                      
 
                       <?php include('../../blocks/campus.php') ?>
 
-                      </div>
+                     
                       
                   </div>
 
@@ -228,7 +228,7 @@
                     <!-- Contendio Tab  Info academicas -->
 
 				    <div class="tab-pane fade show" id="nav-infoacademica" role="tabpanel" aria-labelledby="nav-infoacademica-tab">
-                    
+                    <div class="container">
                         <h2 class="subtitle-general-fix">
                             Información académica
                         </h2>
@@ -309,7 +309,7 @@
                                     <li>Define la tecnología, los sistemas estructurales y constructivos apropiados a las demandas del proyecto arquitectónico y al contexto local.</li>
                                     <li>Conoce, se sensibiliza y compromete frente a los temas del debate arquitectónico actual – local y global.</li>
                                 </ul>
-                            
+                                </div>
                         </div>
                        
                     </div>
@@ -317,7 +317,7 @@
 
                      
 				    <div class="tab-pane fade show" id="nav-convenios" role="tabpanel" aria-labelledby="nav-convenios-tab">
-
+                            <div class="container">
                              <h3 class="subtitle-general-fix mb-2 ">
                              Convenios Nacionales e Internacionales
                                 </h3>             
@@ -340,7 +340,7 @@
                             <ul class="fix-items-li">
                                 <li> Universidad Autónoma del Estado de México.</li> 
                             </ul>
-                       
+                            </div>
                     
                     </div>
 
@@ -354,7 +354,7 @@
                             <!-- <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe>  -->
-                           
+                           <div class="container">
                             <h3 class="subtitle-general-fix mb-2 ">
                             Perfil Profesional
                                 </h3>
@@ -366,7 +366,7 @@
                                 <li>Planificar, investigar, proyectar. Diseñar, supervisar y gestionar proyectos de arquitectura en todos los requerimientos que demande las necesidades de un territorio, comunidad y hábitat para la creación de ciudades sostenibles armónicas.</li>
                                 <li>Educar de una manera holística para desarrollar y comprender nuestra realidad como seres humanos y ciudadanos, así como el sentido y significado de concepto profesional, para dar un sentido humanista al ejercicio de la profesión de arquitecto, vinculada a la ética y la conciencia.</li>
                             </ul>     
-
+                            </div>
 
                       
                      
@@ -380,7 +380,7 @@
 
 
                     <div class="tab-pane fade" id="nav-campo" role="tabpanel" aria-labelledby="nav-campo-tab">
-                        
+                        <div class="container">
                     <h3 class="subtitle-general-fix mb-2 ">
                           Campo Ocupacional
                                 </h3>
@@ -411,7 +411,8 @@
                                                         <li>
                         Investigación: Como desarrollar investigaciones en el campo profesional arquitectónico que planteen propuestas para estudiar y comprender nuestra realidad valorando nuestra tradición, generando así un conocimiento propio de nuestro patrimonio cultural.
                         </li>
-                    </ul>     
+                    </ul>   
+                    </div>  
             </div>  
                             
                        
@@ -423,7 +424,7 @@
 
                     <!-- INICIO Contenido tab laboratorio--> 
                      <div class="tab-pane fade" id="nav-laboratorio" role="tabpanel" aria-labelledby="nav-laboratorio-tab">
-                        
+                        <div class="container">
                      <h3 class="subtitle-general-fix mb-2 ">
                           Laboratorios
                                 </h3>
@@ -452,6 +453,7 @@
                         <li> Laboratorio de Construcción</li>
                         <li> Laboratorio de Informática</li>
                     </ul>
+                    </div>
 
                     <div class="container">
                         <?php include('fotosarqui.php') ?>
@@ -483,7 +485,7 @@
                     <!-- INICIO Contenido tab servicios --> 
 
                     <div class="tab-pane fade" id="nav-graduados" role="tabpanel" aria-labelledby="nav-graduados-tab">
-                        
+                        <div class="container">
                         <h3 class="subtitle-general-fix mb-2 ">
                              Graduados Exitosos
                         </h3>
@@ -585,7 +587,7 @@
                                                     
                             Como alumno de la carrera de Arquitectura, me siento a gusto de haber elegido esta universidad, ya que me permite desarrollar desde los primeros ciclos la carrera con cursos que son netamente prácticos en diseño, acercándome de manera real a mi profesión. La motivación de los docentes me permite aprender de sus experiencias, ya que ellos se encuentran trabajando en diferentes estudios de arquitectos y nos dotan de toda sus experiencias vividas. Esta formación permitirá que mis habilidades como profesional sean con una sólida base en el desarrollo futuro de mi profesión. Estoy seguro que la universidad me dará todas las herramientas para lograr ello”.
                             </p>
-
+                            </div>
 
                     </div> 
 

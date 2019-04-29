@@ -45,7 +45,7 @@
     <div class="container wow fadeInUp" data-wow-delay="200ms" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
-                <h5 class="title-general-fix" style='border: 1px solid red;' > 
+                <h5 class="title-general-fix"  > 
                      CONTACTO
                 </h5>
             </div>

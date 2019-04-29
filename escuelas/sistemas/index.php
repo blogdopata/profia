@@ -59,7 +59,14 @@
          <div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Escuela</a>
 
+
+                        <a class="nav-item nav-link" id="nav-mv-tab" data-toggle="tab" href="#nav-mv" role="tab" aria-controls="nav-mv" aria-selected="false">Misión y Visión</a>
+
                         <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil del Graduado</a>
+
+                        <a class="nav-item nav-link" id="nav-objetivos-tab" data-toggle="tab" href="#nav-objetivos" role="tab" aria-controls="nav-objetivos" aria-selected="false">Objetivos Educacionales</a>
+
+
 						<a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
                         <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Cursos</a>
                       
@@ -129,45 +136,7 @@
                      
                  
         
-                         <h2 class="subtitle-general-fix">Misión</h2>       
-
-                        <p class="text-fix-content">
-                            Formar profesionales en la especialidad de Ingeniería de Computación y Sistemas con sólidos valores, competentes y creativos para resolver problemas en el contexto laboral y social; desarrollar habilidades para responder a los cambios y desafíos del entorno; fomentar la investigación aplicada en el desarrollo de sistemas de información; promover actividades de extensión y proyección social que beneficien a la sociedad.
-                        </p> 
-
-                         <h2 class="subtitle-general-fix">Visión</h2>       
-
-                        <p class="text-fix-content">
-                            Llegar a ser la mejor Escuela Profesional del país dedicada a la formación de Ingenieros de Computación y Sistemas de clase internacional; con una cultura institucional en la que se fortalezcan los valores; comprometida con la búsqueda constante de la excelencia, el desarrollo integral del estudiante, la investigación y su proyección a la sociedad.
-                        </p> 
-
-                        <h2 class="subtitle-general-fix">Objetivos</h2>      
-
-                        <ul class="text-fix-content  list-fix" >
-                            <li> Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad, que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li>
-                            <li> Desenvolverse adecuadamente con capacidad analítica y comunicativa para aportar soluciones que agreguen valor a la organización.</li>
-                            <li> Practicar un ejercicio profesional responsable, con valores éticos y utilizar de manera adecuada los recursos disponibles en la organización.</li>
-                            <li> Trabajar en equipos multidisciplinarios, para desarrollar proyectos de sistemas de información que aporten al progreso y bienestar de la sociedad.</li>
-                            <li> Ser un profesional comprometido con el aprendizaje continuo para su desarrollo personal a lo largo de toda la vida.</li>
-                        </ul>
-                        <br>
-
-                        <h2 class="subtitle-general-fix">Resultados</h2> 
-                    <p class="text-fix-content">
-                        RESULTADOS QUE EL ESTUDIANTE DEBE LOGRAR AL EGRESAR DE LA ESPECIALIDAD DE INGENIERÍA DE COMPUTACIÓN Y SISTEMAS
-                        </p>
-                        <ul class="text-fix-content  list-fix">
-                            <li>Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
-                            <li>Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
-                            <li>Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.
-                            <li>Habilidad para trabajar con efectividad en equipos para lograr una meta común
-                            Comprensión de los aspectos y las responsabilidades profesional, ética, legal, de seguridad y social.</li>
-                            <li>Habilidad para comunicarse en efectividad con un rango de audiencias.
-                            <li>Habilidad para analizar el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
-                            <li>Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
-                            <li>Habilidad para usar técnicas, destrezas, y herramientas modernas necesarias para la práctica de la computación.</li>
-                            <li>Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
-                        </ul>
+                        
                         
                         </div> 
                                             
@@ -180,63 +149,120 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- CONTENIDO TAB  MISIÓN Y VISIÓN -->
+<div class="tab-pane fade" id="nav-mv" role="tabpanel" aria-labelledby="nav-mv-tab">
+<div class="container">
+
+<h2 class="subtitle-general-fix">
+             Visión
+        </h2>
+
+   <p class="text-fix-content">
+    Llegar a ser la mejor Escuela Profesional del país dedicada a la formación de Ingenieros de Computación y Sistemas de clase internacional; con una cultura institucional en la que se fortalezcan los valores; comprometida con la búsqueda constante de la excelencia, el desarrollo integral del estudiante, la investigación y su proyección a la sociedad.
+    </p>
+    <p class="text-fix-content">
+    To become the best Professional School of the country dedicated to making international class Systems and Computing Engineers; with an institutional culture that strengthens the values; committed to constant search for excellence, integral development of the students, research and its projection to society.
+    </p>
+
+    <h2 class="subtitle-general-fix mt-5">
+             Misión
+        </h2>
+    <p class="text-fix-content">
+    Formar profesionales en la especialidad de Ingeniería de Computación y Sistemas con sólidos valores, competentes y creativos para resolver problemas en el contexto laboral y social; desarrollar habilidades para responder a los cambios y desafíos del entorno; fomentar la investigación aplicada en el desarrollo de sistemas de información; promover actividades de extensión y proyección social que beneficien a la sociedad.
+    </p>
+    <p class="text-fix-content">
+    To educate professionals in the field of Systems and Computing Engineering with solid values, competent and creative in order to solve problems within their working and social context; to develop abilities in order to respond to the changes and challenges of their environment; to promote applied research for the development of information systems; to promote extension and social projection activities to benefit the society.
+    </p>
+</div>
+
+</div>
+ 
+ 
+              
+<!-- FIN CONTENIDO BIENVENIDOS -->
+
+
+
                     <!-- Contendio Tab Perfil Graduados -->
 
 				   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
+                   <div class="container">
                        <h2 class="subtitle-general-fix"> Perfil del graduado de Sistemas</h2>
-                            <br>
+                    </div>                            
                     <div class="container">
-                        <div class="row">
-
-
-
-                           
-                               
-                                <b class="text-fix-content mb-3" style="color:black;">
-                                    Durante los primeros años después de su graduación, el graduado presentará las siguientes competencias (educational objectives):
-                                </b>
-                                
-                                <br>
-                                <div class="text-fix-content mt-2">
-                                <ul class="fix-items-li mb-4">
-                                    <li>Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad,que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li>
-
-                                     <li>Desenvolverse adecuadamente con capacidad analítica y comunicativa para aportar soluciones que agreguen valor a la organización.</li>
-
-                                    <li>Practicar un ejercicio profesional responsable, con valores éticos y utilizar de manera adecuada los recursos disponibles en la organización.</li>
-
-                                    <li>Trabajar en equipos multidisciplinarios, para desarrollar proyectos de sistemas de información que aporten al progreso y bienestar de la sociedad.</li>
-
-                                    <li>Ser un profesional comprometido con el aprendizaje continuo para su desarrollo personal a lo largo de toda la vida.</li> 
-                                    </ul>
-                                </div>
-                               <br>
-                                <b class="text-fix-content mb-3 " style="color:black;">
-                                    Para el momento de su graduación, el estudiante presentará las siguientes competencias (student outcomes):
-                                </b>
-                                
-                                
-                                <div class="text-fix-content">
-
-                                <ul class="fix-items-li">
-                                    <li>Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
-                                    <li>Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
-                                    <li>Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
-                                    <li>Habilidad para trabajar con efectividad en equipos para lograr una meta común.</li>
-                                    <li>Comprensión de los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
-                                    <li>Habilidad para comunicarse con efectividad con un rango de audiencias.</li>
-                                    <li>Habilidad para analizar el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
-                                    <li>Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
-                                    <li>Habilidad para usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
-                                    <li>Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
-                                </ul>
-                                <br>
-                                    <a target="_blank" style="font-family:Roboto Condensed;" class="nav-item nav-link" href="http://www.usmp.edu.pe/acreditacionfia/escuelas/sistemas/epics/pdf/IMAGEN_OBJETIVO_ING_COM_SIST.pdf">Imagen Objetivo</a>
-                                    </div>    
+                            <p class="text-fix-content">
+                            El perfil del graduado de Ingeniería de Computación y Sistema es el siguiente:
+                            </p>  
+                            
+                            <ul class="fix-items-li font-16">
+                                <li>Aplica conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
+                                <li>Analiza un problema e identifica y define los requerimientos apropiados para su solución.</li>
+                                <li>Diseña, implementa y evalúa un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
+                                <li>Trabaja con efectividad en equipos para lograr una meta común.</li>
+                                <li>Comprende los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
+                                <li>Se comunica con efectividad con un rango de audiencias.</li>
+                                <li>Analiza el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
+                                <li>Reconoce la necesidad y asume el compromiso de un continuo desarrollo profesional.</li>
+                                <li>Usa técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
+                                <li>Comprende los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
+                            </ul>
+                            
                         </div>
-                    </div>        
+                   
                     </div>
                    <!-- FIN Contendio Tab Perfil Graduados -->
+
+
+
+
+
+                    <!-- Contendio Tab objetivos -->
+
+				   <div class="tab-pane fade show " id="nav-objetivos" role="tabpanel" aria-labelledby="nav-objetivos-tab">
+                   <div class="container">
+                       <h2 class="subtitle-general-fix"> Declaración de los Objetivos Educacionales</h2>
+                    </div>                            
+                    <div class="container">
+                            <ul class="fix-items-li font-16 mt-3" >
+                                <li>Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad, que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li>
+                                <li>Desenvolverse adecuadamente con capacidad analítica y comunicativa para aportar soluciones que agreguen valor a la organización.</li>
+                                <li>Practicar un ejercicio profesional responsable, con valores éticos y utiliza de manera adecuada los recursos disponibles en la organización.</li>
+                                <li>Trabajar en equipos multidisciplinarios, para desarrollar proyectos de sistemas de información que aporten al progreso y bienestar de la sociedad.</li>
+                                <li>Ser un profesional comprometido con el aprendizaje continuo para su desarrollo personal a lo largo de toda la vida.</li>
+                            </ul>
+                            <br>
+                            <h2 class="subtitle-general-fix"> Resultados del estudiante</h2>
+
+                            <ul class="fix-items-li font-16 mt-3">
+                            <li>Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
+                            <li>Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
+                            <li>Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
+                            <li>Habilidad para trabajar con efectividad en equipos para lograr una meta común.</li>
+                            <li>Comprensión de los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
+                            <li>Habilidad para comunicarse con efectividad con un rango de audiencias.</li>
+                            <li>Habilidad para analizar el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
+                            <li>Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
+                            <li>Habilidad para usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
+                            <li>Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
+                    </ul>
+                        </div>
+
+                    </div>
+                   <!-- FIN Contendio Tab objetivos -->
+
 
                           <!-- Contenido tab Organización plan de Estudios --> 
 
@@ -262,7 +288,7 @@
                             
                             <h2 class="subtitle-general-fix">Catálogo de Cursos</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
-                        <iframe src="http://www.usmp.edu.pe/ffia/escuelas/sistemas/pdf/6.LIST_OF_COURSES-EPICS.pdf" allowfullscreen id="archivo"></iframe> 
+                        <iframe src="http://www.usmp.edu.pe/proFIA/escuelas/sistemas/pdf/catalogo_cursos_sistemas.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
                         <br>
                         <br><br>
@@ -335,20 +361,15 @@
 
 
                      <div class="tab-pane fade" id="nav-eventos" role="tabpanel" aria-labelledby="nav-novedades-tab">
-                        
+                        <div class="container">
                             <?php include('eventos.php') ?>
-                   
+                            </div>
                     </div>
 
 
                     </div>
         </section>
 
-   
-        <br>
-    <center>
-    <hr style="width:96%;">
-    </center>
 
     
 

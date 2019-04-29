@@ -5,7 +5,7 @@
 
                     <div class="text-left">
                       
-                        <h3 class="subtitle-general-fix" style='border: 1px solid red;' >Contáctanos</h3>
+                        <h3 class="subtitle-general-fix"  >Contáctanos</h3>
                         
                         <p class="mt-3 text-fix-content">
                             Estamos para ayudarte , envía tus consultas a los medios de abajo o SÍGUENOS en nuestras

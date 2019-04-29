@@ -6,10 +6,10 @@
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+    <!-- jQuery-2.2.4 js -->
+    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script> 
+  
+  
 
     <!-- Title -->
     <title>Fia USMP</title>
@@ -101,8 +101,9 @@
 
                 <!-- CONTENIDO TAB  BIENVENIDOS -->
                 <div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
-
+                        
 				        	  <div class="tab-pane fade show active" id="nav-escuela" role="tabpanel" aria-labelledby="nav-escuela-tab">
+                              <div class="container">
 					            	<h2 class="subtitle-general-fix">Bienvenidos</h2>
                         <p class="text-fix-content">
                             La Escuela Profesional de Ingeniería Industrial (EPII) es la Unidad Académica encargada de la formación profesional de nuesvos ingenieros industriales con las competencias requeridas para su éxito laboral y bajo los valores y principios de nuestra universidad. Está comprometida con el desarrollo nacional a través de la creación de nuevos conocimientos, aplicaciones, innovación y la transmisión de estos para beneficio de la sociedad. 
@@ -136,7 +137,7 @@
                             
                             
                         
-                            <div class="col-6 col-lg-4 "  >
+                            <div class="col-6 col-lg-4  mt-3"  >
                                 <div class=" centrarimg">
                                 <img class="img-fluid"  src="../../img/acreditaciones/logos/EUR-ACE.jpg" alt="">
                                 </div>
@@ -144,18 +145,18 @@
 
 
 
-                            <div class="col-6 col-lg-4 "  >
+                            <div class="col-6 col-lg-4  mt-3"  >
                                 <div class=" centrarimg">
                                 <img class="img-fluid"  src="../../img/acreditaciones/logos/ICACIT.jpg" alt="">
                                 </div>
                             </div>
 
-                            <div class="col-12 col-lg-4 "  >
+                            <div class="col-12 col-lg-4 mt-3 "  >
                                 <div class=" centrarimg">
                                 <img class="img-fluid"  src="../../img/acreditaciones/logos/SINEACE.jpg" alt="">
                                 </div>
                             </div>
-
+                            </div>
                       
                       </div>
                      
@@ -182,6 +183,8 @@
                     <!-- Contendio Tab Perfil Graduados -->
 
 				               <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
+
+                               <div class="container">
                         <h2 class="subtitle-general-fix">Perfil del graduado de la carrera de Ingeniería Industrial</h2> <br>
                         <p class="text-fix-content">La Ingeniería Industrial estudia la utilización racional de los recursos humanos, técnicos, materiales y de información y el manejo óptimo de los sistemas de transformación de bienes y servicios, con la finalidad de obtener productos o servicios útiles  a la sociedad y con respeto al medio ambiente.<br>
                         La formación del Ingeniero Industrial en la FIA – USMP, se basa en el desarrollo de las competencias ya mencionadas y que lo preparan para afrontar con éxito cualquier reto en cualquier ámbito.<br>
@@ -220,6 +223,7 @@
                           <li> Utilizar las técnicas, destrezas y herramientas modernas necesarias para la práctica de la ingeniería.</li>
                           </ul>
 
+                        </div>
                         </div>
 
                       </div>
@@ -377,8 +381,7 @@
     </footer>
 
     <!-- ##### All Javascript Script ##### -->
-    <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script> 
+    
     <!-- Popper js -->
     <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->

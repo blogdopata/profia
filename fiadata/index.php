@@ -189,7 +189,7 @@
     <div class="tab-pane fade" id="nav-val" role="tabpanel" aria-labelledby="nav-val-tab">
         <div class="container">
 		<h3 class="subtitle-general-fix">Nuestros Valores </h3>	
-          <ul class="fix-items-li">
+          <ul class="fix-items-li font-16 mt-2">
 				<li>Trabajo colaborativo del equipo </li>
 				<li>Conducta y ética profesional</li>
 				<li>Capacidad de innovación</li>
@@ -229,7 +229,7 @@
     <div class="tab-pane fade" id="nav-servicios" role="tabpanel" aria-labelledby="nav-servicios-tab">
         <div class="container">
 		<h3 class="subtitle-general-fix">Servicios </h3>	
-           <ul class="fix-items-li">
+           <ul class="fix-items-li font-16 mt-2">
 				<li>Atención a alumnos, docentes y administrativos</li>
 				<li>Laboratorios académicos</li>
 				<li>Asignación de cuentas de correo</li>
@@ -255,20 +255,20 @@
 	</div>		
 	<div class="container" >
 	
-			<h3 class="subtitle-general-fix"> 2019  </h3>
+			<h3 class="subtitle-general-fix mt-3"> 2019  </h3>
 	
-			<ul class="fix-items-li ml-4" >
+			<ul class="fix-items-li ml-4 mb-4 font-16" >
 					<li> Sistemas de Registro de Control de Asistencia </li>
 		</ul>		
 
-			<h3 class="subtitle-general-fix">2018 </h3>
-				<ul class="fix-items-li ml-4" >
+			<h3 class="subtitle-general-fix mt-3">2018 </h3>
+				<ul class="fix-items-li ml-4 font-16" >
 					<li> Sistema de gestión de vuelos</li>
-					<li> Sistema de registro de silabos</li>
-					<li> Sistema de reserva de laboratorios - escuela de industrial</li>
+					<li> Sistema de registro de sílabos</li>
+					<li> Sistema de reserva de laboratorios - Escuela profesional de Ingeniería Industrial</li>
 					<li> Sistema de encuestas del desempeño al docente pregrado y posgrado</li>
-					<li> Sistema de registro de posrtulantes para colegios</li>
-					<li> App mobile chahchapoyas - andorid</li>
+					<li> Sistema de registro de postulantes para colegios</li>
+					<li> App mobile Chachapoyas - Android</li>
 					<li> Aplicación de impresión de certificados y constancias</li>
 				</ul>
 </p>
@@ -286,10 +286,11 @@
 	<h3 class="subtitle-general-fix">Manuales de Categorías </h3>	
 	</div>		
 	<div class="container">
+			<br>
+			<ul class="fix-items-li ml-5">
+					<li><a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/manuales/manual-encuestas-alumno.pdf" target="_blank"> Sistema de Encuestas de Desempeño Docente </a></li>
+			</ul>
 	
-	<ul class="fix-items-li ml-4" >
-					<li> <a href="http://www.usmp.edu.pe/proFIA/pdf/manuales/manual-encuestas-alumno.pdf" target="_blank"> Sistema de Encuestas de Desempeño Docente </a></li>
-		</ul>		
 	</div>	
     </div>
 	<!-- FIN Contenido tab PROYECTOS-->

@@ -12,17 +12,10 @@
 
     <link rel="icon" href="img/core-img/logousmp.ico">
 
-    <!-- cambiar a serv-web para  pruebas local-->
    
-   
-   
-   
+
    
     <link rel="stylesheet" href="css/style.css">
-    
-
-    <!-- poner url absoluta en cuando este en servidor 
-    <link rel="stylesheet" href="http://serv-web/Newweb/proFIA/css/style.css">-->
 
  <!--   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet"> -->
 
@@ -149,7 +142,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="300ms">
                         <div >
                             <a target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus">
-                            <img  src="img/fia/intranet.png" alt=""> <br>
+                            <img  class="img-fluid img-fix-fluid" src="img/fia/intranet.jpg" alt=""> <br>
                             <a class="text-center course-content " target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus"><h4 class="rob" >INTRANET SAP</h4></a>
                             </a>
                         </div>
@@ -161,7 +154,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="400ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/">
-                            <img  src="img/fia/acreditacion.png" alt=""> <br>
+                            <img  class="img-fluid img-fix-fluid" src="img/fia/acreditacion.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/"><h4 class="rob">ACREDITACIÓN</h4></a>
                             </a>
                         </div>
@@ -172,7 +165,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="500ms">
                         <div>
                             <a target="_blank" href="http://fia.usmp.trabajando.pe/">
-                            <img  src="img/fia/bolsa_de_trabajo.png" alt=""> <br>
+                            <img  class="img-fluid img-fix-fluid" src="img/fia/bolsa_de_trabajo.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://fia.usmp.trabajando.pe/"><h4 class="rob">BOLSA DE TRABAJO</h4></a>
                             </a>
                         </div>
@@ -183,8 +176,8 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="600ms" >
                         <div>
                             <a target="_blank" href="http://ingles.usmp.edu.pe/">
-                            <img  src="img/fia/ingles_berlitz.png" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/"><h4 class="rob">INGLÉS BERTLITZ</h4></a>
+                            <img class="img-fluid img-fix-fluid"  src="img/fia/ingles_berlitz.jpg" alt=""> <br>
+                            <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/"><h4 class="rob">INGLÉS BERLITZ</h4></a>
                             </a>
                         </div>
                     </div>
@@ -195,7 +188,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.sibus.usmp.edu.pe/">
-                            <img  src="img/fia/biblioteca.png" alt=""> <br>
+                            <img class="img-fluid img-fix-fluid"  src="img/fia/biblioteca.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.sibus.usmp.edu.pe/"><h4 class="rob">BIBLIOTECA</h4></a>
                             </a>
                         </div>
@@ -206,7 +199,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/proFIA/servicios/bienestar.php">
-                            <img  src="img/fia/bienestar_universitario.png" alt=""> <br>
+                            <img class="img-fluid img-fix-fluid" src="img/fia/bienestar_universitario.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
                             </a>
                         </div>
@@ -312,9 +305,9 @@
     <!-- ##### Top Popular Courses Area Start ##### -->
     <div class="top-popular-courses-area  mt-5   wow fadeInUp" data-wow-delay="300ms">
         <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-heading text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
+            <div class="row mb-lg-5 mb-4">
+                <div class="col-12 p-0 h-25">
+                    <div class=" text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
                        
                         <h3 class="title-general">AGENDA</h3>
                     </div>
@@ -325,19 +318,18 @@
             <div class="row" >
                
                 <!-- Single Top Popular Course -->
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 "  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 "  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 15</span> 
-                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
+                            <span style="font-size:40px;font-weight:bold"> 02</span> 
+                            <span style="font-size:26px;font-weight:bold">MAY</span> 
                         </div>
-
                         <div>
-                            <h6 class="agenda-title">Encuentro Cultural: <br>Ingresantes en acción</h6> 
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span>   <br>
-                            <span class="agenda-info">Hora: 12:00 a 14:00 h</span>   <br>
-                            <span class="agenda-info ">  <strong>    <a href="mailto:jlopezg@usmp.pe">jlopezg@usmp.pe</a> </strong></span>  <br>
-                            <a href="https://www.facebook.com/epufia/photos/pcb.2092910370745201/2092906767412228/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <h6 class="agenda-title">Charla informativa: <br>Reto - Acelera tu Futuro</h6>
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
+                            <span class="agenda-info">Hora: 18:00 a 19:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>  Telf: 01-208-600 anexo 1130</a> </strong></span> <br>
+                            <a href="https://www.facebook.com/fia.usmp/photos/pb.296483983786463.-2207520000.1556121871./1852125904888922/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
                 </div>
@@ -347,92 +339,103 @@
                 <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span class="agenda-day"> 16</span> 
-                            <span class="agenda-mes" >ABRIL</span> 
+                            <span style="font-size:40px;font-weight:bold"> 02</span> 
+                            <span style="font-size:26px;font-weight:bold">MAY</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Salud: <br>Campaña Gratuita de Salud</h6>
-                            <span class="agenda-info">Lugar: Campus FIA</span>   <br>
-                            <span class="agenda-info">Hora: 09: 00 a 17:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    <a href="mailto:obu_fia@usmp.pe">obu_fia@usmp.pe</a></strong></span> <br>
-                            <a href="#" class="agenda-text-info">Más información</a>
-                        </div>   
-                    </div>
-                </div>
-                
-                <!-- Single Top Popular Course -->
-
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 "  >
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 17</span> 
-                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Taller: <br>Automatización industrial</h6>
-                            <span class="agenda-info">Lugar: 06 - A2 / Laboratorios</span> <br>
-                            <span class="agenda-info">Hora: 09:30 a 12:30 h</span> <br>
-                            <span class="agenda-info ">  <strong>   <a href="mailto:jlopezg@usmp.pe">jlopezg@usmp.pe</a> </strong></span> <br>
-                            <a href="#" class="agenda-text-info">Más información</a>
-                        </div>   
-                    </div>
-                </div>
-                
-                <!-- Single Top Popular Course -->
-
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2"  >
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 23</span> 
-                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Audiencia Pública: <br>ACSUG - EPIC</h6>
-                            <span class="agenda-info">Lugar: Auditorio FIA DATA</span> <br>
-                            <span class="agenda-info">Hora: 15:45 a 16:15 h</span> <br>
-                            <span class="agenda-info ">  <strong>    <a href="mailto:enunezg@usmp.pe ">enunezg@usmp.pe </a> </strong></span> <br>
-                            <a href="#" class="agenda-text-info">Más información</a>
-                        </div>   
-                    </div>
-                </div>
-                
-                <!-- Single Top Popular Course -->
-
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2"  >
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 24</span> 
-                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Conferencia: <br>Historia de la Aviación en Lima</h6>
+                            <h6 class="agenda-title">Debate: <br>¿Ideología o Enfoque?</h6>
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
-                            <span class="agenda-info">Hora: 10:00 a 12:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    <a href="mailto:jlopezg@usmp.pe">jlopezg@usmp.pe</a> </strong></span> <br>
-                            <a href="https://www.facebook.com/epufia/photos/a.261123367257253/2100096210026617/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <span class="agenda-info">Hora: 16:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>  Telf: 01-208-600 anexo 1128</a> </strong></span> <br>
+                            <a href="https://www.facebook.com/fia.usmp/photos/pb.296483983786463.-2207520000.1556121871./1853721154729397/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
                 </div>
                 
                 <!-- Single Top Popular Course -->
 
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2"  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 24</span> 
-                            <span style="font-size:26px;font-weight:bold">ABRIL</span> 
+                            <span style="font-size:40px;font-weight:bold"> 10</span> 
+                            <span style="font-size:26px;font-weight:bold">MAY</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Seminario: <br>Deshidratación de alimentos</h6>
-                            <span class="agenda-info">Lugar: 06-A1 / Laboratorios</span> <br>
-                            <span class="agenda-info">Hora: 09:30 a 12:30 h</span> <br>
-                            <span class="agenda-info ">  <strong>    <a href="mailto:jlopezg@usmp.pe">jlopezg@usmp.pe</a> </strong></span> <br>
-                            <span><a href="#" class="agenda-text-info">Más información</a>
+                            <h6 class="agenda-title">Taller: Herramientas de software para <br>elaborar trabajo de investigación </h6>
+                            <span class="agenda-info">Lugar: Laboratorio 3D de FIA DATA</span> <br>
+                            <span class="agenda-info">Hora: 14:00 a 18:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1130</a> </strong></span> <br>
+                            <a href="" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
                 </div>
                 
                 <!-- Single Top Popular Course -->
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 11</span> 
+                            <span style="font-size:26px;font-weight:bold">MAY</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Curso: <br>Desarrollo de videojuegos con Unity</h6>
+                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
+                            <span class="agenda-info">Hora: 9:00 a 13:30 h</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1130</a> </strong></span> <br>
+                            <span><a href="" target="_blank" class="agenda-text-info">Más información</a>
+                        </div>   
+                    </div>
+                </div>
+                
+                
+                <!-- Single Top Popular Course -->
+
+            
+    
+
+                <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-none d-sm-block"  >
+                    <div class="d-flex">
+                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 17</span> 
+                            <span style="font-size:26px;font-weight:bold">MAY</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Aniversario: <br>57 años de la USMP</h6>
+                            <span class="agenda-info">Lugar: Campus FIA</span> <br>
+                            <span class="agenda-info">Hora: Todo el día</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600</a> </strong></span> <br>
+                            <a href="http://www.usmp.edu.pe/" target="_blank" class="agenda-text-info">Más información</a> -->
+                            <br><br>
+
+                        </div> 
+                    </div>
+                </div>
+                
+                <!-- Single Top Popular Course -->
+
+
+
+
+                 <!-- Single Top Popular Course -->
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-sm-block"  >
+                    <div class="d-flex">
+                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 14</span> 
+                            <span style="font-size:26px;font-weight:bold">JUN</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Taller: <br>Construye tu bici de bambú</h6>
+                            <span class="agenda-info">Lugar: Campus FIA</span> <br>
+                            <span class="agenda-info">Hora: Todo el día</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span> <br>
+                            <span><a href="http://www.usmp.edu.pe/ivuc" target="_blank" class="agenda-text-info">Más información</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Single Top Popular Course -->
+
+
 
             </div>
         </div>
@@ -478,3 +481,49 @@
 </body>
 
 </html>
+
+
+<!-- <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 17</span> 
+                            <span style="font-size:26px;font-weight:bold">MAYO</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Aniversario: <br>57 años de la USMP</h6>
+                            <span class="agenda-info">Lugar:Campus FIA</span> <br>
+                            <span class="agenda-info">Hora: Todo el día</span> <br>
+                            <span class="agenda-info ">  <strong>    <a href="#">Telf: 01-208-600</a> </strong></span> <br>
+                            <a href="http://www.usmp.edu.pe/" target="_blank" class="agenda-text-info">Más información</a>
+                        </div>   -->
+
+
+
+                        <!-- <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 14</span> 
+                            <span style="font-size:26px;font-weight:bold">JUNIO</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Taller: <br>Construye tu bici de Bambú</h6>
+                            <span class="agenda-info">Lugar:Campus FIA</span> <br>
+                            <span class="agenda-info">Hora:Todo el día</span> <br>
+                            <span class="agenda-info ">  <strong>    <a href="#">Telf: 01-208-600</a> </strong></span> <br>
+                            <span><a href="http://www.usmp.edu.pe/ivuc" target="_blank" class="agenda-text-info">Más información</a>
+                        </div>    -->
+
+
+<!-- 
+                        vision2019
+                        <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 17</span> 
+                            <span style="font-size:26px;font-weight:bold">OCTUBRE</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Congreso: <br>Visión  2019</h6>
+                            <span class="agenda-info">Lugar:Campus FIA</span> <br>
+                            <span class="agenda-info">Hora:Todo el día</span> <br>
+                            <span class="agenda-info "><strong><a href="#">Telf: 01-208-600</a> </strong></span> <br>
+                            <span><a href="http://usmp.edu.pe/vision2019/" target="_blank" class="agenda-text-info">Más información</a>
+                        </div>   
+                    </div>
+                </div> -->

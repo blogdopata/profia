@@ -77,7 +77,7 @@
     <hr>
                 <div class="row pt-3 d-flex align-items-center">
                     <div class="col-12 text-center col-md-3 mb-sm-3"   >
-                        <img src="img/acreditaciones/Logo_ICACIT.png"  class="img-fluid" alt="">
+                        <img src="img/acreditaciones/Logo_ICACIT.jpg"  class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-md-9 text-fix-content"  >
                     <strong>El Instituto de Calidad y Acreditación de Programas de Computación, Ingeniería y Tecnología (ICACIT) </strong> es una agencia acreditadora especializada en programa de formación profesional en computación, ingeniería y tecnología en ingeniería. ICACIT promueve la mejora continua de la calidad educativa de los programas, garantizando que estos cumplan con los más altos estándares internacionales que aseguren que los graduados estén listos para ejercer su profesión.
@@ -90,7 +90,7 @@
                 
                 <div class="row pt-1 d-flex align-items-center">
                     <div class="col-12 text-center col-md-3 mb-sm-3"   >
-                        <img src="img/acreditaciones/siegel-a-rgb-q.png"  class="img-fluid" alt="">
+                        <img src="img/acreditaciones/siegel-a-rgb-q.jpg"  class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-md-9 text-fix-content"  >
                     <strong>La agencia Alemana, de aseguramiento de calidad internacional, ASIIN (Accreditation Agency for Degree Programmes in Engineering, lnformatics, Natural Sciences and Mathematics) </strong> es una organización público – privada, sin fines de lucro, que cuenta con plena autorización del Consejo Alemán de Acreditación (Akkreditierungsrat) para acreditar programas de ingeniera, matemática, física y química, ofrecidos por instituciones alemanas e internacionales.
@@ -127,7 +127,7 @@
                 <hr>
                 <div class="row pt-3 d-flex align-items-center">
                     <div class="col-12 text-center col-md-3 text-center"   >
-                        <img src="img/acreditaciones/EUR-ACE.png"  class="img-fluid" alt="">
+                        <img src="img/acreditaciones/EUR-ACE.jpg"  class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-md-9 text-fix-content mt-3"   >
                     <strong>El sello europeo de calidad internacional en ingeniería EUR-ACE </strong> acredita que cumplen de manera excelente con las exigencias profesionales de la ingeniería. Esta acreditación es otorgada por la agencia European Network for Accreditation of Engineering Education (ENAEE) en colaboración con la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA). El objetivo de la ENAEE es identificar programas de estudios de ingeniería de alta calidad en Europa y más allá de sus fronteras. <br>
@@ -142,7 +142,7 @@
 
                 <div class="row pt-3 d-flex align-items-center">
                     <div class="col-12 text-center col-md-3"   >
-                        <img src="img/acreditaciones/Logo_ICACIT.png"  class="img-fluid" alt="">
+                        <img src="img/acreditaciones/Logo_ICACIT.jpg"  class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-md-9 text-fix-content mt-3"  >
                     <strong>El Instituto de Calidad y Acreditación de Programas de Computación, Ingeniería y Tecnología (ICACIT) </strong> es una agencia acreditadora especializada en programa de formación profesional en computación, ingeniería y tecnología en ingeniería. ICACIT promueve la mejora continua de la calidad educativa de los programas, garantizando que estos cumplan con los más altos estándares internacionales que aseguren que los graduados estén listos para ejercer su profesión.

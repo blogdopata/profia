@@ -10,8 +10,10 @@
     </p>
     
     <br>
+    <div class="container">
     <div class="row">
-    <img class="img-fluid"  src="http://usmp.edu.pe/proFIA/escuelas/aeronauticas/images/aviones/avion.jpg" alt="">
+    <div class="container centrarimg">
+    <img class="img-fluid"  src="http://usmp.edu.pe/proFIA/escuelas/aeronauticas/images/aviones/avion.jpg" alt=""></div>
     </div>
 
 
@@ -105,6 +107,7 @@
       <button class="btn text-white text-fix-style text-center" type="button" style="background-color:#E0134E;border-radius:unset;outline:none;" data-toggle="collapse" data-target="#fotosimu" aria-expanded="false" aria-controls="collapseExample">
       ver más imágenes
       </button>
+    </div>
     </div>
 
   <div class="collapse" id="fotosimu" style="margin-top:18px;">

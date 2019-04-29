@@ -77,9 +77,9 @@
                                    <b id="grisfia" class="text-fix-style">Horarios de Talleres:</b>
                                    <p class="text-fix-style">¿En qué horarios podrías tú participar? enviamos tus propuestas, y te responderemos gustosamente.
                                        <br><br>
-                                       <a href="mailto:fia_tupsicologo@usmp.pe" class="link">Inscripciones para los Talleres</a>
+                                       <a href="mailto:fia_tupsicologo@usmp.pe" class="link">Inscripciones para los Talleres: fia_tupsicologo@usmp.pe</a>
                                        <br>
-                                       <a href="http://www.usmp.edu.pe/ffia/files/talleres/TALLER_ORR_TIEMPO_2014_II.pdf" class="link" target="_blank">Taller Org.Tiempo 2014-II</a>
+                                      
                                    </p>
                                    
                                    

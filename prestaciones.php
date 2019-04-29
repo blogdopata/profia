@@ -156,19 +156,7 @@
                         <a href="http://usmp.edu.pe/categorizacion/" target="_blank">  Unidad de Categorización </a>
                     </div>
               
-                    <div class="col-6 col-md-3 text-center" >
-                        <div class="team-members">
-                            <div >
-                            <a href="#" target="_blank">   
-                            
-                                    <img class="img-fluid" src="img/prestaciones/servicios/conferencias.jpg" alt="">   
-                            
-                                </a>
-                            </div>
-                            
-                        </div>
-                        <a href="#" target="_blank">  Conferencias </a>
-                    </div>
+                  
 
                     <div class="col-6 col-md-3 text-center" >
                         <div class="team-members">
@@ -184,7 +172,19 @@
                         <a href="http://www.usmp.edu.pe/proFIA/pdf/convenio.pdf" target="_blank">  Convenios </a>
                     </div>
 
-
+                    <div class="col-6 col-md-3 text-center" >
+                      <div class="team-members">
+                          <div >
+                           <a href="http://outlook.com/usmp.pe" target="_blank">   
+                           
+                                <img class="img-fluid" src="img/prestaciones/servicios/correo.jpg" alt="">   
+                          
+                            </a>
+                          </div>
+                        
+                      </div>
+                      <a href="http://outlook.com/usmp.pe" target="_blank">  Correo Institucional </a>
+                  </div>
                   
 
 
@@ -201,19 +201,7 @@
             <div class="row mt-3">
 
            
-                 <div class="col-6 col-md-3 text-center" >
-                      <div class="team-members">
-                          <div >
-                           <a href="http://outlook.com/usmp.pe" target="_blank">   
-                           
-                                <img class="img-fluid" src="img/prestaciones/servicios/correo.jpg" alt="">   
-                          
-                            </a>
-                          </div>
-                        
-                      </div>
-                      <a href="http://outlook.com/usmp.pe" target="_blank">  Correo Institucional </a>
-                  </div>
+                 
 
 
 
@@ -263,13 +251,11 @@
                         <a href="servicios/gimnasio.php" target="_blank">  Gimnasio y Coliseo </a>
                     </div>
 
-                </div>
 
-            <div class="row mt-3">
-                <div class="col-6 col-md-3 text-center" >
+                    <div class="col-6 col-md-3 text-center" >
                     <div class="team-members">
                         <div >
-                        <a href="http://www.usmp.edu.pe/proFIA/pdf/guia_estudiante.zip" target="_blank">   
+                        <a href="http://www.usmp.edu.pe/ffia/escuelas/arquitectura/pdf/guia_estudiante.pdf" target="_blank">   
                         
                                 <img class="img-fluid" src="img/prestaciones/servicios/guia.jpg" alt="">   
                         
@@ -277,8 +263,13 @@
                         </div>
                         
                     </div>
-                    <a href="http://www.usmp.edu.pe/proFIA/pdf/guia_estudiante.zip" target="_blank"> Guía Estudiantil </a>
+                    <a href="http://www.usmp.edu.pe/ffia/escuelas/arquitectura/pdf/guia_estudiante.pdf" target="_blank"> Guía Estudiantil </a>
                 </div>
+
+                </div>
+
+            <div class="row mt-3">
+                
 
                 <div class="col-6 col-md-3 text-center" >
                     <div class="team-members">
@@ -291,7 +282,7 @@
                         </div>
                         
                     </div>
-                    <a href="http://filialnorte.usmp.edu.pe/pdf/manuales/Manual_Portal_Acad%C3%A9mico_[Alumno].pdf" target="_blank">  Manual del Portal Académico </a>
+                    <a href="http://www.usmp.edu.pe/pdf/manual_portal_alumnos.pdf" target="_blank">  Manual del Portal Académico </a>
                 </div>
 
 
@@ -324,7 +315,18 @@
                         </div>
 
 
+                        <div class="col-6 col-md-3 text-center">
+                        <div class="team-members">
+                            <div >
+                                <a href="http://www.usmpvirtual.edu.pe/" target="_blank">
+                                        <img class="img-fluid" src="img/prestaciones/servicios/programas-virtuales.jpg" alt="">   
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <a  href="http://www.usmpvirtual.edu.pe/" target="_blank">Programas Virtuales</a>
 
+                    </div>
 
               
                 
@@ -341,18 +343,7 @@
             <!-- INICIO DE FILA -->
             <div class="row mt-3">
 
-                    <div class="col-6 col-md-3 text-center">
-                        <div class="team-members">
-                            <div >
-                                <a href="http://www.usmpvirtual.edu.pe/" target="_blank">
-                                        <img class="img-fluid" src="img/prestaciones/servicios/programas-virtuales.jpg" alt="">   
-                                </a>
-                            </div>
-                            
-                        </div>
-                        <a  href="http://www.usmpvirtual.edu.pe/" target="_blank">Programas Virtuales</a>
-
-                    </div>
+                    
 
 
 

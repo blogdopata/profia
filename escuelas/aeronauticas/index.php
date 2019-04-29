@@ -90,9 +90,9 @@
 				<div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
 					<div class="tab-pane fade show active" id="nav-escuela" role="tabpanel" aria-labelledby="nav-escuela-tab">
-                    
+                    <div class="container">
                    <?php include('escuela.php') ?>
-                    
+                   </div>
                         
                       
                     </div>
@@ -206,11 +206,10 @@
                         <!-- Contenido tab contacto --> 
 
                     <div class="tab-pane fade" id="nav-contactos" role="tabpanel" aria-labelledby="nav-contactos-tab">
-                        <div class="container">
+                        
 
                         <?php include('../../blocks/contacto.php') ?>
 
-                        </div>
                             
                     </div>
 

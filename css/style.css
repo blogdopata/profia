@@ -1366,9 +1366,9 @@ background-repeat: no-repeat;
 .page-header8 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/arquitectura/Arquitectura.jpg)no-repeat; position: relative; background-size: cover; }        
 .page-header9 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/civil/civil.jpg)no-repeat; position: relative; background-size: cover; }        
 .page-header10 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/sistemas/sistemas.jpg)no-repeat; position: relative; background-size: cover; }        
-.page-header11 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/industrial/industrialv.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header11 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/industrial/industrial.jpg)no-repeat; position: relative; background-size: cover; }        
 
-.page-header12 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/aeronauticas/aeronauticas.png)no-repeat; position: relative; background-size: cover; }        
+.page-header12 { background: url(http://www.usmp.edu.pe/proFIA/img/escuelas/aeronauticas/aeronauticas.jpg)no-repeat; position: relative; background-size: cover; }   
 
 
 /*PRESTACIONES*/
@@ -1377,6 +1377,9 @@ background-repeat: no-repeat;
 .page-header15 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/banner_topico.jpg)no-repeat; position: relative; background-size: cover; }      
 .page-header16 { background: url(http://www.usmp.edu.pe/proFIA/img/prestaciones/coliseo_cabecera.jpg)no-repeat; position: relative; background-size: cover; }          
 /*FIN DE LOS BANNERS DE PRESTACIONES */
+
+/* banner novedades */
+.page-header17 { background: url(http://www.usmp.edu.pe/proFIA/img/banner-novedades.jpg)no-repeat; position: relative; background-size: cover;}
 
 .page-caption1 { padding-top: 170px; padding-bottom: 174px; }
 
@@ -1814,8 +1817,39 @@ padding: 7px;
       font-family: "Roboto Condensed";
        color: #585857;
       text-align: justify;
-     
     }
+    ul.font-16 li {
+      font-size: 16px !important;
+    }
+   /* listas alfabeticas y numeradas xsiacaso si piden; :s  
+    ul.number-list-li{
+      margin: 0  0 0 14px;
+      font-family: "Roboto Condensed";
+       color: #585857;
+      text-align: justify;
+    }
+
+    ul.number-list-li li{
+      list-style-type:decimal !important;
+      font-family: "Roboto Condensed";
+       color: #585857;
+      text-align: justify;
+    }
+
+    ul.alphabetic-list-li{
+      margin: 0  0 0 14px;
+      font-family: "Roboto Condensed";
+       color: #585857;
+      text-align: justify;
+    }
+
+    ul.alphabetic-list-li li{
+      list-style-type:lower-latin !important;
+      margin: 0  0 0 14px;
+      font-family: "Roboto Condensed";
+       color: #585857;
+      text-align: justify;
+    } */
 
    
       
@@ -1858,7 +1892,14 @@ padding: 7px;
         color:royalblue;
     }
     .link{
-    color: #585857;
+    color: #585857 !important;
+    font-size:16px !important;
+    }
+
+    .link:hover{
+      transition: 1s;
+      text-decoration: underline !important;
+      color:black !important;
     }
     
 
@@ -3543,3 +3584,7 @@ justify-content: center;
 .btn-secondary {
   font-family: 'Roboto Condensed' !important;
 }
+.img-fix-fluid{
+  max-width: 60% !important;
+}
+

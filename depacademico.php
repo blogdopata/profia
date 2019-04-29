@@ -109,7 +109,7 @@
         </div>
 
         <div class="row mt-5" >
-            <div class="col-md-4 col-12 font-mode fix-height"  >
+           <!--  <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center">Capacitación docente</h5>
 
@@ -117,9 +117,9 @@
                     <a href="pdf\depAcademico\capacitacion_docente_general.pdf"  target="_blank" class="text-link-gen" >Ver más</a>
                     
                 </div>
-            </div>
+            </div> -->
 
-            <div class="col-md-4 col-12 font-mode fix-height"  >
+            <!-- <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                     <h5 class="text-info-gen text-center">Encuesta docente</h5>
 
@@ -127,7 +127,7 @@
                     <a href="pdf\depAcademico\Encuesta_Docente.pdf"  target="_blank"  class="text-link-gen" >Ver más</a>
                     
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >

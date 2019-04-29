@@ -64,15 +64,15 @@
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Decanato</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br>Rosa Luz Dávila </h6>
-                            <p class="card-text">Directo 2086001 <br> Anexo 1101</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
+                            <p class="card-text">2086000 <br> Anexo 1101</p>
                         </div>
                     </div>
                     <br>
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Secretaría de Facultad</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br>Leonila Flores</h6>
+                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
                             <p class="card-text">2086000 <br> Anexo 1102</p>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Sección de Posgrado</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br>Flor Morán</h6>
+                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
                             <p class="card-text">2086000 <br> Anexo 1138</p>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Departamento Académico</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br>María Acosta </h6>
+                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
                             <p class="card-text">2086000 <br> Anexo 1116</p>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
                             <h5 class="card-title card-title-fix mb-4">Laboratorio de Software y Tecnologías Interactivas - EPICS</h5>
                          
                             <h6 class="card-subtitle mb-2 text-muted">Norma León</h6>
-                            <p class="card-text">Directo 2086023 <br> Anexo 1123</p>
+                            <p class="card-text">2086000 <br> Anexo 1123</p>
                         </div>
                     </div>
                     <br>
@@ -155,7 +155,7 @@
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Escuela Profesional de Ingeniería Industrial (EPII)</h5>
-                            <h6 class="card-subtitle mb-2 text-muted"> Personal docente <br>Marina Montenegro </h6>
+                            <h6 class="card-subtitle mb-2 text-muted"> Secretaria <br> </h6>
                             <p class="card-text">2086000 <br> Anexo 1162</p>
                         </div>
                     </div>
@@ -190,14 +190,14 @@
                             <div class="card col-6 col-md-3" style="width: 18rem;">
                                 <div class="card-body text-center">
                                   <h5 class="card-title card-title-fix mb-4">Escuela Profesional de Ingeniería Civil (EPIC)</h5>
-                                    <h6 class="card-subtitle mb-2 text-muted">Personal Docente <br> César Llontop</h6>
+                                    <h6 class="card-subtitle mb-2 text-muted">César Llontop</h6>
                                     <p class="card-text">2086000 <br> Anexo 1150</p>
                             </div>
                             </div>
                             <div class="card col-6 col-md-3" style="width: 18rem;">
                                 <div class="card-body text-center">
                                     <h5 class="card-title card-title-fix mb-4">Escuela Profesional de Ciencias Aeronáuticas (EPCA)</h5>
-                                    <h6 class="card-subtitle mb-2 text-muted">Jefe de Instrucción de Vuelo <br>Lilian Olivares </h6>
+                                    <h6 class="card-subtitle mb-2 text-muted">Lilian Olivares </h6>
                                     <p class="card-text">2086000 <br>Anexo 1104</p>
                                 </div>
                             </div>
@@ -205,7 +205,7 @@
                             <div class="card col-6 col-md-3" style="width: 18rem;">
                                 <div class="card-body text-center">
                                     <h5 class="card-title card-title-fix mb-4">Escuela Profesional de Arquitectura (EPA)</h5> 
-                                    <h6 class="card-subtitle mb-2 text-muted">Secretaria <br> Albina Quinde </h6>
+                                    <h6 class="card-subtitle mb-2 text-muted">Secretaria <br> </h6>
                                     <p class="card-text">2086000 <br> Anexo 1118</p>
                                 </div>
                             </div>
@@ -214,7 +214,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title card-title-fix mb-4">Instituto de Vivienda, Urbanismo y Construcción <br> EPA</h5> 
                                     <h6 class="card-subtitle mb-2 text-muted">Secretaria <br> </h6>
-                                    <p class="card-text">Directo 2086059 <br> Anexo 1159</p>
+                                    <p class="card-text">2086000 <br> Anexo 1159</p>
                                 </div>
                             </div>
                             <br>
@@ -226,7 +226,7 @@
                             <div class="card col-6 col-md-3" style="width: 18rem;">
                                 <div class="card-body text-center">
                                     <h5 class="card-title card-title-fix mb-4">Instituto de Investigación</h5>
-                                    <h6 class="card-subtitle mb-2 text-muted">Secretaria<br>Lizbeth Romero</h6>
+                                    <h6 class="card-subtitle mb-2 text-muted">Secretaria<br></h6>
                                     <p class="card-text">2086000 <br> Anexo 1146</p>
                                 </div>
                             </div>
@@ -242,8 +242,8 @@
                             <div class="card col-6 col-md-3" style="width: 18rem;">
                                 <div class="card-body text-center">
                                     <h5 class="card-title card-title-fix mb-4">FIA-DATA <br> Centro de Cómputo</h5> 
-                                    <h6 class="card-subtitle mb-2 text-muted">Secretaria <br>Lizbeth Romero</h6>
-                                    <p class="card-text">Directo 2086010 <br> Anexo 1110</p>
+                                    <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
+                                    <p class="card-text">2086000 <br> Anexo 1110</p>
                                 </div>
                             </div>
                             <br>
@@ -273,7 +273,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title card-title-fix mb-4">Infraestructuras</h5> 
                                     <h6 class="card-subtitle mb-2 text-muted">Luis Contreras</h6>
-                                    <p class="card-text">Directo 2086045 <br> Anexo 1111</p>
+                                    <p class="card-text">2086000<br> Anexo 1111</p>
                                 </div>
                             </div>
                             <br>
@@ -304,28 +304,21 @@
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Oficina de Registros Académicos</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br>Mery Esther Dávila</h6>
-                            <p class="card-text">Directo 2086013 <br> Anexo 1113</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
+                            <p class="card-text">2086000<br> Anexo 1113</p>
                         </div>
                     </div>
                     <br>
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Oficina Administrativa</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Asistente<br>Yoconda Ballena</h6>
-                            <p class="card-text">Directo 2086076 <br>Anexo 1176</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Asistente <br></h6>
+                            <p class="card-text">2086000 <br>Anexos 1176 / 1128</p>
                         </div>
                     </div>
                     <br>
-                    <div class="card col-6 col-md-3" style="width: 18rem;">
-                        <div class="card-body text-center">
-                            <h5 class="card-title card-title-fix mb-4">Oficina Administrativa - Personal</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Asistente <br>Rosa Evangelista</h6>
-                            <p class="card-text">2086000 <br> Anexo 1128</p>
-                        </div>
-                    </div>
-                    <br>
-                    <div class="card col-6 col-md-3" style="width: 18rem;">
+                    
+                  <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Tesorería</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Rocío Porras</h6>
@@ -333,20 +326,32 @@
                         </div>
                     </div>
                     <br>
+                       <div class="card col-6 col-md-3" style="width: 18rem;">
+                    <div class="card-body text-center">
+                        <h5 class="card-title card-title-fix mb-4">Coordinación Académica</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
+                        <p class="card-text">2086000 <br> Anexo 1117</p>
+                    </div>
+                </div>
+                <br>
                 </div>
                 <br>
                 <div class="row">
-                    <div class="card col-6 col-md-3" style="width: 18rem;">
-                        <div class="card-body text-center">
-                            <h5 class="card-title card-title-fix mb-4">Cajeros</h5>
-                            <h6 class="card-subtitle mb-2 text-muted"></h6>
-                            <p class="card-text">2086000 <br> Anexo 1103</p>
-                        </div>
+                     <div class="card col-6 col-md-3" style="width: 18rem;">
+                    <div class="card-body text-center">
+                        <h5 class="card-title card-title-fix mb-4">Oficina de Proyección y Extensión Universitaria</h5>
+                       <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
+                        <p class="card-text">2086000 <br>Anexo 1122</p>
+                        <h6 class="card-subtitle mb-2 text-muted">Sara Paredes </h6>
+                        <p class="card-text">2086000 <br> Anexo 1130</p>
                     </div>
-                    <br>
+                </div>
+                <br>
+                  
+                    
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
-                            <h5 class="card-title card-title-fix mb-4">Personal Mesa de Partes</h5>
+                            <h5 class="card-title card-title-fix mb-4">Mesa de Partes</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Mario Cauper / Paolo Flores</h6>
                             <p class="card-text">2086000 <br> Anexo 1103</p>
                         </div>
@@ -373,8 +378,8 @@
                 <div class="row">
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
-                            <h5 class="card-title card-title-fix mb-4">Sala de Videoconferencia</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Personal</h6>
+                            <h5 class="card-title card-title-fix mb-4">Oficina de Certificaciones</h5>
+                            <h6 class="card-subtitle mb-2 text-muted"></h6>
                             <p class="card-text">2086000 <br> Anexo 1175</p>
                         </div>
                     </div>
@@ -411,24 +416,18 @@
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Psicología</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br>María Antonieta Montenegro</h6>
-                            <p class="card-text">Directo 2086049 <br> Anexo 1149</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
+                            <p class="card-text">2086000<br> Anexo 1149</p>
                         </div>
                     </div>
                     <br>
-                    <div class="card col-6 col-md-3" style="width: 18rem;">
-                        <div class="card-body text-center">
-                            <h5 class="card-title card-title-fix mb-4">Auditorio FIA DATA</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Personal</h6>
-                            <p class="card-text">2086000 <br>Anexo 1137</p>
-                        </div>
-                    </div>
-                    <br>
+                 
+                  
                     <div class="card col-6 col-md-3" style="width: 18rem;">
                         <div class="card-body text-center">
                             <h5 class="card-title card-title-fix mb-4">Oficina de Bienestar Universitario</h5>
-                            <h6 class="card-subtitle mb-2 text-muted"></h6>
-                            <p class="card-text">Directo 2086014 <br>Anexo 1114</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
+                            <p class="card-text">2086000 <br>Anexo 1114</p>
                         </div>
                     </div>
                     <br>
@@ -446,24 +445,8 @@
                 
                 
              
-                <div class="card col-6 col-md-3" style="width: 18rem;">
-                    <div class="card-body text-center">
-                        <h5 class="card-title card-title-fix mb-4">Coordinación Académica</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Dina Tello </h6>
-                        <p class="card-text">2086000 <br> Anexo 1117</p>
-                    </div>
-                </div>
-                <br>
-                <div class="card col-6 col-md-3" style="width: 18rem;">
-                    <div class="card-body text-center">
-                        <h5 class="card-title card-title-fix mb-4">Oficina de Proyección y Extensión Universitaria</h5>
-                       
-                        <p class="card-text">Directo 2086022 <br>Anexo 1122</p>
-                        <h6 class="card-subtitle mb-2 text-muted">Sara Paredes </h6>
-                        <p class="card-text">2086000 <br> Anexo 1130</p>
-                    </div>
-                </div>
-                <br>
+             
+           
             </div>
         </div>
 

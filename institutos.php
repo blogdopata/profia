@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/autoridades.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('img/bg-img/institutos.jpg');"  >
      
     </div>
     <!-- ##### Breadcumb Area End ##### -->

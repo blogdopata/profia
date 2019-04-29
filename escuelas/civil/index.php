@@ -169,9 +169,9 @@
 
     <div class="tab-pane fade" id="nav-contacto" role="tabpanel" aria-labelledby="nav-contacto-tab">
        
-
+        
         <?php include('../../blocks/contacto.php') ?>
-
+        
        
         
     </div>
@@ -182,9 +182,9 @@
 
     <div class="tab-pane fade" id="nav-faq" role="tabpanel" aria-labelledby="nav-faq-tab">
        
-
+    <div class="container">
         <?php include('preguntasfrec.php') ?>
-
+        </div>
         
             
     </div>
@@ -199,9 +199,9 @@
      <!-- Contenido tab LABORATORIOS --> 
 
      <div class="tab-pane fade" id="nav-lab" role="tabpanel" aria-labelledby="nav-lab-tab">
-
+    
     <?php include('laboratorios.php') ?>
-
+   
     </div>
 
     <!-- FIN Contenido tab LABORATORIOS--> 
@@ -212,9 +212,9 @@
     <!-- Contenido tab MANUALES --> 
 
     <div class="tab-pane fade" id="nav-myp" role="tabpanel" aria-labelledby="nav-myp-tab">
-
+    <div class="container">
     <?php include('manuales.php') ?>
-
+    </div>
     </div>
 
     <!-- FIN Contenido tab MANUALES--> 
@@ -225,9 +225,9 @@
     <!-- Contenido tab eq.LABORATORIOS --> 
 
     <div class="tab-pane fade" id="nav-eqlab" role="tabpanel" aria-labelledby="nav-eqlab-tab">
-
+    
     <?php include('equipos.php') ?>
-
+    
     </div>
 
     <!-- FIN Contenido tab eq.LABORATORIOS --> 
@@ -241,9 +241,9 @@
     <!-- Contenido tab PROYECTO --> 
 
     <div class="tab-pane fade" id="nav-proy" role="tabpanel" aria-labelledby="nav-proy-tab">
-
+    <div class="container">
          <?php include('proyectos.php') ?>
-    
+    </div>
     </div>
 
     <!-- FIN Contenido tab PROYECTO--> 
@@ -296,7 +296,9 @@
                      <!-- Contenido tab Catalogo de Cursos --> 
 
                     <div class="tab-pane fade" id="nav-estad" role="tabpanel" aria-labelledby="nav-estad-tab">
+                    
                        <?php include('estadisticas.php') ?>
+                       
                      </div>
                      <!-- FIN Contenido tab Catalogo de Cursos --> 
 
