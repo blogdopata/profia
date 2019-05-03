@@ -46,7 +46,7 @@
                         <div class="col-12">
                             <div class="hero-slides-content">
                                 <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
-                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">35 AÑOS FORMANDO  <br>PROFESIONALES.</h2>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">35 AÑOS FORMANDO  <br>PROFESIONALES DE PRIMER NIVEL.</h2>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="300ms">
                         <div >
                             <a target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus">
-                            <img  class="img-fluid img-fix-fluid" src="img/fia/intranet.jpg" alt=""> <br>
+                            <img  class="img-fluid img-fix-fluid" src="img/fia/intranet2.jpg" alt=""> <br>
                             <a class="text-center course-content " target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus"><h4 class="rob" >INTRANET SAP</h4></a>
                             </a>
                         </div>
@@ -154,7 +154,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="400ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/">
-                            <img  class="img-fluid img-fix-fluid" src="img/fia/acreditacion.jpg" alt=""> <br>
+                            <img  class="img-fluid img-fix-fluid" src="img/fia/acreditacion2.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/"><h4 class="rob">ACREDITACIÓN</h4></a>
                             </a>
                         </div>
@@ -165,7 +165,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="500ms">
                         <div>
                             <a target="_blank" href="http://fia.usmp.trabajando.pe/">
-                            <img  class="img-fluid img-fix-fluid" src="img/fia/bolsa_de_trabajo.jpg" alt=""> <br>
+                            <img  class="img-fluid img-fix-fluid" src="img/fia/bolsa.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://fia.usmp.trabajando.pe/"><h4 class="rob">BOLSA DE TRABAJO</h4></a>
                             </a>
                         </div>
@@ -176,7 +176,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="600ms" >
                         <div>
                             <a target="_blank" href="http://ingles.usmp.edu.pe/">
-                            <img class="img-fluid img-fix-fluid"  src="img/fia/ingles_berlitz.jpg" alt=""> <br>
+                            <img class="img-fluid img-fix-fluid"  src="img/fia/ingles.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/"><h4 class="rob">INGLÉS BERLITZ</h4></a>
                             </a>
                         </div>
@@ -188,7 +188,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.sibus.usmp.edu.pe/">
-                            <img class="img-fluid img-fix-fluid"  src="img/fia/biblioteca.jpg" alt=""> <br>
+                            <img class="img-fluid img-fix-fluid"  src="img/fia/biblio.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.sibus.usmp.edu.pe/"><h4 class="rob">BIBLIOTECA</h4></a>
                             </a>
                         </div>
@@ -199,7 +199,7 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/proFIA/servicios/bienestar.php">
-                            <img class="img-fluid img-fix-fluid" src="img/fia/bienestar_universitario.jpg" alt=""> <br>
+                            <img class="img-fluid img-fix-fluid" src="img/fia/obu.jpg" alt=""> <br>
                             <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
                             </a>
                         </div>
@@ -233,15 +233,15 @@
                     <div  class="bg-destacado pb-4">
 
                         <div class="img-fix-position" >
-                            <img src="img/destacado-1.jpg" alt="">
+                            <img src="img/daniel_schain.jpg" alt="">
                         </div>
                         <div class="egresado-fix-position">
-                            <h6 class="text-white pb-2">CÉSAR ALFREDO BEZADA SÁNCHEZ</h6>
+                            <h6 class="text-white pb-2">DANIEL SCHAIN VELARDE</h6>
                             <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
                             <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
-                                <li class="mb-2 " >Actualmente es Ingeniero responsable de la evaluación de los <b class="bold-w">Proyectos de Gloria S.A.</b></li> <br>
+                                <li class="mb-2 " >Actualmente es el Jefe de Producción de <b class="bold-w">Trianon Energo S.A.</b></li> <br> <br><br>
                         
-                                <li >Ex-Consultor del <b class="bold-w">Banco Mundial [BIRF] -SINEACE.</b> </li>
+                                
                             </ul>
                             
                         </div>
@@ -255,7 +255,7 @@
                     <div  class="bg-destacado pb-4">
 
                         <div class="img-fix-position"' >
-                            <img src="img/destacado-2.jpg" alt="">
+                            <img src="img/leslia_talavera.jpg" alt="">
                         </div>
                         <div class="egresado-fix-position">
                             <h6 class="text-white pb-2">LESLIA TALAVERA GUEVARA</h6>
@@ -276,7 +276,7 @@
                     <div  class="bg-destacado pb-4">
 
                         <div class="img-fix-position"' >
-                            <img src="img/destacado-3.jpg" alt="">
+                            <img src="img/sebastian_burgos.jpg" alt="">
                         </div>
                         <div class="egresado-fix-position">
                             <h6 class="text-white pb-2">SEBASTIAN BURGOS DÍAZ</h6>
@@ -291,9 +291,11 @@
                     </div>
 
                 </div>
-
-
-
+                <div class="container centrarimg wow fadeInUp" data-wow-delay="800ms">
+                <button type="button" class="btn btn-vermas mt-5" >
+                    <a style="color:white;" href="http://usmp.edu.pe/proFIA/exitosos.php">Ver más</a>
+                </button>
+                </div>
 
 
 
@@ -434,7 +436,7 @@
                 </div>
                 
                 <!-- Single Top Popular Course -->
-
+                
 
 
             </div>
