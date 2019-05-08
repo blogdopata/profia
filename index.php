@@ -323,15 +323,15 @@
                 <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 "  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 02</span> 
+                            <span style="font-size:40px;font-weight:bold"> 08</span> 
                             <span style="font-size:26px;font-weight:bold">MAY</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Charla informativa: <br>Reto - Acelera tu Futuro</h6>
+                            <h6 class="agenda-title">Proceso: <br>Selección inhouse de empleabilidad</h6>
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
-                            <span class="agenda-info">Hora: 18:00 a 19:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>  Telf: 01-208-600 anexo 1130</a> </strong></span> <br>
-                            <a href="https://www.facebook.com/fia.usmp/photos/pb.296483983786463.-2207520000.1556121871./1852125904888922/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <span class="agenda-info">Hora: 16:00 h</span> <br>
+                            <span class="agenda-info ">  <strong><a href="mailto:osg_usmp@usmp.pe">osg_usmp@usmp.pe</a> </strong></span> <br>
+                            <a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1857592914342221/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
                 </div>
@@ -339,24 +339,6 @@
                 <!-- Single Top Popular Course -->
                 
                 <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2"  >
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 02</span> 
-                            <span style="font-size:26px;font-weight:bold">MAY</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Debate: <br>¿Ideología o Enfoque?</h6>
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
-                            <span class="agenda-info">Hora: 16:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>  Telf: 01-208-600 anexo 1128</a> </strong></span> <br>
-                            <a href="https://www.facebook.com/fia.usmp/photos/pb.296483983786463.-2207520000.1556121871./1853721154729397/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>   
-                    </div>
-                </div>
-                
-                <!-- Single Top Popular Course -->
-
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 10</span> 
@@ -367,13 +349,14 @@
                             <span class="agenda-info">Lugar: Laboratorio 3D de FIA DATA</span> <br>
                             <span class="agenda-info">Hora: 14:00 a 18:00 h</span> <br>
                             <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1130</a> </strong></span> <br>
-                            <a href="" target="_blank" class="agenda-text-info">Más información</a>
+                            <a href="http://www.usmp.edu.pe/epufia/index.php?pag=cActualizacion#openModalA" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
                 </div>
                 
                 <!-- Single Top Popular Course -->
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
+
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 11</span> 
@@ -384,18 +367,13 @@
                             <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
                             <span class="agenda-info">Hora: 9:00 a 13:30 h</span> <br>
                             <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1130</a> </strong></span> <br>
-                            <span><a href="" target="_blank" class="agenda-text-info">Más información</a>
+                            <span><a href="https://www.facebook.com/epufia/photos/a.261123367257253/2168312946538276/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>   
                     </div>
                 </div>
                 
-                
                 <!-- Single Top Popular Course -->
-
-            
-    
-
-                <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-none d-sm-block"  >
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 17</span> 
@@ -413,13 +391,13 @@
                     </div>
                 </div>
                 
+                
                 <!-- Single Top Popular Course -->
 
+            
+    
 
-
-
-                 <!-- Single Top Popular Course -->
-                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-sm-block"  >
+                <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                             <span style="font-size:40px;font-weight:bold"> 14</span> 
@@ -431,6 +409,28 @@
                             <span class="agenda-info">Hora: Todo el día</span> <br>
                             <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span> <br>
                             <span><a href="http://www.usmp.edu.pe/ivuc" target="_blank" class="agenda-text-info">Más información</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Single Top Popular Course -->
+
+
+
+
+                 <!-- Single Top Popular Course -->
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-sm-block"  >
+                    <div class="d-flex">
+                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                            <span style="font-size:40px;font-weight:bold"> 17</span> 
+                            <span style="font-size:26px;font-weight:bold">OCT</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Congreso Internacional: <br>VISIÓN 2019</h6>
+                            <span class="agenda-info">Lugar: Campus FIA</span> <br>
+                            <span class="agenda-info">Hora: Todo el día</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span> <br>
+                            <span><a href="http://www.usmp.edu.pe/vision2019/" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
                     </div>
                 </div>

@@ -171,16 +171,16 @@
         </div>
         </div>
 
-        <div class="col-md-12">
-        <div class="container mt-3 text-fix-content">
-        <b class="mt-2 text-fix-content">
-        Experiencia :
-        </b> <br><br>
-        <ul class="fix-items-li">
-        <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda inventore sequi cum ea aliquid alias id, ratione.</li>
-        </ul>
-        </div>
-        </div>
+        <!-- <div class="col-md-12">
+            <div class="container mt-3 text-fix-content">
+                <b class="mt-2 text-fix-content">
+                Experiencia :
+                </b> <br><br>
+                <ul class="fix-items-li">
+                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda inventore sequi cum ea aliquid alias id, ratione.</li>
+                </ul>
+            </div>
+        </div> -->
 
         </div>
         <!-- final de una fila-->
