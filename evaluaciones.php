@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/proFIA/img/bg-img/evaluaciones.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/fia/img/bg-img/evaluaciones.jpg');"  >
      
     </div>
     <!-- ##### Breadcumb Area End ##### -->
@@ -117,7 +117,7 @@
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Evaluaciones</h5>
-                                        <a  target="_blank" href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/directiva_evaluaciones-2019.pdf" class="text-link-gen">Directivas</a>
+                                        <a  target="_blank" href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/directiva_evaluaciones-2019.pdf" class="text-link-gen">Directivas</a>
                                        
                                     </div>
                                 </div>
@@ -126,7 +126,7 @@
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Inicio de Clases</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/directiva_inicio-2019.pdf" class="text-link-gen">Directivas</a>
+                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/directiva_inicio-2019.pdf" class="text-link-gen">Directivas</a>
                                        
                                     </div>
                                 </div>
@@ -134,7 +134,7 @@
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Semana de Exámenes</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/recomendaciones_examenes_2019.pdf" class="text-link-gen">Recomendaciones</a>
+                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/recomendaciones_examenes_2019.pdf" class="text-link-gen">Recomendaciones</a>
                                        
                                     </div>
                                 </div>
@@ -148,7 +148,7 @@
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Evaluaciones en Aula</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/recomendaciones_evaluacion_2019.pdf" class="text-link-gen">Recomendaciones</a>
+                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/recomendaciones_evaluacion_2019.pdf" class="text-link-gen">Recomendaciones</a>
                                        
                                     </div>
                                 </div>
@@ -157,7 +157,7 @@
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Devolución de Cuadernillos</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/recomendaciones_dev_cuadernillos_2019.pdf" class="text-link-gen">Recomendaciones</a>
+                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/recomendaciones_dev_cuadernillos_2019.pdf" class="text-link-gen">Recomendaciones</a>
                                        
                                     </div>
                                 </div>
@@ -165,7 +165,7 @@
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Prácticas y Exámenes</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/proFIA/pdf/crono-evaluaciones/CRONOGRAMA_PRACTICA_2019.pdf" class="text-link-gen">Cronograma</a>
+                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/CRONOGRAMA_PRACTICA_2019.pdf" class="text-link-gen">Cronograma</a>
                                        
                                     </div>
                                 </div>

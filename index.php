@@ -198,9 +198,9 @@
                 <div class="col-6 col-sm-6 col-lg-4 text-center">
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
-                            <a target="_blank" href="http://www.usmp.edu.pe/proFIA/servicios/bienestar.php">
+                            <a target="_blank" href="http://www.usmp.edu.pe/fia/servicios/bienestar.php">
                             <img class="img-fluid img-fix-fluid" src="img/fia/obu.jpg" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/proFIA/servicios/bienestar.php"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
+                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/fia/servicios/bienestar.php"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
                             </a>
                         </div>
                     </div>
@@ -293,7 +293,7 @@
                 </div>
                 <div class="container centrarimg wow fadeInUp" data-wow-delay="800ms">
                 <button type="button" class="btn btn-vermas mt-5" >
-                    <a style="color:white;" href="http://usmp.edu.pe/proFIA/exitosos.php">Ver más</a>
+                    <a style="color:white;" href="http://usmp.edu.pe/fia/exitosos.php">Ver más</a>
                 </button>
                 </div>
 
@@ -469,15 +469,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/bootstrap.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
 

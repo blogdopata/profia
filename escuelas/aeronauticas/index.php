@@ -12,7 +12,7 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="http://www.usmp.edu.pe/proFIA/img/core-img/logousmp.ico">
+    <link rel="icon" href="http://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="../../css/style.css">
@@ -105,7 +105,7 @@
                         <div class="container" style="display:flex;align-items: center;justify-content: center;">
 
                         
-                            <img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">
+                            <img class="img-fluid" src="http://usmp.edu.pe/fia/img/encontruccion.jpg" alt="">
                         
 
                         </div>
@@ -248,7 +248,7 @@
                     <div class="tab-pane fade" id="nav-instructor" role="tabpanel" aria-labelledby="nav-instructor-tab">
                     <div class="container" style="display:flex;align-items: center;justify-content: center;">
                         
-                        <img class="img-fluid" src="http://usmp.edu.pe/proFIA/img/encontruccion.jpg" alt="">
+                        <img class="img-fluid" src="http://usmp.edu.pe/fia/img/encontruccion.jpg" alt="">
 
                     </div>    
                             
@@ -280,7 +280,7 @@
                             
                             <h2 id="grisfia">CATÁLOGO DE CURSOS</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
-                        <iframe src="http://usmp.edu.pe/proFIA/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe> 
+                        <iframe src="http://usmp.edu.pe/fia/pdf/Catalogo-Cursos_ARQ-1.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
                         <br>
                         <br><br>
@@ -446,15 +446,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/bootstrap.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

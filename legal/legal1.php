@@ -48,7 +48,7 @@
 
     </header>
  <!-- ##### Breadcumb Area Start ##### -->
- <div  class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/proFIA/img/bg-img/reglamentos.jpg');"  >
+ <div  class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/fia/img/bg-img/reglamentos.jpg');"  >
      
      </div>
      <!-- ##### Breadcumb Area End ##### -->
@@ -110,7 +110,7 @@
 
 <br><br>
 <div class="container text-center">
-	<a href="http://www.usmp.edu.pe/proFIA/reglamentos.php" onclick="regresar()"><img src="../img/volver.png" width="50px" onmouseover="this.src='../img/volverS.png';" onmouseout="this.src='../img/volver.png';"></a>
+	<a href="http://www.usmp.edu.pe/fia/reglamentos.php" onclick="regresar()"><img src="../img/volver.png" width="50px" onmouseover="this.src='../img/volverS.png';" onmouseout="this.src='../img/volver.png';"></a>
 </div>
 
 <br>

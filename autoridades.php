@@ -312,7 +312,7 @@
                             </p>
 
                               <p class="text-center"  > 
-                                <a href="pdf\Instituto_de_Investigacion_FIA.pdf" target="_blank"><img src="http://www.usmp.edu.pe/proFIA/img/download.png" alt="">  Mayor información</a> 
+                                <a href="pdf\Instituto_de_Investigacion_FIA.pdf" target="_blank"><img src="http://www.usmp.edu.pe/fia/img/download.png" alt="">  Mayor información</a> 
                             </p>
 
                           </div>

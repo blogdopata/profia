@@ -12,10 +12,10 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="../img/core-img/logousmp.ico">
+    <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
 
 
@@ -30,13 +30,13 @@
    
     <header class="header-area">
         
-      <?php include_once('../blocks/header.html') ?>
+      <?php include_once('blocks/header.html') ?>
 
     </header>
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/proFIA/img/bg-img/img_grados.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/fia/img/bg-img/img_grados.jpg');"  >
      
     </div>
 
@@ -83,19 +83,19 @@
                                         <section class="st-content">
                                         <dl>
 
-                                        <dt><a href="" data-toggle="modal" data-target="#tramite" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Trámite para presentar el informe de Prácticas Preprofesionales</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#tramite" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite para presentar el informe de Prácticas Preprofesionales</span></a></dt>
 
-                                        <dt><a href="" data-toggle="modal" data-target="#bachiller" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Trámites para el grado académico de Bachiller</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#bachiller" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámites para el grado académico de Bachiller</span></a></dt>
 
-                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/proFIA/pdf/graduados/tramites-maestria.pdf" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Maestro</span></a></dt>
+                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/tramites-maestria.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Maestro</span></a></dt>
 
-                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/proFIA/pdf/graduados/tramites-doctorado.pdf" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Doctor</span></a></dt>
+                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/tramites-doctorado.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Doctor</span></a></dt>
 
-                                        <dt><a href="" data-toggle="modal" data-target="#titulo" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Trámites para el Título Profesional</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#titulo" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámites para el Título Profesional</span></a></dt>
 
-                                        <dt><a href="" data-toggle="modal" data-target="#revalidacion" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span> Trámite para revalidación de grados y títulos obtenidos en universidades extranjeras</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#revalidacion" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span> Trámite para revalidación de grados y títulos obtenidos en universidades extranjeras</span></a></dt>
                                         
-                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/proFIA/pdf/graduados/asesores_de_tesis.pdf" alt=""><img src="http://www.usmp.edu.pe/proFIA/img/st_libro.png" /><span>Asesores de Tesis</span></a></dt>
+                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/asesores_de_tesis.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Asesores de Tesis</span></a></dt>
 
                                         </dl>
                                         </section>
@@ -124,23 +124,23 @@
             <br>
 
             <div class="tramite">
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/practicas-preprofesionales.pdf" target="_blank">
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/practicas-preprofesionales.pdf" target="_blank">
               <i class="fa fa-check"></i> Prácticas Preprofesionales
             </a>
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/Formato_Inscripcion_Practicas_Pre-profesionales.pdf"
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/Formato_Inscripcion_Practicas_Pre-profesionales.pdf"
                 target="_blank">
                 <i class="fa fa-check"></i> Formato de Inscripción de Prácticas Preprofesionales
             </a>
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/GUIA_ESQUEMA_PPP.zip">
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/GUIA_ESQUEMA_PPP.zip">
                 <i class="fa fa-check"></i> Estructura Informe P.P.
             </a>
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/F_EVAL_DESEMPENO PRACTICA PRE 2012.zip">
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/F_EVAL_DESEMPENO PRACTICA PRE 2012.zip">
               <i class="fa fa-check"></i> Informe J.I.  para practicantes
             </a>
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/F_EVAL_DESEMPENO LABORAL 2012.zip">
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/F_EVAL_DESEMPENO LABORAL 2012.zip">
             <i class="fa fa-check"></i> Informe J.I. para trabajadores
             </a>
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/FORMATO_DE_INSCRIPCION_TRABAJO.pdf" target="_blank">
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/FORMATO_DE_INSCRIPCION_TRABAJO.pdf" target="_blank">
               <i class="fa fa-check"></i> Formato de Inscripción de Trabajo
             </a>
             </div>
@@ -175,14 +175,14 @@
             <br>
 
             <div class="tramite">
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/bachiller-tramite.pdf" target="_blank">
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/bachiller-tramite.pdf" target="_blank">
               <i class="fa fa-check"></i>  Requisitos y trámite documentario para la obtención del grado académico de Bachiller
             </a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2sSCaGXtOXq-6xP2BVPmxsw7k2d3v70C84EpPl5oFOESoSA/viewform"
                 target="_blank">
                 <i class="fa fa-check"></i> Formulario
             </a>
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/modelo_cv_fia.pdf">
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/modelo_cv_fia.pdf">
                 <i class="fa fa-check"></i> Modelo de Currículum Vitae
             </a>
             </div>
@@ -224,17 +224,17 @@
             </p>
 
             <div class="tramite">
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/titulo/Titulo-Profesional.pdf" target="_blank">
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/titulo/Titulo-Profesional.pdf" target="_blank">
               <i class="fa fa-check"></i> Requisitos y trámite Documentario para La obtención del Título Profesional
             </a>
-            <a href="http://www.usmp.edu.pe/proFIA/pdf/graduados/titulo/Plan-de-Tesis-o-Plan-de-Trabajo-de-Investigacion.pdf"
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/titulo/Plan-de-Tesis-o-Plan-de-Trabajo-de-Investigacion.pdf"
                 target="_blank">
                 <i class="fa fa-check"></i> Manual para la elaboración del Plan de Tesis o Plan de Trabajo de Investigación
             </a>
-            <a target="_blank" href="http://www.usmp.edu.pe/proFIA/pdf/graduados/titulo/Plan_de_tesis.pdf">
+            <a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/titulo/Plan_de_tesis.pdf">
                 <i class="fa fa-check"></i> Manual para la elaboración de la Tesis o Trabajo de Investigación
             </a>
-            <a target="_blank" href="http://www.usmp.edu.pe/proFIA/pdf/graduados/titulo/Suficiencia_profesional.pdf">
+            <a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/titulo/Suficiencia_profesional.pdf">
                 <i class="fa fa-check"></i> Manual para la elaboración del Trabajo de Suficiencia Profesional
             </a>
             </div>
@@ -330,20 +330,20 @@
 
   <footer class="footer-area">
        
-       <?php include_once('../blocks/footer.html') ?>
+       <?php include_once('blocks/footer.html') ?>
   </footer>
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/bootstrap.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

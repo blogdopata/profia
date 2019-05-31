@@ -15,7 +15,7 @@
     <link rel="icon" href="img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/proFIA/css/style.css">
+    <link rel="stylesheet" href="http://www.usmp.edu.pe/fia/css/style.css">
 
 
 
@@ -46,7 +46,7 @@
 
   
        
-			<!--si quieren poner algun fondo style="background-image:url(http://www.usmp.edu.pe/proFIA/img/fia/fachada2.jpg); no-repeat center top;background-size:cover;"-->
+			<!--si quieren poner algun fondo style="background-image:url(http://www.usmp.edu.pe/fia/img/fia/fachada2.jpg); no-repeat center top;background-size:cover;"-->
            
                 
                 <!-- <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
@@ -140,7 +140,7 @@
 	<div class="col-md-4" >
 	<div class="card text-fix-style">
 					<div class="card-body">
-					<img class="card-img-top img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/cesar_porras.jpg" alt="Card image cap">						
+					<img class="card-img-top img-fluid" src="http://www.usmp.edu.pe/fia/img/fiadata/cesar_porras.jpg" alt="Card image cap">						
 					<h5 id="mini" class="card-title text-center"><p  class="link">Ing. César Augusto Porras Quinto</p></h5>
 					<h6 id="mini" class="card-subtitle mb-2 text-muted text-center">Jefe FIA-DATA</h6>
 					<div class="text-center">
@@ -216,8 +216,8 @@
 	</div>
 	<div class="container centrarimg" style="display:flex;align-items: center;justify-content: center;">
 	
-	 <a href="http://www.usmp.edu.pe/proFIA/pdf/organigrama_FIA _DATA.pdf" target="_blank">
-		<img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/organigrama-FIA-DATA.jpg" alt="">	
+	 <a href="http://www.usmp.edu.pe/fia/pdf/organigrama_FIA _DATA.pdf" target="_blank">
+		<img class="img-fluid" src="http://www.usmp.edu.pe/fia/img/fiadata/organigrama-FIA-DATA.jpg" alt="">	
 		</a>
 	</div>	
     </div>
@@ -288,7 +288,7 @@
 	<div class="container">
 			<br>
 			<ul class="fix-items-li ml-5">
-					<li><a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/manuales/manual-encuestas-alumno.pdf" target="_blank"> Sistema de Encuestas de Desempeño Docente </a></li>
+					<li><a class="link" href="http://www.usmp.edu.pe/fia/pdf/manuales/manual-encuestas-alumno.pdf" target="_blank"> Sistema de Encuestas de Desempeño Docente </a></li>
 			</ul>
 	
 	</div>	
@@ -317,15 +317,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/bootstrap.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

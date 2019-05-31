@@ -16,7 +16,7 @@
            <br>
            <br>
                     <div class="container centrarimg">
-                    <img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/fiadata/organigrama-FIA-DATA.jpg" alt="">
+                    <img class="img-fluid" src="http://www.usmp.edu.pe/fia/img/fiadata/organigrama-FIA-DATA.jpg" alt="">
                     </div>
            <br>
            <br>

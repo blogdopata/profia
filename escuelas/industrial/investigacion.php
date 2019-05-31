@@ -9,7 +9,7 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
     <table>
         <tr class="text-fix-content" style="color:#606060;">
             <td> <p>   Líneas de investigación EPII</p>
-              <img src="http://www.usmp.edu.pe/proFIA/img/lineas_investigacion.jpg" class="img-fluid" alt="">
+              <img src="http://www.usmp.edu.pe/fia/img/lineas_investigacion.jpg" class="img-fluid" alt="">
           
           </td>
         </tr>

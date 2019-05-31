@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/proFIA/img/bg-img/img_osg.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/fia/img/bg-img/img_osg.jpg');"  >
      
     </div>
 
@@ -215,15 +215,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/proFIA/js/bootstrap/bootstrap.min.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
+    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

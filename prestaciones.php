@@ -161,7 +161,7 @@
                     <div class="col-6 col-md-3 text-center" >
                         <div class="team-members">
                             <div >
-                            <a href="http://www.usmp.edu.pe/proFIA/pdf/convenio.pdf" target="_blank">   
+                            <a href="http://www.usmp.edu.pe/fia/pdf/convenio.pdf" target="_blank">   
                             
                                     <img class="img-fluid" src="img/prestaciones/servicios/convenios.jpg" alt="">   
                             
@@ -169,7 +169,7 @@
                             </div>
                             
                         </div>
-                        <a href="http://www.usmp.edu.pe/proFIA/pdf/convenio.pdf" target="_blank">  Convenios </a>
+                        <a href="http://www.usmp.edu.pe/fia/pdf/convenio.pdf" target="_blank">  Convenios </a>
                     </div>
 
                     <div class="col-6 col-md-3 text-center" >
@@ -350,7 +350,7 @@
                     <div class="col-6 col-md-3 text-center" >
                         <div class="team-members">
                             <div >
-                            <a href="http://www.usmp.edu.pe/proFIA/reglamentos.php" target="_blank">   
+                            <a href="http://www.usmp.edu.pe/fia/reglamentos.php" target="_blank">   
                             
                                     <img class="img-fluid" src="img/prestaciones/servicios/reglamento-alumnos.jpg" alt="">   
                             
@@ -358,7 +358,7 @@
                             </div>
                             
                         </div>
-                        <a href="http://www.usmp.edu.pe/proFIA/reglamentos.php" target="_blank"> Reglamento de Difusión para el alumnado </a>
+                        <a href="http://www.usmp.edu.pe/fia/reglamentos.php" target="_blank"> Reglamento de Difusión para el alumnado </a>
                     </div>
 
                 
@@ -381,7 +381,7 @@
                     <div class="col-6 col-md-3 text-center" >
                         <div class="team-members">
                             <div >
-                            <a href="http://usmp.edu.pe/proFIA/pdf/general/Discapacidad_Enfermedad_Alumnos.pdf" target="_blank">   
+                            <a href="http://usmp.edu.pe/fia/pdf/general/Discapacidad_Enfermedad_Alumnos.pdf" target="_blank">   
                             
                                 <img class="img-fluid" src="img/prestaciones/servicios/discapacidad.jpg" alt="">   
                             

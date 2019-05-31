@@ -10,63 +10,63 @@
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
   <a href="#">
-  <img class="img-responsive " data-toggle="modal" data-target="#myModal1" src="http://usmp.edu.pe/proFIA/img/campus/1.jpg">
+  <img class="img-responsive " data-toggle="modal" data-target="#myModal1" src="http://usmp.edu.pe/fia/img/campus/1.jpg">
   </a>
 </div>
 
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal2" src="http://www.usmp.edu.pe/proFIA/img/campus/2.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal2" src="http://www.usmp.edu.pe/fia/img/campus/2.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal3" src="http://www.usmp.edu.pe/proFIA/img/campus/3.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal3" src="http://www.usmp.edu.pe/fia/img/campus/3.jpg">
 </a>  
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal4" src="http://www.usmp.edu.pe/proFIA/img/campus/4.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal4" src="http://www.usmp.edu.pe/fia/img/campus/4.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal5" src="http://www.usmp.edu.pe/proFIA/img/campus/5.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal5" src="http://www.usmp.edu.pe/fia/img/campus/5.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal6" src="http://www.usmp.edu.pe/proFIA/img/campus/6.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal6" src="http://www.usmp.edu.pe/fia/img/campus/6.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal7" src="http://www.usmp.edu.pe/proFIA/img/campus/7.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal7" src="http://www.usmp.edu.pe/fia/img/campus/7.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal8" src="http://www.usmp.edu.pe/proFIA/img/campus/8.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal8" src="http://www.usmp.edu.pe/fia/img/campus/8.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal9" src="http://www.usmp.edu.pe/proFIA/img/campus/9.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal9" src="http://www.usmp.edu.pe/fia/img/campus/9.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal10" src="http://www.usmp.edu.pe/proFIA/img/campus/10.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal10" src="http://www.usmp.edu.pe/fia/img/campus/10.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal11" src="http://www.usmp.edu.pe/proFIA/img/campus/11.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal11" src="http://www.usmp.edu.pe/fia/img/campus/11.jpg">
 </a>
 </div>
 <div class="col-lg-4 col-sm-4 col-xs-5 col-md-4 ">
 <a href="#">
-  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal12" src="http://www.usmp.edu.pe/proFIA/img/campus/12.jpg">
+  <img class="img-responsive img-campus" data-toggle="modal" data-target="#myModal12" src="http://www.usmp.edu.pe/fia/img/campus/12.jpg">
 </a>
 </div>
 
@@ -154,7 +154,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/1.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/1.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -173,7 +173,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/2.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/2.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -192,7 +192,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/3.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/3.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -212,7 +212,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/4.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/4.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -232,7 +232,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/5.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/5.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -251,7 +251,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/6.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/6.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -270,7 +270,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/7.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/7.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -291,7 +291,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/8.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/8.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -310,7 +310,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/9.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/9.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -330,7 +330,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/10.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/10.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -349,7 +349,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/11.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/11.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -367,7 +367,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://www.usmp.edu.pe/proFIA/img/campus/full/12.jpg">
+      <img class="img-m" src="http://www.usmp.edu.pe/fia/img/campus/full/12.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>

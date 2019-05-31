@@ -68,7 +68,7 @@
                                    <br>
                                    <div class="row">
                                        
-                                <img class="img-fluid" src="http://www.usmp.edu.pe/proFIA/img/prestaciones/otros/taller.jpg" style="margin:auto;" alt="">
+                                <img class="img-fluid" src="http://www.usmp.edu.pe/fia/img/prestaciones/otros/taller.jpg" style="margin:auto;" alt="">
                                
                                 </div>
                                 <br>

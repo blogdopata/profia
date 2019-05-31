@@ -75,7 +75,7 @@ table {
              Service Desk recibe solicitudes de atención vía correo electrónico, telefónica, presencial y aplicativo web.
              <br><br>
              
-              <img style="width:500px;margin-left:20px;" src="http://www.usmp.edu.pe/proFIA/img/fiadata/serv_desk_img.jpg" alt="">
+              <img style="width:500px;margin-left:20px;" src="http://www.usmp.edu.pe/fia/img/fiadata/serv_desk_img.jpg" alt="">
              
         </div>
         <!--Metodos -->

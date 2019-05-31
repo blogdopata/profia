@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/proFIA/img/bg-img/calendario.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/fia/img/bg-img/calendario.jpg');"  >
      
     </div>
     <!-- ##### Breadcumb Area End ##### -->
@@ -99,7 +99,7 @@
                                 <div class="col-12 col-md-4 font-mode fix-height"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Ingeniería de Computación y Sistemas</h5>
-                                        <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/sistemas.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                        <a  href="http://www.usmp.edu.pe/fia/pdf/horarios/sistemas.pdf" target="_blank" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
@@ -108,7 +108,7 @@
                                 <div class="col-12 col-md-4 font-mode fix-height"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Ingeniería Civil</h5>
-                                        <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/civil.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                        <a  href="http://www.usmp.edu.pe/fia/pdf/horarios/civil.pdf" target="_blank" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
@@ -116,7 +116,7 @@
                                 <div class="col-12 col-md-4 font-mode fix-height"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Ingeniería Industrial</h5>
-                                        <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/industrial.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                        <a  href="http://www.usmp.edu.pe/fia/pdf/horarios/industrial.pdf" target="_blank" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
@@ -130,7 +130,7 @@
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Ciencias Aeronáuticas</h5>
-                                        <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/aeronauticas.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                        <a  href="http://www.usmp.edu.pe/fia/pdf/horarios/aeronauticas.pdf" target="_blank" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
@@ -139,7 +139,7 @@
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen text-center"  >Arquitectura</h5>
-                                        <a  href="http://www.usmp.edu.pe/proFIA/pdf/horarios/arquitectura.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                        <a  href="http://www.usmp.edu.pe/fia/pdf/horarios/arquitectura.pdf" target="_blank" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
@@ -182,19 +182,19 @@
 
                                     <ul>
                                         <li> 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/calendario.pdf" target="_blank"> - Calendario Académico   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/calendario.pdf" target="_blank"> - Calendario Académico   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                         <li> 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/fechas_matricula.pdf" target="_blank"> - Fechas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/fechas_matricula.pdf" target="_blank"> - Fechas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                         <li> 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/directivas_matricula.pdf" target="_blank"> -  Directivas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/directivas_matricula.pdf" target="_blank"> -  Directivas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                         <li> 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula     <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula     <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li > 
-                                            <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/Carta_Permanencia.pdf" target="_blank"> - Carta de Permanencia     <i class="fa fa-file-pdf-o"></i></a>
+                                            <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/Carta_Permanencia.pdf" target="_blank"> - Carta de Permanencia     <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <hr>
                                          <li class="subtitle-general-fix"> 
@@ -203,11 +203,11 @@
                                          
                                          
                                             <li>
-                                                <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/pagador_arquitectura.pdf" target="_blank">- Arquitectura <i class="fa fa-file-pdf-o"></i></a></a>  <br>
-                                                <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/pagador_ccaa.pdf" target="_blank">- Ciencias Aeronáuticas <i class="fa fa-file-pdf-o"></i></a></a> <br>
-                                                <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/pagador_civil.pdf" target="_blank">- Ingeniería Civil <i class="fa fa-file-pdf-o"></i></a></a> <br>
-                                                <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/pagador_industrial.pdf" target="_blank">- Ingeniería Industrial <i class="fa fa-file-pdf-o"></i></a></a> <br>
-                                                <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/regular/pagador_sistemas.pdf" target="_blank">- Ingeniería de Computación y Sistemas <i class="fa fa-file-pdf-o"></i></a></a>
+                                                <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/pagador_arquitectura.pdf" target="_blank">- Arquitectura <i class="fa fa-file-pdf-o"></i></a></a>  <br>
+                                                <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/pagador_ccaa.pdf" target="_blank">- Ciencias Aeronáuticas <i class="fa fa-file-pdf-o"></i></a></a> <br>
+                                                <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/pagador_civil.pdf" target="_blank">- Ingeniería Civil <i class="fa fa-file-pdf-o"></i></a></a> <br>
+                                                <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/pagador_industrial.pdf" target="_blank">- Ingeniería Industrial <i class="fa fa-file-pdf-o"></i></a></a> <br>
+                                                <a class="link" href="http://www.usmp.edu.pe/fia/pdf/regular/pagador_sistemas.pdf" target="_blank">- Ingeniería de Computación y Sistemas <i class="fa fa-file-pdf-o"></i></a></a>
                                             </li>
                                             
 
@@ -238,19 +238,19 @@
 
                                 <ul>
                                     <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/calendario_academico.pdf" target="_blank"> - Calendario Académico    <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/fia/pdf/ingresantes/calendario_academico.pdf" target="_blank"> - Calendario Académico    <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                     <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/directivas_matricula.pdf" target="_blank"> - Directivas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/fia/pdf/ingresantes/directivas_matricula.pdf" target="_blank"> - Directivas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                     <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/croquis_FIA.pdf" target="_blank"> -  Croquis FIA   <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/fia/pdf/ingresantes/croquis_FIA.pdf" target="_blank"> -  Croquis FIA   <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                     <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/guia_matricula.pdf" target="_blank"> - Material para ingresantes - Guía de matrícula    <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/fia/pdf/ingresantes/guia_matricula.pdf" target="_blank"> - Material para ingresantes - Guía de matrícula    <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                      <li> 
-                                        <a class="link" href="http://www.usmp.edu.pe/proFIA/pdf/ingresantes/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula    <i class="fa fa-file-pdf-o"></i></a>
+                                        <a class="link" href="http://www.usmp.edu.pe/fia/pdf/ingresantes/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula    <i class="fa fa-file-pdf-o"></i></a>
                                      </li>
                                 </ul>
 
