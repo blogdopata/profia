@@ -75,6 +75,8 @@
 
                         <a class="nav-item nav-link" id="nav-act-tab" data-toggle="tab" href="#nav-act" role="tab" aria-controls="nav-act" aria-selected="false">Actividades EPII</a>
 
+                        <a class="nav-item nav-link" id="nav-cidpp-tab" data-toggle="tab" href="#nav-cidpp" role="tab" aria-controls="nav-cidpp" aria-selected="false">CIDPP</a>
+
                 
 
                       
@@ -337,6 +339,19 @@
                     </div>
 
                     <!-- FIN Contenido tab ACTIVIDADES -->
+
+
+
+                     <!-- Contenido tab CIDPP--> 
+
+                   <div class="tab-pane fade" id="nav-cidpp" role="tabpanel" aria-labelledby="nav-cidpp-tab">
+                   <div class="container">
+                          <?php include('cidpp.php') ?>
+                        </div>
+                    </div>
+
+                    <!-- FIN Contenido tab CIDPP -->
+
 
 
 

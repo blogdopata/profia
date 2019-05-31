@@ -195,26 +195,24 @@
                                        Escuela Profesional de Arquitectura 
                                     </h3>
 
-                                    <!-- <ul>
+                                 <ul>
                                         <li> 
-                                            <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a href="pdf/calendario2019/rol/arquitectura.pdf" target="_blank"> - Rol de Examenes Finales :   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                        <li> 
+                                        <!-- <li> 
                                             <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
+                                        </li>
                                         <li> 
                                             <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
+                                        </li>
                                         <li> 
                                             <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                    </ul> -->
-                                    <p class="text-fix-content">
-                                        Por publicar
-                                    </p>
+                                        </li> -->
+                                    </ul> 
+                                  
 
                         
-                                    </p>
+                                    
                                 </div>
                             </div>
                     
@@ -238,26 +236,13 @@
                                        Escuela Profesional de Ingeniería Civil
                                     </h3>
 
-                                   <!--  <ul>
+                                         <ul>
                                         <li> 
-                                            <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/calendario2019/rol/civil.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                        <li> 
-                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                    </ul> -->
-                                    <p class="text-fix-content">
-                                        Por publicar
-                                    </p>
 
-                        
-                                    </p>
+                                         </ul>
+                               
                                 </div>
                             </div>
                             
@@ -277,28 +262,15 @@
                                     <h3 class="subtitle-general-fix" >
                                        Escuela Profesional de Ingeniería de Computación y Sistemas
                                     </h3>
+                                    <ul>
+                                        <li> 
+                                        <a href="pdf/calendario2019/rol/sistemas.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
 
-                                    <!-- <ul>
-                                        <li> 
-                                            <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                    </ul> -->
-
-                                    <p class="text-fix-content">
-                                        Por publicar
-                                    </p>
+                                         </ul>
 
                         
-                                    </p>
+                                  
                                 </div>
                             </div>
                             
@@ -317,26 +289,12 @@
                                        Escuela Profesional de Ingeniería de Industrial
                                     </h3>
 
-                                    <!-- <ul>
+                                    <ul>
                                         <li> 
-                                            <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/calendario2019/rol/industrial.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                        <li> 
-                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                    </ul>
- -->
- <p class="text-fix-content">
-                                        Por publicar
-                                    </p>
-                        
-                                    </p>
+
+                                         </ul>
                                 </div>
                         </div>
 
@@ -351,26 +309,12 @@
                                       Escuela Profesional de  Ciencias Aeronáuticas
                                    </h3>
 
-                                   <!-- <ul>
-                                       <li> 
-                                           <a href="#"> - Cronograma de exámenes parciales :   <i class="fa fa-file-pdf-o"></i></a>
-                                        </li>
-                                       <li> 
-                                           <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
-                                        </li>
-                                       <li> 
-                                           <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                        </li>
-                                       <li> 
-                                           <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
-                                        </li>
-                                   </ul> -->
-                                   <p class="text-fix-content">
-                                        Por publicar
-                                    </p>
+                                   <ul>
+                                        <li> 
+                                        <a href="pdf/calendario2019/rol/aeronautica.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
 
-                       
-                                   </p>
+                                         </ul>
                                </div>
                        </div>
                    

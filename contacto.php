@@ -98,7 +98,7 @@
                                         <div class="contact-icon mr-15">
                                             <i style="font-size:24px" class="icon-telephone-1"></i>
                                         </div>
-                                        <p class="text-fix-content">Fia:(511) 2086000 <br> Oficina de administración: (511) 2086000</p>
+                                        <p class="text-fix-content">Fia:(511) 2086000 </p>
                                     </div>
 
                                     <!-- Single Contact Info -->

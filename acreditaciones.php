@@ -49,7 +49,7 @@
                         ACREDITACIONES
                 </h2>
 
-                <p class="text-fix-content"> En la Universidad de San Martín de Porres tenemos <strong>   159  </strong>programas acreditados, donde contamos con: </p>
+                <p class="text-fix-content"> En la Universidad de San Martín de Porres, tenemos <strong>   159  </strong>programas acreditados, donde contamos con: </p>
              
                 <p class="text-fix-content"> <strong> 20  </strong>Acreditaciones Internacionales de Pregrado <br> 
                 <strong> 139  </strong> Acreditaciones Internacionales de Posgrado</p>
@@ -80,7 +80,7 @@
                         <img src="img/acreditaciones/Logo_ICACIT.jpg"  class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-md-9 text-fix-content"  >
-                    <strong>El Instituto de Calidad y Acreditación de Programas de Computación, Ingeniería y Tecnología (ICACIT) </strong> es una agencia acreditadora especializada en programa de formación profesional en computación, ingeniería y tecnología en ingeniería. ICACIT promueve la mejora continua de la calidad educativa de los programas, garantizando que estos cumplan con los más altos estándares internacionales que aseguren que los graduados estén listos para ejercer su profesión.
+                    <strong>El Instituto de Calidad y Acreditación de Programas de Computación, Ingeniería y Tecnología (ICACIT) </strong> es una agencia acreditadora, especializada en programas de formación profesional en Computación, Ingeniería y Tecnología en Ingeniería. ICACIT promueve la mejora continua de la calidad educativa de los programas, garantizando que estos cumplan con los más altos estándares internacionales que acrediten a los graduados, su idoneidad o competencia para ejercer su profesión.
 
 
                     </div> 
@@ -93,7 +93,7 @@
                         <img src="img/acreditaciones/siegel-a-rgb-q.jpg"  class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-md-9 text-fix-content"  >
-                    <strong>La agencia Alemana, de aseguramiento de calidad internacional, ASIIN (Accreditation Agency for Degree Programmes in Engineering, lnformatics, Natural Sciences and Mathematics) </strong> es una organización público – privada, sin fines de lucro, que cuenta con plena autorización del Consejo Alemán de Acreditación (Akkreditierungsrat) para acreditar programas de ingeniera, matemática, física y química, ofrecidos por instituciones alemanas e internacionales.
+                    <strong>La agencia Alemana, de aseguramiento de calidad internacional, ASIIN (Accreditation Agency for Degree Programmes in Engineering, lnformatics, Natural Sciences and Mathematics) </strong> es una organización público – privada, sin fines de lucro, que cuenta con plena autorización del Consejo Alemán de Acreditación (Akkreditierungsrat) para acreditar programas de Ingeniería, Matemática, Física y Química, ofrecidos por instituciones alemanas e internacionales.
                     </div> 
 
                 </div>
@@ -105,7 +105,7 @@
                     </div>
                     <div class="col-12 col-md-9 text-fix-content"  >
                     <strong>La Red Europea de Garantía de Calidad para la Educación en Informática (EQANIE, en sus siglas en inglés) </strong> es una asociación sin ánimo de lucro que busca mejorar la evaluación y asegurar la calidad de los programas de estudio de la informática en Europa. <br>
-                    EQANIE desarrolla los criterios y los procedimientos para la evaluación y el control de la calidad en los programas de estudio de la informática. Además, desarrolla y mantiene un sistema de adjudicación de una certificación de calidad europea para los programas de grado en informática, así como para su protección y posterior desarrollo.
+                    EQANIE desarrolla los criterios y los procedimientos para la evaluación y el control de la calidad en los programas de estudio de la Informática. Además, desarrolla y mantiene un sistema de adjudicación de una certificación de calidad europea para los programas de grado en Informática, así como para su protección y posterior desarrollo.
 
                     </div> 
 
@@ -130,8 +130,8 @@
                         <img src="img/acreditaciones/EUR-ACE.jpg"  class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-md-9 text-fix-content mt-3"   >
-                    <strong>El sello europeo de calidad internacional en ingeniería EUR-ACE </strong> acredita que cumplen de manera excelente con las exigencias profesionales de la ingeniería. Esta acreditación es otorgada por la agencia European Network for Accreditation of Engineering Education (ENAEE) en colaboración con la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA). El objetivo de la ENAEE es identificar programas de estudios de ingeniería de alta calidad en Europa y más allá de sus fronteras. <br>
-                    El certificado EUR-ACE abarca todas las disciplinas de ingeniería y perfiles, dando valor y prestigio internacional a los programas que cumplan los estándares exigidos por la ENAEE. Los estudiantes disponen de un título reconocido a nivel internacional y por los empleadores en Europa que les facilita la movilidad académica y profesional. <br> 
+                    <strong>El sello europeo de calidad internacional en ingeniería EUR-ACE </strong> acredita que cumplen de manera excelente con las exigencias profesionales de la Ingeniería. Esta acreditación es otorgada por la agencia European Network for Accreditation of Engineering Education (ENAEE) en colaboración con la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA). El objetivo de la ENAEE es identificar programas de estudios de Ingeniería de alta calidad en Europa y más allá de sus fronteras. <br>
+                    El certificado EUR-ACE abarca todas las disciplinas de Ingeniería y perfiles, dando valor y prestigio internacional a los programas que cumplan los estándares exigidos por la ENAEE. Los estudiantes disponen de un título reconocido a nivel internacional y por los empleadores en Europa que les facilita la movilidad académica y profesional. <br> 
                                         
                     </div> 
 
@@ -145,7 +145,7 @@
                         <img src="img/acreditaciones/Logo_ICACIT.jpg"  class="img-fluid" alt="">
                     </div>
                     <div class="col-12 col-md-9 text-fix-content mt-3"  >
-                    <strong>El Instituto de Calidad y Acreditación de Programas de Computación, Ingeniería y Tecnología (ICACIT) </strong> es una agencia acreditadora especializada en programa de formación profesional en computación, ingeniería y tecnología en ingeniería. ICACIT promueve la mejora continua de la calidad educativa de los programas, garantizando que estos cumplan con los más altos estándares internacionales que aseguren que los graduados estén listos para ejercer su profesión.
+                    <strong>El Instituto de Calidad y Acreditación de Programas de Computación, Ingeniería y Tecnología (ICACIT) </strong> es una agencia acreditadora especializada en programas de formación profesional en Computación, Ingeniería y Tecnología en Ingeniería. ICACIT promueve la mejora continua de la calidad educativa de los programas, garantizando que estos cumplan con los más altos estándares internacionales que aseguren a los graduados una formación competitiva al ejercer su profesión.
 
 
                     </div> 

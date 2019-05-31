@@ -66,7 +66,7 @@
       <th class="text-left" style="color:white;" scope="col">Escuela Profesional</th>
       <th style="color:white;" scope="col">Plan de Estudio</th>
       <th style="color:white;" scope="col">Malla Curricular</th>
-      <th style="color:white;" scope="col">Tabla de Equivalencias</th>
+   
       
     </tr>
   </thead>
@@ -75,85 +75,79 @@
       
       <td class="text-left">Ingeniería de Computación y Sistemas</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\sistemas.pdf">
+          <a  target="_blank" href="pdf\planestudio\EPICS-Plan-Estudios-2019-I.pdf">
          <i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
       <td>
-          <a  target="_blank" href="pdf\malla_curricular\sistemas.pdf">
+          <a  target="_blank" href="pdf\malla_curricular\EPICS-Malla-Curricular-2019.pdf">
          <i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
-      <td>
-          -
-      </td>
+      
       
     </tr>
     <tr>
       
       <td class="text-left">Ingeniería Industrial</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\industrial.pdf">
+          <a  target="_blank" href="pdf\planestudio\EPII-Plan_Estudios-2019-I.pdf">
          <i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
       <td>
-          -
+      <a  target="_blank" href="pdf\malla_curricular\EPII-Malla-Curricular-2019-I.pdf">
+         <i style="color:red;" class="fa fa-file-pdf-o"></i>
+          </a>  
       </td>
-      <td>
-          -
-      </td>
+     
       
     </tr>
     <tr>
       
       <td class="text-left">Ingeniería Civil</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\civil.pdf">
+          <a  target="_blank" href="pdf/planestudio/EPIC-Plan_Estudios_2019-I.pdf">
          <i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>    
      </td>
      <td>
-          -
+        <a  target="_blank" href="pdf/malla_curricular/EPIC-Malla-Curricular-2019.pdf">
+         <i style="color:red;" class="fa fa-file-pdf-o"></i>
+          </a>    
       </td>
-      <td>
-          -
-      </td>
+     
     </tr>
      <tr>
       
       <td class="text-left">Arquitectura</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\arquitectura.pdf">
+          <a  target="_blank" href="pdf\planestudio\EPA-Plan_Estudios-2019-I.pdf">
          <i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
       <td>
-          -
+      <a  target="_blank" href="pdf/malla_curricular/EPA-Malla-Curricular-2019.pdf">
+         <i style="color:red;" class="fa fa-file-pdf-o"></i>
+          </a>  
       </td>
-      <td>
-          -
-      </td>
+     
       
     </tr>
      <tr>
       
       <td class="text-left">Ciencias Aeronáuticas</td>
       <td>
-          <a  target="_blank" href="pdf\planestudio\aeronauticas.pdf">
+          <a  target="_blank" href="pdf\planestudio\EPCA-Plan_Estudios-2019-I.pdf">
          <i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
       <td>
-        <a  target="_blank" href="pdf\malla_curricular\aeronauticas.pdf">
+        <a  target="_blank" href="pdf\malla_curricular\EPCA-Malla-Curricular-2019.pdf">
          <i style="color:red;" class="fa fa-file-pdf-o"></i>
           </a>  
       </td>
-      <td>
-        <a  target="_blank" href="pdf\planestudio\epca-equivalencias.pdf">
-         <i style="color:red;" class="fa fa-file-pdf-o"></i>
-          </a>  
-      </td>
+     
       
     </tr>
   </tbody>

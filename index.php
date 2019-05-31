@@ -200,7 +200,7 @@
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/proFIA/servicios/bienestar.php">
                             <img class="img-fluid img-fix-fluid" src="img/fia/obu.jpg" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/contabilidadyeconomia/index.php/bienestar-universitario"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
+                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/proFIA/servicios/bienestar.php"><h4 class="rob">BIENESTAR <br> UNIVERSITARIO</h4></a>
                             </a>
                         </div>
                     </div>
@@ -319,118 +319,133 @@
 
             <div class="row" >
                
-                <!-- Single Top Popular Course -->
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 "  >
+                 <!-- Single Top Popular Course -->
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 08</span> 
-                            <span style="font-size:26px;font-weight:bold">MAY</span> 
+                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                    <span style="font-size:40px;font-weight:bold"> 02</span> 
+                            <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Proceso: <br>Selección inhouse de empleabilidad</h6>
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
-                            <span class="agenda-info">Hora: 16:00 h</span> <br>
-                            <span class="agenda-info ">  <strong><a href="mailto:osg_usmp@usmp.pe">osg_usmp@usmp.pe</a> </strong></span> <br>
-                            <a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1857592914342221/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>   
+                            <h6 class="agenda-title">Proceso de Admisión: <br>Colegio de Excelencia Académica</h6>
+                            <span class="agenda-info">Modalidad : </span> <br>
+                            <span class="agenda-info">Colegio de Excelencia Académica</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1130</a> </strong></span>  --><br>
+                           <a href="http://admision.usmp.edu.pe/modo_ingreso.php?modo=5" target="_blank" class="agenda-text-info">Más información</a>
+                            <br>
+                        </div>
                     </div>
-                </div>
-                
+                </div>    
                 <!-- Single Top Popular Course -->
-                
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2"  >
+
+
+
+
+                     <!-- Single Top Popular Course -->
+                     <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 10</span> 
-                            <span style="font-size:26px;font-weight:bold">MAY</span> 
+                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                    <span style="font-size:40px;font-weight:bold"> 06</span> 
+                            <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Taller: Herramientas de software para <br>elaborar trabajo de investigación </h6>
-                            <span class="agenda-info">Lugar: Laboratorio 3D de FIA DATA</span> <br>
-                            <span class="agenda-info">Hora: 14:00 a 18:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1130</a> </strong></span> <br>
-                            <a href="http://www.usmp.edu.pe/epufia/index.php?pag=cActualizacion#openModalA" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>   
+                            <h6 class="agenda-title">Feria Laboral: 3° Edición <br> Te estamos buscando</h6>
+                            <span class="agenda-info">Lugar: Campus FIA</span> <br>
+                            <span class="agenda-info">Hora: 10:00 h</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span> --> <br>
+                            <span><a href="https://business.facebook.com/fia.usmp/photos/pcb.1888473867920792/1888458561255656/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+
+                        </div> 
+                    </div>
+                </div>  
+                 <!-- Single Top Popular Course -->
+
+
+
+
+                    <!-- Single Top Popular Course -->
+                    <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-none d-sm-block"  >
+                    <div class="d-flex">
+                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                    <span style="font-size:40px;font-weight:bold"> 09</span> 
+                            <span style="font-size:26px;font-weight:bold">JUN</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Proceso de Admisión: <br>Primera Alternativa</h6>
+                            <span class="agenda-info">Modalidad :</span> <br>
+                            <span class="agenda-info">Primera Alternativa</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600</a> </strong></span> <br>
+                            <a href="http://www.usmp.edu.pe/" target="_blank" class="agenda-text-info">Más información</a> -->
+                            <br><span><a href="http://admision.usmp.edu.pe/modo_ingreso.php?modo=1" target="_blank" class="agenda-text-info">Más información</a>
+                        </div>
                     </div>
                 </div>
+             
                 
                 <!-- Single Top Popular Course -->
 
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-0 mt-2 d-none d-sm-block"  >
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 11</span> 
-                            <span style="font-size:26px;font-weight:bold">MAY</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Curso: <br>Desarrollo de videojuegos con Unity</h6>
-                            <span class="agenda-info">Lugar: Auditorio Primus Inter Pares</span> <br>
-                            <span class="agenda-info">Hora: 9:00 a 13:30 h</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1130</a> </strong></span> <br>
-                            <span><a href="https://www.facebook.com/epufia/photos/a.261123367257253/2168312946538276/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>   
-                    </div>
-                </div>
+
+
                 
                 <!-- Single Top Popular Course -->
                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 17</span> 
-                            <span style="font-size:26px;font-weight:bold">MAY</span> 
+                    <span style="font-size:40px;font-weight:bold"> 14</span> 
+                            <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Aniversario: <br>57 años de la USMP</h6>
+                            <h6 class="agenda-title">FiaComunica: <br>Exámenes Finales</h6>
                             <span class="agenda-info">Lugar: Campus FIA</span> <br>
                             <span class="agenda-info">Hora: Todo el día</span> <br>
-                            <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600</a> </strong></span> <br>
-                            <a href="http://www.usmp.edu.pe/" target="_blank" class="agenda-text-info">Más información</a> -->
-                            <br><br>
-
-                        </div> 
+                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1117</a> </strong></span> <br>
+                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1905408162894029/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                        </div>
                     </div>
                 </div>
-                
-                
                 <!-- Single Top Popular Course -->
 
             
     
-
+                 <!-- Single Top Popular Course -->
                 <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 14</span> 
+                    <span style="font-size:40px;font-weight:bold"> 21</span> 
                             <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Taller: <br>Construye tu bici de bambú</h6>
-                            <span class="agenda-info">Lugar: Campus FIA</span> <br>
+                            <h6 class="agenda-title">Taller:  <br>Construye tu bicci de bambú</h6>
+                           
+                            <span class="agenda-info">Lugar: Campus FIA </span> <br>
                             <span class="agenda-info">Hora: Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span> <br>
-                            <span><a href="http://www.usmp.edu.pe/ivuc" target="_blank" class="agenda-text-info">Más información</a>
+                             <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span>
+                         <br>
+                         <span><a href="http://www.usmp.edu.pe/ivuc/bici-janko.php" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
                     </div>
                 </div>
                 
                 <!-- Single Top Popular Course -->
+
+
 
 
 
 
                  <!-- Single Top Popular Course -->
-                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-sm-block"  >
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 17</span> 
+                    <span style="font-size:40px;font-weight:bold"> 18</span> 
                             <span style="font-size:26px;font-weight:bold">OCT</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Congreso Internacional: <br>VISIÓN 2019</h6>
+                            <h6 class="agenda-title">Congreso: <br>Visión 2019	</h6>
                             <span class="agenda-info">Lugar: Campus FIA</span> <br>
                             <span class="agenda-info">Hora: Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span> <br>
-                            <span><a href="http://www.usmp.edu.pe/vision2019/" target="_blank" class="agenda-text-info">Más información</a>
+                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1122</a> </strong></span> <br>
+                            <span><a href="http://usmp.edu.pe/vision2019/" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
                     </div>
                 </div>

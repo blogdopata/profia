@@ -1792,10 +1792,10 @@ padding: 7px;
         list-style-type: disc !important;
         color:#585857;
     }
-    .text-fix-list{
+    .text-fix-list, .fix-items-li-alpha , .fix-items-li-numeric{
       margin-left:14px;
     }
-    .text-fix-list li{
+    .text-fix-list li , .fix-items-li-alpha li , .fix-items-li-numeric li{
       color: #585857;
       font-weight: normal;
       font-family: "Roboto Condensed";
@@ -1806,7 +1806,7 @@ padding: 7px;
       margin: 0  0 10px 0;
       
     }
-    ul.fix-items-li{
+    ul.fix-items-li, ul.fix-items-li-alpha  ul.fix-items-li-numeric{
       margin: 0  0 0 14px;
       font-family: "Roboto Condensed";
        color: #585857;
@@ -1818,6 +1818,21 @@ padding: 7px;
        color: #585857;
       text-align: justify;
     }
+
+
+    ul.fix-items-li-alpha li{
+      list-style-type:  lower-latin !important;
+    }
+
+    ul.fix-items-li-numeric li{
+      list-style-type:  decimal !important;
+    }
+
+
+
+
+
+
     ul.font-16 li {
       font-size: 16px !important;
     }

@@ -243,7 +243,7 @@
                                 <div class="card-body text-center">
                                     <h5 class="card-title card-title-fix mb-4">FIA-DATA <br> Centro de Cómputo</h5> 
                                     <h6 class="card-subtitle mb-2 text-muted">Secretaria <br></h6>
-                                    <p class="card-text">2086000 <br> Anexo 1110</p>
+                                    <p class="card-text">2086000 <br> Anexo 1146</p>
                                 </div>
                             </div>
                             <br>

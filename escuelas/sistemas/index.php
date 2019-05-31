@@ -50,6 +50,8 @@
     </div>
     <!-- ##### banner ##### -->
 
+     
+
     <!-- ##### contenido ##### -->
     <section class="about-us-area mt-50 section-padding-100">
         <div class="container">
@@ -60,17 +62,23 @@
 						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Escuela</a>
 
 
-                        <a class="nav-item nav-link" id="nav-mv-tab" data-toggle="tab" href="#nav-mv" role="tab" aria-controls="nav-mv" aria-selected="false">Misión y Visión</a>
+                        <a class="nav-item nav-link" id="nav-mv-tab" data-toggle="tab" href="#nav-mv" role="tab" aria-controls="nav-mv" aria-selected="false">Visión y Misión</a>
 
                         <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil del Graduado</a>
 
                         <a class="nav-item nav-link" id="nav-objetivos-tab" data-toggle="tab" href="#nav-objetivos" role="tab" aria-controls="nav-objetivos" aria-selected="false">Objetivos Educacionales</a>
 
+                        <a class="nav-item nav-link" id="nav-resultados-tab" data-toggle="tab" href="#nav-resultados" role="tab" aria-controls="nav-resultados" aria-selected="false">Resultados del Estudiante</a>
+
 
 						<a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
-                        <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Cursos</a>
+                        <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Asignaturas</a>
+
+                        <a class="nav-link  nav-link  " id="nav-egresados-tab"  data-toggle="tab" href="#nav-egresados" role="tab" aria-controls="nav-egresados" aria-selected="false">Egresados exitosos</a>
                       
                         <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>
+
+                        <a class="nav-item nav-link" id="nav-encuestas-tab" data-toggle="tab" href="#nav-encuestas" role="tab" aria-controls="nav-encuestas" aria-selected="false">Encuestas</a>
                        
                        
                         
@@ -79,7 +87,7 @@
                         <a class="nav-item nav-link" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a> -->
 
                        
-                        
+                        <a class="nav-item nav-link " id="nav-convenios-tab" data-toggle="tab" href="#nav-convenios" role="tab" aria-controls="nav-convenios" aria-selected="false">Convenios</a>
 
 
                         <a class="nav-item nav-link " id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
@@ -100,13 +108,17 @@
 						<div class="container">
                             <h2 class="subtitle-general-fix">
                                 Escuela
+                                
                             </h2>
+                            
                         </div>
+
+
                         <div class="container "  >
                         
                             
                           
-                            
+                    
                         
 
                         
@@ -123,7 +135,7 @@
                         </p>
         
                         
-                        <br>
+               
                             <p class="text-fix-content">
                             Para ello, se trabaja con los criterios de acreditación de organismos internacionales de gran prestigio, claros en sus estándares y rigurosos en su calificación; reto que se acepta con valor, entusiasmo y responsabilidad.
                         </p>
@@ -196,11 +208,45 @@
 
 
 
+
+
+
+<!-- CONTENIDO TAB  encuestas -->
+<div class="tab-pane fade" id="nav-encuestas" role="tabpanel" aria-labelledby="nav-encuestas-tab">
+<div class="container">
+
+<h2 class="subtitle-general-fix">
+             Encuestas 2019 
+        </h2>
+        <br>
+
+        <ul class="fix-items-li text-fix-content ml-5 mt-1">
+
+        <li><a class="link" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQpN8EqFfRIJDoJQ7UKQ7EMlUOVNUVlA3M1VTWVdIRTRXNE5VTDJFMEpTNC4u">Empleadores</a></li>
+        <br>
+        <li><a class="link" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQpN8EqFfRIJDoJQ7UKQ7EMlUOUoxSllUVEFBMVRaV0dHWUlPSUM5TEZJTC4u">Estudiantes</a></li>
+        <br>
+        <li><a class="link" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQpN8EqFfRIJDoJQ7UKQ7EMlUODVMVVQ3WDYzQVY2VVNTTEVRNTJOSkVVTS4u">Graduados</a></li>
+        <br>
+        <li><a class="link" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQpN8EqFfRIJDoJQ7UKQ7EMlUNDVEUjFHRkM4SjhTUUZaMllRSFRWRE9YQi4u">Docentes</a></li>
+
+        </ul>
+  
+</div>
+
+</div>
+ 
+ 
+              
+<!-- FIN CONTENIDO encuestas -->
+
+
+
                     <!-- Contendio Tab Perfil Graduados -->
 
 				   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
                    <div class="container">
-                       <h2 class="subtitle-general-fix"> Perfil del graduado de Sistemas</h2>
+                       <h2 class="subtitle-general-fix"> Perfil del graduado</h2>
                     </div>                            
                     <div class="container">
                             <p class="text-fix-content">
@@ -233,42 +279,179 @@
 
 				   <div class="tab-pane fade show " id="nav-objetivos" role="tabpanel" aria-labelledby="nav-objetivos-tab">
                    <div class="container">
-                       <h2 class="subtitle-general-fix"> Declaración de los Objetivos Educacionales</h2>
-                    </div>                            
-                    <div class="container">
-                            <ul class="fix-items-li font-16 mt-3" >
-                                <li>Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad, que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li>
-                                <li>Desenvolverse adecuadamente con capacidad analítica y comunicativa para aportar soluciones que agreguen valor a la organización.</li>
-                                <li>Practicar un ejercicio profesional responsable, con valores éticos y utiliza de manera adecuada los recursos disponibles en la organización.</li>
-                                <li>Trabajar en equipos multidisciplinarios, para desarrollar proyectos de sistemas de información que aporten al progreso y bienestar de la sociedad.</li>
-                                <li>Ser un profesional comprometido con el aprendizaje continuo para su desarrollo personal a lo largo de toda la vida.</li>
-                            </ul>
-                            <br>
-                            <h2 class="subtitle-general-fix"> Resultados del estudiante</h2>
+                       <h2 class="subtitle-general-fix"> Objetivos Educacionales</h2>
+                    </div> 
 
-                            <ul class="fix-items-li font-16 mt-3">
-                            <li>Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
-                            <li>Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
-                            <li>Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
-                            <li>Habilidad para trabajar con efectividad en equipos para lograr una meta común.</li>
-                            <li>Comprensión de los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
-                            <li>Habilidad para comunicarse con efectividad con un rango de audiencias.</li>
-                            <li>Habilidad para analizar el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
-                            <li>Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
-                            <li>Habilidad para usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
-                            <li>Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
-                    </ul>
+
+                    <div class="container">
+
+                            <ul class="fix-items-li-numeric font-16 mt-3" >
+                                <li> Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad, que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li> 
+
+                                <li> Desenvolverse adecuadamente con capacidad analítica y comunicativa para aportar soluciones que agreguen valor a la organización.</li> 
+                                <li> Practicar un ejercicio profesional responsable, con valores éticos y utiliza de manera adecuada los recursos disponibles en la organización.</li> 
+                                <li> Trabajar en equipos multidisciplinarios, para desarrollar proyectos de sistemas de información que aporten al progreso y bienestar de la sociedad.</li> 
+                                <li> Ser un profesional comprometido con el aprendizaje continuo para su desarrollo personal a lo largo de toda la vida.</li> 
+                            </ul>
+                           
+                            
                         </div>
 
                     </div>
                    <!-- FIN Contendio Tab objetivos -->
 
+<!-- Contendio Tab resultados -->
 
+                   <div class="tab-pane fade show " id="nav-resultados" role="tabpanel" aria-labelledby="nav-resultados-tab">
+                                            
+                    <div class="container">
+                           
+                            <h2 class="subtitle-general-fix"> Resultados del Estudiante</h2>
+
+                            <ul class="fix-items-li-alpha  mt-3">
+                            <li> Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
+                            <li> Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
+                            <li> Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
+                            <li> Habilidad para trabajar con efectividad en equipos para lograr una meta común.</li>
+                            <li> Comprensión de los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
+                            <li> Habilidad para comunicarse con efectividad con un rango de audiencias.</li>
+                            <li> Habilidad para analizar el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
+                            <li> Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
+                            <li> Habilidad para usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
+                            <li> Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
+                    </ul>
+                        </div>
+
+                    </div>
+                   <!-- FIN Contendio Tab resultados -->
+
+                   <!-- Contendio Tab egresados -->
+
+                   <div class="tab-pane fade show " id="nav-egresados" role="tabpanel" aria-labelledby="nav-egresados-tab">
+                                            
+                    <div class="container">
+                           
+                            <h2 class="subtitle-general-fix"> Egresados Exitosos</h2>
+                             <br>
+
+                           <div class="row">
+
+        <div class="col-md-8">
+        <div class="container">
+        <h3 class="subtitle-general-fix"> SEBASTIÁN BURGOS DÍAZ </h3>           
+        <b>INGENIERÍA DE COMPUTACIÓN Y SISTEMAS</b>
+        </div>
+        <div class="container mt-3">
+        <p class="text-fix-content">Actualmente labora como Software Architect en Fandango.</p>
+
+        </div>
+        </div>
+
+        <div class="col-md-4">
+        <div class="container centrarimg">
+        <img class="img-fluid" src="../../img/sebastian_burgos.jpg" alt="">
+        </div>
+        </div>
+
+        <div class="col-md-12">
+        <div class="container mt-3 text-fix-content">
+        <b class="mt-2 text-fix-content">
+        Experiencia :
+        </b> <br><br>
+        <ul class="fix-items-li">
+        <li>Ex Analista y Desarrollador de Software en Cinepapaya.</li>
+        <li>Ex Analista y Desarrollador de Aplicaciones Web en Netmedia S.A.C</li>
+        </ul>
+        </div>
+        </div>
+
+        </div>
+        <!-- final de una fila-->
+        <hr>
+        <!-- inicio de una fila-->
+        <div class="row">
+
+        <div class="col-md-8">
+        <div class="container">
+        <h3 class="subtitle-general-fix"> BRAULIO BLANCO LAMBRUSCHINI </h3>         
+        <b>INGENIERÍA DE COMPUTACIÓN Y SISTEMAS</b>
+        </div>
+        <div class="container mt-3">
+        <p class="text-fix-content">Actualmente es Consultor de Procesos en Definity First y Estudiante de Master Big Data Management and Analytics en la Universidad Politécnica de Catalunya - Barcelona</p>
+
+        </div>
+        </div>
+
+        <div class="col-md-4">
+        <div class="container centrarimg">
+        <img class="img-fluid" src="../../img/braulio_blanco.jpg" alt="">
+        </div>
+        </div>
+
+        <div class="col-md-12">
+        <div class="container mt-3 text-fix-content">
+        <b class="mt-2 text-fix-content">
+        Experiencia :
+        </b> <br><br>
+        <ul class="fix-items-li">
+        <li>Ex Jefe de Desarrollo de Sistemas Administrativos SUNAT.</li>
+        <li>Ex Arquitecto SOA en la Contraloría General de la República Perú</li>
+        <li> Experiencia docente en la Facultad de Ingeniería y Arquitectura de la USMP.</li>
+        </ul>
+        </div>
+        </div>
+
+        </div>
+        <!-- final de una fila-->
+        <hr>
+        <!-- inicio de una fila-->
+        <div class="row">
+
+        <div class="col-md-8">
+        <div class="container">
+        <h3 class="subtitle-general-fix"> KARLA WONG MARÍN </h3>            
+        <b>INGENIERÍA DE COMPUTACIÓN Y SISTEMAS</b>
+        </div>
+        <div class="container mt-3">
+        <p class="text-fix-content">Actualmente es Alliances Director Hispanic America en Logicalis</p>
+
+        </div>
+        </div>
+
+        <div class="col-md-4">
+        <div class="container centrarimg">
+        <img class="img-fluid" src="../../img/karla_wong.jpg" alt="">
+        </div>
+        </div>
+
+        <div class="col-md-12">
+        <div class="container mt-3 text-fix-content">
+        <b class="mt-2 text-fix-content">
+        Experiencia :
+        </b> <br><br>
+        <ul class="fix-items-li">
+        <li>Ex Country Manager de Logicalis Andina  </li>
+        <li>Ha trabajado en Cisco Systems durante 11 años  </li>
+        <li>Ex Sales Business Development Manager - Software and Solutions Innovation in LATAM Partner Organization</li> 
+        <li>Es mentora tecnológica de Mujeres Conectadas y el poder de las mujeres en CISCO</li> 
+        <li>Entre algunos de sus principales reconocimientos tenemos: Sales Champion FY08 CANSAC Channel Manager of the year FY08 </li>
+        </ul>
+        </div>
+        </div>
+
+        </div>
+        <!-- final de una fila-->
+                        </div>
+
+                    </div>
+                   <!-- FIN Contendio Tab resultados -->
                           <!-- Contenido tab Organización plan de Estudios --> 
 
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
                     <div class="container-fluid">
-                        
+
+
+
                         <h2 class="subtitle-general-fix">Organización del Plan de Estudios</h2></br>   
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/proFIA/escuelas/sistemas/pdf/Plan_estudio_sistemas_2019.pdf" id="archivo" allowfullscreen></iframe>
@@ -286,7 +469,7 @@
                     <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
                         <div class="container">
                             
-                            <h2 class="subtitle-general-fix">Catálogo de Cursos</h2></br> 
+                            <h2 class="subtitle-general-fix">Catálogo de Asignaturas</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="http://www.usmp.edu.pe/proFIA/escuelas/sistemas/pdf/catalogo_cursos_sistemas.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
@@ -299,44 +482,9 @@
                      <!-- FIN Contenido tab Catalogo de Cursos --> 
 
 
-                     <!-- Contenido tab imagen objetivo --> 
+                    
 
                     
-                     
-
-                      <!-- Contenido tab Catalogo de Cursos
-
-                    <div class="tab-pane fade" id="nav-encuestaDoc" role="tabpanel" aria-labelledby="nav-encuestaDoc-tab">
-                        <div class="container">
-                            
-                            <h2 class="subtitle-general-fix">ENCUESTA DOCENTES</h2></br> 
-                            
-                            <div class="embed-responsive embed-responsive-1by1">
-                        <embed src="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUODNSTEpVTlJQSDhHVU80TjlSQTVPWjhFVC4u"> 
-                        </div> 
-                        <br>
-                        <br><br>
-                        </div>
-                            
-                    </div>
-
-                     <!-- FIN Contenido tab Catalogo de Cursos 
-
-                      <!-- Contenido tab Catalogo de Cursos  
-
-                    <div class="tab-pane fade" id="nav-encuestaAlu" role="tabpanel" aria-labelledby="nav-encuestaAlu-tab">
-                        <div class="container">
-                            
-                        <h5 class="subtitle-general-fix">ENCUESTA ALUMNOS</h5></br>
-                        <div class="embed-responsive embed-responsive-1by1">
-                        <embed src="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQjMEz_g9YGBNumirLykwbERUOTBTRE5VVVE3WFAyR1FRUFlGQTBUMUc4VC4u"> 
-                        </div> 
-                        <br>
-                        <br><br>
-                        </div>
-                            
-                    </div>
-
                      <!-- FIN Contenido tab Catalogo de Cursos --> 
 
                        <!-- Contenido tab CAMPUS --> 
@@ -352,6 +500,21 @@
 
                     <!-- FIN Contenido tab CAMPUS --> 
 
+
+                      <!-- Contenido tab convenidos--> 
+
+                      <div class="tab-pane fade" id="nav-convenios" role="tabpanel" aria-labelledby="nav-convenios-tab">
+                        <div class="container">
+
+                        <?php include('convenios.php') ?>
+
+                        </div>
+                        
+                    </div>
+
+
+                    <!-- FIN Contenido TAB CONVENIOS--> 
+
                     <div class="tab-pane fade" id="nav-contacto" role="tabpanel" aria-labelledby="nav-contacto-tab">
                     
                         <?php include('../../blocks/contacto.php') ?>
@@ -362,12 +525,21 @@
 
                      <div class="tab-pane fade" id="nav-eventos" role="tabpanel" aria-labelledby="nav-novedades-tab">
                         <div class="container">
-                            <?php include('eventos.php') ?>
-                            </div>
+
+                        <?php include('eventos.php') ?>
+                        
+                       
+
+                        </div>
+                    
                     </div>
+                  
+
+                
 
 
-                    </div>
+                    
+      
         </section>
 
 
@@ -380,6 +552,7 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
+   
     <script src="http://usmp.edu.pe/proFIA/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
     <script src="http://usmp.edu.pe/proFIA/js/bootstrap/popper.min.js"></script>
@@ -389,6 +562,8 @@
     <script src="http://usmp.edu.pe/proFIA/js/plugins/plugins.js"></script>
     <!-- Active js -->
     <script src="http://usmp.edu.pe/proFIA/js/active.js"></script>
+
+  
 </body>
 
 </html>

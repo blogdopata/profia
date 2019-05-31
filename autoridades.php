@@ -93,7 +93,7 @@
                               <div class="card-body">
                               
                                 <p  class="text-fix-content">
-                                El Decano es el representante de la Facultad de Ingeniería y Arquitectura ante la Asamblea Universitaria, el Consejo Universitario y otras instituciones públicas y privadas, para lo cual se encuentra incluido de las prerrogativas inherentes a su cargo.
+                                El decano es el representante de la Facultad de Ingeniería y Arquitectura ante la Asamblea Universitaria, el Consejo Universitario y otras instituciones públicas y privadas para lo cual se encuentra incluido de las prerrogativas inherentes a su cargo.
                                 </p>
                                 <br>
                                 
@@ -125,13 +125,13 @@
                           <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                             <div class="card-body">
                               <p class="text-fix-content">
-                              Es el órgano de dirección de la Facultad. En él se encuentran representados los estamentos que por mandato imperativo de la ley se encargan de la función de dirigir las actividades académicas y administrativas, de cumplir los dispositivos de orden legal que regulan el funcionamiento de la Facultad y de asumir solidariamente las responsabilidades inherentes a su función. El Consejo de Facultad es el órgano máximo de gobierno dentro de la Facultad.
+                              Es el órgano de dirección de la Facultad. En él se encuentran representados los estamentos que por mandato imperativo de la ley se encargan de la función de dirigir las actividades académicas y administrativas, de cumplir los dispositivos de orden legal que regulan el funcionamiento de la Facultad y asumir solidariamente las responsabilidades inherentes a su función. El Consejo de Facultad es el órgano máximo de gobierno dentro de la Facultad.
                               <br>
                               <br>
                               <b>Decano:</b> Ing. Luis Cárdenas Lucero
                               <br>
                               <br>
-                              <b>Profesores Principales:</b> 
+                              <b>Profesores principales:</b> 
                               <br>
                               <ul class="fix-items-li">
                                 <li>Chang Escobedo, José Antonio </li>
@@ -161,7 +161,7 @@
                           <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
                             <p class="text-fix-content">
-                              <b>Profesores Asociados:</b> <br>
+                              <b>Profesores asociados:</b> <br>
                               <ul class="fix-items-li">
                               <li>Cuadros Ricra, Rubén Darío</li>
                               <li>Agüero Martínez La Rosa, Julio César</li>
@@ -170,14 +170,14 @@
                               </ul>
                           </p>
                           <p class="text-fix-content">
-                              <b>Profesores Auxiliares:</b> 
+                              <b>Profesores auxiliares:</b> 
                               <ul class="fix-items-li">
                               <li>Cárdenas Martínez, José Antonio</li>
                           
                               </ul>
                               </p>
 
-                              <p class="text-fix-content"> <b>Representantes Estudiantiles:</b>
+                              <p class="text-fix-content"> <b>Representantes estudiantiles:</b>
                               <ul class="fix-items-li">
                               <li>Changanaqui Arroyo, Lisett Patricia</li>
                               <li>Egoavil Casimir, José Luis</li>
@@ -213,14 +213,78 @@
                             <div class="card-body">
                               <p class="text-fix-content">La Dirección de cada Escuela Profesional de la Facultad se encarga de administrar su respectiva Escuela Profesional, en la cual se da una formación integral al estudiante para desempeñarse correctamente en los diversos aspectos que corresponde a su respectiva carrera.</p>
                              
-                              <p class="text-fix-content">La Facultad de Ingeniería y Arquitectura cuenta con cinco Escuelas Profesionales, estas son:</p>
+                              <p class="text-fix-content">La Facultad de Ingeniería y Arquitectura cuenta con cinco Escuelas Profesionales. Estas son:</p>
                               
                               <ul class="fix-items-li">
-                                <li>Escuela Profesional de<a href="http://usmp.edu.pe/proFIA/escuelas/sistemas/sistemas.php"> Ingeniería de Computación y Sistemas.</a></li>
-                                <li>Escuela Profesional de<a href="http://usmp.edu.pe/proFIA/escuelas/industrial/industrial.php"> Ingeniería Industrial.</a></li>
-                                <li>Escuela Profesional de<a href="http://usmp.edu.pe/proFIA/escuelas/civil/civil.php"> Ingeniería Civil.</a></li>
-                                <li>Escuela Profesional de<a href="http://usmp.edu.pe/proFIA/escuelas/arquitectura/arquitectura.php"> Arquitectura.</a></li>
-                                <li>Escuela Profesional de<a href="http://usmp.edu.pe/proFIA/escuelas/aeronauticas/aeronauticas.php"> Ciencias Aeronáuticas.</a></li> 
+                                <li>Escuela Profesional de <b> Ingeniería de Computación y Sistemas</b>
+                                <br>
+
+                                <p class="text-fix-content text-center mt-3" style="font-size:14px; text-align:center !important">  
+                                   Ing. Rubén Osvaldo García Farje <br>
+                                Director de la Escuela Profesional de Ingeniería de Computación y Sistemas  <br>
+                                <a href="mailto:rgarcia@usmp.pe "> rgarcia@usmp.pe  </a>
+                                </p>
+                                
+                                
+                                
+                                </li>
+                                <li>Escuela Profesional de <b> Ingeniería Industrial </b>
+
+                                <br>
+                                
+                                <p class="text-fix-content text-center mt-3" style="font-size:14px; text-align:center !important">  
+                                Ing. Hugo Liu Chacón Moscoso  <br>
+                                Director de la Escuela Profesional de Ingeniería Industrial  <br>
+                                <a href="mailto:hchaconm@usmp.pe "> hchaconm@usmp.pe  </a>
+                                </p>
+
+
+                           
+
+
+
+                                
+                                
+                                
+                                
+                                </li>
+                                <li>Escuela Profesional de <b> Ingeniería Civil </b></a>
+                                
+                                <br>
+                                
+                                <p class="text-fix-content text-center mt-3" style="font-size:14px; text-align:center !important">  
+                                Ing. Arnaldo Falcon Soto   <br>
+                                Director de la Escuela Profesional de Ingeniería Civil <br>
+                                <a href="mailto:afalcons@usmp.pe"> afalcons@usmp.pe </a>
+                                
+                                </li>
+
+
+
+
+                                <li>Escuela Profesional de <b> Arquitectura </b>
+                                <br>
+                                <p class="text-fix-content text-center mt-3" style="font-size:14px; text-align:center !important">  
+                                Arq. Gorki Mesones Vargas   <br>
+                                Director de la Escuela Profesional de Arquitectura <br>
+                                <a href="mailto:gmesonesv@usmp.pe">  gmesonesv@usmp.pe </a>
+                                </p>
+
+                                
+                                </li>
+
+
+                                <li>Escuela Profesional de <b>  Ciencias Aeronáuticas </b>
+                                <br>
+                                <p class="text-fix-content text-center mt-3" style="font-size:14px; text-align:center !important">  
+                                Ing. Manuel Alejandro Cáceres Lampén  <br>
+                                Director de la Escuela Profesional de Ciencias Aeronáuticas <br>
+                                <a href="mailto:mcaceresl@usmp.pe"> mcaceresl@usmp.pe   </a>
+                                </p>
+
+                                
+                                
+                                </li> 
                               </ul>
                             </div>
                           </div>
@@ -236,7 +300,7 @@
                           <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion2">
                             <div class="card-body">
                             <p class="text-fix-content"> 
-                              El Instituto de Investigación de la Facultad de Ingeniería y Arquitectura de la USMP es el organismo encargado de proyectar, coordinar, realizar y promover la investigación en la Facultad, en concordancia con la política general trazada por la Universidad en el área. Tiene además como uno de sus objetivos más importantes proveer o coadyuvar a la formación de investigadores en las especialidades de computación y sistemas, electrónica e ingeniería industrial, empleando los recursos con los que cuenta la Facultad: profesores, laboratorios, centro de cómputo, biblioteca, tecnología, etc.
+                              El Instituto de Investigación de la Facultad de Ingeniería y Arquitectura de la USMP es el organismo encargado de proyectar, coordinar, realizar y promover la investigación en la Facultad, en concordancia con la política general trazada por la Universidad en el área. Tiene además como uno de sus objetivos más importantes coadyuvar a la formación de investigadores en las especialidades de Computación y Sistemas, Electrónica e Ingeniería Industrial, empleando los recursos con los que cuenta la Facultad: profesores, laboratorios, centro de cómputo, biblioteca, tecnología, etc.
                             </p>
                           <br><br>
                           <div  class="text-center"> 
@@ -260,8 +324,8 @@
                           </p>
 
                             <ul class="fix-items-li">
-                                <li>Unidad de Investigación y Desarrollo de Proyectos Académicos de la Escuela Profesional de Ingeniería de Computación y Sistemas.</li>
-                                <li>Grupo de Investigación y Desarrollo en Procesamiento Digital de Señales e Imágenes (GIDEPSI).</li>
+                                <li>Unidad de Investigación y Desarrollo de Proyectos Académicos de la Escuela Profesional de Ingeniería de Computación y Sistemas</li>
+                                <li>Grupo de Investigación y Desarrollo en Procesamiento Digital de Señales e Imágenes (GIDEPSI)</li>
                               </ul>
                           </div>
                         </div>
@@ -278,11 +342,11 @@
                           <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
                             <div class="card-body">
                               <p class="text-fix-content">
-                                La Oficina de Extensión y Proyección Universitaria es el órgano de línea encargado de planear, dirigir y controlar las actividades de proyección de la Facultad hacia la comunidad, de acuerdo a los lineamientos que establece el Estatuto de la Universidad.
+                                La Oficina de Extensión y Proyección Universitaria es el órgano de línea encargado de planear, dirigir y controlar las actividades de proyección de la Facultad hacia la comunidad, de acuerdo con los lineamientos que establece el Estatuto de la Universidad.
                               </p>
                            
                               <p class="text-fix-content">
-                                En tal sentido, la Facultad organiza actividades de cultura general y de carácter profesional, tales como cursos y servicios de extensión universitaria en las diversas especialidades de Ingeniería de Computación y Sistemas, de Ingeniería Industrial, de Ingeniería Electrónica, de Ingeniería Civil y de Arquitectura, dirigidas a personas que no sean solo sus alumnos regulares, sino también a sus graduados, titulados y comunidad en general.
+                                En tal sentido, la Facultad organiza actividades de cultura general y de carácter profesional, tales como cursos y servicios de extensión universitaria en las diversas especialidades de Ingeniería de Computación y Sistemas, de Ingeniería Industrial, de Ingeniería Electrónica, de Ingeniería Civil y de Arquitectura, dirigidas a solo sus alumnos regulares, así como a sus graduados, titulados y comunidad en general.
                               </p>
                            
                               <p class="text-fix-content">
@@ -316,7 +380,7 @@
                                 <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion2">
                                   <div class="card-body">
                                       <p class="text-fix-content">
-                                        La sección de posgrado es el órgano de apoyo de la Facultad que canaliza el interés por realizar estudios de perfeccionamiento. Tienen como finalidad formar profesionales de alta especialización en las áreas de Ingeniería, Arquitectura y Ciencias Aeronáuticas, brindando una formación integral con énfasis en la investigación. <br> <br> Contamos con un diseño curricular y un plan de estudios permanentemente actualizando en razón de las exigencias académicas, científicas y tecnológicas, que serán desarrolladas por una excelente plana de docente, de gran experiencia y reconocimiento nacional e internacional. La facultad tiene una moderna infraestructura, servicio de biblioteca, Wifi, Coliseo, Multideportivo y Gimnasio.
+                                        La Sección de Posgrado es el órgano de apoyo de la Facultad que canaliza el interés por realizar estudios de perfeccionamiento. Tiene como finalidad formar profesionales de alta especialización en las áreas de Ingeniería, Arquitectura y Ciencias Aeronáuticas, y que  brinda una formación integral con énfasis en la investigación. <br> <br> Contamos con un diseño curricular y un plan de estudios, permanentemente actualizado, en razón de las exigencias académicas, científicas y tecnológicas, que serán desarrolladas por una excelente plana de docente, de gran experiencia y reconocimiento nacional e internacional. La Facultad dispone de una moderna infraestructura, servicio de biblioteca, Wifi, Coliseo, Multideportivo y Gimnasio.
                                       </p>
                                       <br><br>
                                       <div class="text-center">
@@ -400,7 +464,7 @@
                           <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion3">
                             <div class="card-body">
                               <p class="text-fix-content">
-                                El Departamento Académico de Ingeniería y Arquitectura apoya planeando, organizando, coordinando, dirigiendo y supervisando las actividades de enseñanza y proyección académica, en relación con las políticas específicas de la Facultad de Ingeniería y Arquitectura, y de las políticas generales de la Universidad de San Martín de Porres.
+                                El Departamento Académico de Ingeniería y Arquitectura apoya en la planificación, organización, coordinación, dirección y supervisión de las actividades de enseñanza y proyección académica, en relación con las políticas específicas de la Facultad de Ingeniería y Arquitectura, y de las políticas generales de la Universidad de San Martín de Porres.
                               </p>
                               <br>
                              
@@ -432,10 +496,10 @@
                              </p>
                              
                              <p class="text-fix-content">
-                              Con el fin de garantizar la calidad de la enseñanza, provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.
+                              Con el fin de garantizar la calidad de la enseñanza-aprendizaje, provee el material y equipo necesario para el desarrollo de las sesiones de aprendizaje, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.
                               </p>
                               <p class="text-fix-content">
-                              Oficina encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas.
+                              Oficina encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. Los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas.
                               </p>
                               <br><br>
 
@@ -512,8 +576,8 @@
 
                             <ul class="fix-items-li">
 
-                              <li>Proponer políticas, normas, objetivos y planes para la administración y asignación de capital humano y materiales, priorizando las acciones realizadas en la actividad académica de la Facultad.</li>
-                              <li>Organizar y supervisar el correcto cumplimiento de la normatividad referida al registro y control patrimonial de los bienes muebles e inmuebles de propiedad de la Universidad.</li>
+                              <li>Proponer políticas, normas, objetivos y planes para la administración y asignación de capital humano y materiales; priorizar las acciones realizadas en la actividad académica de la Facultad.</li>
+                              <li>Organizar y supervisar el correcto cumplimiento de la normatividad, referida al registro y control patrimonial de los bienes muebles e inmuebles de propiedad de la Universidad.</li>
                               <li>Brindar los servicios de mantenimiento y seguridad de bienes y ambientes de la Facultad.</li>
                               <li>Generar un clima laboral agradable entre el personal administrativo y docente de la Facultad.</li>
                               <li>Incentivar la comunicación interna entre las diversas áreas de la Facultad.</li>
@@ -550,7 +614,7 @@
                                 La Oficina de Grados y Títulos es la responsable de programar, organizar y ejecutar las actividades de su competencia, y lleva el registro de Graduados y Titulados de la Facultad. 
                               </p>
                                       <p class="text-fix-content">
-                                Es la encargada de recepcionar, tramitar y registrar oficialmente la documentación referida para la obtención de los grados Académicos de Bachiller, Maestría y Doctorado, así como el Título Profesional.
+                                Es la encargada de recepcionar, tramitar y registrar, oficialmente, la documentación referida para la obtención de los grados Académicos de Bachiller, Maestría y Doctorado, así como el Título Profesional.
                               </p>
                               <br>
                               <div class="text-center">
@@ -588,7 +652,7 @@
                                 
                         <a href="mailto:amisaric@usmp.pe">amisaric@usmp.pe</a>
                           
-</p>
+                </p>
                               </div>
                             </div>
                           </div>
