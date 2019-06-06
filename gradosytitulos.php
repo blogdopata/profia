@@ -97,6 +97,9 @@
                                         
                                         <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/asesores_de_tesis.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Asesores de Tesis</span></a></dt>
 
+                                        
+                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/req_revalidacion_grados_titulos.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Requisitos para revalidación de grados y tìtulos.</span></a></dt>
+
                                         </dl>
                                         </section>
 				</div>
@@ -184,6 +187,13 @@
             </a>
             <a href="http://www.usmp.edu.pe/fia/pdf/graduados/modelo_cv_fia.pdf">
                 <i class="fa fa-check"></i> Modelo de Currículum Vitae
+            </a>
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/graduacion.pdf">
+                <i class="fa fa-check"></i> Ceremonia de Graduación 2019
+
+            </a>
+            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/trabajo_investigacion_2014_2.pdf">
+                <i class="fa fa-check"></i> Directiva de Trabajo de Investigación para obtener el grado académico de Bachiller (Ingresantes 2014-II).
             </a>
             </div>
         

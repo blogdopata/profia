@@ -12,13 +12,20 @@
 
     <link rel="icon" href="img/core-img/logousmp.ico">
 
-   
-
-   
     <link rel="stylesheet" href="css/style.css">
 
  <!--   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet"> -->
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141218573-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141218573-1');
+</script>
 </head>
 
 <body>
@@ -228,7 +235,7 @@
 
             <div class="row mt-5"  >
                 <!-- Single Testimonials Area -->
-                <div class="col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
+                <div class="d-none col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
 
                     <div  class="bg-destacado pb-4">
 
@@ -250,7 +257,7 @@
 
                 
                 <!-- Single Testimonials Area -->
-                <div class="d-none d-md-block col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
+                <div class="d-md-block col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
 
                     <div  class="bg-destacado pb-4">
 
@@ -291,6 +298,26 @@
                     </div>
 
                 </div>
+
+                <div class="d-none d-sm-block col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
+
+                    <div  class="bg-destacado pb-4">
+
+                        <div class="img-fix-position" >
+                            <img src="img/daniel_schain.jpg" alt="">
+                        </div>
+                        <div class="egresado-fix-position">
+                            <h6 class="text-white pb-2">DANIEL SCHAIN VELARDE</h6>
+                            <span class="bg-white py-1 px-3"> Ingeniería Industrial</span>
+                            <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
+                                <li class="mb-2 " >Actualmente es el Jefe de Producción de <b class="bold-w">Trianon Energo S.A.</b></li> <br> <br><br>
+                        
+                                
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </div>
                 <div class="container centrarimg wow fadeInUp" data-wow-delay="800ms">
                 <button type="button" class="btn btn-vermas mt-5" >
                     <a style="color:white;" href="http://usmp.edu.pe/fia/exitosos.php">Ver más</a>
@@ -307,7 +334,7 @@
     <!-- ##### Top Popular Courses Area Start ##### -->
     <div class="top-popular-courses-area  mt-5   wow fadeInUp" data-wow-delay="300ms">
         <div class="container">
-            <div class="row mb-lg-5 mb-4">
+            <div class="row mb-lg-2 mb-4">
                 <div class="col-12 p-0 h-25">
                     <div class=" text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
                        
@@ -320,40 +347,40 @@
             <div class="row" >
                
                  <!-- Single Top Popular Course -->
-                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
                     <div class="d-flex">
-                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                    <span style="font-size:40px;font-weight:bold"> 02</span> 
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                        <span style="font-size:40px;font-weight:bold"> 06</span> 
                             <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Proceso de Admisión: <br>Colegio de Excelencia Académica</h6>
-                            <span class="agenda-info">Modalidad : </span> <br>
-                            <span class="agenda-info">Colegio de Excelencia Académica</span> <br>
-                            <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1130</a> </strong></span>  --><br>
-                           <a href="http://admision.usmp.edu.pe/modo_ingreso.php?modo=5" target="_blank" class="agenda-text-info">Más información</a>
-                            <br>
-                        </div>
+                            <h6 class="agenda-title">Feria Laboral: 3° Edición <br> Te estamos buscando</h6>
+                            <span class="agenda-info"><b> Lugar: </b>Campus FIA</span> <br>
+                            <span class="agenda-info"> <b>   Hora: </b> 10:00 h</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span> --> <br>
+                            <span><a href="https://business.facebook.com/fia.usmp/photos/pcb.1888473867920792/1888458561255656/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+
+                        </div> 
                     </div>
-                </div>    
+                </div>  
                 <!-- Single Top Popular Course -->
 
 
 
 
                      <!-- Single Top Popular Course -->
-                     <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
+               <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
                     <div class="d-flex">
-                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                    <span style="font-size:40px;font-weight:bold"> 06</span> 
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
+                        <span style="font-size:40px;font-weight:bold"> 08</span> 
                             <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Feria Laboral: 3° Edición <br> Te estamos buscando</h6>
-                            <span class="agenda-info">Lugar: Campus FIA</span> <br>
-                            <span class="agenda-info">Hora: 10:00 h</span> <br>
+                            <h6 class="agenda-title"> Día Conmemorativo<br> Feliz Día del Ingeniero y del Arquitecto</h6>
+                            <span class="agenda-info"><b> Lugar:</b> Campus FIA</span> <br>
+                            <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
                             <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span> --> <br>
-                            <span><a href="https://business.facebook.com/fia.usmp/photos/pcb.1888473867920792/1888458561255656/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <span><a href="#"" target="_blank" class="agenda-text-info">Más información</a>
 
                         </div> 
                     </div>
@@ -364,7 +391,7 @@
 
 
                     <!-- Single Top Popular Course -->
-                    <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-none d-sm-block"  >
+                    <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
                     <span style="font-size:40px;font-weight:bold"> 09</span> 
@@ -372,7 +399,7 @@
                         </div>
                         <div>
                             <h6 class="agenda-title">Proceso de Admisión: <br>Primera Alternativa</h6>
-                            <span class="agenda-info">Modalidad :</span> <br>
+                            <span class="agenda-info"><b>Modalidad:</b> </span> <br>
                             <span class="agenda-info">Primera Alternativa</span> <br>
                             <!-- <span class="agenda-info ">  <strong>    Telf: 01-208-600</a> </strong></span> <br>
                             <a href="http://www.usmp.edu.pe/" target="_blank" class="agenda-text-info">Más información</a> -->
@@ -396,9 +423,9 @@
                         </div>
                         <div>
                             <h6 class="agenda-title">FiaComunica: <br>Exámenes Finales</h6>
-                            <span class="agenda-info">Lugar: Campus FIA</span> <br>
-                            <span class="agenda-info">Hora: Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1117</a> </strong></span> <br>
+                            <span class="agenda-info"><b>Lugar: </b> Campus FIA</span> <br>
+                            <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1117</a> </span> <br>
                             <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1905408162894029/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
                     </div>
@@ -417,9 +444,9 @@
                         <div>
                             <h6 class="agenda-title">Taller:  <br>Construye tu bicci de bambú</h6>
                            
-                            <span class="agenda-info">Lugar: Campus FIA </span> <br>
-                            <span class="agenda-info">Hora: Todo el día</span> <br>
-                             <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1178</a> </strong></span>
+                            <span class="agenda-info"><b> Lugar: </b>Campus FIA </span> <br>
+                            <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
+                             <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1178</a> </span>
                          <br>
                          <span><a href="http://www.usmp.edu.pe/ivuc/bici-janko.php" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
@@ -430,21 +457,18 @@
 
 
 
-
-
-
                  <!-- Single Top Popular Course -->
                  <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                    <span style="font-size:40px;font-weight:bold"> 18</span> 
+                    <span style="font-size:40px;font-weight:bold"> 17</span> 
                             <span style="font-size:26px;font-weight:bold">OCT</span> 
                         </div>
                         <div>
                             <h6 class="agenda-title">Congreso: <br>Visión 2019	</h6>
-                            <span class="agenda-info">Lugar: Campus FIA</span> <br>
-                            <span class="agenda-info">Hora: Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf: 01-208-600 anexo 1122</a> </strong></span> <br>
+                            <span class="agenda-info"><b>Lugar:</b>  Campus FIA</span> <br>
+                            <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1122</a> </span> <br>
                             <span><a href="http://usmp.edu.pe/vision2019/" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
                     </div>
@@ -487,7 +511,7 @@
         var app = new Vue({
             el : '#lol',
             data: {
-                titulo: ' wtf '
+                titulo: ' test '
 
 
             }
@@ -499,48 +523,3 @@
 
 </html>
 
-
-<!-- <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 17</span> 
-                            <span style="font-size:26px;font-weight:bold">MAYO</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Aniversario: <br>57 años de la USMP</h6>
-                            <span class="agenda-info">Lugar:Campus FIA</span> <br>
-                            <span class="agenda-info">Hora: Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    <a href="#">Telf: 01-208-600</a> </strong></span> <br>
-                            <a href="http://www.usmp.edu.pe/" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>   -->
-
-
-
-                        <!-- <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 14</span> 
-                            <span style="font-size:26px;font-weight:bold">JUNIO</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Taller: <br>Construye tu bici de Bambú</h6>
-                            <span class="agenda-info">Lugar:Campus FIA</span> <br>
-                            <span class="agenda-info">Hora:Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    <a href="#">Telf: 01-208-600</a> </strong></span> <br>
-                            <span><a href="http://www.usmp.edu.pe/ivuc" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>    -->
-
-
-<!-- 
-                        vision2019
-                        <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2"  >
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3" >
-                            <span style="font-size:40px;font-weight:bold"> 17</span> 
-                            <span style="font-size:26px;font-weight:bold">OCTUBRE</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Congreso: <br>Visión  2019</h6>
-                            <span class="agenda-info">Lugar:Campus FIA</span> <br>
-                            <span class="agenda-info">Hora:Todo el día</span> <br>
-                            <span class="agenda-info "><strong><a href="#">Telf: 01-208-600</a> </strong></span> <br>
-                            <span><a href="http://usmp.edu.pe/vision2019/" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>   
-                    </div>
-                </div> -->

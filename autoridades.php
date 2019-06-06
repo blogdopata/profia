@@ -128,19 +128,55 @@
                               Es el órgano de dirección de la Facultad. En él se encuentran representados los estamentos que por mandato imperativo de la ley se encargan de la función de dirigir las actividades académicas y administrativas, de cumplir los dispositivos de orden legal que regulan el funcionamiento de la Facultad y asumir solidariamente las responsabilidades inherentes a su función. El Consejo de Facultad es el órgano máximo de gobierno dentro de la Facultad.
                               <br>
                               <br>
-                              <b>Decano:</b> Ing. Luis Cárdenas Lucero
+                              <b>Decano:</b> Dr. Luis Cárdenas Lucero
                               <br>
                               <br>
                               <b>Profesores principales:</b> 
                               <br>
                               <ul class="fix-items-li">
-                                <li>Chang Escobedo, José Antonio </li>
+                                <li>Chang Escobedo, José Antonio</li>
                                 <li>Bao García, Raúl Eduardo</li>
                                 <li>Cáceres Lampén, Manuel Alejandro</li>
-                                <li>Mellado Méndez, Augusto</li>
                                 <li>Cárdenas Lucero, Luis</li>
-                                <li>Valencia Gutiérrez, Andrés Avelino</li>
+                                <li>Celi Saavedra, Luis Tadeo</li>
+                                <li>Tataje Salas, Gustavo Hernán</li>
+                                <li>Valencia Gutiérrez, Andrés Avelinoc
                               </ul>
+                              <br>
+
+                              <b>Profesores Asociados:</b> 
+                              <br>
+                              <ul class="fix-items-li">                                              
+                                <li>Agüero Martinez La Rosa, Julio César</li>
+                                <li>Cuadros Ricra, Ruben Dario</li>
+                                <li>López Goycochea, Jefferson</li>
+                                <li>Palacios Olivos, Jaime</li>
+                                <li>Ramos Salas, Andrés</li>
+                                <li>Sánchez Montalván, César Augusto</li>
+                                <li>Tejada Polo, Jorge Isaac</li>
+                            </ul>
+                            <br>
+
+                            <b>Profesores Auxiliares:</b> 
+                              <br>
+                              <ul class="fix-items-li">                                              
+                                <li>Cardenas Martinez, José Antonio</li>
+                               
+                            </ul>
+                            <br>
+
+                             <b>REPRESENTANTES ESTUDIANTILES</b> 
+                             <br>
+                             Consejo de Facultad:<br>
+                             Período 2018-2019<br>
+                              <ul class="fix-items-li">                                              
+                                <li>Carrasco Ayala, Andrés Oswaldo</li>
+                                <li>Puente Arana, Oscar Leonardo</li>
+                                <li>Mejía Reyna, Thamara Camila</li>
+                               
+                            </ul>
+
+
                               </p>
                             </div>
                           </div>
@@ -151,13 +187,7 @@
 
 
                         <div class="card">
-                          <div class="card-header  bg-autoridades" id="headingThree">
-                          
-                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Otros miembros
-                              </button>
-                           
-                          </div>
+                      
                           <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
                             <p class="text-fix-content">

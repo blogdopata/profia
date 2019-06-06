@@ -75,7 +75,7 @@
 
                         <a class="nav-item nav-link" id="nav-act-tab" data-toggle="tab" href="#nav-act" role="tab" aria-controls="nav-act" aria-selected="false">Actividades EPII</a>
 
-                        <a class="nav-item nav-link" id="nav-cidpp-tab" data-toggle="tab" href="#nav-cidpp" role="tab" aria-controls="nav-cidpp" aria-selected="false">CIDPP</a>
+                        <a class="nav-item nav-link" id="nav-cidpp-tab" data-toggle="tab" href="#nav-cidpp" role="tab" aria-controls="nav-cidpp" aria-selected="false">CIDPA</a>
 
                 
 
@@ -288,7 +288,7 @@
                             
                             <h2 class="subtitle-general-fix">Plan de Estudios</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
-                        <iframe src="http://usmp.edu.pe/fia/pdf/planestudio/industrial.pdf" allowfullscreen id="archivo"></iframe> 
+                        <iframe src="http://usmp.edu.pe/fia/pdf/planestudio/EPII-Plan_Estudios-2019-I.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
                         <br>
                         <br><br>

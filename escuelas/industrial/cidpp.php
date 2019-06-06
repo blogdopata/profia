@@ -74,7 +74,7 @@
                           <div id="collapseTwoa" class="collapse" aria-labelledby="headingTwoa" data-parent="#accordionZ">
                             <div class="card-body">
                               <div class="centrarimg">
-                                    <img src="" alt="">
+                                    <img class="img-fluid" src="img/organigrama.jpg" alt="">
                               </div>
                             </div>
                           </div>
@@ -390,52 +390,80 @@
 
 
 
-
-
-                                        <div class="row">
-                                        <div class="col-md-3 col-sm-3 col-xs-6">
-                                            <img src="img/eq_29.png" class="img-fluid img-thumbnail">
-                                            <p class="text-center">pH metro portátil </p>
-                                        </div>
-                                        <div class="col-md-3 col-sm-3 col-xs-6">
-                                            <img src="img/eq_30.png" class="img-fluid img-thumbnail">
-                                            <p class="text-center">Horno Microondas Samsung -AGE614ST/XPE</p>
-                                        </div>
-                                        <div class="col-md-3 col-sm-3 col-xs-6">
-                                            <img src="img/eq_31.png" class="img-fluid img-thumbnail">
-                                            <p class="text-center">Polarímetro</p>
-                                        </div>
-                                        <div class="col-md-3 col-sm-3 col-xs-6">
-                                            <img src="img/eq_32.png" class="img-fluid img-thumbnail">
-                                            <p class="text-center">Viscosímetro</p>
-                                        </div>
-                                        </div>
-
-
-
-
                                         <div class="row">
                                         <div class="col-md-3 col-sm-3 col-xs-6">
                                             <img src="img/eq_33.png" class="img-fluid img-thumbnail">
-                                            <p class="text-center">pH metro portátil </p>
+                                            <p class="text-center">Campana Extractora de Gases </p>
                                         </div>
                                         <div class="col-md-3 col-sm-3 col-xs-6">
                                             <img src="img/eq_34.png" class="img-fluid img-thumbnail">
-                                            <p class="text-center">Horno Microondas Samsung -AGE614ST/XPE</p>
+                                            <p class="text-center">Refractómetro J157 RUDOLPH</p>
                                         </div>
                                         <div class="col-md-3 col-sm-3 col-xs-6">
                                             <img src="img/eq_35.png" class="img-fluid img-thumbnail">
-                                            <p class="text-center">Polarímetro</p>
+                                            <p class="text-center">Balanza de Precisión PL602</p>
                                         </div>
                                         <div class="col-md-3 col-sm-3 col-xs-6">
                                             <img src="img/eq_36.png" class="img-fluid img-thumbnail">
-                                            <p class="text-center">Viscosímetro</p>
+                                            <p class="text-center">Cabina Extractora de Gases</p>
                                         </div>
+                                        </div>
+
+
+
+
+
+                                        <div class="row">
+                                        <div class="col-md-3 col-sm-3 col-xs-6">
+                                            <img src="img/eq_37.png" class="img-fluid img-thumbnail">
+                                            <p class="text-center">Estufa - Binder</p>
+                                        </div>
+                                        <div class="col-md-3 col-sm-3 col-xs-6">
+                                            <img src="img/eq_38.png" class="img-fluid img-thumbnail">
+                                            <p class="text-center">Cocinilla eléctrica</p>
+                                        </div>
+                                        
                                         </div>
 
                                         
 
 
+                              
+                            </div>
+                          </div>
+                        </div>
+
+
+                        <div class="card">
+                          <div class="card-header  bg-autoridades" id="headingElevena">
+                            
+                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseElevena" aria-expanded="false" aria-controls="collapseElevena">
+                                Líneas de investigación
+                              </button>
+                           
+                          </div>
+                          <div id="collapseElevena" class="collapse" aria-labelledby="headingElevena" data-parent="#accordionZ">
+                            <div class="card-body text-fix-content">
+                              
+                                   <p class="text-fix-content" style="font-weight:bold;">
+                                     1.- Desarrollo de Proyectos de innovación tecnológica en apoyo a cadenas productivas agroindustriales promisorias
+                                   </p>
+
+                                   <ul class="ml-4">
+                                     <li>1.1- Cadena Productiva del pisco</li>
+                                     <li>1.2.- Cadena productiva de frutas deshidratadas.</li>
+                                   </ul>
+
+
+
+                                   <p class="mt-4 text-fix-content" style="font-weight:bold;">
+                                     2.- Procesamiento de especies agrícolas con potencial agroindustrial.
+                                   </p>
+
+                                   <ul class="ml-4">
+                                     <li>2.1.-Procesamiento de semillas de eco tipos de sacha inchi Plukenetia volubilis L.</li>
+                                     <li>2.2.- Desarrollo de nuevos productos con valor agregado a partir de frutas tropicales y nativas de mayor potencialidad, conforme a las tendencias de mercado.</li>
+                                   </ul>
                               
                             </div>
                           </div>
@@ -468,7 +496,7 @@
    <div class="card-header" id="heading1a" style="background-color:#EDEDED;">
      <h5 class="mb-0">
        <button  style="color:#000000;" class="btn btn-link" data-toggle="collapse" data-target="#collapse1a" aria-expanded="true" aria-controls="collapse1a">
-      Evaluación del uso de conservantes: sorbato de potasio , kilol , acetatos y diacetatos en la vida útil del productocomercial "Sangrecita de pollo".
+      "Evaluación del uso de conservantes: sorbato de potasio , kilol , acetatos y diacetatos en la vida útil del productocomercial "Sangrecita de pollo".
        </button>
      </h5>
    </div>
@@ -490,6 +518,93 @@
  <!-- fin primero -->
 
 
+ <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Desarrollo de Módulo automatizado para la determinación de Humedad en Línea en proceso de deshidratación de frutas y hortalizas”.  Prototipo en trámite de Patente.
+       </button>
+     </h5>
+   </div>
+
+
+   <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Estudio Nutricional y Caracterización Fitoquímica de la Plukenetia huayllabambana sp”, Facultad de Ingeniería y Arquitectura –Facultad de Medicina Humana de la USMP. Proyecto financiado por CONCYTEC-PROCIT 2010. 
+       </button>
+     </h5>
+   </div>
+
+
+   <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Caracterización química del contenido de ácidos grasos poliinsaturados, fitoesteroles, compuestos fenólicos y actividad antioxidante de 35 ecotipos de semilla de sacha inchi Plukenetia volubilis”, Facultad de Ingeniería y Arquitectura –Facultad de Medicina Humana de la USMP. financiado por  FINCyT-PIBAP 2008.
+       </button>
+     </h5>
+   </div>
+
+
+   <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Evaluación del contenido de fitoesteroles y compuestos fenólicos y métodos químicos para determinar la actividad antioxidante de la semilla de Sacha inchi Plukenetia volubilis”, Facultad de Ingeniería y Arquitectura –Facultad de Medicina Humana de la USMP financiado por CONCYTEC-PROCIT 2008.
+       </button>
+     </h5>
+   </div>
+
+
+   <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Caracterización Fitoquimica de ecotipos de caigua Cyclantherapedata, 2008. Facultad de Ingeniería y Arquitectura –Facultad de Medicina Humana de la USMP 2009.
+       </button>
+     </h5>
+   </div>
+
+
+
+   <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Desarrollo y Construcción de Prototipo para la Determinación del Grado Alcohólico en Línea en Proceso de Destilación de Pisco”. 2008. Prototipo Patentado.
+       </button>
+     </h5>
+   </div>
+
+
+
+   <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Dinámica de la Fermentación y su efecto en la calidad del Pisco”.  USMP.
+       </button>
+     </h5>
+   </div>
+
+
+
+   <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Diseño y fabricación de un determinador de porcentaje de volumen de alcohol en línea, usando algoritmo NRW modificado para celda desacoplada, en la obtención del Pisco en las bodegas del Perú”. Proyecto ejecutado con la participación de la Universidad de Pernambuco de Brasil, y financiado por FINCYT-2014.
+       </button>
+     </h5>
+   </div>
+
+
+
+   <div class="card-header"  style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       “Diseño y fabricación de un determinador de porcentaje de volumen de alcohol en línea, usando algoritmo NRW modificado para celda desacoplada, en la obtención del Pisco en las bodegas del Perú”. Proyecto ejecutado con la participación de la Universidad de Pernambuco de Brasil, y financiado por FINCYT-2014.
+       </button>
+     </h5>
+   </div>
+
+
+
+   
 
 
 
@@ -532,7 +647,7 @@
    <div class="card-header" id="heading4a" style="background-color:#EDEDED;">
      <h5 class="mb-0">
        <button  style="color:#000000;" class="btn btn-link" data-toggle="collapse" data-target="#collapse4a" aria-expanded="true" aria-controls="collapse4a">
-      "Obtención de una formulación óptima para la obtención de papas rellenas congeladas utilizando diversas variedades
+      "Determinación de una formulación óptima para la obtención de papas rellenas congeladas utilizando diversas variedades
       de papas nativas peruanas"
        </button>
      </h5>
@@ -615,7 +730,13 @@ Planta Piloto.
  <!-- fin primero -->
 
 
-
+ <div class="card-header" id="heading3a" style="background-color:#EDEDED;">
+     <h5 class="mb-0">
+       <button  style="color:#000000;" class="btn btn-link">
+       "Determinación de componentes volátiles de aguardiente de uva quebranta obtenido haciendo uso de alambique de cobre y de acero inoxidable sometidos a diferentes condiciones de aireación en su periodo de reposo".
+       </button>
+     </h5>
+   </div>
 
 
 

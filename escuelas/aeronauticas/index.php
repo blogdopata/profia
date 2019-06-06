@@ -61,7 +61,7 @@
                     
                         <a class="nav-link active" id="nav-escuela-tab" data-toggle="pill" href="#nav-escuela" role="tab" aria-controls="nav-escuela" aria-selected="true">Escuela</a>
                         
-                        <a class="nav-link" id="nav-infacad-tab" data-toggle="pill" href="#nav-infacad" role="tab" aria-controls="nav-infacad" aria-selected="true">Información Académica</a>
+                        <!-- <a class="nav-link" id="nav-infacad-tab" data-toggle="pill" href="#nav-infacad" role="tab" aria-controls="nav-infacad" aria-selected="true">Información Académica</a> -->
                         
                         <a class="nav-link " id="nav-graduado-tab" data-toggle="pill" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil profesional</a>
 
@@ -99,7 +99,7 @@
                     <!-- FIN CONTENIDO ESCUELA -->
 
 
-                     <!-- Contenido tab INF ACADEMICA --> 
+                     <!-- Contenido tab INF ACADEMICA 
 
                      <div class="tab-pane fade" id="nav-infacad" role="tabpanel" aria-labelledby="nav-infacad-tab">
                         <div class="container" style="display:flex;align-items: center;justify-content: center;">
@@ -112,7 +112,7 @@
                             
                     </div>
 
-                     <!-- FIN Contenido tab INF ACADEMICA --> 
+                      FIN Contenido tab INF ACADEMICA --> 
                     
 
 

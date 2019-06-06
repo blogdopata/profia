@@ -274,7 +274,7 @@
                 <div class="col-6 col-md-3 text-center" >
                     <div class="team-members">
                         <div >
-                        <a href="http://filialnorte.usmp.edu.pe/pdf/manuales/Manual_Portal_Acad%C3%A9mico_[Alumno].pdf" target="_blank">   
+                        <a href="http://www.usmp.edu.pe/pdf/manual_portal_alumnos.pdf" target="_blank">   
                         
                                 <img class="img-fluid" src="img/prestaciones/servicios/manual-portal.jpg" alt="">   
                         
