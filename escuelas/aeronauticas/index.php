@@ -246,11 +246,110 @@
                       <!-- Contenido tab INSTRUCTORES --> 
 
                     <div class="tab-pane fade" id="nav-instructor" role="tabpanel" aria-labelledby="nav-instructor-tab">
-                    <div class="container" style="display:flex;align-items: center;justify-content: center;">
-                        
-                        <img class="img-fluid" src="http://usmp.edu.pe/fia/img/encontruccion.jpg" alt="">
+<!-- inicio de una fila-->
+<div class="row">
 
-                    </div>    
+<div class="col-md-8">
+<div class="container">
+<h3 class="subtitle-general-fix"> Ivan Alarco Jeri </h3>		    
+
+</div>
+<div class="container mt-3">
+<p class="text-fix-content">
+Horas totales de vuelo: 3850 <br>
+Años en aviación: 20
+<br><br>
+Equipos Volados <br>
+<br>
+<b>Aviones:</b> Beechcraft T-34 Mentor, Piper PA-28, Cherokee, Piper PA-32, Cherokee Six, Cessna 172, Aero Comandante 500, Alarus CH-2000
+
+<br><br>
+<b>Helicopteros:</b> Bell 206, Bell 214st, Mi-8T, F28F
+</p>
+
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="container centrarimg">
+<img class="img-fluid" src="images/ivan_alarco.jpg" alt="">
+</div>
+</div>
+
+
+
+</div>
+<!-- final de una fila-->
+<hr>
+<!-- inicio de una fila-->
+<div class="row">
+
+<div class="col-md-8">
+<div class="container">
+<h3 class="subtitle-general-fix"> Lilian Olivares Pomareda </h3>		    
+
+</div>
+<div class="container mt-3">
+<p class="text-fix-content">
+Horas totales de vuelo: 5778 <br>
+Años en aviación: 35
+<br><br>
+Equipos Volados <br>
+<br>
+<b>Aviones:</b> Cessna 172, Cessna 152, Cessna 185, Cessna 210, Cessna 206, Beechcraft Queen Air, Piper PA-34 Seneca
+
+</p>
+
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="container centrarimg">
+<img class="img-fluid" src="images/lilian_olivares.jpg" alt="">
+</div>
+</div>
+
+
+
+</div>
+<!-- final de una fila-->
+<hr>
+<!-- inicio de una fila-->
+<div class="row">
+
+<div class="col-md-8">
+<div class="container">
+<h3 class="subtitle-general-fix"> Fernando Gamero Rengifo </h3>		    
+
+</div>
+<div class="container mt-3">
+<p class="text-fix-content">
+Horas totales de vuelo: 5700 <br>
+Años en aviación: 15
+<br><br>
+Equipos Volados <br>
+<br>
+<b>Aviones:</b> Cessna 152, Cessna 150, Cessna 172,Piper PA-28, Piper PA-44 Seminole, Beechcraft Duchess, Antonov An-32
+
+
+
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="container centrarimg">
+<img class="img-fluid" src="images/fernando_gamero.jpg" alt="">
+</div>
+</div>
+
+
+
+</div>
+<!-- final de una fila-->
+<hr>
+
+
+
                             
                     </div>
 

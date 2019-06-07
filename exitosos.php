@@ -71,7 +71,10 @@
 						
 						<a class="nav-item nav-link" id="nav-epic-tab" data-toggle="tab" href="#nav-epic" role="tab" aria-controls="nav-epic" aria-selected="false">Ingeniería Civil</a>
 
-						<a class="nav-item nav-link ult-item" id="nav-epics-tab" data-toggle="tab" href="#nav-epics" role="tab" aria-controls="nav-epics" aria-selected="false">Ingeniería de Computación y Sistemas</a>
+						<a class="nav-item nav-link" id="nav-epics-tab" data-toggle="tab" href="#nav-epics" role="tab" aria-controls="nav-epics" aria-selected="false">Ingeniería de Computación y Sistemas</a>
+
+                        
+                        <a class="nav-item nav-link ult-item" id="nav-epca-tab" data-toggle="tab" href="#nav-epca" role="tab" aria-controls="nav-epca" aria-selected="false">Ciencias Aeronaúticas</a>
 
 						
 
@@ -138,15 +141,56 @@
 
 
 
-    <!-- Contendio Tab EPCA -->
 
-    <div class="tab-pane fade show " id="nav-epca" role="tabpanel" aria-labelledby="nav-epca-tab">
-        
-    
 
+<!-- Contenido tab EPCA --> 
+<div class="tab-pane fade" id="nav-epca" role="tabpanel" aria-labelledby="nav-epca-tab">
+        <!-- inicio de una fila-->
+        <div class="row">
+
+        <div class="col-md-8">
+        <div class="container">
+        <h3 class="subtitle-general-fix"> YEISON MARTIN GUTIERREZ GUERRERO</h3>		    
+        <b>CIENCIAS AERONAÚTICAS</b>
+        </div>
+        <div class="container mt-3">
+        <p class="text-fix-content">Actualmente es HCC Manager en LATAM Perú</p>
+
+        </div>
+        </div>
+
+        <div class="col-md-4">
+        <div class="container centrarimg">
+        <img class="img-fluid" src="img/yeison_gutierrez.jpg" alt="">
+        </div>
+        </div>
+
+        <div class="col-md-12">
+        <div class="container mt-3 text-fix-content">
+        <b class="mt-2 text-fix-content">
+        Experiencia :
+        </b> <br><br>
+        <ul class="fix-items-li">
+        <li>HCC Manager - LATAM</li>
+        <li>Sub Gerencia Hub Control Center dentro de la Gerencia de Aeropuertos Perú.</li>
         
+        </ul>
+        </div>
+        </div>
+
+        </div>
+        <!-- final de una fila-->
+        <hr>
+       
+       
     </div>
-    <!-- FIN Contendio Tab EPCA-->
+	<!-- FIN Contenido tab EPCA--> 
+
+
+
+
+
+  
 
 
     <!-- Contenido tab INDUSTRIAL--> 

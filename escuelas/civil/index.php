@@ -94,6 +94,8 @@
 
                         <a class="nav-item nav-link " id="nav-proy-tab" data-toggle="tab" href="#nav-proy" role="tab" aria-controls="nav-proy" aria-selected="false">Proyectos</a>
 
+                        <a class="nav-item nav-link " id="nav-convenios-tab" data-toggle="tab" href="#nav-convenios" role="tab" aria-controls="nav-convenios" aria-selected="false">Convenios</a>
+
                         <a class="nav-item nav-link" id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
 
                         <a class="nav-item nav-link" id="nav-campus-tab" data-toggle="tab" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
@@ -231,6 +233,23 @@
     </div>
 
     <!-- FIN Contenido tab eq.LABORATORIOS --> 
+
+
+
+
+    <!-- Contenido tab convenidos--> 
+
+    <div class="tab-pane fade" id="nav-convenios" role="tabpanel" aria-labelledby="nav-convenios-tab">
+                        <div class="container">
+
+                        <?php include('convenios.php') ?>
+
+                        </div>
+                        
+                    </div>
+
+
+                    <!-- FIN Contenido TAB CONVENIOS--> 
 
 
 

@@ -442,7 +442,7 @@
                             <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Taller:  <br>Construye tu bicci de bambú</h6>
+                            <h6 class="agenda-title">Taller:  <br>Construye tu bici de bambú</h6>
                            
                             <span class="agenda-info"><b> Lugar: </b>Campus FIA </span> <br>
                             <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
