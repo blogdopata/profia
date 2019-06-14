@@ -60,7 +60,7 @@
 				        	<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 
 
-						            <a class="nav-item nav-link active" id="nav-escuela-tab" data-toggle="tab" href="#nav-escuela" role="tab" aria-controls="nav-escuela" aria-selected="true">Escuela</a>
+						            <a class="nav-item nav-link" id="nav-escuela-tab" data-toggle="tab" href="#nav-escuela" role="tab" aria-controls="nav-escuela" aria-selected="true">Escuela</a>
 
                         <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Profesional</a>
 
@@ -75,7 +75,7 @@
 
                         <a class="nav-item nav-link" id="nav-act-tab" data-toggle="tab" href="#nav-act" role="tab" aria-controls="nav-act" aria-selected="false">Actividades EPII</a>
 
-                        <a class="nav-item nav-link" id="nav-cidpp-tab" data-toggle="tab" href="#nav-cidpp" role="tab" aria-controls="nav-cidpp" aria-selected="false">CIDPA</a>
+                        <a class="nav-item nav-link active" id="nav-cidpp-tab" data-toggle="tab" href="#nav-cidpp" role="tab" aria-controls="nav-cidpp" aria-selected="false">CIDPA</a>
 
                 
 
@@ -102,9 +102,9 @@
 
 
                 <!-- CONTENIDO TAB  BIENVENIDOS -->
-                <div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
+                <div class="col-md-9 tab-content"  id="nav-tabContent " style="font-family:Arial;">
                         
-				        	  <div class="tab-pane fade show active" id="nav-escuela" role="tabpanel" aria-labelledby="nav-escuela-tab">
+				        	  <div class="tab-pane fade " id="nav-escuela" role="tabpanel" aria-labelledby="nav-escuela-tab">
                               <div class="container">
 					            	<h2 class="subtitle-general-fix">Bienvenidos</h2>
                         <p class="text-fix-content">
@@ -344,8 +344,8 @@
 
                      <!-- Contenido tab CIDPP--> 
 
-                   <div class="tab-pane fade " id="nav-cidpp" role="tabpanel" aria-labelledby="nav-cidpp-tab">
-                   <div class="container">
+                   <div class="tab-pane fade show active"  id="nav-cidpp" role="tabpanel" aria-labelledby="nav-cidpp-tab">
+                   <div   class="container" >
                           <?php include('cidpp.php') ?>
                         </div>
                     </div>

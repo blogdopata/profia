@@ -12,7 +12,7 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="http://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
+    <link rel="icon" href="https://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="../../css/style.css">
@@ -601,7 +601,7 @@
                             
                             <h2 class="subtitle-general-fix">Manual de Calidad</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
-                        <iframe src="http://usmp.edu.pe/fia/pdf/manual_calidad.pdf" allowfullscreen id="archivo"></iframe> 
+                        <iframe src="https://usmp.edu.pe/fia/pdf/manual_calidad.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
                         <br>
                         <br><br>
@@ -627,15 +627,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

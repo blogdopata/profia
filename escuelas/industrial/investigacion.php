@@ -9,13 +9,13 @@ Teniendo en cuenta el contexto actual de la Ley Universitaria N° 30220 donde se
     <table>
         <tr class="text-fix-content" style="color:#606060;">
             <td> <p>   Líneas de investigación EPII</p>
-              <img src="http://www.usmp.edu.pe/fia/img/lineas_investigacion.jpg" class="img-fluid" alt="">
+              <img src="https://www.usmp.edu.pe/fia/img/lineas_investigacion.jpg" class="img-fluid" alt="">
           
           </td>
         </tr>
         <tr style="height:10px;"></tr>
         <tr class="text-fix-content" style="color:#606060;">
-            <td>CIPRI <br> <a style="font-size:16px;" href="http://usmp.edu.pe/CIPRI/"  target="_blank" class="link">http://www.usmp.edu.pe/CIPRI/</a> </td>
+            <td>CIPRI <br> <a style="font-size:16px;" href="https://usmp.edu.pe/CIPRI/"  target="_blank" class="link">https://www.usmp.edu.pe/CIPRI/</a> </td>
         </tr>
    
     

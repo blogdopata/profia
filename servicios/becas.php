@@ -4,7 +4,7 @@
         BECAS
     </h5>                            
     <p class="text-fix-content">
-    Con la finalidad de estimular y promover la excelencia académica de nuestros estudiantes, así como evitar frustrar la adecuada culminación de su formación profesional, la Facultad de Ingeniería y Arquitectura, a través de la Oficina de Bienestar Universitario otorga Becas y Medias Becas (30) cada semestre académico, a los alumnos que obtengan un buen promedio ponderado de ciclo y que cumplan con los requisitos que se estipula en el Reglamento.
+    Con la finalidad de estimular y promover la excelencia académica de nuestros estudiantes, así como evitar frustrar la adecuada culminación de su formación profesional, la facultad de Ingeniería y Arquitectura, a través de la Oficina de Bienestar Universitario otorga Becas y Medias Becas (30) cada semestre académico, a los alumnos que obtengan un buen promedio ponderado de ciclo y que cumplan con los requisitos que se estipula en el Reglamento.
     </p>
 
     <br>

@@ -17,27 +17,27 @@
 /* -------- FUENTES -------- */ 
 
 
-@import url("http://www.usmp.edu.pe/fia/fonts/robotocondensed.woff2");
+@import url("https://www.usmp.edu.pe/fia/fonts/robotocondensed.woff2");
 
 @font-face {
 font-family: "Roboto Condensed";
-src: url("http://www.usmp.edu.pe/fia/fonts/robotocondensed.woff2");
+src: url("https://www.usmp.edu.pe/fia/fonts/robotocondensed.woff2");
 }
 
 
-@import url("http://www.usmp.edu.pe/fia/fonts/roboto.woff2");
+@import url("https://www.usmp.edu.pe/fia/fonts/roboto.woff2");
 
 @font-face {
 font-family: "Roboto";
-src: url("http://www.usmp.edu.pe/fia/fonts/roboto.woff2");
+src: url("https://www.usmp.edu.pe/fia/fonts/roboto.woff2");
 }
 
 
-@import url("http://www.usmp.edu.pe/fia/fonts/Roboto-Bold.woff2");
+@import url("https://www.usmp.edu.pe/fia/fonts/Roboto-Bold.woff2");
 
 @font-face {
   font-family: "RobotoBold";
-  src: url("http://www.usmp.edu.pe/fia/fonts/roboto.woff2");
+  src: url("https://www.usmp.edu.pe/fia/fonts/roboto.woff2");
   }
 
 
@@ -1154,7 +1154,7 @@ img {
 /* Contact Area CSS */
 .contact-content {
   margin-top:300px;
-  background-image: url('http://www.usmp.edu.pe/fia/img/bg-img/contacto/fiatrans.jpg');
+  background-image: url('https://www.usmp.edu.pe/fia/img/bg-img/contacto/fiatrans.jpg');
   background-repeat:no-repeat;
   background-size: cover;
   border-radius:5px;
@@ -1316,70 +1316,70 @@ img {
     }
     
     /*institutos*/
-.page-header1 { background: url(http://www.usmp.edu.pe/fia/img/prestaciones/prestaciones.jpg)no-repeat; position: relative; background-size: cover; }
-.page-header2 { background: url(http://www.usmp.edu.pe/fia/img/gradosytitulos/graduados.jpg)no-repeat; position: relative; background-size: cover; }
+.page-header1 { background: url(https://www.usmp.edu.pe/fia/img/prestaciones/prestaciones.jpg)no-repeat; position: relative; background-size: cover; }
+.page-header2 { background: url(https://www.usmp.edu.pe/fia/img/gradosytitulos/graduados.jpg)no-repeat; position: relative; background-size: cover; }
 
 
 /*banner oficina de seguimiento al graduado*/
-.page-header3 { background: url(http://www.usmp.edu.pe/fia/img/gradosytitulos/OSG.jpg)no-repeat; position: relative; background-size: cover; }
+.page-header3 { background: url(https://www.usmp.edu.pe/fia/img/gradosytitulos/OSG.jpg)no-repeat; position: relative; background-size: cover; }
 
 /*banner fia data*/
-.page-header4 { background: url(http://www.usmp.edu.pe/fia/img/fiadata/fiaedificio.jpg);height: 370px;}
+.page-header4 { background: url(https://www.usmp.edu.pe/fia/img/fiadata/fiaedificio.jpg);height: 370px;}
 
 /*banner coordinacion academica*/
-.page-header5 { background: url(http://www.usmp.edu.pe/fia/img/bg-img/coorAcad.jpg);height: 370px;}
+.page-header5 { background: url(https://www.usmp.edu.pe/fia/img/bg-img/coorAcad.jpg);height: 370px;}
 
 /*banner departamento academico*/
-.page-header6 { background: url(http://www.usmp.edu.pe/fia/img/bg-img/fianubes.jpg)no-repeat; position: relative; background-size: cover; }
+.page-header6 { background: url(https://www.usmp.edu.pe/fia/img/bg-img/fianubes.jpg)no-repeat; position: relative; background-size: cover; }
 
 /*banner carrera civil*/
-.page-header7 { background: url(http://www.usmp.edu.pe/fia/img/carreras/civil/civil_2.jpg);height: 600px;
+.page-header7 { background: url(https://www.usmp.edu.pe/fia/img/carreras/civil/civil_2.jpg);height: 600px;
 background-repeat: no-repeat;
                 background-size: cover;
                 background-position: center center;}
 
  @media only screen and (max-width: 950px) {
             .page-header7 { 
-                background: url(http://www.usmp.edu.pe/fia/img/carreras/civil/civil_2_sm.jpg);
+                background: url(https://www.usmp.edu.pe/fia/img/carreras/civil/civil_2_sm.jpg);
                 
             }
         }
 @media only screen and (max-width: 753px) {
             .page-header7 { 
-                background: url(http://www.usmp.edu.pe/fia/img/carreras/civil/civil_2_xs.jpg); 
+                background: url(https://www.usmp.edu.pe/fia/img/carreras/civil/civil_2_xs.jpg); 
                  background-size: cover;
             }
         }
 @media only screen and (max-width: 512px) {
             .page-header7 { 
-                background: url(http://www.usmp.edu.pe/fia/img/carreras/civil/civil_2_xs2.jpg);
+                background: url(https://www.usmp.edu.pe/fia/img/carreras/civil/civil_2_xs2.jpg);
                
             }
         }
 @media only screen and (max-width: 321px) {
             .page-header7 { 
-                background: url(http://www.usmp.edu.pe/fia/img/carreras/civil/civil_2_xs3.jpg);
+                background: url(https://www.usmp.edu.pe/fia/img/carreras/civil/civil_2_xs3.jpg);
                 
             }
         }        
 
-.page-header8 { background: url(http://www.usmp.edu.pe/fia/img/escuelas/arquitectura/Arquitectura.jpg)no-repeat; position: relative; background-size: cover; }        
-.page-header9 { background: url(http://www.usmp.edu.pe/fia/img/escuelas/civil/civil.jpg)no-repeat; position: relative; background-size: cover; }        
-.page-header10 { background: url(http://www.usmp.edu.pe/fia/img/escuelas/sistemas/sistemas.jpg)no-repeat; position: relative; background-size: cover; }        
-.page-header11 { background: url(http://www.usmp.edu.pe/fia/img/escuelas/industrial/industrial.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header8 { background: url(https://www.usmp.edu.pe/fia/img/escuelas/arquitectura/Arquitectura.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header9 { background: url(https://www.usmp.edu.pe/fia/img/escuelas/civil/civil.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header10 { background: url(https://www.usmp.edu.pe/fia/img/escuelas/sistemas/sistemas.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header11 { background: url(https://www.usmp.edu.pe/fia/img/escuelas/industrial/industrial.jpg)no-repeat; position: relative; background-size: cover; }        
 
-.page-header12 { background: url(http://www.usmp.edu.pe/fia/img/escuelas/aeronauticas/aeronauticas.jpg)no-repeat; position: relative; background-size: cover; }   
+.page-header12 { background: url(https://www.usmp.edu.pe/fia/img/escuelas/aeronauticas/aeronauticas.jpg)no-repeat; position: relative; background-size: cover; }   
 
 
 /*PRESTACIONES*/
-.page-header13 { background: url(http://www.usmp.edu.pe/fia/img/prestaciones/actcultural.jpg)no-repeat; position: relative; background-size: cover; }        
-.page-header14 { background: url(http://www.usmp.edu.pe/fia/img/prestaciones/actBienestar.jpg)no-repeat; position: relative; background-size: cover; }        
-.page-header15 { background: url(http://www.usmp.edu.pe/fia/img/prestaciones/banner_topico.jpg)no-repeat; position: relative; background-size: cover; }      
-.page-header16 { background: url(http://www.usmp.edu.pe/fia/img/prestaciones/coliseo_cabecera.jpg)no-repeat; position: relative; background-size: cover; }          
+.page-header13 { background: url(https://www.usmp.edu.pe/fia/img/prestaciones/actcultural.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header14 { background: url(https://www.usmp.edu.pe/fia/img/prestaciones/actBienestar.jpg)no-repeat; position: relative; background-size: cover; }        
+.page-header15 { background: url(https://www.usmp.edu.pe/fia/img/prestaciones/banner_topico.jpg)no-repeat; position: relative; background-size: cover; }      
+.page-header16 { background: url(https://www.usmp.edu.pe/fia/img/prestaciones/coliseo_cabecera.jpg)no-repeat; position: relative; background-size: cover; }          
 /*FIN DE LOS BANNERS DE PRESTACIONES */
 
 /* banner novedades */
-.page-header17 { background: url(http://www.usmp.edu.pe/fia/img/banner-novedades.jpg)no-repeat; position: relative; background-size: cover;}
+.page-header17 { background: url(https://www.usmp.edu.pe/fia/img/banner-novedades.jpg)no-repeat; position: relative; background-size: cover;}
 
 .page-caption1 { padding-top: 170px; padding-bottom: 174px; }
 
@@ -1450,7 +1450,7 @@ background-repeat: no-repeat;
 }
 
 
-@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
+@import url(https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
 /*INICIO DE panelito de prestaciones*/
 .col-item
 {
@@ -1967,7 +1967,7 @@ padding: 7px;
     }
 
     .modal-body{
-      /*background: url("http://www.usmp.edu.pe/fia/img/bg-img/marcasAgua/marca2.jpg");*/
+      /*background: url("https://www.usmp.edu.pe/fia/img/bg-img/marcasAgua/marca2.jpg");*/
       background-size:contain;
       background-repeat:no-repeat;
       background-position: right center;
@@ -1993,7 +1993,7 @@ padding: 7px;
       margin-left:10px;
     }
     .listafia ul li {
-      list-style-image: url('http://www.usmp.edu.pe/fia/img/cuadradito.png');
+      list-style-image: url('https://www.usmp.edu.pe/fia/img/cuadradito.png');
       text-align:justify;
     }
     .listanumerada{
@@ -2031,7 +2031,7 @@ padding: 7px;
 }
   .st-header {
     width: 100%;
-    background-image: url(http://www.usmp.edu.pe/fia/img/st_header.jpg) !important;
+    background-image: url(https://www.usmp.edu.pe/fia/img/st_header.jpg) !important;
     background-repeat: repeat-x repeat-y;
     -webkit-background-size: contain;
     -moz-background-size: contain;
@@ -2053,7 +2053,7 @@ padding: 7px;
   .st-content {
     width: 100%;
     padding: 0 30px;
-    background-image: url(http://www.usmp.edu.pe/fia/img/st_bg_left.png), url(http://www.usmp.edu.pe/fia/img/st_bg_right.png), url(http://www.usmp.edu.pe/fia/img/st_bg.png);
+    background-image: url(https://www.usmp.edu.pe/fia/img/st_bg_left.png), url(https://www.usmp.edu.pe/fia/img/st_bg_right.png), url(https://www.usmp.edu.pe/fia/img/st_bg.png);
     background-position: top left, top right, top left;
     background-origin: border-box, border-box, border-box;
     background-repeat: repeat-y, repeat-y, repeat;

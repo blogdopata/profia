@@ -86,7 +86,7 @@
 
                             
                            <p class="text-fix-content">
-                           La Oficina de Bienestar Universitario de la Facultad de Ingeniería y Arquitectura, es la encargada de orientar, asistir y promover al estudiante que se encuentra en situación de riesgo, contribuyendo a superarlos con la participación de un equipo multidisciplinario, a través de una adecuada atención integral, humanizando el proceso de enseñanza y aprendizaje, contribuyendo, de esta manera, al mejoramiento de la calidad de vida de los miembros de nuestra Comunidad Universitaria.
+                        La oficina de Bienestar Universitario de la Facultad de Ingeniería y Arquitectura  es la encargada de orientar, asistir y promover al estudiante que se encuentra en situación de riesgo, contribuir a superarlos con la participación de un equipo multidisciplinario a través de una adecuada atención integral; humanizando el proceso de enseñanza y aprendizaje, coadyuvando de esta manera al mejoramiento de la calidad de vida de los miembros de nuestra Comunidad Universitaria.
                            </p>
 
                            <br>
@@ -94,7 +94,7 @@
                            <h2 class="subtitle-general-fix">MISIÓN</h2>
                            
                            <p class="text-fix-content">
-                           Contribuir a una óptima formación integral del estudiante, propiciando las condiciones adecuadas para un eficiente desarrollo físico, psicoafectivo y social, fomentando principios y valores de nuestra Comunidad Universitaria, para el logro de una buena Cultura Institucional.
+                           Contribuir a una óptima formación integral del estudiante, propiciando las condiciones adecuadas para un eficiente desarrollo físico, psicoafectivo y social, fomentando principios y valores de nuestra Comunidad Universitaria, para el logro de una buena cultura institucional.
                            </p>
                             
                         
@@ -117,7 +117,7 @@
                                 </h5>
 
                                 <p class="text-fix-content">
-                                Es la unidad encargada de evaluar los casos sociales y/o situaciones de riesgo de la población universitaria, así como brindar la orientación e información respectiva de los trámites a seguir para la obtención de beneficios que otorga la Facultad, además de organizar y promover actividades de bienestar social para los estudiantes, personal docente y administrativo de nuestra Comunidad Universitaria.
+                              Es la unidad encargada de evaluar los casos sociales y/o situaciones de riesgo de la población universitaria, así como brindar la orientación e información respectiva de los trámites a seguir para la obtención de beneficios que otorga la facultad; además de organizar y promover actividades de bienestar social para los estudiantes, personal docente y administrativo de nuestra Comunidad Universitaria.
                                 </p>
                                
                                 <div class="row">
@@ -165,12 +165,12 @@
                               </h5>
                                 
                               <p class="text-fix-content">
-                              La Facultad de Ingeniería y Arquitectura, pensando siempre en mantener una excelente relación Universidad-alumno, considera necesaria la constante actualización de la base de datos personales de sus estudiantes, por lo que se les recuerda lo siguiente:
+                             La Facultad de Ingeniería y Arquitectura, pensando siempre en mantener una excelente relación Universidad-alumno, considera necesaria la constante actualización de la base de datos personales de sus estudiantes, por lo que se les recuerda lo siguiente:
                               </p>
                              
                               <ul class="fix-items-li">
                                   <li>Aquellos alumnos regulares que, por diversas razones, no brindaron oportunamente sus datos personales o se haya producido un cambio en la información proporcionada inicialmente, están obligados a actualizar sus datos ante la Oficina de Bienestar Universitario.</li>
-                                  <li>Los alumnos ingresantes y aquellos que realicen su Reactualización de Matrícula, deberán presentar su Ficha de Datos Personales debidamente llenada al momento de matricularse.</li>
+                                  <li>Los alumnos ingresantes y aquellos que realicen su Reactualización de Matrícula, deberán presentar su ficha de Datos Personales debidamente llenada al momento de matricularse.</li>
                             </ul>
                       
                   </div>        

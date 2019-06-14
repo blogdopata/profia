@@ -1,9 +1,13 @@
    <!--  *************** Primer panel ****************** -->
 
+   <a name="contenido"></a>
+   <a href="#contenido">.</a>
+
 
    <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
                         <div id="accordionZ">
-                          <h3 class="subtitle-general-fix"> Centro de Innovación y Desarrollo de Productos Alimenticios</h3>
+                        
+                          <h1 style="font-family:Roboto Condensed;color:#575758;text-align:center" > Centro de Innovación y Desarrollo de Productos Alimenticios</h1>
 
                           <div class="card"  >
                             <div  class="card-header bg-autoridades" id="headingOnea">
@@ -16,6 +20,8 @@
 
                             <div id="collapseOnea" class="collapse show" aria-labelledby="headingOnea" data-parent="#accordionZ">
                               <div class="card-body">
+
+                              <img class="img-fluid" src="banner_cidpa.jpg" alt="banner"> <br> <br>
 
                                 <b class="text-fix-content">QUIENES SOMOS</b>
                                

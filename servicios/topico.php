@@ -88,18 +88,18 @@
 
                             
                            <p class="text-fix-content">
-                           El Tópico de Enfermería les da la más cordial bienvenida a todos los miembros de la Facultad de Ingeniería y Arquitectura de la Universidad San Martín de Porres y a todas aquellas personas que accedan a nuestra página web en busca de información.
+                           El tópico de Enfermería les da la más cordial bienvenida a todos los miembros de la Facultad de Ingeniería y Arquitectura de la universidad de San Martín de Porres y a todas aquellas personas que accedan a nuestra página web en busca de información.
                            </p>
                            
                            <p class="text-fix-content">
-                           El Tópico de Enfermería, brinda atención primaria de salud eficiente y oportuna al alumno, docente y personal administrativo en general, contribuyendo al bienestar físico, mental y social de nuestra comunidad universitaria.
+                          El tópico, brinda atención primaria de salud eficiente y oportuna al estudiante, docente y personal administrativo en general, contribuyendo al bienestar físico, mental y social de nuestra comunidad universitaria.
                            </p>
                           
                            <h5 class="subtitle-general-fix">
                                   Visión
                            </h5>
                            <p class="text-fix-content">
-                           El Tópico de enfermería es un consultorio de asistencia inmediata de atención de la salud, como un equipo que acciona sus servicios de calidad al alumno, docente y personal administrativo en general, desarrollando los objetivos de un buen estado de salud de la comunidad universitaria, con responsabilidad para una buena marcha académica.
+                           El tópico de Enfermería es un consultorio de asistencia inmediata de atención de la salud, como un equipo que acciona sus servicios de calidad al alumno, docente y personal administrativo en general; desarrollando los objetivos de un buen estado de salud de la comunidad universitaria, con responsabilidad para una buena marcha académica.
                            </p>
                          
 
@@ -107,7 +107,7 @@
                                   Misión
                            </h5>
                            <p class="text-fix-content">
-                           El Tópico de enfermería, tiene la misión principal de brindarle al alumno, docente y personal administrativo en general, una atención primaria de salud, de calidad y orientación oportuna sin fines de lucro, logrando el bienestar de salud de la comunidad universitaria.
+                          El tópico de Enfermería, tiene la misión principal de brindarle al estudiante, docente y personal administrativo en general, una atención primaria de salud, de calidad y orientación oportuna; sin fines de lucro, logrando el bienestar de salud de la comunidad universitaria.
                            </p>
                             
                         
@@ -150,11 +150,11 @@
                                 </h5>
                                 
                         <ul class="fix-items-li">
-                            <li>Brinda primeros auxilios.</li>
-                            <li>De ser el caso refiere al paciente que presenta signos de emergencia que compromete su integridad física y/o su vida, al centro de salud más cercano a la universidad, con el apoyo de Bienestar Universitario.</li>
-                            <li>Administra medicamentos según receta médica.</li>
-                            <li>Seguimiento de pacientes que así lo requieran.</li>
-                            <li>Acciones de prevención y promoción de la salud.</li>
+                            <li>Brinda primeros auxilios</li>
+                            <li>De ser el caso, refiere al paciente que presenta signos de emergencia que compromete su integridad física y/o su vida, al centro de salud más cercano a la universidad, con el apoyo de Bienestar Universitario</li>
+                            <li>Administra medicamentos según receta médica</li>
+                            <li>Realiza el seguimiento de pacientes que así lo requieran</li>
+                            <li>Acciones de prevención y promoción de la salud</li>
                         </ul> 
                   </div>
                  <!-- FIN Contendio Tab servicio social -->
@@ -168,13 +168,13 @@
                                 </h5>
                                 
                             <ul class="fix-items-li">
-                                <li>Atención de emergencias y urgencias de salud.</li>
-                                <li>Atención y consulta gratuita.</li>
+                                <li>Atención de emergencias y urgencias de salud</li>
+                                <li>Atención y consulta gratuita</li>
                                 <li>Consejería</li>
-                                <li>Administración de medicamentos gratuitos (sólo en caso de emergencia)</li>
-                                <li>Aplicación de inyectables con receta médica.</li>
-                                <li>Curaciones (en caso de accidentes).</li>
-                                <li>Toma de Funciones Vitales (Presión Arterial, Temperatura, Respiración, Pulso).</li>
+                                <li>Administración de medicamentos gratuitos (solo en caso de emergencia)</li>
+                                <li>Aplicación de inyectables con receta médica</li>
+                                <li>Curaciones (en caso de accidentes)</li>
+                                <li>Toma de funciones vitales (Presión Arterial, Temperatura, Respiración, Pulso)</li>
                             </ul>
                   </div>
                  <!-- FIN Contendio Tab servicio orientacion psicologica -->
@@ -188,15 +188,15 @@
                                 </h5>
                                 <p class="text-fix-content ">
                                 Lunes a Viernes <br>
-                                08.00 a.m. – 10.00 p.m. <br>
+                                08.00 a.m. – 10.00 p.m.  <br>
                                 Sábados <br>
-                                08.00 a.m. – 01.00 p.m. <br>
+                                08.00 a.m. – 01.00 p.m.  <br>
                                 <br>
                                 Refrigerio <br>
                                 De 02.00 p.m. a 03.00 p.m. <br>
                                 <br>
                                 Tópico de Enfermería – Pabellón de Estudios Generales <br>
-                                Av. La Fontana 1250 Urb. Santa Patricia 2da. – La Molina <br> 
+                                Av. La Fontana 1250 Urb. Santa Patricia 2da.Etapa – La Molina <br> 
                                 Teléfono: 2086000 Anexo 1133
                                 </p>
                   </div>

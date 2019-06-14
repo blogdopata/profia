@@ -12,10 +12,10 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="http://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
+    <link rel="icon" href="https://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/fia/css/style.css">
+    <link rel="stylesheet" href="https://www.usmp.edu.pe/fia/css/style.css">
 
 </head>
 
@@ -330,7 +330,7 @@
                         <div class="container rowArqui">
                             <br>
                         <h1 id="azulfia" style="text-align:center;">FOTOS</h1></br>                             
-                        <center><img src="http://www.usmp.edu.pe/acreditacionfia/escuelas/civil/img/cabecera/2.jpg"></center>
+                        <center><img src="https://www.usmp.edu.pe/acreditacionfia/escuelas/civil/img/cabecera/2.jpg"></center>
                             <br><br>
                             </div>
                        
@@ -360,7 +360,7 @@
                         
                         <h2 id="grisfia">ORGANIZACIÓN PLAN DE ESTUDIOS</h2></br>   
                         <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf" id="archivo" allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="https://www.usmp.edu.pe/ffia/files/calendario2018/plan_de_estudio/plan_2018-II_Ingenieria_Civil.pdf" id="archivo" allowfullscreen></iframe>
                         </div> 
                         <br>
                         <br>
@@ -387,15 +387,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

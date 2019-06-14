@@ -13,7 +13,7 @@
     <div class="container">
     <div class="row">
     <div class="container centrarimg">
-    <img class="img-fluid"  src="http://usmp.edu.pe/fia/escuelas/aeronauticas/images/aviones/avion.jpg" alt=""></div>
+    <img class="img-fluid"  src="https://usmp.edu.pe/fia/escuelas/aeronauticas/images/aviones/avion.jpg" alt=""></div>
     </div>
 
 
@@ -96,7 +96,7 @@
     <br>
     <div class="row">
     
-    <img class="img-fluid"  src="http://usmp.edu.pe/fia/escuelas/aeronauticas/images/aviones/simulador.jpg" alt="">
+    <img class="img-fluid"  src="https://usmp.edu.pe/fia/escuelas/aeronauticas/images/aviones/simulador.jpg" alt="">
     </div>
 
 

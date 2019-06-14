@@ -92,7 +92,7 @@
     <h2 class="subtitle-general-fix">ORGANIGRAMA</h2>
     <div class="clearfix"></div>
     <div class="container" style="display:flex;align-items: center;justify-content: center;">
-        <img class="img-fluid" src="http://usmp.edu.pe/fia/escuelas/civil/img/organigrama.png" alt="">
+        <img class="img-fluid" src="httpS://usmp.edu.pe/fia/escuelas/civil/img/organigrama.png" alt="">
     </div>
 
     <br><br>
