@@ -12,10 +12,10 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="http://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
+    <link rel="icon" href="https://usmp.edu.pe/fia/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/fia/css/style.css">
+    <link rel="stylesheet" href="https://usmp.edu.pe/fia/css/style.css">
 
 </head>
 
@@ -175,12 +175,12 @@
 
                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 centrarimg">
                         <a href="#">
-                        <img class="img-responsive " data-toggle="modal" data-target="#gim" src="http://usmp.edu.pe/fia/servicios/img/mini_picColiseo3.jpg">
+                        <img class="img-responsive " data-toggle="modal" data-target="#gim" src="https://usmp.edu.pe/fia/servicios/img/mini_picColiseo3.jpg">
                         </a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 centrarimg">
                         <a href="#">
-                        <img class="img-responsive " data-toggle="modal" data-target="#coliseo" src="http://usmp.edu.pe/fia/servicios/img/mini_picColiseo2.jpg">
+                        <img class="img-responsive " data-toggle="modal" data-target="#coliseo" src="https://usmp.edu.pe/fia/servicios/img/mini_picColiseo2.jpg">
                         </a>
                         </div>
 
@@ -213,7 +213,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://usmp.edu.pe/fia/servicios/img/picColiseo3.jpg">
+      <img class="img-m" src="https://usmp.edu.pe/fia/servicios/img/picColiseo3.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -230,7 +230,7 @@ background: linear-gradient(135deg, rgba(76,76,76,0.78) 1%, rgba(76,76,76,0.82) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );">
   <div class="modal-dialog contenaero modal-lg modal-dialog-centered" role="document">
     <div class=" img-aero">
-      <img class="img-m" src="http://usmp.edu.pe/fia/servicios/img/picColiseo2.jpg">
+      <img class="img-m" src="https://usmp.edu.pe/fia/servicios/img/picColiseo2.jpg">
     </div>
     <div class="modal-footer pie-ae">
       <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
@@ -247,15 +247,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

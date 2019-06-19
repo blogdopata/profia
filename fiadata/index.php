@@ -12,10 +12,10 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="img/core-img/logousmp.ico">
+    <link rel="icon" href="https://usmp.edu.pe/fia/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="http://www.usmp.edu.pe/fia/css/style.css">
+    <link rel="stylesheet" href="https://usmp.edu.pe/fia/css/style.css">
 
 
 
@@ -140,7 +140,7 @@
 	<div class="col-md-4" >
 	<div class="card text-fix-style">
 					<div class="card-body">
-					<img class="card-img-top img-fluid" src="http://www.usmp.edu.pe/fia/img/fiadata/cesar_porras.jpg" alt="Card image cap">						
+					<img class="card-img-top img-fluid" src="https://usmp.edu.pe/fia/img/fiadata/cesar_porras.jpg" alt="Card image cap">						
 					<h5 id="mini" class="card-title text-center"><p  class="link">Ing. César Augusto Porras Quinto</p></h5>
 					<h6 id="mini" class="card-subtitle mb-2 text-muted text-center">Jefe FIA-DATA</h6>
 					<div class="text-center">
@@ -216,8 +216,8 @@
 	</div>
 	<div class="container centrarimg" style="display:flex;align-items: center;justify-content: center;">
 	
-	 <a href="http://www.usmp.edu.pe/fia/pdf/organigrama_FIA _DATA.pdf" target="_blank">
-		<img class="img-fluid" src="http://www.usmp.edu.pe/fia/img/fiadata/organigrama-FIA-DATA.jpg" alt="">	
+	 <a href="https://usmp.edu.pe/fia/pdf/organigrama_FIA _DATA.pdf" target="_blank">
+		<img class="img-fluid" src="https://usmp.edu.pe/fia/img/fiadata/organigrama-FIA-DATA.jpg" alt="">	
 		</a>
 	</div>	
     </div>
@@ -317,15 +317,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

@@ -12,10 +12,10 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="http://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
+    <link rel="icon" href="https://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="https://www.usmp.edu.pe/fia/css/style.css">
 
 </head>
 
@@ -454,7 +454,7 @@
 
                         <h2 class="subtitle-general-fix">Organización del Plan de Estudios</h2></br>   
                         <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="http://www.usmp.edu.pe/fia/escuelas/sistemas/pdf/Plan_estudio_sistemas_2019.pdf" id="archivo" allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="https://www.usmp.edu.pe/fia/escuelas/sistemas/pdf/Plan_estudio_sistemas_2019.pdf" id="archivo" allowfullscreen></iframe>
                         </div> 
                         <br>
                         <br>
@@ -471,7 +471,7 @@
                             
                             <h2 class="subtitle-general-fix">Catálogo de Asignaturas</h2></br> 
                         <div class="embed-responsive embed-responsive-16by9">
-                        <iframe src="http://www.usmp.edu.pe/fia/escuelas/sistemas/pdf/catalogo_cursos_sistemas.pdf" allowfullscreen id="archivo"></iframe> 
+                        <iframe src="https://www.usmp.edu.pe/fia/escuelas/sistemas/pdf/catalogo_cursos_sistemas.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
                         <br>
                         <br><br>
@@ -553,15 +553,15 @@
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
    
-    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/active.js"></script>
 
   
 </body>

@@ -47,7 +47,7 @@
       <div class="row">
           <div class="col-12">
                 <h5  class="title-general-fix">
-                        EVALUACIONES
+                SESIÓN ACADÉMICA DE INVIERNO
                 </h5>
             </div>
         </div> 
@@ -63,19 +63,23 @@
 					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                         
                     
-                        <a class="nav-link active" id="nav-informacion-tab" data-toggle="pill" href="#nav-informacion" role="tab" aria-controls="nav-informacion" aria-selected="true">Información General</a>
+                     
 
+                        <a class="nav-link" id="nav-sistemas-tab" data-toggle="pill" target="_blank" href="#nav-sistemas" role="tab" aria-controls="nav-sistemas" aria-selected="false" >Calendario Académico</a>
+                    
+                        <a class="nav-link" id="nav-industrial-tab" data-toggle="pill" href="#nav-industrial" role="tab" aria-controls="nav-industrial" aria-selected="false">Directivas</a>
                         
-                        <a class="nav-link " id="nav-arquitectura-tab" data-toggle="pill" href="#nav-arquitectura" role="tab" aria-controls="nav-arquitectura" aria-selected="false">Arquitectura</a>
-                        
-                        <a class="nav-link" id="nav-civil-tab" data-toggle="pill" href="#nav-civil" role="tab" aria-controls="nav-civil" aria-selected="false">Ingeniería Civil</a>
+                        <!-- <a class="nav-link" id="nav-civil-tab" data-toggle="pill" href="#nav-civil" role="tab" aria-controls="nav-civil" aria-selected="false">Cronograma de la Sesión Académica de Invierno</a> -->
+
+                        <a class="nav-link active" id="nav-informacion-tab" data-toggle="pill" href="#nav-informacion" role="tab" aria-controls="nav-informacion" aria-selected="true">Horarios por Escuelas Profesionales</a>
+
+                        <a class="nav-link  ult-item" id="nav-arquitectura-tab" data-toggle="pill" href="#nav-arquitectura" role="tab" aria-controls="nav-arquitectura" aria-selected="false">Ficha de Preinscripción</a>
 		
-                        <a class="nav-link" id="nav-sistemas-tab" data-toggle="pill" target="_blank" href="#nav-sistemas" role="tab" aria-controls="nav-sistemas" aria-selected="false" >Ingeniería de Comp. y Sistemas</a>
+                        
 
 
-                        <a class="nav-link" id="nav-industrial-tab" data-toggle="pill" href="#nav-industrial" role="tab" aria-controls="nav-industrial" aria-selected="false">Ingeniería Industrial</a>
 
-                        <a class="nav-link ult-item" id="nav-aeronauticas-tab" data-toggle="pill" href="#nav-aeronauticas" role="tab" aria-controls="nav-aeronauticas" aria-selected="false">Ciencias Aeronáuticas</a>
+                      
 
                         
                       
@@ -91,19 +95,10 @@
                             <div class="row">
                                 <div  class="col-md-12">
                                     <h3 class="subtitle-general-fix" >
-                                        Cronograma 2019 - I 
+                                        Horarios 2019 
                                     </h3>
 
-                                    <p  class="text-fix-content">
-                                    La Oficina de Coordinación Académica es una dependencia del Decanato y es el nexo principal entre la Facultad, los alumnos, sus docentes y el público en general.  </p>
-                                    <p class="text-fix-content">
-                                    Con el fin de garantizar la calidad de la enseñanza provee el material y equipo necesario para el desarrollo de las clases, controla la asistencia, supervisa a los docentes y verifica el desarrollo y cumplimiento de los sílabos.
-                                    </p>  
-
-                                    <p class="text-fix-content">
-
-                                    Es la oficina encargada de la administración de los procesos de evaluación; coordina, programa, dirige y controla las prácticas calificadas y exámenes. Desde aquí los Coordinadores Académicos, en sus diferentes turnos, brindan un servicio integral y personalizado, informando y atendiendo sus consultas.
-                                    </p>
+                                   
                                 </div>
                             </div>
 
@@ -111,13 +106,13 @@
 
                             <div class="row  mb-2 mt-3">
                                 <div class="col-12 mb-3"  >
-                                        <h3 class="subtitle-general-fix">Información General </h3>
+                                        <h3 class="subtitle-general-fix" style="display:none;">Información General </h3>
                                 </div>
 
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen"  >Evaluaciones</h5>
-                                        <a  target="_blank" href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/directiva_evaluaciones-2019.pdf" class="text-link-gen">Directivas</a>
+                                        <h5 class="text-info-gen"  >Sistemas</h5>
+                                        <a  target="_blank" href="pdf/calendario2019/rol/SAI/sai_sistemas.pdf" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
@@ -125,16 +120,16 @@
                                
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen"  >Inicio de Clases</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/directiva_inicio-2019.pdf" class="text-link-gen">Directivas</a>
+                                        <h5 class="text-info-gen"  >Ingeniería Civil</h5>
+                                        <a target="_blank"  href="pdf/calendario2019/rol/SAI/sai_civil.pdf" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
                             
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen"  >Semana de Exámenes</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/recomendaciones_examenes_2019.pdf" class="text-link-gen">Recomendaciones</a>
+                                        <h5 class="text-info-gen"  >Arquitectura</h5>
+                                        <a target="_blank"  href="pdf/calendario2019/rol/SAI/sai_arquitectura.pdf" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
@@ -147,8 +142,8 @@
                               
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen"  >Evaluaciones en Aula</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/recomendaciones_evaluacion_2019.pdf" class="text-link-gen">Recomendaciones</a>
+                                        <h5 class="text-info-gen"  >Ingeniería Industrial</h5>
+                                        <a target="_blank"  href="pdf/calendario2019/rol/SAI/sai_industrial.pdf" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
@@ -156,20 +151,13 @@
                                
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen"  >Devolución de Cuadernillos</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/recomendaciones_dev_cuadernillos_2019.pdf" class="text-link-gen">Recomendaciones</a>
+                                        <h5 class="text-info-gen"  >Ciencias Aeronáuticas</h5>
+                                        <a target="_blank"  href="pdf/calendario2019/rol/SAI/sai_aeronauticas.pdf" class="text-link-gen">Ver más</a>
                                        
                                     </div>
                                 </div>
                             
-                                <div class="col-12 col-md-4 font-mode"  >
-                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen"  >Prácticas y Exámenes</h5>
-                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/CRONOGRAMA_PRACTICA_2019.pdf" class="text-link-gen">Cronograma</a>
-                                       
-                                    </div>
-                                </div>
-
+                               
                                 
 
                             </div>
@@ -185,33 +173,49 @@
 
 
                     <!-- Contendio Arquitectura -->
-
-				    <div class="tab-pane fade show" id="nav-arquitectura" role="tabpanel" aria-labelledby="nav-arquitectura-tab">
+                   <div class="tab-pane fade show" id="nav-arquitectura" role="tabpanel" aria-labelledby="nav-arquitectura-tab">
                   
                         
                             <div class="row">
                                 <div  class="col-md-12">
-                                    <h3 class="subtitle-general-fix" >
-                                       Escuela Profesional de Arquitectura 
-                                    </h3>
+                                   <h3 class="subtitle-general-fix" >
+                                       Ficha Preinscripción
+                                    </h3> 
 
-                                 <ul>
+                                    
+
+
+                                    Para proceder con tu preinscripción debes ingresar con tu cuenta de correo @usmp.pe a través del siguiente enlace:
+
+                                    <br>
+                                     <br>
+                                    
+                                    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQlqisPiSufBEtWj1ZudToI1UOEhQVUxUTEMxWFhVSVVWOENIWkVPSTFNTi4u" target="_blank">Preinscripción</a>
+                                 
+<!-- 
+                                    <div class="centrarimg">
+                                        <img src="img/encontruccion.jpg" alt="">
+                                    </div>
+
+                                    -->
+
+
+
+
+
+
+                              <!--    <ul>
                                         <li> 
                                             <a href="pdf/calendario2019/rol/arquitectura.pdf" target="_blank"> - Rol de Examenes Finales :   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li> 
                                         <a href="pdf/calendario2019/rol/dev_arquitectura.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                        <!-- <li> 
-                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
-                                        </li>
-                                        <li> 
-                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                        </li>
-                                        <li> 
-                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
-                                        </li> -->
+                                        
                                     </ul> 
+                                    <div class="centrarimg">
+                                        <img src="img/encontruccion.jpg" alt="">
+                                    </div> -->
                                   
 
                         
@@ -235,11 +239,11 @@
                         
                             <div class="row">
                                 <div  class="col-md-12">
-                                    <h3 class="subtitle-general-fix" >
+                                   <!--  <h3 class="subtitle-general-fix" >
                                        Escuela Profesional de Ingeniería Civil
-                                    </h3>
+                                    </h3> -->
 
-                                         <ul>
+                                       <!--   <ul>
                                         <li> 
                                         <a href="pdf/calendario2019/rol/civil.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
@@ -247,7 +251,10 @@
                                         <a href="pdf/calendario2019/rol/dev_civil.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
 
-                                         </ul>
+                                         </ul> -->
+                                         <div class="centrarimg">
+                                        <img src="img/encontruccion.jpg" alt="">
+                                    </div>
                                
                                 </div>
                             </div>
@@ -265,18 +272,18 @@
                         
                             <div class="row">
                                 <div  class="col-md-12">
-                                    <h3 class="subtitle-general-fix" >
-                                       Escuela Profesional de Ingeniería de Computación y Sistemas
-                                    </h3>
-                                    <ul>
+                                <h3 class="subtitle-general-fix" >
+                                       Calendario Académico 
+                                    </h3> 
+                                          
                                         <li> 
-                                        <a href="pdf/calendario2019/rol/sistemas.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="https://www.usmp.edu.pe/fia/pdf/calendario2019/CALENDARIO_SAI%202019.pdf" target="_blank"> Calendario Académico SAI  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         <li> 
-                                        <a href="pdf/calendario2019/rol/dev_sistemas.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
+                                        
 
-                                         </ul>
+                                         </ul> 
+
+
 
                         
                                   
@@ -294,45 +301,29 @@
                         
                          <div class="row">
                                 <div  class="col-md-12">
-                                    <h3 class="subtitle-general-fix" >
-                                       Escuela Profesional de Ingeniería de Industrial
-                                    </h3>
+                                <h3 class="subtitle-general-fix" >
+                                        Directivas
+                                    </h3> 
+                                   
+                                      
+                                   
 
-                                    <ul>
+                                 
                                         <li> 
-                                        <a href="pdf/calendario2019/rol/industrial.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/directiva-SAI.pdf" target="_blank"> Directiva SAI  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         <li> 
-                                        <a href="pdf/calendario2019/rol/dev_industrial.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
+                                        
 
-                                         </ul>
+                                         </ul> 
+
+
                                 </div>
                         </div>
 
                     </div>
 
                           <!-- INICIO Contenido tab  AERONAUTICAS--> 
-                     <div class="tab-pane fade" id="nav-aeronauticas" role="tabpanel" aria-labelledby="nav-aeronauticas-tab">
-                        
-                        <div class="row">
-                               <div  class="col-md-12">
-                                   <h3 class="subtitle-general-fix" >
-                                      Escuela Profesional de  Ciencias Aeronáuticas
-                                   </h3>
-
-                                   <ul>
-                                        <li> 
-                                        <a href="pdf/calendario2019/rol/aeronautica.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                         <li> 
-                                        <a href="pdf/calendario2019/rol/dev_aeronauticas.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-
-                                         </ul>
-                               </div>
-                       </div>
-                   
+                     
                     </div>
 
 

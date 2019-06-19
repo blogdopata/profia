@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   
+    <meta  name="description" content="Potencia tu talento. Sé parte de una institución que forja líderes comprometidos con el país. Conoce más sobre ingeniería, arquitectura y aeronáuticas.">
 
     <title>Fia USMP</title>
 
@@ -44,6 +44,22 @@
     <!-- Slider TIME -->
     <section class="hero-area">
         <div style="margin-top:80px;" class="hero-slides owl-carousel">
+
+
+             <!-- Imagen del slider de fondo n°1 -->
+             <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/sai.jpg);  background-repeat: no-repeat; ">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">SESIÓN ACADÉMICA <br> DE INVIERNO  </h2>
+                                <a href="https://www.usmp.edu.pe/fia/sai.php"  class="ml-5 btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
             <!-- Imagen del slider de fondo n°1 -->
@@ -353,15 +369,15 @@
                         <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                        <span style="font-size:40px;font-weight:bold"> 12</span> 
+                        <span style="font-size:40px;font-weight:bold"> 14</span> 
                             <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title"> Curso Virtual: <br> Excel Intermedio</h6>
-                            <span class="agenda-info"><b> Lugar:</b> Campus Virtual</span> <br>
+                            <h6 class="agenda-title">FiaComunica: <br>Exámenes Finales</h6>
+                            <span class="agenda-info"><b>Lugar: </b> Campus FIA</span> <br>
                             <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
-                            <span class="agenda-info ">  <b>    Telf:</b> 01-208-600 anexo 1122</a> </span>  <br>
-                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1917668051668040/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1117</a> </span> <br>
+                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1905408162894029/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
 
                         </div> 
                     </div>
@@ -373,15 +389,15 @@
                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                    <span style="font-size:40px;font-weight:bold"> 14</span> 
+                    <span style="font-size:40px;font-weight:bold"> 21</span> 
                             <span style="font-size:26px;font-weight:bold">JUN</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">FiaComunica: <br>Exámenes Finales</h6>
+                            <h6 class="agenda-title">FiaComunica: <br>Devolución de Exámenes Finales</h6>
                             <span class="agenda-info"><b>Lugar: </b> Campus FIA</span> <br>
                             <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
                             <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1117</a> </span> <br>
-                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1905408162894029/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1937176616383850/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
                     </div>
                 </div>

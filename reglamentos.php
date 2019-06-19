@@ -12,10 +12,10 @@
     <title>Fia USMP</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="img/core-img/logousmp.ico">
+    <link rel="icon" href="https://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
 
     <!-- Core Stylesheet -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://www.usmp.edu.pe/fia/css/style.css">
 
 
 
@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div  class="bg-img img-fix-position-bg" style="background-image: url('http://www.usmp.edu.pe/fia/img/bg-img/reglamentos.jpg');"  >
+    <div  class="bg-img img-fix-position-bg" style="background-image: url('https://usmp.edu.pe/fia/img/bg-img/reglamentos.jpg');"  >
      
     </div>
     <!-- ##### Breadcumb Area End ##### -->
@@ -182,15 +182,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="https://www.usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="js/bootstrap/popper.min.js"></script>
+    <script src="https://www.usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <script src="https://www.usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="js/plugins/plugins.js"></script>
+    <script src="https://www.usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="js/active.js"></script>
+    <script src="https://www.usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>

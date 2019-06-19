@@ -68,7 +68,23 @@
 	<div class="row">
 
         <div class="col-6 col-md-3 text-center" >
-            <div class="team-members">
+
+         <div class="team-members">
+                <div class="team-avatar">
+                    <img class="img-fluid" src="img/institutos/cidpa.jpg" alt="">
+                </div>
+                <div class="team-desc text-center d-none d-sm-block" style="">
+                    
+                    <span class="info-insti"> El Centro de Innovación y desarrollo de productos alimenticios (CIDPA) de la Escuela Profesional de Ingeniería Industrial cuenta con infraestructura y equipamiento de laboratorios, para la innovación y desarrollo de productos alimenticios, estando a la fecha desarrollando proyectos de investigación aplicada.</span>
+                    <a class="btn-fix-inst" href="http://usmp.edu.pe/fia/escuelas/industrial/cidpa.php#contenido" target="_blank">Ver más</a>
+                </div>
+            </div>
+            <a href="http://usmp.edu.pe/fia/escuelas/industrial/cidpa.php#contenido"  target=_blank> CIDPA</a>
+           
+        </div>
+    
+<div class="col-6 col-md-3 text-center">
+     <div class="team-members">
                 <div class="team-avatar">
                     <img class="img-fluid" src="img/institutos/IVUC.jpg" alt="">
                 </div>
@@ -78,11 +94,14 @@
                     <a class="btn-fix-inst" href="http://www.usmp.edu.pe/ivuc/" target="_blank">Ver más</a>
                 </div>
             </div>
-            <a href="http://www.usmp.edu.pe/ivuc/"  target=_blank> IVUC</p>
-        </div>
-    
+            <a href="http://www.usmp.edu.pe/ivuc/"  target=_blank> IVUC</a></p>
+
+       </div>
+        
+           
         <div class="col-6 col-md-3 text-center">
-            <div class="team-members">
+
+         <div class="team-members">
                 <div class="team-avatar">
                     <img class="img-fluid" src="img/institutos/Centro_del_bambu.jpg" alt="">
                 </div>
@@ -93,10 +112,15 @@
                 </div>
             </div>
             <a href="http://www.usmp.edu.pe/centro_bambu_peru/" target="_blank"> Centro del Bambú</a>
+
+           
         </div>
 
+
         <div class="col-6 col-md-3 text-center">
-            <div class="team-members">
+
+
+         <div class="team-members">
                 <div class="team-avatar">
                     <img class="img-fluid" src="img/institutos/Laboratorio_corte.jpg" alt="">
                 </div>
@@ -107,23 +131,9 @@
                 </div>
             </div>
             <a  href="https://www.youtube.com/watch?v=4lCNSOZqCo0" target="_blank" >   Laboratorio de Innovación y Desarrollo</a>
-        </div>
 
 
-        <div class="col-6 col-md-3 text-center">
-            <div class="team-members">
-                <div class="team-avatar">
-                    <img class="img-fluid" src="img/institutos/Labsti.jpg" alt="">
-                </div>
-                <div class="team-desc text-center" style="">
-                    
-                    <span class="info-insti">El Laboratorio de Software y Tecnologías desarrolla software y tecnologías interactivas con orientación al mercado cultural, museográfico y educativo, cuenta con más de 6 años de experiencia en investigación, desarrollo tecnológico e innovación</span>
-                    <a class="btn-fix-inst" href="https://www.youtube.com/watch?v=aeBGDmIM15Y" target="_blank">Ver más</a>
-                </div>
-            </div>
-            <a  href="https://www.youtube.com/watch?v=aeBGDmIM15Y" target="_blank">LABSTI</a>
-
-        </div>
+              </div>
 
 
         
@@ -135,17 +145,19 @@
     <div class="row">
 
         <div class="col-6 col-md-3 text-center" >
-            <div class="team-members">
+
+        <div class="team-members">
                 <div class="team-avatar">
-                    <img class="img-fluid" src="img/institutos/cidpa.jpg" alt="">
+                    <img class="img-fluid" src="img/institutos/Labsti.jpg" alt="">
                 </div>
-                <div class="team-desc text-center d-none d-sm-block" style="">
+                <div class="team-desc text-center" style="">
                     
-                    <span class="info-insti"> El Centro de Innovación y desarrollo de productos alimenticios (CIDPA) de la Escuela Profesional de Ingeniería Industrial cuenta con infraestructura y equipamiento de laboratorios, para la innovación y desarrollo de productos alimenticios, estando a la fecha desarrollando proyectos de investigación aplicada.</span>
-                    <a class="btn-fix-inst" href="http://usmp.edu.pe/fia/escuelas/industrial/cidpa.php#contenido" target="_blank">Ver más</a>
+                    <span class="info-insti">El Laboratorio de Software y Tecnologías desarrolla software y tecnologías interactivas con orientación al mercado cultural, museográfico y educativo, cuenta con más de 6 años de experiencia en investigación, desarrollo tecnológico e innovación</span>
+                    <a class="btn-fix-inst" href="https://www.youtube.com/watch?v=aeBGDmIM15Y" target="_blank">Ver más</a>
                 </div>
             </div>
-            <a href="http://usmp.edu.pe/fia/escuelas/industrial/cidpa.php#contenido"  target=_blank> CIDPA</p>
+            <a  href="https://www.youtube.com/watch?v=aeBGDmIM15Y" target="_blank">LABSTI</a>
+           
         </div>
     
         <!-- <div class="col-6 col-md-3 text-center">

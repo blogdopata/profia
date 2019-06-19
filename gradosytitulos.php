@@ -36,7 +36,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/fia/img/bg-img/img_grados.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('https://usmp.edu.pe/fia/img/bg-img/img_grados.jpg');"  >
      
     </div>
 
@@ -83,22 +83,22 @@
                                         <section class="st-content">
                                         <dl>
 
-                                        <dt><a href="" data-toggle="modal" data-target="#tramite" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite para presentar el informe de Prácticas Preprofesionales</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#tramite" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite para presentar el informe de Prácticas Preprofesionales</span></a></dt>
 
-                                        <dt><a href="" data-toggle="modal" data-target="#bachiller" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámites para el grado académico de Bachiller</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#bachiller" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámites para el grado académico de Bachiller</span></a></dt>
 
-                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/tramites-maestria.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Maestro</span></a></dt>
+                                        <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/tramites-maestria.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Maestro</span></a></dt>
 
-                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/tramites-doctorado.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Doctor</span></a></dt>
+                                        <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/tramites-doctorado.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Doctor</span></a></dt>
 
-                                        <dt><a href="" data-toggle="modal" data-target="#titulo" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámites para el Título Profesional</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#titulo" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámites para el Título Profesional</span></a></dt>
 
-                                        <dt><a href="" data-toggle="modal" data-target="#revalidacion" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span> Trámite para revalidación de grados y títulos obtenidos en universidades extranjeras</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#revalidacion" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span> Trámite para revalidación de grados y títulos obtenidos en universidades extranjeras</span></a></dt>
                                         
-                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/asesores_de_tesis.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Asesores de Tesis</span></a></dt>
+                                        <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/asesores_de_tesis.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Asesores de Tesis</span></a></dt>
 
                                         
-                                        <dt><a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/req_revalidacion_grados_titulos.pdf" alt=""><img src="http://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Requisitos para revalidación de grados y tìtulos.</span></a></dt>
+                                        <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/req_revalidacion_grados_titulos.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Requisitos para revalidación de grados y tìtulos.</span></a></dt>
 
                                         </dl>
                                         </section>
@@ -127,23 +127,23 @@
             <br>
 
             <div class="tramite">
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/practicas-preprofesionales.pdf" target="_blank">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/practicas-preprofesionales.pdf" target="_blank">
               <i class="fa fa-check"></i> Prácticas Preprofesionales
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/Formato_Inscripcion_Practicas_Pre-profesionales.pdf"
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/Formato_Inscripcion_Practicas_Pre-profesionales.pdf"
                 target="_blank">
                 <i class="fa fa-check"></i> Formato de Inscripción de Prácticas Preprofesionales
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/GUIA_ESQUEMA_PPP.zip">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/GUIA_ESQUEMA_PPP.zip">
                 <i class="fa fa-check"></i> Estructura Informe P.P.
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/F_EVAL_DESEMPENO PRACTICA PRE 2012.zip">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/F_EVAL_DESEMPENO PRACTICA PRE 2012.zip">
               <i class="fa fa-check"></i> Informe J.I.  para practicantes
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/F_EVAL_DESEMPENO LABORAL 2012.zip">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/F_EVAL_DESEMPENO LABORAL 2012.zip">
             <i class="fa fa-check"></i> Informe J.I. para trabajadores
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/FORMATO_DE_INSCRIPCION_TRABAJO.pdf" target="_blank">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/FORMATO_DE_INSCRIPCION_TRABAJO.pdf" target="_blank">
               <i class="fa fa-check"></i> Formato de Inscripción de Trabajo
             </a>
             </div>
@@ -178,21 +178,28 @@
             <br>
 
             <div class="tramite">
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/bachiller-tramite.pdf" target="_blank">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/bachiller-tramite.pdf" target="_blank">
               <i class="fa fa-check"></i>  Requisitos y trámite documentario para la obtención del grado académico de Bachiller
             </a>
+
+
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/ACTA_SUSTENTACION_TRABAJO_INVESTIGACION.pdf" target="_blank">
+              <i class="fa fa-check"></i> Acta de sustentación de trabajo de investigación
+            </a>
+
+
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2sSCaGXtOXq-6xP2BVPmxsw7k2d3v70C84EpPl5oFOESoSA/viewform"
                 target="_blank">
                 <i class="fa fa-check"></i> Formulario
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/modelo_cv_fia.pdf">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/modelo_cv_fia.pdf">
                 <i class="fa fa-check"></i> Modelo de Currículum Vitae
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/graduacion.pdf">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/graduacion.pdf">
                 <i class="fa fa-check"></i> Ceremonia de Graduación 2019
 
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/trabajo_investigacion_2014_2.pdf">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/trabajo_investigacion_2014_2.pdf">
                 <i class="fa fa-check"></i> Directiva de Trabajo de Investigación para obtener el grado académico de Bachiller (Ingresantes 2014-II).
             </a>
             </div>
@@ -234,17 +241,17 @@
             </p>
 
             <div class="tramite">
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/titulo/Titulo-Profesional.pdf" target="_blank">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/titulo/Titulo-Profesional.pdf" target="_blank">
               <i class="fa fa-check"></i> Requisitos y trámite Documentario para La obtención del Título Profesional
             </a>
-            <a href="http://www.usmp.edu.pe/fia/pdf/graduados/titulo/Plan-de-Tesis-o-Plan-de-Trabajo-de-Investigacion.pdf"
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/titulo/Plan-de-Tesis-o-Plan-de-Trabajo-de-Investigacion.pdf"
                 target="_blank">
                 <i class="fa fa-check"></i> Manual para la elaboración del Plan de Tesis o Plan de Trabajo de Investigación
             </a>
-            <a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/titulo/Plan_de_tesis.pdf">
+            <a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/titulo/Plan_de_tesis.pdf">
                 <i class="fa fa-check"></i> Manual para la elaboración de la Tesis o Trabajo de Investigación
             </a>
-            <a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/graduados/titulo/Suficiencia_profesional.pdf">
+            <a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/titulo/Suficiencia_profesional.pdf">
                 <i class="fa fa-check"></i> Manual para la elaboración del Trabajo de Suficiencia Profesional
             </a>
             </div>
@@ -345,15 +352,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="http://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="http://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="http://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="http://usmp.edu.pe/fia/js/active.js"></script>
+    <script src="https://usmp.edu.pe/fia/js/active.js"></script>
 </body>
 
 </html>
