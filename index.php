@@ -44,40 +44,63 @@
     <!-- Slider TIME -->
     <section class="hero-area">
         <div style="margin-top:80px;" class="hero-slides owl-carousel">
+        
 
+     
 
-             <!-- Imagen del slider de fondo n°1 -->
-             <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/sai.jpg);  background-repeat: no-repeat; ">
+             
+
+               <!-- Imagen del slider de fondo n°1-->
+             <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/actividades.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
                                 <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
-                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">SESIÓN ACADÉMICA <br> DE INVIERNO  </h2>
-                                <a href="https://www.usmp.edu.pe/fia/sai.php"  class="ml-5 btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">CALENDARIO <br> DE ACTIVIDADES 2019-II  </h2>
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 ""> Matrícula desde el 08 de julio  </h4>
+                                <br>
+                                <a href="https://usmp.edu.pe/fia/calendario.php"  class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-
-
-            <!-- Imagen del slider de fondo n°1 -->
-            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-2.jpg);  background-repeat: no-repeat; ">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-center">
-                        <div class="col-12">
-                            <div class="hero-slides-content">
-                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
-                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">35 AÑOS FORMANDO  <br>PROFESIONALES DE PRIMER NIVEL.</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
+            </div> 
 
             <!-- Imagen del slider de fondo n°2 -->
+            <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/sai.jpg);  background-repeat: no-repeat; ">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5">   FIA USMP</h4>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">SESIÓN ACADÉMICA <br> DE INVIERNO  </h2>
+                                                               <br>
+                                <a href="https://www.usmp.edu.pe/fia/sai.php"  class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+
+
+             <!-- Imagen del slider de fondo n°video -->
+             <!-- <div class="single-hero-slide bg-img">
+             <video src="media/feria.mp4" autoplay style="width:100%;"></video>
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="hero-slides-content"> -->
+                               <!-- <video src="media/feria.mp4" autoplay></video> -->
+                            <!-- </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  -->
+          
+
+
+            <!-- Imagen del slider de fondo n°3 -->
             <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-5.jpg); background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
@@ -92,6 +115,19 @@
                 </div>
             </div>
 
+ <!-- Imagen del slider de fondo n°3 
+            <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-2.jpg);  background-repeat: no-repeat; ">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">35 AÑOS FORMANDO  <br>PROFESIONALES DE PRIMER NIVEL.</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
 
             <!-- Imagen del slider de fondo n°3 -->
             <!-- <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-3.jpg);">
@@ -164,9 +200,9 @@
 
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="300ms">
                         <div >
-                            <a target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus">
+                            <a target="_blank" href="https://www.usmp.edu.pe/portalacademico">
                             <img  class="img-fluid img-fix-fluid" src="img/fia/intranet2.jpg" alt=""> <br>
-                            <a class="text-center course-content " target="_blank" href="https://neoapp-b8d04eb44.dispatcher.us1.hana.ondemand.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-language=ES&sap-theme=sap_belize_plus"><h4 class="rob" >INTRANET SAP</h4></a>
+                            <a class="text-center course-content " target="_blank" href="https://www.usmp.edu.pe/portalacademico"><h4 class="rob" >INTRANET SAP</h4></a>
                             </a>
                         </div>
                     </div>
@@ -305,7 +341,7 @@
                             <h6 class="text-white pb-2">SEBASTIAN BURGOS DÍAZ</h6>
                             <span class="bg-white py-1 px-3"> Ingeniería de Computación y Sistemas</span>
                             <ul class="text-justify px-5 mt-3 mb-5 ul-fix-square text-white" >
-                                <li class="mb-2 " >Actualmente labora como Software Architect en <b class="bold-w"> Fandango.</b></li>
+                                <li class="mb-2 " >Actualmente labora como IT Lead, liderando todo el equipo de tecnología de <b class="bold-w"> Fandango Latam.</b></li>
                          <br>
                                 <li>Ex Analista y Desarrollador de Software en <b class="bold-w">Cinepapaya. </b> </li>
                             </ul>
@@ -361,118 +397,105 @@
 
 
             <div class="row" >
+
+            
+
+                    
+                  
+                  
+
+         
+<!-- Agenda / evento  
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
+                        <span style="font-size:40px;font-weight:bold"> 03</span> 
+                            <span style="font-size:26px;font-weight:bold">JUL</span> 
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Evento :  <br>  Matrícula 2019-II </h6>
+                            <span class="agenda-info"><b> Lugar: </b>Intranet Académica SAP</span> <br>
+                            <span class="agenda-info"> <b>   Hora: </b>  De 9:00 a 21:00</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600, anexo 1113</a> </span> <br>
+                        
+                            <span><a href="https://usmp.edu.pe/fia/calendario.php" target="_blank" class="agenda-text-info">Más información</a>
+
+                        </div> 
+                    </div>
+                </div>  
+                  Agenda / evento  FIN -->
+
+
+                 
                
 
 
 
-                        <!-- Agenda / evento  -->
-                        <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                        <span style="font-size:40px;font-weight:bold"> 14</span> 
-                            <span style="font-size:26px;font-weight:bold">JUN</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">FiaComunica: <br>Exámenes Finales</h6>
-                            <span class="agenda-info"><b>Lugar: </b> Campus FIA</span> <br>
-                            <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1117</a> </span> <br>
-                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1905408162894029/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
-
-                        </div> 
-                    </div>
-                </div>  
-                <!-- Agenda / evento  FIN -->
+                       
 
 
-                      <!-- Agenda / evento  FIN -->
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
-                    <div class="d-flex">
-                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                    <span style="font-size:40px;font-weight:bold"> 21</span> 
-                            <span style="font-size:26px;font-weight:bold">JUN</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">FiaComunica: <br>Devolución de Exámenes Finales</h6>
-                            <span class="agenda-info"><b>Lugar: </b> Campus FIA</span> <br>
-                            <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1117</a> </span> <br>
-                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1937176616383850/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>
-                    </div>
-                </div>
-               <!-- Agenda / evento  FIN -->
-
-                   <!-- Agenda / evento  FIN -->
-                   <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-none d-sm-block"  >
-                    <div class="d-flex">
-                    <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                    <span style="font-size:40px;font-weight:bold"> 21</span> 
-                            <span style="font-size:26px;font-weight:bold">JUN</span> 
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Taller:  <br>Construye tu bici de bambú</h6>
-                           
-                            <span class="agenda-info"><b> Lugar: </b>Campus FIA </span> <br>
-                            <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
-                             <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1178</a> </span>
-                         <br>
-                         <span><a href="http://www.usmp.edu.pe/ivuc/bici-janko.php" target="_blank" class="agenda-text-info">Más información</a>
-                        </div>
-                    </div>
-                </div>
-                
-                  <!-- Agenda / evento  FIN -->
-
-
-                   <!-- Agenda / evento   -->
+<!-- Agenda / evento  -->
+<!--
                  <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                        <span style="font-size:40px;font-weight:bold"> 24</span> 
-                            <span style="font-size:26px;font-weight:bold">JUN</span> 
+                        <span style="font-size:40px;font-weight:bold"> 08</span> 
+                            <span style="font-size:26px;font-weight:bold">JUL</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Evento :  <br>  #ExpoEPICS </h6>
-                            <span class="agenda-info"><b> Lugar: </b>Auditorio Primus Inter Pares</span> <br>
-                            <span class="agenda-info"> <b>   Hora: </b> 16:00 h</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600, anexo 1107</a> </span> <br>
+                            <h6 class="agenda-title">Evento :  <br>  Matrícula 2019-II </h6>
+                            <span class="agenda-info"><b> Lugar: </b>Intranet Académica SAP</span> <br>
+                            <span class="agenda-info"> <b>   Hora: </b>  De 9:00 a 21:00 h</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000, anexo 1113</a> </span> <br>
                         
-                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1919643311470514/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <span><a href="https://usmp.edu.pe/fia/calendario.php" target="_blank" class="agenda-text-info">Más información</a>
+
+                        </div> 
+                    </div>
+
+                </div>
+                -->  
+                 <!-- Agenda / evento  FIN -->
+
+                 <!-- Agenda / evento   -->
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
+                        <span style="font-size:40px;font-weight:bold"> 16</span> 
+                            <span style="font-size:26px;font-weight:bold">AGO</span> 
+                        </div>
+                        <div>
+                   |         <h6 class="agenda-title">Evento :<br> Aniversario FIA </h6>
+                            <span class="agenda-info"><b>Lugar:</b>  Campus FIA</span> <br>
+                          <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1176 / 1128</a> </span> <br>   
+                             <br>                                                                     
+                           
 
                         </div> 
                     </div>
                 </div>  
                   <!-- Agenda / evento  FIN -->
 
-
-
-
-
-
-                      <!-- Agenda / evento -->
-                    <div class="col-md-6 col-lg-4  mt-lg-5 mt-2 d-sm-block"  >
+                   <!-- Agenda / evento  -->
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                        <span style="font-size:40px;font-weight:bold"> 01 </span> 
-                            <span style="font-size:26px;font-weight:bold">JUL</span> 
+                    <span style="font-size:40px;font-weight:bold"> 23</span> 
+                            <span style="font-size:26px;font-weight:bold">AGO</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Curso: <br>II Especialización en Patentes</h6>
-                            <span class="agenda-info"><b> Lugar:</b> Indecopi, Av. Del Aire 384, <br> San Borja – Lima. </span> <br> 
-                            <!-- <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br> -->
-                            <span class="agenda-info ">  <b>Telf: </b> 01-224-7800 anexos: 3816</a> </span>   <br>
-                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/1914626951972150/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <h6 class="agenda-title">Evento: <br>Campeonato de marinera </h6>
+                            <span class="agenda-info"><b>Lugar:</b>  Campus FIA</span> <br>
+                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1176 / 1128</a> </span> <br>
+                            
                         </div>
                     </div>
                 </div>
-             
                 
                   <!-- Agenda / evento  FIN -->
+                  
 
-
-
-                   <!-- Agenda / evento  -->
+   <!-- Agenda / evento  FIN -->
                  <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2 d-none d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
@@ -480,16 +503,25 @@
                             <span style="font-size:26px;font-weight:bold">OCT</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Congreso: <br>Visión 2019	</h6>
+                            <h6 class="agenda-title">Congreso: <br>Visión 2019  </h6>
                             <span class="agenda-info"><b>Lugar:</b>  Campus FIA</span> <br>
-                            <span class="agenda-info"><b>Hora: </b> Todo el día</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-600 anexo 1122</a> </span> <br>
+                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexo 1122</a> </span> <br>
                             <span><a href="https://usmp.edu.pe/vision2019/" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
                     </div>
                 </div>
                 
                   <!-- Agenda / evento  FIN -->
+
+
+ 
+
+
+
+
+
+
+                      
                 
 
 

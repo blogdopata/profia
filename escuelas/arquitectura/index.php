@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Desarrolla tu creatividad, sé innovador, diseña tu futuro y construye todo lo que has soñado. Estudia la carrera de Arquitectura en la USMP.">
+    <meta name="keywords" content=" Arquitectura, diseño arquitectónico, diseño, USMP,ARQUITECTURA,DISEÑO,ARQUITECTÓNICO" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>Arquitectura | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="https://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">

@@ -75,11 +75,10 @@
             <p class="text-fix-style">
             Son alumnos regulares quienes llevan un mínimo de 12 créditos en el sistema semestral y 24 en el sistema anual. 
             <br>
-            Los alumnos regulares harán efectiva su matrícula en las fechas establecidas de acuerdo al cronograma, cancelando los derechos correspondientes. Como parte del proceso, el alumno recibirá la ficha de pre – matrícula que indicará los cursos en los que se encuentra apto para matricularse.
+            Los alumnos regulares harán efectiva su matrícula en las fechas establecidas de acuerdo al cronograma, cancelando los derechos correspondientes. Como parte del proceso, el alumno recibirá la ficha de prematrícula que indicará los cursos en los que se encuentra apto para matricularse. 
             <br>
             <br>
-            Concordancias: Inciso f.) del artículo 57º de la Ley Universitaria Nro. 23733
-            Artículo 117º del Estatuto Universitario
+            Concordancias: Inciso f) del artículo 57º de la Ley Universitaria Nro. 23733 <br> Artículo 117º del Estatuto Universitario
             </p>
             
             
@@ -91,12 +90,12 @@
             El alumno regular, antes de matricularse deberá observar las siguientes condiciones:
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>De haber desaprobado una o dos asignaturas se matriculan obligatoriamente primero en los cursos desaprobados, completando los créditos con las asignaturas del siguiente período lectivo, teniendo en cuenta el sistema de pre – requisitos.</li>
-                    <li>De haber desaprobado tres o más asignaturas, el alumno tiene la condición de repitente, pudiéndose matricular sólo en los cursos desaprobados</li>
+                    <li>De haber desaprobado una o dos asignaturas, se matriculará obligatoriamente primero en los cursos desaprobados, después completará los créditos con las asignaturas del siguiente período lectivo y deberá tener en cuenta el sistema de prerrequisitos.</li>
+                    <li>De haber desaprobado tres o más asignaturas, el alumno tiene la condición de repitente, por lo tanto, solo podrá matricularse en los cursos desaprobados.</li>
                 </ul>
             </div>
             <br>
-            Concordancias: Artículo 120º del Estatuto Universitario.
+            Concordancias: artículo 120º del Estatuto Universitario
             <br>
             <br>
             <br>
@@ -107,9 +106,9 @@
             <br>
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>El alumno deberá presentar la ficha de pre – matrícula debidamente llenada para su ingreso al sistema computarizado, el recibo de matrícula cancelado y registrado en Tesorería.  </li>
-                    <li>El personal responsable de la Oficina de Registros Académicos, ingresará al momento de la matrícula los datos del alumno al sistema computarizado, emitiendo la Ficha de Matrícula.</li>
-                    <li>La Ficha de Matrícula, deberá ser firmada y revisada por el propio alumno, a fin de que el personal responsable de la Oficina de Registros Académicos la autorice con su firma.</li>
+                    <li>El alumno deberá presentar la ficha de prematrícula debidamente llenada para su ingreso al sistema computarizado y el recibo de matrícula cancelado y registrado en Tesorería.</li>
+                    <li>El personal responsable de la Oficina de Registros Académicos ingresará al momento de la matrícula los datos del alumno al sistema computarizado, como resultado se obtiene la Ficha de Matrícula.</li>
+                    <li>La Ficha de Matrícula deberá ser firmada y revisada por el propio alumno, este debe dar su conformidad sobre la misma. Acto seguido, el  personal responsable de la Oficina de Registros Académicos autoriza la Ficha de Matrícula con su firma.</li>
                 </ul>
             </div>
             <br>
@@ -117,17 +116,17 @@
             <br><br>
             <b>Artículo 32</b>.- De la matrícula en asignaturas de diferentes ciclos <br>
             <p class="text-fix-style">
-            Al alumno que se matricula a la vez en distintos ciclos, se le asigna como ciclo de referencia aquel en el cual acumula mayor número de créditos.
+            Al alumno que se matricula en distintos ciclos a la vez, se le asigna como ciclo de referencia aquel en el cual acumula mayor número de créditos. 
             <br>
-            No se podrá matricular en cursos que supongan cruce de horario. En caso de infringir esta norma, queda anulado el curso del ciclo superior.
+            No se podrá matricular en cursos que supongan cruce de horario. En caso de infringir esta norma, queda anulado el curso del ciclo superior. 
             <br>
-            El alumno sólo puede matricularse en asignaturas que correspondan a tres (03) ciclos consecutivos, siempre y cuando haya aprobado los pre-requisitos correspondientes.
+            El alumno solo puede matricularse en asignaturas que correspondan a tres (03) ciclos consecutivos, siempre y cuando haya aprobado los prerrequisitos correspondientes.
             </p>
             <br><br>
 
             <b>Artículo 33</b>.- De la matrícula de extemporáneos <br>
             <p class="text-fix-style">
-            El alumno que se matricule extemporáneamente, sólo podrá acogerse al cuadro de vacantes por turno y sección que estén disponibles luego de la matrícula regular, previa cancelación del derecho correspondiente, no habiendo lugar a reclamo.
+            El alumno que se matricule extemporáneamente, solo podrá acogerse al cuadro de vacantes por turno y sección que estén disponibles luego de la matrícula regular, previa cancelación del derecho correspondiente, al respecto no hay lugar a reclamo.
             </p>
             <br><br>
 

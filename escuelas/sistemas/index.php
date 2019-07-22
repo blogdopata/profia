@@ -229,6 +229,8 @@
         <li><a class="link" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQpN8EqFfRIJDoJQ7UKQ7EMlUODVMVVQ3WDYzQVY2VVNTTEVRNTJOSkVVTS4u">Graduados</a></li>
         <br>
         <li><a class="link" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQpN8EqFfRIJDoJQ7UKQ7EMlUNDVEUjFHRkM4SjhTUUZaMllRSFRWRE9YQi4u">Docentes</a></li>
+        <br>
+        <li><a class="link" target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQpN8EqFfRIJDoJQ7UKQ7EMlUOUxSUEtBTVdISjJGMk5FTDZLQzEzNDVUTC4u">Sponsors</a></li>
 
         </ul>
   
@@ -342,7 +344,7 @@
         <b>INGENIERÍA DE COMPUTACIÓN Y SISTEMAS</b>
         </div>
         <div class="container mt-3">
-        <p class="text-fix-content">Actualmente labora como Software Architect en Fandango.</p>
+        <p class="text-fix-content">Actualmente labora como IT Lead, liderando todo el equipo de tecnología de Fandango Latam.</p>
 
         </div>
         </div>

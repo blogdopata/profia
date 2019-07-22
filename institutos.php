@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Conoce los institutos con los que cuenta nuestra Facultad. Entérate más sobre el IVUC, Centro del Bambú, Laboratorio de Innovación y el LABSTI.">
+    <meta name="keywords" content="Institutos,INSTITUTOS,institutos" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>Institutos | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/logousmp.ico">

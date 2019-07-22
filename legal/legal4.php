@@ -69,18 +69,18 @@
 		<div class="col-md-10 mt-5 mb-5 legal">
         <br>
             <h6 class="titulo-generico">Título I Disposiciones Generales</h6> 
-            <b class="titulo-generico">Capítulo IV - De las Actividades Conexas con el Departamento Académico</b>
+            <b class="titulo-generico">Capítulo IV - De las Actividades Conexas con el Departamento Académico </b>
             <br><br>
-            <b>Artículo 7</b>.- De la distribución horaria, del Plan de Estudios y los sílabos
+            <b>Artículo 7</b>.- De la distribución horaria, del plan de estudios y los sílabos
             <p class="text-fix-style">
-            La distribución horaria, el Plan de Estudios y los sílabos de estudios, son estructurados y elaborados por el Departamento Académico de la Facultad, los mismos que luego de ser aprobados por las autoridades competentes, son comunicados a la Oficina de Registros Académicos a fin de contribuir al normal desarrollo de las actividades programadas para los procesos de matrículas.
+            La distribución horaria, el plan de estudios y los sílabos de estudios, son estructurados y elaborados por el Departamento Académico de la Facultad, los mismos que luego de ser aprobados por las autoridades competentes, son comunicados a la Oficina de Registros Académicos a fin de contribuir al normal desarrollo de las actividades programadas para los procesos de matrículas.
             </p>
             
             <br>
 
             <b>Artículo 8</b>.- De la distribución de aulas
             <p class="text-fix-style">
-            Al término de cada período lectivo el Departamento Académico deberá proyectar el cuadro de distribución de aulas para el siguiente semestre o año, elaborar el cuadro de profesores y horario de clases, debiendo entregarlo a la Oficina de Registros Académicos, en un plazo no menor de 10 días, antes del inicio del proceso de matrícula para su respectiva publicación.
+            Al término de cada período lectivo el Departamento Académico deberá proyectar el cuadro de distribución de aulas para el siguiente semestre o año, elaborar el cuadro de profesores y el horario de clases, debiendo entregarlo a la Oficina de Registros Académicos, en un plazo no menor de 10 días, antes del inicio del proceso de matrícula para su respectiva publicación.
             </p>
            
 

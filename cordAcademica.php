@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Coordinación Académica se encarga de prever todo lo necesario para el desarrollo de las clases, además es el nexo entre la Facultad y sus distintos públicos.">
+    <meta name="keywords" content=" Coordinación Académica,coordinación,académica,cordinacion,cordinación,COORDINACION,COORDINACION ACADEMICA,Coordinacion academica" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>Coordinación Académica | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/logousmp.ico">
@@ -36,7 +37,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/fia/img/bg-img/img_coordinacion.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('https://usmp.edu.pe/fia/img/bg-img/img_coordinacion.jpg');"  >
      
     </div>
 

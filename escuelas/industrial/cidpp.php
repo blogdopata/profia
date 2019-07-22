@@ -26,7 +26,7 @@
                                 <b class="text-fix-content">QUIENES SOMOS</b>
                                
                                 <p  class="text-fix-content mt-2">
-                                Un factor decisivo en el desarrollo de nuevos productos está en la diferenciación mediante la innovación; de manera que el producto desarrollada no pueda ser fácilmente replicado por la competencia y que al mismo tiempo ofrezca un valor que el consumidor esté dispuesto a pagar. 
+                                Un factor decisivo en el desarrollo de nuevos productos está en la diferenciación mediante la innovación; de manera que el producto desarrollado no pueda ser fácilmente replicado por la competencia y que al mismo tiempo ofrezca un valor que el consumidor esté dispuesto a pagar. 
                                 <br><br>
                                 El Centro de Innovación y desarrollo de productos alimenticios (CIDPA) de la Escuela Profesional de Ingeniería Industrial de la Facultad de Ingeniería y Arquitectura de la Universidad San Martin de Porres, cuenta con infraestructura y equipamiento de laboratorios, para la innovación y desarrollo de productos alimenticios, estando a la fecha desarrollando proyectos de investigación aplicada en apoyo a cadenas productivas agroindustriales. 
                                         
@@ -36,7 +36,7 @@
                               <div class="text-center mb-4">
                                   
                                   <p class="mt-2 text-fix-content d-flex justify-content-center flex-column"  >
-                                    <b  class="text-center" >Coordinador del Centro: Ing. Edy Barnett Mendoza </b>
+                                    <b  class="text-center" >Coordinador del Centro: Dr. Edy Barnett Mendoza </b>
                                   
                                     <span class="text-center">Investigador CONCYTEC</span> 
                                     <a href="mailto:"  class="text-center " style="color:#585857">Cargo dentro de la Organización: Investigador</a>
@@ -60,7 +60,7 @@
                                 <b class="text-fix-content mt-5">PERSONAL </b>
                               
                                 <p  class="text-fix-content mt-2">
-                                Contamos con equipo multidisciplinario de profesionales: Ingenieros en Industrias Alimentarias, Químicos, Enólogos, Microbiólogos, nutricionistas y especialista en costeo de productos.
+                                Contamos con equipo multidisciplinario de profesionales: ingenieros en industrias alimentarias e industriales así como químicos, enólogos, microbiólogos, nutricionistas y especialistas en costeo de productos.
                                 </p>
                             </div>
                           </div>
@@ -105,15 +105,21 @@
                               <p class="text-fix-content"> 
                               <ul class="fix-items-li">
                             <li>Desarrollo e innovación de productos alimenticios</li>
-                            <li>Desarrollo de tecnología</li>
+                            <li>Desarrollo tecnológico</li>
                             <li>Formulación de productos alimenticios</li>
                             <li>Determinación de vida útil</li>
                             <li>Transferencia tecnológica</li>
                             <li>Desarrollo de seminarios y talleres de procesamiento de alimentos</li>
-                            <li>Implementación de Línea de Producción</li>
                             <li>Evaluación sensorial </li>
-                            <li>Implementación y funcionamiento de laboratorios y plantas piloto</li>
-                            <li>Determinar los servicios de mantenimiento o calibración del equipamiento.</li>
+                            <li>Implementación de laboratorios y Planta Piloto de Producción de alimentos.</li>
+                            <li>Desarrollo de procesos fermentativos a nivel de laboratorio y escalamiento a nivel de Planta Piloto.</li>
+                            <li>Determinación y optimización de parámetros en tratamiento térmico de alimentos.</li>
+                            <li>Aromatización de aguardiente de uva.</li>
+                            <li>Elaboración de macerados de frutas.</li>
+                            <li>Determinación de parámetros de separación extracción de cabeza en proceso de destilación, para la obtención de Pisco.</li>
+                            <li>Optimización de parámetros de deshidratación por Osmósis y aire caliente de frutas.</li>
+                            <li>Deshidratación de hortalizas - elaboración de muestras comerciales.</li>
+                            <li>Pruebas de Evaluación sensorial.</li>
                                   </ul>
                             </p>
                             </div>
@@ -142,18 +148,18 @@
                               <b>Laboratorio de Biología y Microbiología</b>
                               <hr>
                               <p>
-                                <a style="font-weigth:bold">a)Nombre de la Infraestructura:</a> Laboratorio de Biología y Microbiología <br>
-                                <a style="font-weigth:bold">b)Descripción de la infraestructura:</a> Ambiente con ducha de bioseguridad, ambiente adicional de bioseguridad para el cultivo y esterilización de microorganismos. <br>
-                                <a style="font-weigth:bold">c)Actividades en las que es usada:</a> Identificacion de microorganismos, análisis microbiológicos de vida útil de alimentos, determinación de calidad microbiológica de alimentos frescos y procesados, estudios de dinámica poblacional en fermentaciones industriales.
+                                <!-- <a style="font-weigth:bold">a)Nombre de la Infraestructura:</a> Laboratorio de Biología y Microbiología <br>
+                                <a style="font-weigth:bold">b)Descripción de la infraestructura:</a> Ambiente con ducha de bioseguridad, ambiente adicional de bioseguridad para el cultivo y esterilización de microorganismos. <br> -->
+                                <a style="font-weigth:bold">Actividades que desarrolla: Identificacion de microorganismos, análisis microbiológicos de vida útil de alimentos, determinación de calidad microbiológica de alimentos frescos y procesados, estudios de dinámica poblacional en fermentaciones industriales.
 
                                 <div class="centrarimg">
                                 <img class="img-fluid img-thumbnail" src="img/lab_1.png" alt="">
                               </div>
                               </p>
-                             
+                              
                               <br><br>
 
-                              <b class="pt-5">Laboratorio de Físco-Química y Química Orgánica - D3</b>
+                              <!-- <b class="pt-5">Laboratorio de Físco-Química y Química Orgánica - D3</b>
                               <hr>
                               <p>
                                 <a style="font-weigth:bold">a)Nombre de la Infraestructura:</a> Laboratorio de Fisico-Química y Química Orgánica. <br>
@@ -163,7 +169,7 @@
                                 <div class="centrarimg">
                                 <img class="img-fluid img-thumbnail" src="img/lab_2.png" alt="">
                               </div>
-                              </p>
+                              </p> -->
 
                               <br><br>
 
@@ -171,9 +177,9 @@
                               <b class="mt-2">Laboratorio de Química Analítica</b>
                               <hr>
                               <p>
-                                <a style="font-weigth:bold">a)Nombre de la Infraestructura:</a> Laboratorio de Química Analítica <br>
-                                <a style="font-weigth:bold">b)Especificaciones:</a> Ambiente con aire acondicionado y extractor de aire, luces de emergencia, detector de humo, proyector multimedia, mesas con luz regulada para los experimentos con instalaciones de gas, agua y desagüe. <br>
-                                <a style="font-weigth:bold">c)Actividades en las que es usada:</a> Identificación de cationes y aniones, análisis espectrofotométricos, análisis fisico-químicos de alimentos.
+                                <!-- <a style="font-weigth:bold">a)Nombre de la Infraestructura:</a> Laboratorio de Química Analítica <br>
+                                <a style="font-weigth:bold">b)Especificaciones:</a> Ambiente con aire acondicionado y extractor de aire, luces de emergencia, detector de humo, proyector multimedia, mesas con luz regulada para los experimentos con instalaciones de gas, agua y desagüe. <br> -->
+                                <a style="font-weigth:bold">Actividades en las que es usada:</a> Identificación de cationes y aniones, análisis espectrofotométricos, análisis fisico-químicos de alimentos.
 
                                 <div class="centrarimg">
                                 <img class="img-fluid img-thumbnail" src="img/lab_3.png" alt="">
@@ -186,12 +192,15 @@
                               <b class="mt-2">Laboratorio de Química Industrial</b>
                               <hr>
                               <p>
-                                <a style="font-weigth:bold">a)Nombre de la Infraestructura:</a> Laboratorio de Química Industrial <br>
-                                <a style="font-weigth:bold">b)Descripción de la infraestructura:</a> Ambiente con aire acondicionado, proyector multimedia y extintor, luces de emergencia, mesas para los experimentos con instalaciones de agua y desagüe, proyector multimedia y con dispositivos para detectar humos.  con ducha de bioseguridad, ambiente adicional de almacenamiento de reactivos, materiales de vidrio y soluciones.   <br>
-                                <a style="font-weigth:bold">c)Actividades en las que es usada:</a> Pruebas fisicoquímicas  
+                               <!--  <a style="font-weigth:bold">a)Nombre de la Infraestructura:</a> Laboratorio de Química Industrial <br>
+                                <a style="font-weigth:bold">b)Descripción de la infraestructura:</a> Ambiente con aire acondicionado, proyector multimedia y extintor, luces de emergencia, mesas para los experimentos con instalaciones de agua y desagüe, proyector multimedia y con dispositivos para detectar humos.  con ducha de bioseguridad, ambiente adicional de almacenamiento de reactivos, materiales de vidrio y soluciones.   <br> -->
+                                <a style="font-weigth:bold">Actividades en las que es usada:</a> Pruebas fisicoquímicas  
 
-                                <div class="centrarimg">
+                               <!--  <div class="centrarimg">
                                 <img class="img-fluid img-thumbnail" src="img/lab_4.png" alt="">
+                              </div> -->
+                              <div class="centrarimg">
+                              <img class="img-fluid img-thumbnail" src="img/lab_2.png" alt="">
                               </div>
                               </p>
 
@@ -600,14 +609,14 @@
 
 
 
-   <div class="card-header"  style="background-color:#EDEDED;">
+ <!--   <div class="card-header"  style="background-color:#EDEDED;">
      <h5 class="mb-0">
        <button  style="color:#000000;" class="btn btn-link">
        “Diseño y fabricación de un determinador de porcentaje de volumen de alcohol en línea, usando algoritmo NRW modificado para celda desacoplada, en la obtención del Pisco en las bodegas del Perú”. Proyecto ejecutado con la participación de la Universidad de Pernambuco de Brasil, y financiado por FINCYT-2014.
        </button>
      </h5>
    </div>
-
+ -->
 
 
    
@@ -777,7 +786,7 @@ Planta Piloto.
                             <div class="card-body">
                               <div class="centrarimg">
                               <p class="mt-2 text-fix-content d-flex justify-content-center flex-column"  >
-                                    <b  class="text-center" >Coordinador del Centro: Ing. Edy Barnett Mendoza </b>
+                                    <b  class="text-center" >Coordinador del Centro: Dr. Edy Barnett Mendoza </b>
                                   
                                     <span class="text-center">Investigador CONCYTEC</span> 
                                     <b class="text-center">Celular : 997305859</b>

@@ -73,12 +73,12 @@
             <br><br>
             <b>Artículo 9</b>.- De los registros
             <p class="text-fix-style">
-            Los registros de notas son aquellos instrumentos válidos, en los cuales se plasmarán las calificaciones de los alumnos. Existen dos clases de registros:
+            Los registros de notas son aquellos instrumentos válidos, en los cuales se plasmarán las calificaciones de los alumnos. Existen dos clases de registros: 
             <br>
             <div class="listafia">
                     <ul style="ml-5">
-                        <li>Registros Auxiliares ó Provisional</li>
-                        <li>Registros Oficiales ó Definitivo</li>
+                        <li>Registros Auxiliares o Provisionales</li>
+                        <li>Registros Oficiales o Definitivos</li>
                     </ul>
             </div>
             </p>
@@ -89,27 +89,27 @@
 
             <b>Artículo 10</b>.- De los registros auxiliares
             <p class="text-fix-style">
-            La Oficina de Registros Académicos, entregará a los profesores al inicio del período lectivo, un Registro Auxiliar para el control de asistencia y evaluación del alumno.
+            La Oficina de Registros Académicos entregará a los profesores al inicio del período lectivo, un registro auxiliar para el control de asistencia y evaluación del alumno. 
             <br><br>
-            Por ningún motivo, el profesor puede añadir nombre alguno en el Registro Auxiliar, de presentarse el caso de alumnos que no figuren en el Registro Auxiliar, éste deberá subsanar este inconveniente, a fin de que la Oficina de Registros Académicos expida una lista adicional al profesor responsable.
+            Por ningún motivo, el profesor puede añadir un nombre en el registro auxiliar, de presentarse el caso de alumnos que no figuren en el registro auxiliar, el profesor deberá informar de este inconveniente, a fin de que la Oficina de Registros Académicos realice la constatación pertinente y expida un nuevo registro auxiliar.
             </p>
             <br>
 
             <b>Artículo 11</b>.- De los registros oficiales
             <p class="text-fix-style">
-            La Oficina de Registros Académicos, entregará a los profesores antes de las evaluaciones programadas el Registro Oficial de Evaluación, donde deberá consignar el resultado de las evaluaciones correspondientes, conforme a lo señalado por el Reglamento de Evaluaciones de la Universidad.
+            La Oficina de Registros Académicos entregará a los profesores antes de las evaluaciones programadas el registro oficial de evaluación, donde deberán consignar el resultado de las evaluaciones correspondientes, conforme a lo señalado por el Reglamento de Evaluaciones de la Universidad. 
             <br><br>
-            El profesor deberá entregar a la Oficina de Registros Académicos los registros oficiales de evaluación, sin borrones ni enmendaduras, que hagan dudar la veracidad del documento, además de ser firmadas por el profesor responsable del curso en las fechas señaladas, caso contrario es sancionable con amonestación escrita.
+            El profesor deberá entregar a la Oficina de Registros Académicos los registros oficiales de evaluación, sin borrones ni enmendaduras, que hagan dudar de la veracidad del documento; además, los registros oficiales de evaluación deben ser firmados por el profesor responsable del curso en las fechas señaladas, caso contrario el profesor está sujeto a una amonestación escrita. 
             <br><br>
-            Las notas de los registros entregados a la Oficina de Registros Académicos son inmodificables y sobre las mismas se colocarán un precintando especial de seguridad.
+            Las notas de los registros entregados a la Oficina de Registros Académicos son inmodificables y sobre las mismas se colocará un precinto especial de seguridad.
             </p>
             <br>
 
             <b>Artículo 12</b>.- De las actas
             <p class="text-fix-style">
-            De acuerdo a las notas consignadas en los registros oficiales de evaluación, la Oficina de Registros Académicos elaborará las actas de notas impresas desde el sistema, las cuales son alcanzadas a los profesores para su firma, seguidamente son firmadas por el Jefe de la Oficina de Registros Académicos y finalmente por el Decano de la Facultad.
+            De acuerdo a las notas consignadas en los registros oficiales de evaluación, la Oficina de Registros Académicos elaborará las actas de notas impresas desde el sistema, las cuales son alcanzadas a los profesores para su firma, seguidamente son firmadas por el Jefe de la Oficina de Registros Académicos y finalmente por el Decano de la Facultad. 
             <br>
-            Al término del semestre o año académico, la Oficina de Registros Académicos deberá cuidadosamente empastar las Actas por ciclos con el rótulo del período lectivo correspondiente.
+            Al término del semestre o año académico, la Oficina de Registros Académicos deberá cuidadosamente empastar las actas por ciclos con el rótulo del período lectivo correspondiente.
             </p>
 
            

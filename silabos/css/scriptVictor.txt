@@ -1,0 +1,3 @@
+
+
+ir archivo al cual listar  / abrir el cmd / dir/b>list.txt

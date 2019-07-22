@@ -18,12 +18,12 @@
                                   
                                  
                                       <ul class="ml-5 mr-1 fix-items-li">
-                                          <li>El Retiro de Ciclo procede para los alumnos que, habiendo efectuado el proceso de matrícula, solicitan no continuar sus estudios, pudiendo realizarse hasta cuarenta y cinco (45) días siguientes luego de iniciadas las clases, previa solicitud y pago por el derecho correspondiente.</li>
-                                          <li>Los alumnos que se encuentren inmersos en Compromiso de Excepción, no pueden realizar Retiro de Ciclo.</li>
-                                          <li>El retiro de ciclo se aprueba por Resolución Decanal; aprobado el proceso se procede a retirar al alumno de todos los Registros de Evaluación de los cursos en los cuales se matriculó, a fin de que los profesores no le consignen notas y consecuentemente no figuren en las respectivas Actas de Notas. No procede devolución de los pagos efectuados.</li>
-                                          <li>El alumno acreditará su Retiro de Ciclo con la Constancia respectiva.</li>
+                                          <li>EL retiro del ciclo procede para los alumnos que, habiéndose matriculado solicitan no continuar sus estudios. El retiro de ciclo puede efectuarse hasta cuarenta y cinco (45) días luego de iniciadas las clases; en cuyo caso el alumno deberá presentar la solicitud y el pago correspondiente</li>
+                                          <li>Los alumnos que se encuentren inmersos en Compromiso de Excepción, no pueden realizar retiro de ciclo.</li>
+                                          <li>El retiro de ciclo se aprueba por Resolución Decanal; aprobado el proceso se procede a retirar al alumno de todos los registros de evaluación de los cursos en los cuales se matriculó, a fin de que los profesores no le consignen notas y consecuentemente no figuren en las respectivas Actas de Notas. No procede devolución de los pagos efectuados.</li>
+                                          <li>El alumno acreditará su retiro de ciclo con la constancia respectiva.</li>
                                           <li>Luego del trámite, la Oficina de Tesorería no emitirá recibos de pensiones posteriores.</li>
-                                          <li>El alumno, al momento de reincorporarse a su Facultad o Escuela, debe presentar la Constancia correspondiente para actualizar su matrícula.</li>
+                                          <li>El alumno, al momento de reincorporarse a su facultad o escuela, debe presentar la constancia correspondiente para actualizar su matrícula.</li>
                                       </ul>
                                
 
@@ -33,11 +33,11 @@
                                   
                                   
                                     <ul class="ml-5 fix-items-li">
-                                      <li>Solicitud valorada dirigida.</li>
-                                      <li>Recibo por el derecho, cancelado.</li>
-                                      <li>Constancia de Matrícula.</li>
-                                      <li>No estar inmerso en Compromiso de Excepción.</li>
-                                      <li>Documento que sustente el retiro.</li>
+                                      <li>Solicitud valorada dirigida</li>
+                                      <li>Recibo por el derecho cancelado</li>
+                                      <li>Constancia de matrícula</li>
+                                      <li>No estar inmerso en Compromiso de Excepción</li>
+                                      <li>Documento que sustente el retiro</li>
                                     </ul>
                                  
       </div>

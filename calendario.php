@@ -36,276 +36,416 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('https://usmp.edu.pe/fia/img/bg-img/calendario.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('https://usmp.edu.pe/fia/img/bg-img/calendario.jpg');"/>
      
     </div>
     <!-- ##### Breadcumb Area End ##### -->
 
-    <!-- ##### Top Popular Courses Area Start ##### -->
+
+
+  
 
     <div class="container" style='margin-top:120px; ' >
       <div class="row">
           <div class="col-12">
                 <h2  class="title-general-fix">
-                       CALENDARIO DE ACTIVIDADES
+                Calendario Académico de Alumnos Ingresantes 2019 - II
                 </h2>
             </div>
         </div> 
     </div>
 
 
+ <!-- AlUMNOS INGRESANTES --->
+
     <section class="about-us-area mt-4 ">
         <div class="container">
             <div class="row">
+
+                <!-- opciones de MENUS INGRESANTES -->
                 <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
-					<div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                        
-                        <a class="nav-link  active" id="nav-horarios-tab" data-toggle="pill" href="#nav-horarios" role="tab" aria-controls="nav-horarios" aria-selected="false">Horarios Ingresantes - Regulares</a>
+					
+                    <div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                
+                        <a class="nav-link active" id="nav-ingresantes-tab" data-toggle="pill" href="#nav-ingresantes" role="tab" aria-controls="nav-ingresantes" aria-selected="true">Calendario Alumnos Ingresantes 2019-II</a>
 
-                        <a class="nav-link " id="nav-regulares-tab" data-toggle="pill" href="#nav-regulares" role="tab" aria-controls="nav-regulares" aria-selected="true">Calendario Alumnos Regulares</a>
+                          <a class="nav-link ult-item " id="nav-horarios-ing-tab" data-toggle="pill" href="#nav-horarios-ing" role="tab" aria-controls="nav-horarios-ing" aria-selected="false">Horarios - Ingresantes 2019-II</a>	
+                      </div>
 
-                        
-                        <a class="nav-link  " id="nav-ingresantes-tab" data-toggle="pill" href="#nav-ingresantes" role="tab" aria-controls="nav-ingresantes" aria-selected="false">Calendario Alumnos Ingresantes</a>
-
-                        <a class="nav-link ult-item " id="nav-calendario-tab" data-toggle="pill" href="#nav-calendario" role="tab" aria-controls="nav-calendario" aria-selected="false">Calendario Académico 2019-II</a>
-                        
-                       
-		
-                     
-
-                        
-                      
-					</div>
                 </nav>
 
 
-                <!-- CONTENIDO TAB  regulares -->
-				<div class="col-md-9 tab-content" id="nav-tabContent " >
+                
+                <div class="col-md-9 tab-content" id="nav-tabContent" >
 
-					<div class="tab-pane fade show active" id="nav-horarios" role="tabpanel" aria-labelledby="nav-horarios-tab" >
-                    
-                            <div class="row">
-                                <div  class="col-md-12">
-                                    <h3 class="subtitle-general-fix" >
-                                    Horarios Ciclo Regular 2019-I
-                                    </h3>
-
-                                   
-                                </div>
-                            </div>
-
-
-
-                            <div class="row  mb-2 mt-3">
-                               
-                                <div class="col-12 col-md-4 font-mode fix-height"  >
-                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen text-center"  >Ingeniería de Computación y Sistemas</h5>
-                                        <a  href="https://usmp.edu.pe/fia/pdf/horarios/sistemas.pdf" target="_blank" class="text-link-gen">Ver más</a>
-                                       
-                                    </div>
-                                </div>
-
-                               
-                                <div class="col-12 col-md-4 font-mode fix-height"  >
-                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen text-center"  >Ingeniería Civil</h5>
-                                        <a  href="https://usmp.edu.pe/fia/pdf/horarios/civil.pdf" target="_blank" class="text-link-gen">Ver más</a>
-                                       
-                                    </div>
-                                </div>
-                            
-                                <div class="col-12 col-md-4 font-mode fix-height"  >
-                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen text-center"  >Ingeniería Industrial</h5>
-                                        <a  href="https://usmp.edu.pe/fia/pdf/horarios/industrial.pdf" target="_blank" class="text-link-gen">Ver más</a>
-                                       
-                                    </div>
-                                </div>
-
-                                
-
-                            </div>
-
-                            <div class="row  mb-5 mt-3">
-                              
-                                <div class="col-12 col-md-4 font-mode"  >
-                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen text-center"  >Ciencias Aeronáuticas</h5>
-                                        <a  href="https://usmp.edu.pe/fia/pdf/horarios/aeronauticas.pdf" target="_blank" class="text-link-gen">Ver más</a>
-                                       
-                                    </div>
-                                </div>
-
-                               
-                                <div class="col-12 col-md-4 font-mode"  >
-                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                                        <h5 class="text-info-gen text-center"  >Arquitectura</h5>
-                                        <a  href="https://usmp.edu.pe/fia/pdf/horarios/arquitectura.pdf" target="_blank" class="text-link-gen">Ver más</a>
-                                       
-                                    </div>
-                                </div>
-                            
-                               
-
-                                
-
-                            </div>
-
-                    
-                         
-
-            
-
-                    </div>               
-               
-                    <!-- FIN CONTENIDO regulares -->
-
-
-                    <!-- Contendio ingresantes -->
-
-				    
-
-                   <!-- FIN Contendio Tab Perfil ingresantess -->
-
-                   
-
-                    <!-- Contenido tab Organización plan de Estudios --> 
-
-
-                    <div class="tab-pane fade" id="nav-regulares" role="tabpanel" aria-labelledby="nav-regulares-tab">
-                        
-                            <div class="row">
-                                <div  class="col-md-12 mb-30">
-                                    <h3 class="subtitle-general-fix" >
-                                    Calendario Académico de Alumnos Regulares
-
-                                    </h3>
-
-                                    <ul>
-                                        <li> 
-                                            <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/calendario.pdf" target="_blank"> - Calendario Académico   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/fechas_matricula.pdf" target="_blank"> - Fechas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/directivas_matricula.pdf" target="_blank"> -  Directivas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                        <li> 
-                                            <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula     <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                         <li > 
-                                            <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/Carta_Permanencia.pdf" target="_blank"> - Carta de Permanencia     <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                         <hr>
-                                         <li class="subtitle-general-fix"> 
-                                             <b style="color:#585857;">Relación del Buen Pagador por Escuela  :   </b>
-                                         </li>
-                                         
-                                         
-                                            <li>
-                                                <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_arquitectura.pdf" target="_blank">- Arquitectura <i class="fa fa-file-pdf-o"></i></a></a>  <br>
-                                                <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_ccaa.pdf" target="_blank">- Ciencias Aeronáuticas <i class="fa fa-file-pdf-o"></i></a></a> <br>
-                                                <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_civil.pdf" target="_blank">- Ingeniería Civil <i class="fa fa-file-pdf-o"></i></a></a> <br>
-                                                <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_industrial.pdf" target="_blank">- Ingeniería Industrial <i class="fa fa-file-pdf-o"></i></a></a> <br>
-                                                <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_sistemas.pdf" target="_blank">- Ingeniería de Computación y Sistemas <i class="fa fa-file-pdf-o"></i></a></a>
-                                            </li>
-                                            
-
-                                        
-
-
-                                    </ul>
-
-                        
-                                </div>
-                            </div>
-                            
-                       
-                    </div>
-
-                     <!-- FIN Contenido tab Organización plan de Estudios --> 
-
-                                
-
-
-                    <div class="tab-pane fade" id="nav-ingresantes" role="tabpanel" aria-labelledby="nav-ingresantes-tab">
+                    <!-- MENU  INGRESANTES   CALENDARIO  -->
+                    <div class="tab-pane fade  active show"  id="nav-ingresantes" role="tabpanel" aria-labelledby="nav-ingresantes-tab">
                         
                         <div class="row">
                             <div  class="col-md-12 mb-30">
+                            
                                 <h3 class="subtitle-general-fix" >
                                 Calendario Académico de Alumnos Ingresantes
                                 </h3>
 
                                 <ul>
                                     <li> 
-                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/ingresantes/calendario_academico.pdf" target="_blank"> - Calendario Académico    <i class="fa fa-file-pdf-o"></i></a>
-                                     </li>
+                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/calendario2019/CALENDARIO-ACAD-2019-II-INGRESANTES.pdf" target="_blank"> - Calendario Académico    <i class="fa fa-file-pdf-o"></i></a>
+                                    </li>
                                     <li> 
                                         <a class="link" href="https://usmp.edu.pe/fia/pdf/ingresantes/directivas_matricula.pdf" target="_blank"> - Directivas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
-                                     </li>
+                                    </li>
                                     <li> 
                                         <a class="link" href="https://usmp.edu.pe/fia/pdf/ingresantes/croquis_FIA.pdf" target="_blank"> -  Croquis FIA   <i class="fa fa-file-pdf-o"></i></a>
-                                     </li>
-                                    <li> 
-                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/ingresantes/guia_matricula.pdf" target="_blank"> - Material para ingresantes - Guía de matrícula    <i class="fa fa-file-pdf-o"></i></a>
-                                     </li>
-                                     <li> 
-                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/ingresantes/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula <i class="fa fa-file-pdf-o"></i></a>
-                                     </li>
+                                    </li>
+                                  
                                 </ul>
 
-                    
-                            
+
+
                             </div>
                         </div>
 
-                        </div> <!-- GG -->
-                              <!-- FIN Contenido tab Organización plan de Estudios --> 
+                    </div> 
+
+
+                    <!-- FIN MENU  INGRESANTES   CALENDARIO  -->
+
+
+                    <!--  MENU HORARIOS INGRESANTES--->
+                    <div class="tab-pane fade" id="nav-horarios-ing" role="tabpanel" aria-labelledby="nav-horarios-ing-tab" >
+                    
+                        <div class="row">
+                            <div  class="col-md-12">
+                                <h3 class="subtitle-general-fix" >
+                                Horarios Ingresantes 2019-II
+                                </h3>
 
                                 
-                     
-
-                    <div class="tab-pane fade" id="nav-calendario"  role="tabpanel" aria-labelledby="nav-calendario-tab">
-                        
-                        <div class="row">
-                            <div  class="col-md-12 mb-30">
-                                <h3 class="subtitle-general-fix" >
-                                Calendario Académico 2019-II (Regulares)
-                                </h3>
-
-                                <ul>
-                                    <li> 
-                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/calendario2019/CALENDARIO-ACAD-2019-II-ALUM-REGULARES.pdf" target="_blank"> - Calendario Académico    <i class="fa fa-file-pdf-o"></i></a>
-                                     </li>
-                                  
-                                </ul>
-
-                                <h3 class="subtitle-general-fix" >
-                                Calendario Académico 2019-II (Ingresantes)
-                                </h3>
-
-                                <ul>
-                                    <li> 
-                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/calendario2019/CALENDARIO-ACAD-2019-II-INGRESANTES.pdf" target="_blank"> - Calendario Académico    <i class="fa fa-file-pdf-o"></i></a>
-                                     </li>
-                                  
-                                </ul>
-
-                    
-                            
                             </div>
                         </div>
+
+
+                        <div class="row  mb-2 mt-3">
+                            
+                            <div class="col-12 col-md-4 font-mode fix-height"  >
+                                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                    <h5 class="text-info-gen text-center"  >Ingeniería de Computación y Sistemas</h5>
+                                    <a  href="https://usmp.edu.pe/fia/pdf/horarios/sistemas_ingresantes.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                    
+                                </div>
+                            </div>
+
+                            
+                            <div class="col-12 col-md-4 font-mode fix-height"  >
+                                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                    <h5 class="text-info-gen text-center"  >Ingeniería Civil</h5>
+                                    <a  href="https://usmp.edu.pe/fia/pdf/horarios/civil_ingresantes.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                    
+                                </div>
+                            </div>
                         
-                   
-                     </div>
+                            <div class="col-12 col-md-4 font-mode fix-height"  >
+                                <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                    <h5 class="text-info-gen text-center"  >Ingeniería Industrial</h5>
+                                    <a  href="https://usmp.edu.pe/fia/pdf/horarios/industrial_ingresantes.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                    
+                                </div>
+                            </div>
+
+                            
+
+                        </div>
+
+
+
+                        <div class="row  mb-5 mt-3">
+                          
+                          <div class="col-12 col-md-4 font-mode"  >
+                              <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                  <h5 class="text-info-gen text-center"  >Ciencias Aeronáuticas</h5>
+                                  <a  href="https://usmp.edu.pe/fia/pdf/horarios/aeronauticas_ingresantes.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                  
+                              </div>
+                          </div>
+
+                          
+                          <div class="col-12 col-md-4 font-mode"  >
+                              <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                  <h5 class="text-info-gen text-center"  >Arquitectura</h5>
+                                  <a  href="https://usmp.edu.pe/fia/pdf/horarios/arquitectura_ingresantes.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                  
+                              </div>
+                          </div>
+                      
+                              
+
+                            </div>
+
+
+
+
+
+                    </div>
+
+                    <!-- FIN MENU HORARIOS INGRESANTES -->
+
+                </div>               
+       
+          
+            </div>
+
+                
+                
+
+        </div> <!-- GG -->
+    </section>
+
+
+<!-- FIN ALUMNOS INGRESANTES -->
+
+
+
+<!--  ---------------------------------   FIX CONTENIDOOO   --------------------------->
+
+
+    
+<!-- ALUMNOS REGULARES -->
+
+<div class="container mt-4"  >
+      <div class="row">
+          <div class="col-12">
+                <h2  class="title-general-fix">
+                Calendario Académico de Alumnos Regulares 2019 - II
+                </h2>
+            </div>
+        </div> 
+    </div>
+
+
+
+    <section class="about-us-area">
+        
+        <div class="container">
+          <div class="row">
+                <nav class="col-md-3 menu-tabs " style="margin-bottom:20px;">
+                    <div  class="nav flex-column fixBorder nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+
+                        <a class="nav-link active" id="nav-calendario-tab" data-toggle="pill" href="#nav-regulares" role="tab" aria-controls="nav-regulares" aria-selected="true">Calendario Alumnos Regulares</a>     
+
+                        <a class="nav-link ult-item" id="nav-horarios-tab" data-toggle="pill" href="#nav-horarios" role="tab" aria-controls="nav-horarios" aria-selected="false">Horarios - Regulares </a>
+                                
+                    </div>
+                </nav>
+
+
+                <!-- CONTENIDO TAB  regulares -->
+               
+                <div class="col-md-9 tab-content" id="nav-tabContent" >
+                    <div class="tab-pane fade active show" id="nav-regulares" role="tabpanel" aria-labelledby="nav-regulares-tab">
+                            
+                        <div class="row">
+
+                            <div  class="col-md-9 mb-30">
+                                
+                                <h3 class="subtitle-general-fix" >
+                                
+                                Calendario Académico de Alumnos Regulares
+
+                                </h3>
+
+                                <ul>
+                                  
+                                    <li> 
+                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/calendario2019/CALENDARIO-ACAD-2019-II-ALUM-REGULARES.pdf" target="_blank"> - Calendario Académico    <i class="fa fa-file-pdf-o"></i></a>
+                                    </li>
+                                  
+                                    <li> 
+                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/fechas_matricula.pdf" target="_blank"> - Fechas de Matrícula   <i class="fa fa-file-pdf-o"></i></a>
+                                    </li>
+                                      
+
+                                    <li> 
+                                        <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/orientacion_matricula.pdf" target="_blank"> - Orientación de Matrícula     <i class="fa fa-file-pdf-o"></i></a>
+                                    </li>                                 
+                                </ul>
+
+                                <ul>
+                                    <li class="subtitle-general-fix"> 
+                                        <b style="color:#585857;">Relación del Buen Pagador por Escuela  :   </b>
+                                    </li>
+                                      
+                                      
+                                      <li>
+                                          <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_arquitectura.pdf" target="_blank">- Arquitectura <i class="fa fa-file-pdf-o"></i></a>  <br>
+                                          <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_ccaa.pdf" target="_blank">- Ciencias Aeronáuticas <i class="fa fa-file-pdf-o"></i></a> <br>
+                                          <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_civil.pdf" target="_blank">- Ingeniería Civil <i class="fa fa-file-pdf-o"></i></a><br>
+                                          <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_industrial.pdf" target="_blank">- Ingeniería Industrial <i class="fa fa-file-pdf-o"></i></a> <br>
+                                          <a class="link" href="https://usmp.edu.pe/fia/pdf/regular/pagador_sistemas.pdf" target="_blank">- Ingeniería de Computación y Sistemas <i class="fa fa-file-pdf-o"></i></a>
+                                      </li>
+      
+                                </ul>
+
+                            </div>
+                            
+                        </div>
+                            
+                      
+                    </div>
+
+                    <div class="tab-pane fade " id="nav-horarios" role="tabpanel" aria-labelledby="nav-horarios-tab" >
+                
+                          <div class="row">
+                              <div  class="col-md-12">
+                                  <h3 class="subtitle-general-fix" >
+                                  Horarios Ciclo Regular 2019-II
+                                  </h3>        
+                              </div>
+                          </div>
+
+                          <div class="row  mb-2 mt-3">
+                            
+                              <div class="col-12 col-md-4 font-mode fix-height"  >
+                                  <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                      <h5 class="text-info-gen text-center"  >Ingeniería de Computación y Sistemas</h5>
+                                      <a  href="https://usmp.edu.pe/fia/pdf/horarios/sistemas.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                    
+                                  </div>
+                              </div>
+
+                            
+                              <div class="col-12 col-md-4 font-mode fix-height"  >
+                                  <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                      <h5 class="text-info-gen text-center"  >Ingeniería Civil</h5>
+                                      <a  href="https://usmp.edu.pe/fia/pdf/horarios/civil.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                    
+                                  </div>
+                              </div>
+                          
+                              <div class="col-12 col-md-4 font-mode fix-height"  >
+                                  <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                      <h5 class="text-info-gen text-center"  >Ingeniería Industrial</h5>
+                                      <a  href="https://usmp.edu.pe/fia/pdf/horarios/industrial.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                    
+                                  </div>
+                              </div>
+
+                              
+
+                          </div>
+
+                          <div class="row  mb-5 mt-3">
+                            
+                              <div class="col-12 col-md-4 font-mode"  >
+                                  <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                      <h5 class="text-info-gen text-center"  >Ciencias Aeronáuticas</h5>
+                                      <a  href="https://usmp.edu.pe/fia/pdf/horarios/aeronauticas.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                    
+                                  </div>
+                              </div>
+
+                            
+                              <div class="col-12 col-md-4 font-mode"  >
+                                  <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                      <h5 class="text-info-gen text-center"  >Arquitectura</h5>
+                                      <a  href="https://usmp.edu.pe/fia/pdf/horarios/arquitectura.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                    
+                                  </div>
+                              </div>
+                          
+
+
+                          </div>
+
+                          <div class="col-md-9 tab-content" id="nav-tabContent2 " >
+
+                              <div class="tab-pane fade " id="nav-horarios" role="tabpanel" aria-labelledby="nav-horarios-tab" >
+                                
+                                  <div class="row">
+                                      <div  class="col-md-12">
+                                          <h3 class="subtitle-general-fix" >
+                                          Horarios Ciclo Regular
+                                          </h3>
+
+                                          
+                                      </div>
+                                  </div>
+
+
+
+                                  <div class="row  mb-2 mt-3">
+                                      
+                                      <div class="col-12 col-md-4 font-mode fix-height"  >
+                                          <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                              <h5 class="text-info-gen text-center"  >Ingeniería de Computación y Sistemas</h5>
+                                              <a  href="https://usmp.edu.pe/fia/pdf/horarios/sistemas.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                              
+                                          </div>
+                                      </div>
+
+                                      
+                                      <div class="col-12 col-md-4 font-mode fix-height"  >
+                                          <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                              <h5 class="text-info-gen text-center"  >Ingeniería Civil</h5>
+                                              <a  href="https://usmp.edu.pe/fia/pdf/horarios/civil.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                              
+                                          </div>
+                                      </div>
+                                  
+                                      <div class="col-12 col-md-4 font-mode fix-height"  >
+                                          <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                              <h5 class="text-info-gen text-center"  >Ingeniería Industrial</h5>
+                                              <a  href="https://usmp.edu.pe/fia/pdf/horarios/industrial.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                              
+                                          </div>
+                                      </div>
+
+                                      
+
+                                  </div>
+
+                                  <div class="row  mb-5 mt-3">
+                                    
+                                      <div class="col-12 col-md-4 font-mode"  >
+                                          <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                              <h5 class="text-info-gen text-center"  >Ciencias Aeronáuticas</h5>
+                                              <a  href="https://usmp.edu.pe/fia/pdf/horarios/aeronauticas.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                              
+                                          </div>
+                                      </div>
+
+                                      
+                                      <div class="col-12 col-md-4 font-mode"  >
+                                          <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                              <h5 class="text-info-gen text-center"  >Arquitectura</h5>
+                                              <a  href="https://usmp.edu.pe/fia/pdf/horarios/arquitectura.pdf" target="_blank" class="text-link-gen">Ver más</a>
+                                              
+                                          </div>
+                                      </div>
+                                  
+                                      
+
+                                      
+
+                                  </div>
+
+
+
+                              </div>               
+              
+                      </div>
 
                      <!--   FIN Contenido tab Organización plan de Estudios -->  
                 
 
-            </div> <!-- GG -->
+                </div> <!-- GG -->
+          </div>
+        
+        
+        </div>
     </section>
+
+
 
     <footer class="footer-area">
        

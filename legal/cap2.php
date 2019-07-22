@@ -74,12 +74,12 @@
             <br><br>
             <b>Artículo 22</b>.- Naturaleza
             <p class="text-fix-style">
-            Son alumnos ingresantes a través del concurso ordinario de admisión, aquellos que luego de rendir un examen de conocimientos y aptitud académica, han aprobado y obtenido un lugar dentro de las vacantes establecidas por la Universidad.
+            Son alumnos ingresantes a través del concurso ordinario de admisión, aquellos que luego de rendir un examen de conocimientos y aptitud académica, han aprobado y obtenido un lugar dentro de las vacantes establecidas por la universidad. 
             <br>
             <br>
-            Concordancias: Artículo 55º de la Ley Universitaria Nro. 23733 
+            Concordancias: artículo 55º de la Ley Universitaria Nro. 23733 
             <br>
-            Artículo 113º del Estatuto Universitario
+            Artículo 113º del Estatuto Universitario 
             <br>
             <br>
             <br>
@@ -90,9 +90,9 @@
             </p>
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>Constancia de Ingreso a la Universidad.</li>
-                    <li>Recibo por Derecho de Matrícula cancelado y registrado en Tesorería.</li>
-                    <li>Recibo de pago de la 1ra cuota, cancelado y registrado en Tesorería .</li>
+                    <li>Constancia de Ingreso a la Universidad</li>
+                    <li>Recibo por derecho de matrícula cancelado y registrado en Tesorería</li>
+                    <li>Recibo de pago de la primera cuota, cancelado y registrado en Tesorería</li>
                 </ul>
             </div>
             <br>
@@ -100,20 +100,20 @@
 
             <b>Artículo 24</b>.- Del trámite de la matrícula
             <p class="text-fix-style">
-            El trámite de matrícula para los alumnos ingresantes a través del concurso ordinario de admisión, es el siguiente:
+            El trámite de matrícula para los alumnos ingresantes a través del concurso ordinario de admisión, es el siguiente: 
             <br>
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>Cumplir con los requisitos que establece el artículo 23º del presente reglamento a la Oficina de Registros Académicos, dentro de las fechas establecidas.</li>
-                    <li>El personal responsable de la Oficina de Registros Académicos, ingresará automáticamente al momento de la matrícula los datos del alumno al sistema computarizado, otorgándole su Ficha de Matrícula.</li>
-                    <li>La Ficha de Matrícula, deberá ser firmada y revisada por el propio alumno, a fin de que el personal responsable de la Oficina de Registros Académicos la autorice con su firma.</li>
+                    <li>Cumplir dentro de las fechas establecidas con los requisitos que establece el artículo 23º del presente reglamento</li>
+                    <li>El personal responsable de la Oficina de Registros Académicos, ingresará automáticamente al sistema computarizado los datos del alumno al momento de la matrícula. Acto seguido, le otorgará al alumno su Ficha de Matrícula.</li>
+                    <li>•	La Ficha de Matrícula deberá ser firmada y revisada por el propio alumno a fin de evitar errores. Acto seguido, el personal responsable de la Oficina de Registros Académicos autorizará la Ficha de Matrícula con su firma.</li>
                 </ul>
             </div>
             <br>
             <br>
             <b>Artículo 25</b>.- De la obligatoriedad de la matrícula
             <p class="text-fix-style">
-            Los alumnos ingresantes por concurso ordinario de admisión, están obligados a matricularse en todas las asignaturas del primer ciclo o año de estudios.
+            Los alumnos ingresantes por concurso ordinario de admisión están obligados a matricularse en todas las asignaturas del primer ciclo o año de estudios.
             </p>
 
            

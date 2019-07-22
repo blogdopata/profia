@@ -1,0 +1,176 @@
+ 
+@font-face {
+	font-family: 'AmericanCaptain';
+    src: url('fonts/original_AmericanCaptain.eot?#iefix') format('embedded-opentype'), 
+         url('fonts/original_AmericanCaptain.woff') format('woff'),
+         url('fonts/original_AmericanCaptain.ttf') format('truetype'),
+         url('fonts/original_AmericanCaptain.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body{
+	font-family:'AmericanCaptain' !important; 
+}
+
+
+
+#cab {
+
+	  background-color:#7D062E;
+
+}
+  .row {
+
+padding-right: 2.5em;
+padding-left: 2.5em;
+
+  }
+
+  
+
+  body {
+  	overflow-x: hidden;
+  }
+
+@media (min-width: 468px ){
+  
+#tx{
+
+  font-size: 150%
+  }
+}
+@media (min-width: 1200px ){
+  #espacio{
+    padding-bottom: 5em;}
+}
+@media (max-width: 468px ){
+#texto{
+  font-size: 100%
+  }
+}
+
+@media (max-width: 768px) {
+  #texto{
+  font-size:150%;
+  }
+}
+
+@media (min-width: 768px) {
+
+  #texto {
+  	font-size:200%;
+	font-family: 'AmericanCaptain';
+    text-align: center;
+
+}
+
+
+
+#im{
+	height:7em ;
+}
+
+
+	#tx{
+font-family:'AmericanCaptain';
+font-size:200%;
+display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+  }
+
+  hr {
+  	margin-left: 5em;
+  	margin-right: 5em;
+  	font-size: 1em;
+  }
+
+#bx{
+
+margin-bottom: 0.25em;
+margin-top: 0.25em;
+font-family:'AmericanCaptain';
+
+
+}
+
+#acar{
+	background-color: #E6E6E6;
+	font-size: 1.25em;
+	font-color: #333333;
+	border-color: black;
+
+	width: 245px;
+	height: 75px;
+	display: inline-block;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+
+
+}
+
+a {
+	color:#333333;
+}
+
+a:hover{
+color:#7D062E;
+}
+
+#ima {
+
+  margin: 0 auto;
+
+}
+
+
+@media (max-width: 768px) {
+
+#ima {
+
+}
+}
+
+#ft {
+  background-color:#2F3035;
+  position: relative;
+}
+
+#ftx {
+  font-size: 0.85em;
+
+}
+
+/*----------------------------------------------------------*/
+footer
+{
+
+    box-sizing: border-box;
+-moz-box-sizing: border-box;
+}
+
+html {
+ height: 100%;
+
+}
+ 
+body {
+    margin: 0 auto 0; 
+  }
+footer {
+    position: fixed;
+  
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+    left: 0; bottom: 0; width: 100%;
+  }
+
+#ftx{
+  font-family: arial;
+}

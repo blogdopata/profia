@@ -91,7 +91,7 @@
                             <div class="row">
                                 <div  class="col-md-12">
                                     <h3 class="subtitle-general-fix" >
-                                        Cronograma 2019 - I 
+                                        Cronograma 2019
                                     </h3>
 
                                     <p  class="text-fix-content">
@@ -122,7 +122,7 @@
                                     </div>
                                 </div>
 
-                               
+                               <!--
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Inicio de Clases</h5>
@@ -130,6 +130,18 @@
                                        
                                     </div>
                                 </div>
+                                -->
+                                
+                                <div class="col-12 col-md-4 font-mode"  >
+                                    <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
+                                        <h5 class="text-info-gen"  >Cronograma de Evaluaciones</h5>
+                                        <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronograma_practicas_evaluaciones.pdf" class="text-link-gen">Cronograma</a>
+                                       
+                                    </div>
+                                </div>
+                                
+
+                                
                             
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
@@ -161,7 +173,7 @@
                                        
                                     </div>
                                 </div>
-                            
+                            <!--
                                 <div class="col-12 col-md-4 font-mode"  >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Prácticas y Exámenes</h5>
@@ -170,7 +182,7 @@
                                     </div>
                                 </div>
 
-                                
+                                -->
 
                             </div>
 
@@ -197,11 +209,21 @@
 
                                  <ul>
                                         <li> 
+                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+
+                                         
+                                         <!--
+                                         <li> 
                                             <a href="pdf/calendario2019/rol/arquitectura.pdf" target="_blank"> - Rol de Examenes Finales :   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li> 
                                         <a href="pdf/calendario2019/rol/dev_arquitectura.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+                                         <li> 
+                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                         -->
                                         <!-- <li> 
                                             <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
                                         </li>
@@ -238,16 +260,26 @@
                                     <h3 class="subtitle-general-fix" >
                                        Escuela Profesional de Ingeniería Civil
                                     </h3>
+                                    <ul>
+                                    <li> 
+                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                         <!--
 
-                                         <ul>
+                                         
                                         <li> 
                                         <a href="pdf/calendario2019/rol/civil.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li> 
                                         <a href="pdf/calendario2019/rol/dev_civil.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+                                         <li> 
+                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                          -->
 
                                          </ul>
+
                                
                                 </div>
                             </div>
@@ -269,12 +301,22 @@
                                        Escuela Profesional de Ingeniería de Computación y Sistemas
                                     </h3>
                                     <ul>
+
+                                      <li> 
+                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+
+                                         <!--
                                         <li> 
                                         <a href="pdf/calendario2019/rol/sistemas.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li> 
                                         <a href="pdf/calendario2019/rol/dev_sistemas.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+                                         <li> 
+                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                         -->
 
                                          </ul>
 
@@ -299,12 +341,22 @@
                                     </h3>
 
                                     <ul>
+
+                                     <li> 
+                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+
+                                         <!--
                                         <li> 
                                         <a href="pdf/calendario2019/rol/industrial.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li> 
                                         <a href="pdf/calendario2019/rol/dev_industrial.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+                                         <li> 
+                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+                                         -->
 
                                          </ul>
                                 </div>
@@ -322,12 +374,23 @@
                                    </h3>
 
                                    <ul>
+
+                                    <li> 
+                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+
+                                    <!--
                                         <li> 
                                         <a href="pdf/calendario2019/rol/aeronautica.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li> 
                                         <a href="pdf/calendario2019/rol/dev_aeronauticas.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+                                         <li> 
+                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
+                                         </li>
+
+                                         -->
 
                                          </ul>
                                </div>

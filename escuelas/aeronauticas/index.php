@@ -251,6 +251,39 @@
 
 <div class="col-md-8">
 <div class="container">
+<h3 class="subtitle-general-fix"> Juan Carlos Panduro Torres  </h3>		    
+
+</div>
+<div class="container mt-3">
+<p class="text-fix-content">
+Horas totales de vuelo: 2500 <br>
+Años en aviación: 12
+<br><br>
+Equipos Volados <br>
+<br>
+<b>Aviones:</b> Cessna 152, Cessna 172, Cessna 206, Cessna 205, Cessma 207, Zlin aircra 242, Embraer Tucano T27, Piper PA-34 Seneca
+
+</p>
+
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="container centrarimg">
+<img class="img-fluid" src="images/Juan_Panduro.jpg" alt="">
+</div>
+</div>
+
+
+
+</div>
+<!-- final de una fila-->
+<hr>                    
+<!-- inicio de una fila-->
+<div class="row">
+
+<div class="col-md-8">
+<div class="container">
 <h3 class="subtitle-general-fix"> Ivan Alarco Jeri </h3>		    
 
 </div>

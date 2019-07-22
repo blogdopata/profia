@@ -72,14 +72,16 @@
                         <!-- <a class="nav-link" id="nav-civil-tab" data-toggle="pill" href="#nav-civil" role="tab" aria-controls="nav-civil" aria-selected="false">Cronograma de la Sesión Académica de Invierno</a> -->
 
                         <a class="nav-link active" id="nav-informacion-tab" data-toggle="pill" href="#nav-informacion" role="tab" aria-controls="nav-informacion" aria-selected="true">Horarios por Escuelas Profesionales</a>
-
-                        <a class="nav-link  ult-item" id="nav-arquitectura-tab" data-toggle="pill" href="#nav-arquitectura" role="tab" aria-controls="nav-arquitectura" aria-selected="false">Ficha de Preinscripción</a>
-		
                         
 
+                        <!--<a class="nav-link" id="nav-arquitectura-tab" data-toggle="pill" href="#nav-arquitectura" role="tab" aria-controls="nav-arquitectura" aria-selected="false">Ficha de Preinscripción</a> -->
 
+                        <a class="nav-link" href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" role="tab" aria-selected="false" target="_blank">Cronograma</a>
 
-                      
+                         <a class="nav-link  ult-item" href="https://www.usmp.edu.pe/fia/silabos/" role="tab" aria-selected="false" target="_blank">Silabos</a>
+		
+                        
+                    
 
                         
                       
@@ -87,7 +89,7 @@
                 </nav>
 
 
-                <!-- CONTENIDO TAB  informacion -->
+                <!--CONTENIDO TAB  informacion -->
 				<div class="col-md-9 tab-content" id="nav-tabContent " >
 
 					<div class="tab-pane fade show active" id="nav-informacion" role="tabpanel" aria-labelledby="nav-informacion-tab" >

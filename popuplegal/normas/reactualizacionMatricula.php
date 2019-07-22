@@ -21,30 +21,30 @@
                             <h6 class="subtitle-general-fix mt-4">Artículo 1°</h6>
                             
                             <p class="text-fix-content">
-                            Entiéndase por Reactualización de Matrícula al acto académico-administrativo, mediante el cual el estudiante que hubiera dejado de estudiar y no haya reservado su matrícula, obtiene habilitación para poder matricularse como alumno regular en la Facultad o Escuela a la que corresponda.
+                            Entiéndase por reactualización de matrícula al acto académico administrativo mediante el cual el estudiante que dejó de estudiar sin realizar la reserva de su matrícula, obtiene la habilitación para poder matricularse como alumno regular en la facultad o escuela a la que corresponda.
                             </p>
                             
                             <h6 class="subtitle-general-fix mt-2">Artículo 2°</h6>
                             
                             <p class="text-fix-content">
-                            El procedimiento de Reactualización se inicia a petición de parte, con los requisitos establecidos, y culmina con una Resolución Decanal que resuelve aprobar la Reactualización de matrícula del estudiante y la convalidación y/o equivalencia de asignaturas a que hubiere lugar.
+                            El procedimiento de reactualización se inicia a petición de parte, con los requisitos establecidos, y culmina con una Resolución Decanal que resuelve aprobar la reactualización de matrícula del estudiante y la convalidación y/o equivalencia de asignaturas a que hubiere lugar.
                             </p>
                             
                             <h6 class="subtitle-general-fix mt-2">Artículo 3°</h6>
-                            <p class="text-fix-content">El estudiante presenta una solicitud en especie valorada y dirigida al decano, adjuntando :
+                            <p class="text-fix-content">El estudiante presenta una solicitud en especie valorada y dirigida al Decano, la solicitud debe llevar adjunta los siguientes documentos:
                             <ul class="fix-items-li ml-5">
-                            <li>Recibo de pago, cancelado, por derecho de reactualización de matrícula. </li>
-                            <li> Carta de Compromiso de continuar regularmente sus estudios.</li> </ul></p>
+                            <li>Recibo de pago cancelado por derecho de reactualización de matrícula </li>
+                            <li>Carta de Compromiso de continuar regularmente sus estudios</li> </ul></p>
                             
                             <h6 class="subtitle-general-fix mt-5">Artículo 4°</h6>
                             
                             <p class="text-fix-content">
-                            La Oficina de Registros Académicos evalúa la situación académica del estudiante, realiza las convalidaciones y/o equivalencias pertinentes, fija el Plan de Estudios y Ciclo Académico que le corresponde al alumno, de acuerdo con el currículo vigente.
+                            La Oficina de Registros Académicos evalúa la situación académica del estudiante y realiza las convalidaciones y/o equivalencias pertinentes. Asimismo, de acuerdo con el currículo vigente, fija el plan de estudios y el ciclo académico que le corresponde al alumno.
                             </p>
                             
                             <h6 class="subtitle-general-fix mt-2">Artículo 5°</h6>
                             
-                            <p class="text-fix-content">Con la información precedente, se expide la Resolución Decanal correspondiente. Recibida aquella por el alumno, procede matricularse siguiendo las normas de matrícula regular.</p>
+                            <p class="text-fix-content">Con la información precedente, se expide la Resolución Decanal correspondiente y se le entrega al alumno a efectos de que pueda matricularse  siguiendo las normas de matrícula regular.</p>
                             
                             <h6 class="subtitle-general-fix mt-2">Artículo 6°</h6>
                             
@@ -53,7 +53,7 @@
                             </p>
                             
                             <h6 class="subtitle-general-fix mt-2">Artículo 7°</h6>
-                            <p class="text-fix-content">El presente Reglamento entra en vigencia al día siguiente de ser aprobado por el Consejo Universitario. </p>
+                            <p class="text-fix-content">El presente reglamento entra en vigencia al día siguiente de ser aprobado por el Consejo Universitario. </p>
       </div>
       <div class="modal-footer">
         <small>Oficina de Registros Académicos</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>

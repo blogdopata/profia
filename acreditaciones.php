@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Entérate sobre todas nuestras acreditaciones. Tenemos más de 159 programas acreditados, tanto en pregrado como posgrado. Conoce más ingresando aquí.">
+    <meta name="keywords" content="Acreditaciones,ACREDITACIONES,acreditaciones" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>Acreditaciones | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/logousmp.ico">

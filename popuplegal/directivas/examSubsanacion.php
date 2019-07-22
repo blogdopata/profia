@@ -29,16 +29,16 @@
                           <br>
 
 
-                          El Examen de Subsanación procede con la autorización del Jefe del Departamento Académico cuando el alumno al concluir la vigencia de su Plan Curricular tiene desaprobadas hasta dos asignaturas o adeuda una o más que ya no ofrece la Facultad por cambio de currículo, debiendo tener como promedio mínimo siete (07).
+                          El examen de subsanación procede con la autorización del Jefe del Departamento Académico cuando el alumno al concluir la vigencia de su plan curricular tiene desaprobadas hasta dos asignaturas o adeuda una o más que ya no ofrece la facultad por cambio de currículo, debiendo tener como promedio mínimo siete (07). 
 
                           <br><br>
 
 
-                          Excepcionalmente, en la Facultad de Medicina Humana únicamente podrán rendir examen de subsanación aquellos alumnos que al concluir los estudios del Plan curricular deban uno o más cursos que no existan en el currículo vigente. Para aquellos alumnos que tengan asignaturas desaprobadas no procederá el examen de subsanación de las mismas.
+                          Excepcionalmente, en la Facultad de Medicina Humana podrán rendir examen de subsanación aquellos alumnos que al concluir los estudios del plan curricular deban uno o más cursos que no existan en el currículo vigente. Para aquellos alumnos que tengan asignaturas desaprobadas no procederá el examen de subsanación de las mismas. 
 
                           <br><br>
 
-                          La vigencia del trámite de los exámenes de subsanación es de dos (02) semestres académicos y/o años.
+                          La vigencia del trámite de los exámenes de subsanación es de dos (02) semestres académicos y/o años. 
 
                           <br><br>
 
@@ -46,15 +46,15 @@
 
                           <br><br>
 
-                          Para la subsanación de cursos el alumno del último ciclo o año de estudios deberá presentar una solicitud valorada, dirigida al Decano adjuntando los siguientes documentos:
+                          Para la subsanación de cursos el alumno del último ciclo o año de estudios deberá presentar una solicitud valorada, dirigida al Decano adjuntando los siguientes documentos: 
 
                           <br><br>
 
                           
                             <ul class="ml-5 mr-1 fix-items-li">
-                              <li>Constancia de Notas.</li>
-                              <li>Constancia de Tesorería (no tener deudas pendientes con la Universidad).</li>
-                              <li>Recibo por derecho de subsanación cancelado y registrado.</li>
+                              <li>Constancia de Notas</li>
+                              <li>Constancia de Tesorería (no tener deudas pendientes con la Universidad)</li>
+                              <li>Recibo por derecho de subsanación cancelado y registrado</li>
                             </ul>
 
 
@@ -65,8 +65,7 @@
 
                           <br><br>
 
-
-                          Los exámenes de subsanación se aprueban mediante Resolución Decanal, siendo el Departamento Académico el responsable de asignar los profesores para las evaluaciones correspondientes, quienes calificarán de cero (00) a veinte (20).
+                          Los exámenes de subsanación se aprueban mediante Resolución Decanal, siendo el Departamento Académico el responsable de asignar los profesores para las evaluaciones correspondientes, quienes calificarán de cero (00) a veinte (20). 
 
                           <br><br>
 

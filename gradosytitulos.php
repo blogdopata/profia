@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="La Oficina de Grados y Títulos orienta al estudiante o egresado que desee realizar trámites para la obtención de los grados académicos y títulos profesionales.">
+    <meta name="keywords" content="Grados y títulos,GRADOS Y TÍTULOS,grados y títulos,Grados y Titulos,grados,titulos,Grados,Títulos,GRADOS,TÍTULOS" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>Grados y Títulos | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/logousmp.ico">
@@ -87,9 +88,9 @@
 
                                         <dt><a href="" data-toggle="modal" data-target="#bachiller" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámites para el grado académico de Bachiller</span></a></dt>
 
-                                        <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/tramites-maestria.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Maestro</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#maestro" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Maestro</span></a></dt>
 
-                                        <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/tramites-doctorado.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Doctor</span></a></dt>
+                                        <dt><a href="" data-toggle="modal" data-target="#doctor" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámite Documentario para la obtención del Grado de Doctor</span></a></dt>
 
                                         <dt><a href="" data-toggle="modal" data-target="#titulo" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Trámites para el Título Profesional</span></a></dt>
 
@@ -202,6 +203,7 @@
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/trabajo_investigacion_2014_2.pdf">
                 <i class="fa fa-check"></i> Directiva de Trabajo de Investigación para obtener el grado académico de Bachiller (Ingresantes 2014-II).
             </a>
+
             </div>
         
         
@@ -254,6 +256,9 @@
             <a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/titulo/Suficiencia_profesional.pdf">
                 <i class="fa fa-check"></i> Manual para la elaboración del Trabajo de Suficiencia Profesional
             </a>
+            <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQql6hwo2XMlGnw-bTAT1Re1UQTlXMFgwUERQVVlEOVFaNVZKM1MzQjlGQy4u" target="_blank">
+                <i class="fa fa-check"></i> Formulario
+            </a>
             </div>
         
         
@@ -266,6 +271,91 @@
   </div>
 </div>
 <!--fin de modal-->  
+<!--inicio modal tramite maestro-->
+<div class="modal fade" id="maestro" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header popupheader">
+        <h5 style="color:white;" class="modal-title" id="exampleModalLabel">Grado académico de Maestro</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span style="color:white;" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
+        
+            <h2 class="modaltramite">Trámites para el grado académico de Maestro</h2>
+            
+            <br>
+            <br>
+
+            <div class="tramite">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/tramites-maestria.pdf" target="_blank">
+              <i class="fa fa-check"></i>  Requisitos y trámite documentario para la obtención del grado académico de Maestro
+            </a>        
+
+
+            <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQql6hwo2XMlGnw-bTAT1Re1UQTlXMFgwUERQVVlEOVFaNVZKM1MzQjlGQy4u"
+                target="_blank">
+                <i class="fa fa-check"></i> Formulario
+            </a>
+            
+
+            </div>
+        
+        
+      </div>
+      <div class="modal-footer">
+        <small>Guía de Trámites</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<!--fin de modal-->  
+
+
+<!--inicio modal tramite maestro-->
+<div class="modal fade" id="doctor" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header popupheader">
+        <h5 style="color:white;" class="modal-title" id="exampleModalLabel">Grado académico de Doctor</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span style="color:white;" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
+        
+            <h2 class="modaltramite">Trámites para el grado académico de Doctor</h2>
+            
+            <br>
+            <br>
+
+            <div class="tramite">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/tramites-doctorado.pdf" target="_blank">
+              <i class="fa fa-check"></i>  Requisitos y trámite documentario para la obtención del grado académico de Doctor
+            </a>        
+
+
+            <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQql6hwo2XMlGnw-bTAT1Re1UQTlXMFgwUERQVVlEOVFaNVZKM1MzQjlGQy4u"
+                target="_blank">
+                <i class="fa fa-check"></i> Formulario
+            </a>
+            
+
+            </div>
+        
+        
+      </div>
+      <div class="modal-footer">
+        <small>Guía de Trámites</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<!--fin de modal-->  
+
 
 <!--inicio modal tramite revalidacion-->
 <div class="modal fade" id="revalidacion" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

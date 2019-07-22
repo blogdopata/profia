@@ -1,0 +1,73 @@
+ El volumen de la unidad D no tiene etiqueta.
+ El n£mero de serie del volumen es: 461C-4889
+
+ Directorio de D:\Users\admin\Downloads\EPII-2018-II
+
+03/08/2018  03:09 p.m.    <DIR>          .
+03/08/2018  03:09 p.m.    <DIR>          ..
+03/08/2018  01:06 p.m.           140,196 1. Filosofia - 2018-II.pdf
+03/08/2018  01:06 p.m.           147,232 1. Geometr°a Anal°tica - 2018-II.pdf
+03/08/2018  01:05 p.m.           174,730 1. Ingles I - 2018-II.pdf
+03/08/2018  01:05 p.m.           151,920 1. Introducci¢n a la Ingenier°a - 2018-II.pdf
+03/08/2018  01:06 p.m.           144,566 1. Lenguaje - 2018-II.pdf
+03/08/2018  01:05 p.m.           159,205 1. Matem†tica Discreta - 2018-II.pdf
+03/08/2018  01:06 p.m.           154,599 1. MÇtodos de Estudio - 2018-II.pdf
+03/08/2018  01:06 p.m.           178,099 1. Realidad Nacional - 2018-II.pdf
+03/08/2018  03:08 p.m.           153,222 10. Gesti¢n de Pers y Leg Lab - 2018-I.pdf
+03/08/2018  03:08 p.m.           150,544 10. Manteniemiento, Seguridad y Salud Ocupacional - 2018-I.pdf
+03/08/2018  03:08 p.m.           170,121 10. Proyecto Final de Ingenier°a Industrial II - 2018-I.pdf
+03/08/2018  03:08 p.m.           142,958 10. êtica y Moral - 2018-II.pdf
+03/08/2018  01:06 p.m.           151,831 2. C†lculo I - 2018-II.pdf
+03/08/2018  01:06 p.m.           154,968 2. Dibujo y Dise§o Grafico - 2018-II.pdf
+03/08/2018  01:06 p.m.           174,391 2. Ingles II - 2018-II.pdf
+03/08/2018  01:06 p.m.           162,365 2. Introducci¢n a la Econom°a - 2018-II.pdf
+03/08/2018  01:06 p.m.           172,374 2. Introducci¢n a la Programaci¢n - 2018-II.pdf
+03/08/2018  01:06 p.m.           173,697 2. µlgebra Lineal - 2018-II.pdf
+03/08/2018  01:07 p.m.           166,556 3. Algoritmo y Estructura de Datos I - 2018-II.pdf
+03/08/2018  01:07 p.m.           155,002 3. C†lculo II - 2018-II.pdf
+03/08/2018  01:07 p.m.           159,312 3. Dise§o Industrial por Computador - 2018-II.pdf
+03/08/2018  01:04 p.m.           174,664 3. Estad°stica y Probabilidades I - 2018-II.pdf
+03/08/2018  01:05 p.m.           150,069 3. F°sica I - 2018-II.pdf
+03/08/2018  03:00 p.m.           152,720 4. Ecuaciones Diferenciales-2018-II.pdf
+03/08/2018  03:00 p.m.           159,496 4. Estad°stica y Probabilidades II - 2018-II.pdf
+03/08/2018  03:00 p.m.           146,038 4. F°sica II - 2018-II.pdf
+03/08/2018  03:00 p.m.           171,223 4. Microeconom°a - 2018-II.pdf
+03/08/2018  03:00 p.m.           130,791 4. Qu°mica Industrial - 2018-II.pdf
+03/08/2018  03:00 p.m.           170,825 5. Contabilidad General - 2018-II.pdf
+03/08/2018  03:00 p.m.           181,134 5. Ingenier°a Administrativa - 2018-II.pdf
+03/08/2018  03:00 p.m.           147,893 5. Ingenier°a ElÇctrica y Electr¢nica - 2018-I.pdf
+03/08/2018  02:59 p.m.           162,213 5. Materiales de Ingenier°a - 2018-I.pdf
+03/08/2018  02:59 p.m.           170,516 5. Mec†nica Aplicada - 2018-I.pdf
+03/08/2018  03:00 p.m.           119,131 6. IngenieriÔa de Procesos - 2018-I.pdf
+03/08/2018  02:59 p.m.           187,953 6. Ingenier°a de Costos - 2018-II.pdf
+03/08/2018  02:59 p.m.           165,067 6. Ingenier°a de MÇtodos I - 2018-I.pdf
+03/08/2018  03:00 p.m.           161,103 6. Investigac°on Operativa I - 2018-II.pdf
+03/08/2018  03:00 p.m.           168,406 6. Resistencia de Materiales - 2018-I.pdf
+03/08/2018  02:59 p.m.           151,085 7. Gesti¢n Financiera - 2018-II.pdf
+03/08/2018  03:00 p.m.           151,442 7. Ingenier°a de MÇtodos II - 2018-I.pdf
+03/08/2018  03:00 p.m.           167,879 7. Instrumentacion y Control Industrial - 2018-I.pdf
+03/08/2018  03:00 p.m.           151,377 7. Investigaci¢n Operativa II - 2018-I.pdf
+03/08/2018  03:00 p.m.           125,325 7. Mercadotecnia - 2018-I.pdf
+03/08/2018  03:00 p.m.           149,941 7. Proceso de Manufactura - 2018-I.pdf
+03/08/2018  03:00 p.m.           157,646 8. Automatizacion Industrial - 2018-I.pdf
+03/08/2018  03:00 p.m.           155,256 8. Control de Calidad - 2018-I.pdf
+03/08/2018  03:00 p.m.           151,723 8. Formulaci¢n y Evaluaci¢n de Proyectos - 2018-II.pdf
+03/08/2018  03:00 p.m.           131,650 8. Planeamiento y Control de la Producci¢n I - 2018-I.pdf
+03/08/2018  03:00 p.m.           132,012 8. Planeamiento y Cuadro de Mando Integral - 2018 - I.pdf
+03/08/2018  03:00 p.m.           154,955 8. Taller de Manufactura Moderna - 2018-I.pdf
+03/08/2018  03:00 p.m.           174,908 9. Dise§o de Sistemas de Producci¢n - 2018-I.pdf
+03/08/2018  02:59 p.m.           159,756 9. Planeamiento y Control de la Producci¢n II - 2018-I.pdf
+03/08/2018  02:59 p.m.           151,033 9. Proyecto Final de Ingenieria Industrial I - 2018-I.pdf
+03/08/2018  02:59 p.m.           134,830 9. Psicolog°a Industrial y Organizacional - 2018-I.pdf
+03/08/2018  02:59 p.m.           139,496 9. Total Quality Management TQM - 2018-I.pdf
+03/08/2018  03:08 p.m.           148,511 E. Comercio Exterior y Financiamiento - 2018-I.pdf
+03/08/2018  03:08 p.m.           167,698 E. Gesti¢n de la Cadena de Subministros - Supply Chain Management -2018-I.pdf
+03/08/2018  03:08 p.m.           149,885 E. Gesti¢n de la Innovaci¢n - 2018-II.pdf
+03/08/2018  03:08 p.m.           151,900 E. Gesti¢n de Proyectos PMI- 2018-I.pdf
+03/08/2018  03:08 p.m.           183,834 E. Ingenier°a de Costos Avanzados - 2018-I.pdf
+03/08/2018  03:08 p.m.           139,426 E. Planeamiento Desarrollo e Ingenieria del Producto - 2018-I.pdf
+03/08/2018  03:08 p.m.           151,012 E. Sistemas ERP - 2018-I.pdf
+03/08/2018  03:08 p.m.           147,626 E. Tecnicas y Herramientas para el Monitoreo y Supervisi¢n Industrial (HMI) - 2018-I.pdf
+03/08/2018  03:09 p.m.                 0 lista.txt
+              64 archivos      9,837,336 bytes
+               2 dirs  277,309,399,040 bytes libres

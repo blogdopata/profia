@@ -86,22 +86,19 @@
                         <div class="container">
                         
                             
-                           <p class="text-fix-content">Agradecer por visitar la página de actividades deportivas y culturales que brinda la FIA a los estudiantes y a la comunidad, a aprender, difundir y practicar las diversas expresiones artísticas y deportivas, para una mejor formación espiritual y realización como persona
+                           <p class="text-fix-content">Gracias por visitar la página de actividades deportivas y culturales de la FIA, el objetivo de esta página es difundir las diversas expresiones artísticas y deportivas que se brindan en la facultad para una mejor formación espiritual y realización personal de los estudiantes.
                            </p>
 
                            <h5 class="subtitle-general-fix">Misión</h5>
                            
                            <p class="text-fix-content">
-                           Dar a conocer la gama deportiva que oferta la Universidad de San Martín de Porres, Facultad de Ingeniería y arquitectura, incrementando la participación en los eventos deportivos y recreativos de la coordinación de cultura y deportes a través de la promoción de los programas deportivos y fomentar la identidad de la comunidad universitaria.
-
-
+                           Dar a conocer los deportes que se promueven en la Facultad de Ingeniería y Arquitectura de la Universidad de San Martín de Porres y fomentar la identidad de la comunidad universitaria. Asimismo, promover e incrementar la participación en los eventos deportivos y recreativos de la Coordinación de Cultura y Deportes.
                            </p>
                             <br>
                            <h5 class="subtitle-general-fix">Visión</h5>
                            
                            <p class="text-fix-content">
-                           Ser un departamento de atención a la comunidad universitaria, principalmente estudiantil, que orienta el uso inteligente y sano del tiempo libre. <br>
-                            La coordinación de actividades deportivas está ubicado dentro del coliseo multideportivo, donde los alumnos separan cancha 24 hrs. antes, el deporte que deseen: básquet, vóley, futsal – fulbito.
+                           Ser un departamento de atención a la comunidad universitaria, que oriente especialmente a los alumnos en el uso inteligente y sano del tiempo libre. La Coordinación de Actividades Deportivas está ubicada dentro del coliseo de la facultad y es la encargada de atender las solicitudes de los alumnos para el uso de las canchas deportivas de básquet, vóley, futsal y fulbito.
                            </p>
                             
                         
@@ -129,10 +126,10 @@
                         <div class="row">
 
                                 <ul class="fix-items-li" >
-                                    <li>Alcanzar el desarrollo de actividades deportivos, recreativos y culturales encaminados a la superación física e intelectual de la comunidad universitaria. </li>
-                                    <li>Lograr conseguir en su totalidad a la comunidad los beneficios de la actividad física, el deporte, la recreación y la cultura. </li>
-                                    <li>Conseguir los métodos adecuados para integrar equipos representativos de la facultad que alcancen verdaderos niveles de competencia deportiva y cultural. </li>
-                                    <li>Fomentar, programar y controlar el uso de las instalaciones deportivas de la facultad con los estudiantes y comunidad, en coordinación con las dependencias encargadas de su administración.</li>
+                                    <li>Desarrollar actividades deportivas, recreativas y culturales, encaminadas a la superación física e intelectual de la comunidad universitaria.</li>
+                                    <li>Lograr que la comunidad universitaria obtenga los beneficios de la actividad física, el deporte, la recreación y la cultura.</li>
+                                    <li>Conseguir los métodos adecuados para integrar equipos representativos de la facultad que alcancen verdaderos niveles de competencia deportiva y cultural.</li>
+                                    <li>Fomentar, programar y controlar el uso de las instalaciones deportivas de la facultad, en coordinación con las dependencias encargadas de su administración. </li>
                                 </ul>
                         </div>
                     </div>        
@@ -149,9 +146,10 @@
                             
                     <div class="container">
                        <p class="text-fix-content">
-                       En los meses de enero y febrero. Existen vacaciones útiles para niñez escolar de 4 a 16 años, juegos pre-deportivos futsal, básquet, vóley y cultural: guitarra, bailes costumbristas de la región, dibujo pintura, oratoria, teatro. 
-                        Además del ámbito Académico, brindamos a los egresados acceso para que utilicen las instalaciones del coliseo y gimnasio. 
-                        También se realizan campeonato de cachimbos (ingresantes) y el otro general denominado (COPA FIA) y la SUNEDU (Ministerio de Educación), se realiza semestralmente campeonato de futbol en (MUSA) campeonato de vóley (COLISEO FIA) y campeonato de ajedrez.
+                       <br>
+                       En los meses de enero y febrero se ofrece el programa de vacaciones útiles para niños y adolescente de 4 a 16 años. Este programa contiene juegos predeportivos, futsal, básquet, vóley y actividades culturales, como: guitarra, bailes costumbristas de la región, dibujo, pintura, oratoria y teatro. 
+                       <br><br>
+                       Además del ámbito académico, la FIA organiza y promueve la participación en diferentes campeonatos de fútbol, vóley y ajedrez. 
                        </p>
                         </div>
                           
@@ -169,7 +167,7 @@
                             
                     <div class="container">
                        <p class="text-fix-content">
-                       Para la realización de cada una de las actividades, la FIA tiene una adecuada implementación de ambientes al aire libre y cerrado, como el gimnasio, el coliseo multideportivo y duchas, así como de muebles, implementos deportivos que son utilizados por la comunidad estudiantil, así mismo para garantizar la calidad de las actividades que se imparten se cuentan con docentes experimentados en cada una de las disciplinas. Etc
+                       Para la realización de cada una de las actividades deportivas, la FIA tiene una adecuada implementación de ambientes al aire libre y cerrado, como el gimnasio, el coliseo multideportivo y las duchas. Se cuenta también con mobiliario e implementos que ayudan a los docentes de cada disciplina deportiva a cumplir sus objetivos.
                        </p>
                        <div class="row mt-5">
 

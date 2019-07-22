@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="FIA DATA se encarga de proveer servicios y herramientas tecnológicas de innovación con el propósito de ayudar a la comunidad universitaria.">
+	<meta name="keywords" content="fia,FIA,data,DATA,fia data,FIA DATA" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>FIA DATA | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="https://usmp.edu.pe/fia/img/core-img/logousmp.ico">

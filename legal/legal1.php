@@ -70,16 +70,16 @@
         <br>
             <h6 class="titulo-generico">Título I Disposiciones Generales</h6> 
             <b class="titulo-generico">Capítulo - Base Legal</b>
-            <br>
+            <br><br>
             <b>Artículo 1</b>.- Fundamento Jurídico - Normativo
             <p class="text-fix-style">
-            La Oficina de Registros Académicos se rige por Ley Universitaria Nro. 23733, Estatuto de la Universidad y las demás normas pertinentes aprobadas por Consejo Universitario.
+            La Oficina de Registros Académicos se rige por Ley Universitaria Nro. 23733, Estatuto de la Universidad y las demás normas pertinentes aprobadas por el Consejo Universitario.
             </p>
             <br>
             <h6 class="titulo-generico">Ley Universitaria Nro. 23733</h6>
-            <b>Artículo 1</b>.- “Las Universidades... tienen autonomía académica, económica, normativa y administrativa dentro de la ley”.
-            <br>
-            <b>Artículo 4</b>.- “La autonomía inherente a las Universidades se ejerce de conformidad con la Constitución y las leyes de la República e implica los derechos siguientes:
+            <b>Artículo 1</b>.- “Las universidades... tienen autonomía académica, económica, normativa y administrativa dentro de la ley”. 
+            <br><br>
+            <b>Artículo 4</b>.- “La autonomía inherente a las universidades se ejerce de conformidad con la Constitución y las leyes de la República e implica los derechos siguientes: 
             <br><br>
             <div class="listafia">
                 <ul class="ml-5">
@@ -87,12 +87,12 @@
                 </ul>
             </div>
             <br><br>
-            <b>Artículo 9</b>.- “Cada Universidad organiza y establece su régimen académico por Facultades de acuerdo con sus características y necesidades”.
+            <b>Artículo 9</b>.- “Cada universidad organiza y establece su régimen académico por facultades de acuerdo con sus características y necesidades”. 
             <br><br>
             <h6 class="titulo-generico">Estatuto Universitario</h6> 
-            <b>Articulo 1</b>.- “La Universidad de San Martín de Porres es una institución privada con autonomía de gobierno académica, administrativa, económica y normativa, en el marco de la Ley vigente”
-            <b>Artículo 4</b>.- “La Universidad de San Martín de Porres está organizada académicamente en Facultades, de acuerdo con sus características y necesidades. <br>
-            Las Facultades son unidades fundamentales de organización y formación académica y profesional... La Universidad regula las relaciones de sus Facultades con las demás unidades académicas”.
+            <b>Articulo 1</b>.- “La Universidad de San Martín de Porres es una institución privada con autonomía de gobierno académica, administrativa, económica y normativa, en el marco de la Ley vigente” <br><br>
+            <b>Artículo 4</b>.- “La Universidad de San Martín de Porres está organizada académicamente en facultades, de acuerdo con sus características y necesidades. <br>
+            Las facultades son unidades fundamentales de organización y formación académica y profesional. <br> La universidad regula las relaciones de sus facultades con las demás unidades académicas”.
 
 
 

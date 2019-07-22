@@ -16,10 +16,10 @@
 
         <h6 class="subtitle-general-fix mt-5">Artículo 1°</h6>
 
-        La evaluación del proceso de enseñanza-aprendizaje es un juicio de valor que refleja los logros y las deficiencias de la enseñanza y del aprendizaje, se fundamenta en mediciones y descripciones cualitativas y orienta la planificación mediata e inmediata del trabajo académico.
+        La evaluación del proceso de enseñanza aprendizaje es un juicio de valor que refleja los logros y las deficiencias de la enseñanza y del aprendizaje, se fundamenta en mediciones y descripciones cualitativas y orienta la planificación mediata e inmediata del trabajo académico.
 
         <h6 class="subtitle-general-fix mt-2">Artículo 2°</h6>
-        La evaluación del aprendizaje se propone los siguientes objetivos:
+        En la evaluación del aprendizaje se proponen los siguientes objetivos:
         <ul class="fix-items-li ml-5">
           <li>Establecer en forma sistemática los niveles del logro individual y colectivo del proceso de enseñanza-aprendizaje y proporcionar información pertinente para la promoción de los estudiantes.</li>
           <li>Conocer las potencialidades y limitaciones de cada estudiante.</li>

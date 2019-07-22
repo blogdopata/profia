@@ -70,37 +70,37 @@
         <br>
         <!-- <p class="mt-3" style="text-transform: uppercase;">(Aprobado por Resolución Rectoral Nro. 1270-2003-CU-R-USMP de fecha 15 de octubre del 2003)</p> -->
         
-            <h6 class="titulo-generico">Título III Otros Actos Administrativos</h6> 
-            <b class="titulo-generico">Capítulo I - Del Promedio Ponderado Tercio y Quinto Superior</b>
+            <h6 class="titulo-generico">Título III Otros actos administrativos</h6> 
+            <b class="titulo-generico">Capítulo I - Del promedio ponderado tercio y quinto superior</b>
             <br><br>
             <b>Artículo 51</b>.- Del promedio ponderado
             <p class="text-fix-style">
-            El promedio ponderado es el promedio general del alumno luego de haber culminado el semestre o año académico respectivo.
+            El promedio ponderado es el promedio general del alumno luego de haber culminado el semestre o año académico respectivo. 
             <br><br>
-            Las variables a utilizar son las notas del promedio final de cada asignatura que el alumno cursó en un semestre o año académico respectivo, multiplicando por el número de créditos asignado, obteniendo como resultado un producto. La suma total de los productos se divide entre la suma total de créditos, obteniendo como resultado el promedio ponderado del semestre.
+            Las variables a utilizar son las notas del promedio final de cada asignatura que el alumno cursó en un semestre o año académico, multiplicadas por el número de créditos asignado a cada curso, lo que da como resultado un producto. La suma total de los productos se divide entre la suma total de créditos, de esta forma se obtiene el promedio ponderado del semestre. 
             <br><br>
-            Los promedios de los ciclos de verano, examen de aplazados y examen de subsanación no serán tomados en cuenta para el cálculo respectivo.
+            Los promedios de los ciclos de verano, los exámenes de aplazados y los exámenes de subsanación no serán tomados en cuenta para el cálculo respectivo.
             </p>
 
             <br><br>
 
             <b>Artículo 52</b>.- Tercio y Quinto Superior
             <p class="text-fix-style">
-            Para que el alumno figure en el Tercio o Quinto Superior se tomarán en cuenta las siguientes condiciones:
+            Para que el alumno figure en el tercio o quinto superior se tomarán en cuenta las siguientes condiciones:
             </p>
             
-            <b>SEMESTRAL</b>
+            <b>Semestral</b>
             <div class="listafia">
                 <ul class="ml-5 mt-2 mb-2">
-                <li>Para pertenecer al Tercio o Quinto Superior, el alumno debe haberse matriculado en un mínimo de dieciocho (18) créditos y tener su promedio ponderado del último semestre académico, aprobado.</li>
-                <li>Los promedios de los ciclos de verano, examen de aplazados y examen de subsanación, no serán considerados para ubicar al alumno dentro del Tercio o Quinto Superior, semestral.</li>
-                <li>Los alumnos que ingresan por Traslado Interno, tendrán los mismos derechos que los ingresantes por Examen de Admisión Ordinario, para ingresar al Tercio o Quinto Superior.</li>
-                <li>Los alumnos que ingresaron por Traslado Externo, podrán ingresar el Tercio o Quinto Superior, según su promedio ponderado semestral, a partir de su semestre de incorporación a la Universidad.</li>
+                <li>Para pertenecer al tercio o quinto superior, el alumno debe haberse matriculado en un mínimo de dieciocho (18) créditos y contar con un promedio ponderado aprobado en el último semestre académico.</li>
+                <li>Los promedios de los ciclos de verano, los exámenes de aplazados y los exámenes de subsanación, no serán considerados para ubicar al alumno dentro del tercio o quinto superior.</li>
+                <li>Los alumnos que ingresan por traslado interno, tendrán los mismos derechos de ingresar al tercio o quinto superior que los ingresantes por examen de admisión ordinario.</li>
+                <li>Los alumnos que ingresaron por traslado externo, podrán ingresar el tercio o quinto superior a partir del semestre en que se incorporen a la universidad y según su promedio ponderado semestral.</li>
                 </ul>
             </div>
 
 
-            <b>PROMOCIONAL</b>
+            <b>Promocional</b>
             <div class="listafia">
                 <ul class="ml-5 mt-2 mb-2">
                 <li>El tercio o quinto superior para el caso de los alumnos egresados se considera en base al promedio ponderado acumulado aprobado en forma global.</li>

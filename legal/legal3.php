@@ -73,7 +73,7 @@
             <br><br>
             <b>Artículo 4</b>.- De la Oficina de Registros Académicos
             <p class="text-fix-style">
-            La Oficina de Registros Académicos es un órgano de apoyo administrativo responsable de centralizar, custodiar y administrar el acervo documentario académico de la Facultad, a fin de atender los requerimientos documentarios de sus alumnos y egresados referente a su trayectoria académica. Está a cargo de un Jefe.
+            La Oficina de Registros Académicos es un órgano de apoyo administrativo responsable de centralizar, custodiar y administrar el acervo documentario académico de la facultad, a fin de atender los requerimientos documentarios de sus alumnos y egresados referentes a su trayectoria académica. Está a cargo de un Jefe.
             </p>
             
             <br>
@@ -83,12 +83,12 @@
             El Jefe de la Oficina de Registros Académicos es un profesional administrativo de experiencia y capacidad reconocida no menor de cinco (05) años, designado por el Consejo Universitario, a propuesta del Decano y ratificado anualmente por el Consejo Universitario, de acuerdo a lo señalado en el Estatuto Universitario
             </p>
            
-            Concordancias: Inciso j.) del Artículo 64º del Estatuto Universitario USMP-2000
+            Concordancias: Inciso j.) del Artículo 64º del Estatuto Universitario USMP-2000 
             <br><br><br>
             <b>Artículo 6</b>.- Del personal de apoyo
             <br><br>
             <p class="text-fix-style">
-            El Jefe de la Oficina de Registros Académicos, podrá contar con personal de apoyo que coadyuve a la realización de los objetivos de ésta oficina. El personal de apoyo se regirá de conformidad a lo establecido por el artículo 145º del Estatuto Universitario.
+            El Jefe de la Oficina de Registros Académicos, podrá contar con personal de apoyo que coadyuve a la realización de los objetivos de esta oficina. El personal de apoyo se regirá de conformidad a lo establecido por el artículo 145º del Estatuto Universitario.
             </p>
             
             Concordancias: Artículos 70º, 72º, 73º y 74º de la Ley Universitaria Nro. 23733 <br>

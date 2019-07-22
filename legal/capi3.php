@@ -71,21 +71,18 @@
         <!-- <p class="mt-3" style="text-transform: uppercase;">(Aprobado por Resolución Rectoral Nro. 1270-2003-CU-R-USMP de fecha 15 de octubre del 2003)</p> -->
         
             <h6 class="titulo-generico">Título III Otros Actos Administrativos</h6> 
-            <b class="titulo-generico">Capítulo III - De los Exámenes de Aplazados</b>
+            <b class="titulo-generico">Capítulo III - De los exámenes de aplazados</b>
             <br><br>
             <b>Artículo 56</b>.- De los exámenes de aplazados
             <p class="text-fix-style">
-            Las Facultades pueden programar al término de cada semestre o año lectivo, según corresponda, evaluación de aplazados para los alumnos que hayan sido desaprobados con una nota no menor de ocho (08) en una o dos asignaturas en el régimen semestral y hasta en tres en el régimen anual.
+            Las facultades pueden programar al término de cada semestre o año lectivo, según corresponda, la evaluación de aplazados para los alumnos que hayan sido desaprobados con una nota no menor de ocho (08) en una o dos asignaturas en el régimen semestral y hasta en tres en el régimen anual. 
             <br>
-            No procede realizar evaluación de aplazados en cursos de prácticas pre-profesionales.
+            No procede realizar evaluación de aplazados en cursos de prácticas preprofesionales. 
             <br>
-            El alumno que aprueba el examen de aplazados se le consigna la nota que obtenga. Si desaprueba, mantiene la nota desaprobatoria anterior.
+            Al alumno que aprueba el examen de aplazados se le consigna la nota que obtenga. Si desaprueba, mantiene la nota desaprobatoria anterior. 
             <br>
-            Excepcionalmente, en la Facultad de Odontología, para el caso de las Áreas Médicas no procede el examen de aplazados para las asignaturas Clínicas y de Internados. <br>
-            Concordancias: Artículos 16º, 17º y 18º del Reglamento de Evaluación del Aprendizaje USMP
-
-
-
+            Excepcionalmente, en la Facultad de Odontología, para el caso de las Áreas Médicas no procede el examen de aplazados para las asignaturas clínicas y de internados.  <br>
+            Concordancias: artículos 16º, 17º y 18º del Reglamento de Evaluación del Aprendizaje USMP
             </p>
 
             <br><br>
@@ -93,12 +90,12 @@
             <b>Artículo 57</b>.- Requisitos del examen de aplazados 
             
             <p class="text-fix-style">
-            Los requisitos para acogerse al Examen de Aplazados, son los siguientes:
+            Los requisitos para acogerse al examen de aplazados, son los siguientes:
             </p>
             
             <div class="listafia">
                 <ul class="ml-5 mt-2 mb-2">
-                <li>Tener un calificativo final desaprobatorio no menor de ocho (08)</li>
+                <li>Tener una calificación final desaprobatoria no menor de ocho (08)</li>
                 <li>Recibo cancelado por el derecho correspondiente</li>
                 </ul>
             </div>
@@ -107,8 +104,8 @@
 
             <b>Artículo 55</b>.- Del otorgamiento del examen de subsanación
             <p class="text-fix-style">
-            Los exámenes de subsanación se aprueban mediante Resolución Decanal, siendo el Departamento Académico el responsable de asignar los profesores para las evaluaciones correspondientes, quienes calificarán de cero (00) a veinte (20). <br><br>
-            La Oficina de Registros académicos, conforme a la Resolución Decanal procede a informar al solicitante y expedir el Acta de Subsanación en la cual el docente designado ha de consignar las calificaciones respectivas.
+            Los exámenes de subsanación se aprueban mediante Resolución Decanal, siendo el Departamento Académico el responsable de asignar a los profesores para las evaluaciones correspondientes, quienes calificarán de cero (00) a veinte (20).  <br><br>
+            La Oficina de Registros académicos, conforme a la Resolución Decanal procede a informar al solicitante y expedir el Acta de Subsanación en la cual el docente designado consigna las calificaciones respectivas.
             </p>
 
 

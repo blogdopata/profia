@@ -73,32 +73,32 @@
             <br><br>
             <b>Artículo 43</b>.- Naturaleza
             <p class="text-fix-style">
-            Aquellos alumnos que por diversas razones no puedan estudiar un período lectivo tienen derecho a reservar su matrícula de manera temporal.
+            Aquellos alumnos que por diversas razones no puedan estudiar un período lectivo tienen derecho a reservar su matrícula de manera temporal. 
             <br><br>
-            El alumno que reserve su matrícula figurará en los controles correspondientes y no tendrá derecho al Carné Universitario, ni a aparecer en los registros de los profesores, ni en las actas de notas del período lectivo en curso.
+            El alumno que reserve su matrícula figurará en los controles correspondientes y no tendrá derecho al carné universitario, ni a aparecer en los registros de los profesores, ni en las actas de notas del período lectivo en curso. 
             <br><br>
-            La reserva de matrícula puede ser renovada hasta cuatro (04) veces consecutivas. <br>
+            La reserva de matrícula puede ser renovada hasta cuatro (04) veces consecutivas.  <br>
             El alumno ingresante no tiene derecho a efectuar Reserva de Matrícula.
             </p>
 
            <br><br>
 
            <b>Artículo 44</b>.- Requisitos para acogerse a la Reserva de Matrícula <br>
-           La matrícula tiene validez durante todo el período lectivo correspondiente, y la reserva de matrícula y suspensión de las cuotas correspondientes, sólo procede cuando el alumno cumple los siguientes requisitos: <br><br>
+           La matrícula tiene validez durante todo el período lectivo correspondiente. La reserva de matrícula y la suspensión de las cuotas correspondientes solo procede cuando el alumno cumple los siguientes requisitos:  <br><br>
            <div class="listafia">
                 <ul class="ml-5">
-                    <li>Presentar solicitud valorada al Decano, hasta un plazo máximo de sesenta (60) días después de iniciadas las clases.</li>
-                    <li>Cancelar y registrar el recibo de pago por Derecho de Reserva de Matrícula.</li>
+                    <li>Presentar solicitud valorada al Decano, hasta un plazo máximo de sesenta (60) días después de iniciadas las clases</li>
+                    <li>Cancelar y registrar el recibo de pago por derecho de reserva de matrícula</li>
                     <li>Constancia de Notas</li>
-                    <li>Constancia de Tesorería (no tener deudas pendientes con la Universidad)</li>
+                    <li>Constancia de Tesorería (no tener deudas pendientes con la universidad)</li>
                     <li>Resolución Decanal anterior, en el caso de renovación.</li>
                 </ul>
            </div>
 
            <br><br><br>
 
-           <b>Artículo 45</b>.- Del otorgamiento del derecho de Reserva de Matrícula <br>
-           El alumno, al momento de reincorporarse a la Facultad correspondiente, debe presentar la Resolución Decanal correspondiente, único documento con el cual acreditará su condición; a fin de actualizar su matrícula y recabar en Tesorería sus respectivos recibos de matrícula.
+           <b>Artículo 45</b>.- Del otorgamiento del derecho de reserva de matrícula  <br>
+           Al momento de reincorporarse a la facultad correspondiente, el alumno presentará la Resolución Decanal pertinente, único documento que acreditará su condición y le permitirá actualizar su matrícula y recabar en Tesorería el recibo de los pagos que deberá realizar.
  
 
 		</div>

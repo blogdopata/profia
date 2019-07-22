@@ -73,17 +73,17 @@
             <br><br>
             <b>Artículo 39</b>.- Naturaleza
             <p class="text-fix-style">
-            El retiro del ciclo procede para los alumnos que, habiendo efectuado el proceso de matrícula, por razones justificadas, solicitan no continuar sus estudios, pudiendo efectuarse hasta los cuarenta y cinco (45) días luego de iniciadas las clases.
+            El retiro del ciclo procede para los alumnos que, habiéndose matriculado solicitan no continuar sus estudios por razones justificadas. El retiro de ciclo puede efectuarse hasta cuarenta y cinco (45) días luego de iniciadas las clases.
             </p>
 
             <br>
 
             <b>Artículo 40</b>.- Requisitos especiales <br>
-            El alumno que voluntariamente desee retirarse del ciclo, deberá presentar los siguientes documentos: <br><br>
+            El alumno que voluntariamente desee retirarse del ciclo, deberá presentar los siguientes documentos:  <br><br>
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>Solicitud valorada dirigida al Decano de la Facultad.</li>
-                    <li>Fotocopia de la ficha de matrícula. </li>
+                    <li>Solicitud valorada dirigida al Decano de la Facultad</li>
+                    <li>Fotocopia de la ficha de matrícula</li>
                     <li>Constancia de Tesorería (no tener deudas pendientes con la Universidad)</li>
                 </ul>
             </div>
@@ -92,13 +92,12 @@
 
             <b>Artículo 41</b>.- Del otorgamiento y los efectos del retiro de ciclo<br>
             El retiro del ciclo se aprueba mediante una Resolución Decanal; aprobado el proceso se procede a retirar al alumno de todos los registros de evaluación de los cursos en los cuales se matriculó, a fin de que los profesores no le consignen notas y consecuentemente no figuren en las respectivas Actas de Notas. <br>
-            No procede la devolución de los pagos efectuados. <br>
-            Luego del trámite, la Oficina de Tesorería, no emitirá recibos de pensiones posteriores.
+            No procede la devolución de los pagos efectuados. Luego del trámite, la Oficina de Tesorería, no emitirá recibos de pensiones posteriores. 
 
             <br><br><br>
 
             <b>Artículo 42</b>.- De la reincorporación a la Universidad <br>
-            El alumno, al momento de reincorporarse a la Facultad correspondiente, presentará la Constancia de Retiro de Ciclo, único documento con el cual acreditará su condición.
+            El alumno, al momento de reincorporarse a la facultad correspondiente, presentará la Constancia de Retiro de Ciclo, único documento con el cual acreditará su condición. 
             <br><br>
 
 

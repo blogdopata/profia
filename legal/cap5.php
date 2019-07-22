@@ -73,9 +73,9 @@
             <br><br>
             <b>Artículo 35</b>.- Naturaleza
             <p class="text-fix-style">
-            Son alumnos especiales aquellos que se matriculan en uno o más cursos, sin reunir los requisitos del alumno regular.
+            Son alumnos especiales aquellos que se matriculan en uno o más cursos, sin reunir los requisitos del alumno regular. 
             <br><br>
-            Concordancias: Artículo 118º del Estatuto Universitario
+            Concordancias: artículo 118º del Estatuto Universitario
             </p>
             
             
@@ -88,8 +88,8 @@
             
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>Matrícula Especial Simple</li>
-                    <li>Matrícula Especial Por Asignaturas o Flexible</li>
+                    <li>Matrícula especial simple</li>
+                    <li>Matrícula especial por asignaturas o flexible</li>
                 </ul>
             </div>
 
@@ -97,35 +97,35 @@
 
             <b>Artículo 37</b>.- De la Matrícula Especial Simple
             <p class="text-fix-style">
-            Son matrículas especiales simples las que efectúan los alumnos que se matriculan en el último ciclo, en uno o más cursos y con lo cual concluyen su Plan Curricular, aún cuando hayan descontinuado sus estudios. <br>
+            Son matrículas especiales simples las que efectúan los alumnos que se matriculan en el último ciclo, en uno o más cursos y con lo cual concluyen su plan curricular, aun cuando estos alumnos hayan descontinuado sus estudios. <br>
             Se pueden presentar los siguientes casos:
             </p>
           
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>Alumno que culmina su Plan Curricular ampliando el número total de créditos hasta un máximo de veintiséis (26).</li>
+                    <li>Alumno que culmina su plan curricular ampliando el número total de créditos hasta un máximo de veintiséis (26).</li>
                     <li>Alumno que tiene cruce de horario en un máximo de dos (02) horas académicas.</li>
-                    <li>Alumno que no haya cumplido con aprobar los pre-requisitos de los cursos que desea matricularse.</li>
-                    <li>Alumno que lleva el curso y pre-requisito simultáneamente.</li>
+                    <li>Alumno que no haya cumplido con aprobar los prerrequisitos de los cursos en que desea matricularse.</li>
+                    <li>Alumno que lleva el curso y el prerrequisito del mismo en simultáneo.</li>
                 </ul>
             </div>
 
             <br>
 
-            De producirse un cambio curricular, para efectos de la matrícula, se toman en cuenta las equivalencias; de haber cursos sin equivalencia se consideran como créditos especiales, que serán considerados como cursos electivos, talleres u otros que defina la Facultad correspondiente.
+            De producirse un cambio curricular, para efectos de la matrícula, se toman en cuenta las equivalencias; de haber cursos sin equivalencia se consideran como créditos especiales, que serán considerados como cursos electivos, talleres u otros que defina la facultad correspondiente. 
 
             <br><br><br><br>
 
 
             <b>Artículo 38</b>.- De los requisitos
             <p class="text-fix-style">
-            Los alumnos que se matriculen en cualquiera de las formas de la matrícula especial (simple o por asignaturas – flexible) deberán presentar los siguientes documentos:
+            Los alumnos que se matriculen en cualquiera de las formas de la matrícula especial (simple o por asignaturas / flexible) deberán presentar los siguientes documentos:
             </p>
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>Solicitud valorada dirigida al Decano, especificando a que modalidad se acoge.</li>
+                    <li>Solicitud valorada dirigida al Decano, especificando a que modalidad se acoge</li>
                     <li>Constancia de Tesorería (no tener deudas pendientes con la Universidad)</li>
-                    <li>Record Académico.</li>
+                    <li>Record académico</li>
                 </ul>
             </div>
 

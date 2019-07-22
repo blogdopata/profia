@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Revisa nuestro directorio telefónico y comunícate directamente con nuestras oficinas.">
+    <meta name="keywords" content="Directorio,DIRECTORIO,directorio" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>Directorio | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/logousmp.ico">
@@ -115,7 +116,8 @@
                             <h5 class="card-title card-title-fix mb-4">Escuela Profesional de Ingeniería de Computación y Sistemas (EPICS)</h5>
                             
                             <h6 class="card-subtitle mb-2 text-muted">Secretaria</h6>
-                            <p class="card-text">2086000 <br> Anexo 1107</p>
+                            <p class="card-text">2086000 <br> Anexo 1122</p>
+                            <p><h6 class="card-subtitle mb-2 text-muted">Consultas en línea</h6>Microsoft Teams:<br> <a href="mailto:epics-acad@usmp.pe">epics-acad@usmp.pe</a></p>
                         </div>
                     </div>
                     <br>

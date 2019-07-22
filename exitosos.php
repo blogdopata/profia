@@ -288,7 +288,7 @@
         <b>INGENIERÍA DE COMPUTACIÓN Y SISTEMAS</b>
         </div>
         <div class="container mt-3">
-        <p class="text-fix-content">Actualmente labora como Software Architect en Fandango.</p>
+        <p class="text-fix-content">Actualmente labora como IT Lead, liderando todo el equipo de tecnología de Fandango Latam.</p>
 
         </div>
         </div>

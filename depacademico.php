@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Departamento Académico se encarga de apoyar, planear, organizar y coordinar las actividades de enseñanza y proyección académica de la nuestra Facultad.">
+    <meta name="keywords" content="Departamento Académico,departamento,academico,DEPARTAMENTO,ACADEMICO,ACADÉMICO,Departmento academico,Departamento académico,académico" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>Departamento Académico | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="../img/core-img/logousmp.ico">
@@ -36,7 +37,7 @@
     <!-- ##### Header Area End ##### -->
 
  <!-- ##### Breadcumb Area Start ##### -->
-    <div class="bg-img img-fix-position-bg" style="background-image: url('http://usmp.edu.pe/fia/img/bg-img/departamento.jpg');"  >
+    <div class="bg-img img-fix-position-bg" style="background-image: url('https://usmp.edu.pe/fia/img/bg-img/departamento.jpg');"  >
      
     </div>
 

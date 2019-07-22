@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Conoce a las autoridades de nuestra Facultad. Revisa la información sobre los representantes de los Órganos de Dirección, Línea y Apoyo de la FIA - USMP.">
+    <meta name="keywords" content="Autoridades,AUTORIDADES,autoridades" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
     <!-- Title -->
-    <title>Fia USMP</title>
+    <title>Autoridades | Facultad de Ingeniería y Arquitectura (FIA) – USMP</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/logousmp.ico">
@@ -621,7 +622,7 @@
                                   Lic. Rosalva Rojas Reyes  <br>
                                    Jefe de la Of. Administrativa <br>
                                  
-                              <a  href="mailto:rrojasr@usmp.pe ">rrojasr@usmp.pe  
+                              <a  href="mailto:rosalva_rojas@usmp.pe">rosalva_rojas@usmp.pe  
                            </a> / <a href="mailto:administracion_fia@usmp.pe">administracion_fia@usmp.pe</a>
                       </p>
                       </div>

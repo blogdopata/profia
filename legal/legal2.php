@@ -73,8 +73,7 @@
             <br><br>
             <b>Artículo 2</b>.- De los objetivos de la Oficina de Registros Académicos
             <p class="text-fix-style">
-            La Oficina de Registros Académicos tiene como objetivos fundamentales los siguientes:
-            Mantener la organización y administración de los registros académicos de la Facultad.
+            La Oficina de Registros Académicos tiene como objetivos fundamentales los siguientes: mantener la organización y administración de los registros académicos de la facultad.
             </p>
     
             <div class="listafia">
@@ -89,23 +88,23 @@
             <br><br>
             <div class="listafia">
                 <ul class="ml-5">
-                    <li>Planificar, conducir y ejecutar las acciones pertinentes al cumplimiento del proceso de matrícula.</li>
-                    <li>Informar y resguardar las calificaciones de los alumnos.</li>
-                    <li>Elaborar y distribuir los registros de evaluación y asistencia a los docentes para la consignación de las notas evaluativas.</li>
-                    <li>Recibir los registros de evaluación y asistencia de los docentes al término del semestre o año académico y dentro de los plazos establecidos.</li>
-                    <li>Revisar y verificar los registros de evaluación para que ingresen las notas al Sistema Computarizado y elaborar las actas respectivas.</li>
-                    <li>Controlar , revisar y expedir los certificados de estudios a los alumnos que lo requieran.</li>
-                    <li>Controlar , revisar y expedir las constancias de Estudios, de Egresado, Promedio Ponderado, Tercio y Quinto Superior a los alumnos que las requieran.</li>
-                    <li>Tramitar los expedientes que presenten los alumnos a fin de reservar su derecho de matrícula y reactualización de matrícula.</li>
-                    <li>Elaborar el cronograma de reactualización de matrícula.</li>
-                    <li>Gestionar y distribuir los carné universitarios.</li>
-                    <li>Verificar y dar trámite los expedientes de alumnos que soliciten el cambio de turno o sección, de acuerdo a las vacantes establecidas.</li>
-                    <li>Atender los reclamos de notas y rectificarlas de ser previamente comprobadas en el sistema.</li>
-                    <li>Mantener actualizada la base de datos académica de los alumnos en el sistema.</li>
-                    <li>Coordinar la programación de los exámenes de aplazados, exámenes de subsanación y los cursos de verano.</li>
-                    <li>Atender y orientar permanentemente a los alumnos sobre cualquier duda, inquietud o incertidumbre sobre su trayectoria académica.</li>
-                    <li>Proponer a la autoridad competente alternativas de solución para el mejor funcionamiento de los servicios operativos y de atención a los alumnos y docentes.</li>
-                    <li>Actualizar el ingreso y egreso de los alumnos a la Facultad.</li>
+                    <li>Planificar, conducir y ejecutar las acciones pertinentes al cumplimiento del proceso de matrícula</li>
+                    <li>Informar y resguardar las calificaciones de los alumnos</li>
+                    <li>Elaborar y distribuir los registros de evaluación y asistencia a los docentes para la consignación de las notas evaluativas</li>
+                    <li>Recibir los registros de evaluación y asistencia de los docentes al término del semestre o año académico y dentro de los plazos establecidos</li>
+                    <li>Revisar y verificar los registros de evaluación para que ingresen las notas al sistema computarizado y elaborar las actas respectivas</li>
+                    <li>Controlar, revisar y expedir los certificados de estudios a los alumnos que lo requieran</li>
+                    <li>Controlar, revisar y expedir las constancias de estudios de egresado, promedio ponderado, tercio y quinto superior, a los alumnos que las requieran</li>
+                    <li>Tramitar los expedientes que presenten los alumnos a fin de reservar su derecho de matrícula y reactualización de matrícula</li>
+                    <li>Elaborar el cronograma de reactualización de matrícula</li>
+                    <li>Gestionar y distribuir los carné universitarios</li>
+                    <li>Verificar y dar trámite los expedientes de alumnos que soliciten el cambio de turno o sección, de acuerdo a las vacantes establecidas</li>
+                    <li>Atender los reclamos de notas y rectificarlas de ser previamente comprobadas en el sistema</li>
+                    <li>Mantener actualizada la base de datos académica de los alumnos en el sistema</li>
+                    <li>Coordinar la programación de los exámenes de aplazados, exámenes de subsanación y los cursos de verano</li>
+                    <li>Atender y orientar permanentemente a los alumnos sobre cualquier duda, inquietud o incertidumbre sobre su trayectoria académica</li>
+                    <li>Proponer a la autoridad competente alternativas de solución para el mejor funcionamiento de los servicios operativos y de atención a los alumnos y docentes</li>
+                    <li>Actualizar el ingreso y egreso de los alumnos a la facultad</li>
                     <li>Otras funciones que se originen de su normal desarrollo y se les asigne.</li>
                 </ul>
             </div>

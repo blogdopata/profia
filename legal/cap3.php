@@ -73,21 +73,21 @@
             <br><br>
             <b>Artículo 26</b>.- Naturaleza
             <p class="text-fix-style">
-            Son alumnos ingresantes exonerados del concurso ordinario de admisión, quienes han ingresado a la Universidad a través de cualquiera de las siguientes modalidades: 1er o 2do puesto en la educación secundaria, tercio superior, deportista calificado, mayor de 30 años, evaluación progresiva, alcanzar vacantes mediante el Centro Pre – Universitario, los titulados y graduados del sistema universitario, oficiales de la Fuerzas Armadas o de la Policía Nacional, traslado externo nacional o internacional, traslado interno, categoría de diplomático; y los que ingresen a través de los convenios suscritos por la Universidad.
+            Son alumnos ingresantes exonerados del concurso ordinario de admisión, quienes han ingresado a la universidad a través de cualquiera de las siguientes modalidades: 1er o 2do puesto en la educación secundaria, tercio superior, deportista calificado, mayor de 30 años, evaluación progresiva, alcanzar vacantes mediante el Centro Preuniversitario, los titulados y graduados del sistema universitario, oficiales de la Fuerzas Armadas o de la Policía Nacional, traslado externo nacional o internacional, traslado interno, categoría de diplomático; y los que ingresen a través de los convenios suscritos por la universidad. 
             <br><br>
-            Concordancias: Artículo 56º de la Ley Universitaria Nro. 23733. <br>
+            Concordancias: artículo 56º de la Ley Universitaria Nro. 23733 <br>
             Artículo 15º del Estatuto Universitario <br>
             Artículo 9º y 53º del Reglamento de Admisión <br>
             <br>
             <br>
             <b>Artículo 27</b>.- De los requisitos para matricularse <br>
-            El alumno que ingrese a la Universidad en calidad de exonerado del concurso ordinario de admisión deberá presentar los siguientes requisitos.
+            El alumno que ingrese a la universidad en calidad de exonerado del concurso ordinario de admisión deberá presentar los siguientes requisitos. 
             <br>
             <div class="listafia">
                     <ul class="ml-5">
                         <li>Constancia de Ingreso a la Universidad</li>
-                        <li>Recibo por Derecho de Matrícula cancelado y registrado en Tesorería.</li>
-                        <li>Recibo de pago de la 1ra cuota, cancelado y registrado en Tesorería.</li>
+                        <li>Recibo por derecho de matrícula cancelado y registrado en Tesorería</li>
+                        <li>Recibo de pago de la primera cuota cancelado y registrado en Tesorería</li>
                         <li>Según la modalidad de ingreso, adjuntar el certificado de estudios original expedido por la institución de origen, siendo el único documento válido para la convalidación.</li>
                     </ul>
             </div>
@@ -99,9 +99,9 @@
 
             <b>Artículo 28</b>.- De la convalidación de asignaturas
             <p class="text-fix-style">
-            La Oficina de Admisión de la Universidad enviará al Departamento Académico correspondiente, los expedientes de los alumnos que presentaron sus respectivos certificados de estudios a fin de realizar el proceso de convalidación de estudios. El Jefe del Departamento Académico es el responsable de efectuar las convalidaciones correspondientes.
+            La Oficina de Admisión de la Universidad enviará al Departamento Académico correspondiente, los expedientes de los alumnos que presentaron sus respectivos certificados de estudios a fin de realizar el proceso de convalidación de estudios. El Jefe del Departamento Académico es el responsable de efectuar las convalidaciones correspondientes. 
             <br><br>
-            Finalizado el proceso de convalidación, el Departamento Académico, con informe y opinión, elevará al Decano para la expedición de la Resolución Decanal que aprueba la convalidación. Este documento pasará a la Oficina de Registros Académicos y un duplicado al alumno a fin de efectuar su matrícula, siguiendo el orden secuencial del Plan de Estudios, los pre - requisitos y evitando el cruce de horarios.
+            Finalizado el proceso de convalidación, el Departamento Académico entregará al Decano su informe y opinión, con la finalidad de que se expida la Resolución Decanal que aprueba la convalidación. Este documento pasará a la Oficina de Registros Académicos y un duplicado será entregado al alumno a fin de que efectúe su matrícula, siguiendo el orden secuencial del plan de estudios y los prerrequisitos.
             </p>
             
 
