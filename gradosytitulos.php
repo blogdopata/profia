@@ -147,6 +147,9 @@
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/FORMATO_DE_INSCRIPCION_TRABAJO.pdf" target="_blank">
               <i class="fa fa-check"></i> Formato de Inscripción de Trabajo
             </a>
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/GUIA_ELABORACION_DEL_INFORME_TRABAJO.pdf" target="_blank">
+              <i class="fa fa-check"></i> Estructura Informe de Trabajo (Practicas Pre-Profesionales)
+            </a>
             </div>
         
         

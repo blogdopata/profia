@@ -75,6 +75,8 @@
                    
                         <a class="nav-link " id="nav-enlaces-tab" data-toggle="pill" href="#nav-enlaces" role="tab" aria-controls="nav-enlaces" aria-selected="false">Enlaces de Interés</a>
 
+                        <a class="nav-link " id="nav-enlaces1-tab" data-toggle="pill" href="#nav-enlaces1" role="tab" aria-controls="nav-enlaces1" aria-selected="false">Programación de vuelo</a>
+
                         <a class="nav-link " id="nav-contactos-tab" data-toggle="pill" href="#nav-contactos" role="tab" aria-controls="nav-contactos" aria-selected="false">Contacto</a>
 
                         <a class="nav-link " id="nav-campus-tab" data-toggle="pill" href="#nav-campus" role="tab" aria-controls="nav-campus" aria-selected="false">Campus</a>
@@ -387,6 +389,22 @@ Equipos Volados <br>
                     </div>
 
                      <!-- FIN Contenido tab INSTRUCTORES--> 
+
+
+                        <!-- Contenido tab enlaces interes --> 
+
+                    <div class="tab-pane fade" id="nav-enlaces1" role="tabpanel" aria-labelledby="nav-enlaces1-tab">
+                        <div class="container">
+
+                        <a href="https://docs.google.com/spreadsheets/d/1IMHpd9jMoZTii8cBHe-gxPSNJKMaVnMJ75WS7R1c0UA/edit" target="_blank" class="link">Programación de vuelo</a>
+
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab enlaces interes --> 
+
+
 
 
 

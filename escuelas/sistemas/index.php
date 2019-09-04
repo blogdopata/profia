@@ -256,16 +256,16 @@
                             </p>  
                             
                             <ul class="fix-items-li font-16">
-                                <li>Aplica conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
-                                <li>Analiza un problema e identifica y define los requerimientos apropiados para su solución.</li>
-                                <li>Diseña, implementa y evalúa un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
-                                <li>Trabaja con efectividad en equipos para lograr una meta común.</li>
-                                <li>Comprende los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
-                                <li>Se comunica con efectividad con un rango de audiencias.</li>
-                                <li>Analiza el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
-                                <li>Reconoce la necesidad y asume el compromiso de un continuo desarrollo profesional.</li>
-                                <li>Usa técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
-                                <li>Comprende los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
+                                <li>Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
+                                <li>Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
+                                <li>Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
+                                <li>Habilidad para trabajar con efectividad en equipos para lograr una meta común.</li>
+                                <li>Comprensión de los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
+                                <li>Habilidad para comunicarse con efectividad con un rango de audiencias.</li>
+                                <li>Habilidad para analizar el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
+                                <li>Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
+                                <li>Habilidad para usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
+                                <li>Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
                             </ul>
                             
                         </div>
