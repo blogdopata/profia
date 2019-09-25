@@ -42,7 +42,23 @@
      
 
              
+            <!-- Imagen del slider de fondo n°1-->
+                    <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/vision2019.jpg);  background-repeat: no-repeat; ">
+                        <div class="container h-100">
+                            <div class="row h-100 align-items-center">
+                                <div class="col-12">
+                                    <div class="hero-slides-content">
+                                        <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA - USMP </h4>
+                                        <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 ""> Congreso Internacional   <br> VISIÓN 2019  
+                                        <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 ""> Matrícula desde el 08 de julio  </h4> -->
+                                        <br>
+                                        <a href="https://usmp.edu.pe/vision2019/"   target="_blank" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
+                    </div> 
                <!-- Imagen del slider de fondo n°1-->
              <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/actividades.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
@@ -58,9 +74,11 @@
                         </div>
                     </div>
                 </div>
+
             </div> 
 
             <!-- Imagen del slider de fondo n°2 -->
+
              <!--<div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/sai.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
@@ -108,7 +126,8 @@
                 </div>
             </div>
 
- <!-- Imagen del slider de fondo n°3 -->
+ <!-- Imagen del slider de fondo n°3   (  36 años ) 
+
             <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-2.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
@@ -121,20 +140,7 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Imagen del slider de fondo n°3 -->
-            <!-- <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-3.jpg);">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-center">
-                        <div class="col-12">
-                            <div class="hero-slides-content">
-                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5">FIA USMP</h4>
-                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">FORMAMOS AL  <br>PROFESIONAL DEL FUTURO.</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
+           FIA  36 años-->
 
            
         </div>
@@ -265,7 +271,7 @@
 
 
 
-    <!-- ##### Testimonials Area Start ##### -->
+    <!-- ##### Testimonials Area Start ##### 
     <div class="testimonials-area pt-5 pb-5 bg-img bg-overlay" style="background-image: url(img/bg-img/bg-2.jpg);">
         <div class="container">
             <div class="row">
@@ -279,7 +285,7 @@
 
 
             <div class="row mt-5"  >
-                <!-- Single Testimonials Area -->
+           
                 <div class="d-none col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
 
                     <div  class="bg-destacado pb-4">
@@ -301,7 +307,7 @@
                 </div>
 
                 
-                <!-- Single Testimonials Area -->
+             
                 <div class="d-md-block col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
 
                     <div  class="bg-destacado pb-4">
@@ -322,7 +328,7 @@
                     </div>
                 </div>
 
-                  <!-- Single Testimonials Area -->
+            
                 <div class="d-none d-md-block col-12 col-md-4 wow fadeInUp text-center" data-wow-delay="500ms"  >
 
                     <div  class="bg-destacado pb-4">
@@ -374,7 +380,9 @@
             </div>
         </div>
     </div>
-    <!-- ##### Testimonials Area End ##### -->
+
+    
+  ##### Testimonials Area End ##### -->
 
     <!-- ##### AGENDA FIA  ##### -->
     <div class="top-popular-courses-area  mt-5   wow fadeInUp" data-wow-delay="300ms">
@@ -466,20 +474,21 @@
                  <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                    <span style="font-size:40px;font-weight:bold"> 07 </span> 
-                            <span style="font-size:26px;font-weight:bold">SEP</span> 
+                    <span style="font-size:40px;font-weight:bold"> 09 </span> 
+                            <span style="font-size:26px;font-weight:bold">OCT</span> 
                         </div>
                         <div>
-                            <h6 class="agenda-title">Curso: <br>Excel Intermedio  </h6>
-                            <span class="agenda-info"><b>Lugar:</b> Av. La Fontana 1250 -USMP FIA</span> <br>
-                            <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexo 1130</a> </span> <br>
-                            <span><a href="https://www.facebook.com/epufia/photos/a.261123367257253/2339744996061736/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
+                            <h6 class="agenda-title">Master Class: <br>Sketchup y Lumion</h6>
+                            <span class="agenda-info"><b>Lugar:</b> Campus FIA</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 2086014</a> </span> <br> -->
+                            <span><a href="https://www.facebook.com/fia.usmp/photos/a.296491983785663/2085763144858529/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>
                             <br>
                         </div>
                     </div>
                 </div>
                 
                   <!-- Agenda / evento  FIN -->
+                  
 
                   
 
@@ -514,6 +523,27 @@
                             <span class="agenda-info"><b>Lugar:</b>  Campus FIA</span> <br>
                           <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1130 / 1122</a> </span> --> <br> 
                            <span><a href="https://www.facebook.com/fia.usmp/photos/pb.296483983786463.-2207520000.1566332562./2032342746867236/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>  </span>
+                             <br>                                                                     
+                           
+
+                        </div> 
+                    </div>
+                </div>  
+                  <!-- Agenda / evento  FIN -->
+
+
+                   <!-- Agenda / evento   -->
+                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
+                        <span style="font-size:40px;font-weight:bold"> 27</span> 
+                            <span style="font-size:26px;font-weight:bold">OCT</span> 
+                        </div>
+                        <div>
+                    <h6 class="agenda-title">Examen parcial:<br> Inglés I y II </h6>
+                            <span class="agenda-info"><b>Lugar:</b>Pab. Estudios Generales</span> <br>
+                          <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1130 / 1122</a> </span> --> <br> 
+                           <span><a href="https://www.facebook.com/fia.usmp/photos/pcb.2093249550776555/2093234764111367/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>  </span>
                              <br>                                                                     
                            
 

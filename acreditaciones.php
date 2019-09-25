@@ -126,6 +126,18 @@
 
                 </div>
                 <hr>
+                 <div class="row  d-flex align-items-center">
+                    <div class="col-12 text-center col-md-3"   >
+                        <img src="img/acreditaciones/abet.png"  class="img-fluid" alt="">
+                    </div>
+                    <div class="col-12 col-md-9 text-fix-content "    >
+                    <strong>La acreditación ABET </strong> es una organización no gubernamental, sin fines de lucro, que está dedicada a la acreditación de distintos programas de educación universitaria en disciplinas de ciencias aplicadas, ciencias de la computación, ingeniería y tecnología. Tiene como finalidad que se cumplan los estándares de calidad internacionales que se exigen para dichas disciplinas en más de 30 países.
+
+
+                    </div> 
+
+                </div>
+                <hr>
                 <div class="row pt-3 d-flex align-items-center">
                     <div class="col-12 text-center col-md-3 text-center"   >
                         <img src="img/acreditaciones/EUR-ACE.jpg"  class="img-fluid" alt="">

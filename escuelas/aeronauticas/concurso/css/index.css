@@ -1,0 +1,118 @@
+body{
+	background: #365194 url("../img/fondo2.png");
+}
+.usmp{
+	width: 250px;
+}
+.epca{
+	width: 50px;
+}
+.semana{
+	width: 500px;
+}
+.navbar2{
+	text-align: center;
+	
+}
+.navbar2 a{
+	/*margin-left: 120px;*/
+	/*border:1px solid red;
+	background-color: yellow;
+	padding: 10px 30px 10px 30px;
+	text-decoration: none;
+	font: 15px Arial;*/
+}
+.hover-btn:hover{
+	background:cadetblue !important;
+	transition: 1s !important;
+	cursor:pointer !important;
+}
+.rock{
+	
+}
+/*.rock:hover{
+	background-image: url("../img/a_rock.jpg");
+}*/
+.footer{
+	background-color: #001D3D;
+	color: #b3d9ff;
+	padding: 33px 12px 15px 12px;
+	font: 12px Myriad Pro;
+}
+.bases{
+	background-color: yellow;
+	text-decoration: none;
+	font: 15px Arial;
+	margin-right: 90px;
+	padding: 10px 70px 10px 70px;
+}
+.bases:hover{
+	background-color: #000d33;
+	color:white;
+}
+.inscripciones{
+	margin-left: 90px;
+	background-color: yellow;
+	padding: 10px 40px 10px 40px;
+	text-decoration: none;
+	font: 15px Arial;
+}
+.inscripciones:hover{
+	background-color: #000d33;
+	color:white;
+}
+.imagencenter{
+	width: 850px;
+}
+
+@media (max-width: 850px)  {
+	.imagencenter{
+		width: 600px;
+	}	
+}
+@media (max-width: 500px){
+	.semana{
+		width: 300px;
+	}
+	.avion{
+		width: 300px;	
+	}
+	.imagencenter{
+		width: 300px;
+	}
+}
+@media (max-width: 590px) {
+	.bases{
+		position: relative;
+		top: -2em;
+		left: 3em;
+	}
+	.inscripciones{
+		position: relative;
+		top: 0em;
+		right: 3em;
+	}
+	.imagencenter{
+		width: 450px;
+	}
+}
+@media (max-width: 450px) {
+	.imagencenter{
+		width: 350px;
+	}
+}
+@media (max-width: 350px) {
+	.imagencenter{
+		width: 250px;
+	}
+}
+
+.centrar{
+	display: flex;
+	align-items: center;
+	justify-content: center;	
+}
+
+.centrar a{
+	margin-right: 0px !important;
+}

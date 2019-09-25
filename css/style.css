@@ -3610,6 +3610,10 @@ justify-content: center;
   max-width: 60% !important;
 }
 
+.img-responsiva{
+  width: 100%;
+}
+
 .img-logo-fix-mobile{
   width:500px;
 }

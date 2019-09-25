@@ -8,33 +8,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
-    <!-- Title -->
+    <!-- Title <?php $i = 0; echo($i++) ?>    -->
     <title>Fia USMP</title>
 
-    <!-- Favicon -->
+    <!-- Favicon   -->
     <link rel="icon" href="https://www.usmp.edu.pe/fia/img/core-img/logousmp.ico">
 
-    <!-- Core Stylesheet -->
+    <!-- Core Stylesheet   -->
     <link rel="stylesheet" href="https://www.usmp.edu.pe/fia/css/style.css">
 
 </head>
 
 <body>
-    <!-- ##### Preloader ##### -->
+    <!-- ##### Preloader #####     -->
     <div id="preloader">
         <i class="circle-preloader"></i>
     </div>
 
-    <!-- ##### Header Area Start ##### -->
+    <!-- ##### Header Area Start #####     -->
     <header class="header-area">
 
       <?php include_once('../../blocks/header.html') ?>
 
 
     </header>
-    <!-- ##### Header Area End ##### -->
+    <!-- ##### Header Area End #####   -->
 
- <!-- ##### banner ##### -->
+ <!-- ##### banner #####   -->
  <div class="page-header10 img-fix-position2">
         <div class="container">
             <div class="row">
@@ -48,11 +48,11 @@
             </div>
         </div>
     </div>
-    <!-- ##### banner ##### -->
+    <!-- ##### banner #####    -->
 
      
 
-    <!-- ##### contenido ##### -->
+    <!-- ##### contenido #####     -->
     <section class="about-us-area mt-50 section-padding-100">
         <div class="container">
          <div class="row">
@@ -62,21 +62,25 @@
 						<a class="nav-item nav-link active" id="nav-bienvenidos-tab" data-toggle="tab" href="#nav-bienvenidos" role="tab" aria-controls="nav-bienvenidos" aria-selected="true">Escuela</a>
 
 
-                        <a class="nav-item nav-link" id="nav-mv-tab" data-toggle="tab" href="#nav-mv" role="tab" aria-controls="nav-mv" aria-selected="false">Visión y Misión</a>
+                        <!-- <a class="nav-item nav-link" id="nav-mv-tab" data-toggle="tab" href="#nav-mv" role="tab" aria-controls="nav-mv" aria-selected="false">Visión y Misión</a>     -->
 
-                        <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil del Graduado</a>
+                        <a class="nav-item nav-link" id="nav-graduado-tab" data-toggle="tab" href="#nav-graduado" role="tab" aria-controls="nav-graduado" aria-selected="false">Perfil Profesional</a>
 
-                        <a class="nav-item nav-link" id="nav-objetivos-tab" data-toggle="tab" href="#nav-objetivos" role="tab" aria-controls="nav-objetivos" aria-selected="false">Objetivos Educacionales</a>
+                        <!-- <a class="nav-item nav-link" id="nav-objetivos-tab" data-toggle="tab" href="#nav-objetivos" role="tab" aria-controls="nav-objetivos" aria-selected="false">Objetivos Educacionales</a>    -->
 
-                        <a class="nav-item nav-link" id="nav-resultados-tab" data-toggle="tab" href="#nav-resultados" role="tab" aria-controls="nav-resultados" aria-selected="false">Resultados del Estudiante</a>
+                        <!-- <a class="nav-item nav-link" id="nav-resultados-tab" data-toggle="tab" href="#nav-resultados" role="tab" aria-controls="nav-resultados" aria-selected="false">Resultados del Estudiante</a>   -->
 
 
 						<a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
                         <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Asignaturas</a>
 
-                        <a class="nav-link  nav-link  " id="nav-egresados-tab"  data-toggle="tab" href="#nav-egresados" role="tab" aria-controls="nav-egresados" aria-selected="false">Egresados exitosos</a>
+                     <a class="nav-item nav-link" id="investigacion" data-toggle="tab" href="#nav-investigacion" role="tab" aria-controls="nav-investigacion"  aria-selected="false">Investigación</a>
+
+                     <a class="nav-item nav-link" id="nav-acred-tab" data-toggle="tab" href="#nav-acred" role="tab" aria-controls="nav-acred" aria-selected="false">Acreditación EPICS</a>
+
+                        <!-- <a class="nav-link  nav-link  " id="nav-egresados-tab"  data-toggle="tab" href="#nav-egresados" role="tab" aria-controls="nav-egresados" aria-selected="false">Egresados exitosos</a>     -->
                       
-                        <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>
+                        <!-- <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>  -->
 
                         <a class="nav-item nav-link" id="nav-encuestas-tab" data-toggle="tab" href="#nav-encuestas" role="tab" aria-controls="nav-encuestas" aria-selected="false">Encuestas</a>
                        
@@ -84,7 +88,7 @@
                         
 
                         <!-- <a class="nav-item nav-link" id="nav-encuestaDoc-tab" data-toggle="tab" href="#nav-encuestaDoc" role="tab" aria-controls="nav-encuestaDoc" aria-selected="false">Encuesta Docentes</a>
-                        <a class="nav-item nav-link" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a> -->
+                        <a class="nav-item nav-link" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a>  -->
 
                        
                         <a class="nav-item nav-link " id="nav-convenios-tab" data-toggle="tab" href="#nav-convenios" role="tab" aria-controls="nav-convenios" aria-selected="false">Convenios</a>
@@ -101,7 +105,7 @@
                 </nav>
 
 
-                <!-- CONTENIDO TAB  BIENVENIDOS -->
+                <!-- CONTENIDO TAB  BIENVENIDOS    -->
 				<div class="col-md-9 tab-content" id="nav-tabContent " style="font-family:Arial;">
 
 					<div class="tab-pane fade show active" id="nav-bienvenidos" role="tabpanel" aria-labelledby="nav-bienvenidos-tab">
@@ -121,43 +125,66 @@
                     
                         
 
-                        
+                        <p class="text-fix-content"> <strong>  Bienvenidos</strong></p>
                         <p class="text-fix-content">
-                            La necesidad de mantener un proceso de formación de primera línea es una tarea permanente que la Universidad de San Martín de Porres y la Escuela Profesional de Ingeniería de Computación y Sistemas (EPICS) de la Facultad de Ingeniería y Arquitectura, toman con seriedad y dedicación en beneficio de todo su alumnado.
+                            
+                            La Escuela Profesional de Ingeniería de Computación y Sistemas (EPICS) es la Unidad Académica encargada de formar profesionales en la especialidad de Ingeniería de Computación y Sistemas con sólidos valores, competentes y creativos para resolver problemas en el contexto laboral y social; desarrollar habilidades para responder a los cambios y desafíos del entorno; fomentar la investigación aplicada en el desarrollo de sistemas de información; promover actividades de extensión y proyección social que beneficien a la sociedad.
                         </p>
-                  
+
+                        <p class="text-fix-content"> <strong>  Campos de acción</strong></p>
                         <p class="text-fix-content">
-                            Los adelantos científicos y técnicos, las modernas metodologías y herramientas de ingeniería, las tecnologías de información y comunicaciones, los nuevos paradigmas del pensamiento moderno, exigen al Programa de Ingeniería de Computación y Sistemas (EPICS) una revisión periódica de los objetivos educacionales, resultados y procesos académicos.
+                             El Ingeniero de Computación y Sistemas puede incorporarse a instituciones públicas y privadas de diversos campos, como desarrollo de sistemas,  sistemas de información, inteligencia artificial y robótica, gestión de TI, sistemas de comunicaciones, soporte de gestión empresarial, sistemas computacionales, docencia e investigación aplicada.
                         </p>
                       
                         <p class="text-fix-content">
-                           Se considera imprescindible que el trabajo y los resultados del programa se evalúen por entidades externas idóneas, de tal forma que el programa está direccionado hacia el camino correcto. En tal sentido, se decide que la acreditación es el paso adecuado para alcanzar la excelencia del programa.
+                             El Programa de Ingeniería de Computación y Sistemas de la USMP está acreditado por:
+
+
                         </p>
         
-                        
-               
-                            <p class="text-fix-content">
-                            Para ello, se trabaja con los criterios de acreditación de organismos internacionales de gran prestigio, claros en sus estándares y rigurosos en su calificación; reto que se acepta con valor, entusiasmo y responsabilidad.
-                        </p>
+                                                    
+                        <div class="row">
 
-                        <p class="text-fix-content">                        
-                            La acreditación es un proceso continuo en el tiempo y permite posicionar al programa a la par que los mejores programas de América y Europa. Asimismo, requiere la colaboración de todos los constituyentes: alumnos, plana docente, graduados, empleadores y comité asesor externo, unidos como una gran familia EPICS para lograr nuestro objetivo. A todos los involucrados se les exhorta a redoblar esfuerzos, a sentirse comprometidos en la participación e información sobre el proceso.
-                        </p>
+                       
+
+
+                            <div class="col-6 col-lg-4  mt-3"  >
+                                <div class=" centrarimg">
+                                <img class="img-fluid"  src="../../img/acreditaciones/logos/euro_inf.jpg" alt="">
+                                </div>
+                            </div>
+
+
+
+                            <div class="col-6 col-lg-4  mt-3"  >
+                                <div class=" centrarimg">
+                                <img class="img-fluid"  src="../../img/acreditaciones/logos/ICACIT.jpg" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-lg-4 mt-3 "  >
+                                <div class=" centrarimg">
+                                <img class="img-fluid"  src="../../img/acreditaciones/logos/asiin2.jpg" alt="">
+                                </div>
+                            </div>
+                            </div>
+
+                            </div>
+
+
+
+                        </div>
+                           
 
                        
                      
                  
         
-                        
-                        
-                        </div> 
-                                            
-
-                    </div> 
+               
 
                     
 
-                    <!-- FIN CONTENIDO BIENVENIDOS -->
+                    <!-- FIN CONTENIDO BIENVENIDOS     -->
 
 
 
@@ -174,7 +201,7 @@
 
 
 
-<!-- CONTENIDO TAB  MISIÓN Y VISIÓN -->
+<!-- CONTENIDO TAB  MISIÓN Y VISIÓN
 <div class="tab-pane fade" id="nav-mv" role="tabpanel" aria-labelledby="nav-mv-tab">
 <div class="container">
 
@@ -200,18 +227,16 @@
     </p>
 </div>
 
-</div>
+</div>     -->
  
  
-              
-<!-- FIN CONTENIDO BIENVENIDOS -->
 
 
 
 
 
 
-<!-- CONTENIDO TAB  encuestas -->
+<!-- CONTENIDO TAB  encuestas  -->
 <div class="tab-pane fade" id="nav-encuestas" role="tabpanel" aria-labelledby="nav-encuestas-tab">
 <div class="container">
 
@@ -240,11 +265,11 @@
  
  
               
-<!-- FIN CONTENIDO encuestas -->
+<!-- FIN CONTENIDO encuestas   -->
 
 
 
-                    <!-- Contendio Tab Perfil Graduados -->
+                    <!-- Contendio Tab Perfil Graduados    -->
 
 				   <div class="tab-pane fade show " id="nav-graduado" role="tabpanel" aria-labelledby="nav-graduado-tab">
                    <div class="container">
@@ -252,11 +277,11 @@
                     </div>                            
                     <div class="container">
                             <p class="text-fix-content">
-                            El perfil del graduado de Ingeniería de Computación y Sistema es el siguiente:
+                            <b>Competencias que adquiere el estudiante al egresar de la carrera (Outcomes) </b>
                             </p>  
                             
                             <ul class="fix-items-li font-16">
-                                <li>Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
+                                <li>	Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
                                 <li>Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
                                 <li>Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
                                 <li>Habilidad para trabajar con efectividad en equipos para lograr una meta común.</li>
@@ -266,20 +291,31 @@
                                 <li>Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
                                 <li>Habilidad para usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
                                 <li>Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
+
                             </ul>
+                            <br>
+                            <p class="text-fix-content"><b>   Declaración de los objetivos educacionales</b></p>
+
+                            <ul class="fix-items-li-numeric font-16 mt-3" >
+                                <li> Serán capaces de generar soluciones de Sistemas de Información con altos estándares de calidad, que permitan mejorar y optimizar la gestión de procesos de negocio en la organización.</li>
+                                <li> Desenvolverse adecuadamente con capacidad analítica y comunicativa para aportar soluciones que agreguen valor a la organización.</li>
+                                <li> Practicar un ejercicio profesional responsable, con valores éticos y utiliza de manera adecuada los recursos disponibles en la organización.</li>
+                                <li> Trabajar en equipos multidisciplinarios, para desarrollar proyectos de sistemas de información que aporten al progreso y bienestar de la sociedad.</li>
+                                <li> Ser un profesional comprometido con el aprendizaje continuo para su desarrollo personal a lo largo de toda la vida.</li>
+
+                            </ul>    
+
                             
                         </div>
                    
                     </div>
-                   <!-- FIN Contendio Tab Perfil Graduados -->
+
+                   <!-- FIN Contendio Tab Perfil Graduados     -->
 
 
+                    <!-- Contendio Tab objetivos   -->
 
-
-
-                    <!-- Contendio Tab objetivos -->
-
-				   <div class="tab-pane fade show " id="nav-objetivos" role="tabpanel" aria-labelledby="nav-objetivos-tab">
+				   <!-- <div class="tab-pane fade show " id="nav-objetivos" role="tabpanel" aria-labelledby="nav-objetivos-tab">
                    <div class="container">
                        <h2 class="subtitle-general-fix"> Objetivos Educacionales</h2>
                     </div> 
@@ -299,35 +335,35 @@
                             
                         </div>
 
-                    </div>
-                   <!-- FIN Contendio Tab objetivos -->
+                    </div>     -->
+                   <!-- FIN Contendio Tab objetivos    -->
 
-<!-- Contendio Tab resultados -->
+<!-- Contendio Tab resultados  -->
 
-                   <div class="tab-pane fade show " id="nav-resultados" role="tabpanel" aria-labelledby="nav-resultados-tab">
+                   <!-- <div class="tab-pane fade show " id="nav-resultados" role="tabpanel" aria-labelledby="nav-resultados-tab">
                                             
                     <div class="container">
                            
                             <h2 class="subtitle-general-fix"> Resultados del Estudiante</h2>
 
                             <ul class="fix-items-li-alpha  mt-3">
-                            <li> Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
-                            <li> Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
-                            <li> Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
-                            <li> Habilidad para trabajar con efectividad en equipos para lograr una meta común.</li>
-                            <li> Comprensión de los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
-                            <li> Habilidad para comunicarse con efectividad con un rango de audiencias.</li>
-                            <li> Habilidad para analizar el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
-                            <li> Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
-                            <li> Habilidad para usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
-                            <li> Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
-                    </ul>
+                                <li> Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
+                                <li> Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
+                                <li> Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
+                                <li> Habilidad para trabajar con efectividad en equipos para lograr una meta común.</li>
+                                <li> Comprensión de los aspectos y responsabilidades profesional, ética, legal, de seguridad y social.</li>
+                                <li> Habilidad para comunicarse con efectividad con un rango de audiencias.</li>
+                                <li> Habilidad para analizar el impacto local y global de la computación en los individuos, organizaciones y la sociedad.</li>
+                                <li> Reconocer la necesidad y tener la habilidad para comprometerse a un continuo desarrollo profesional.</li>
+                                <li> Habilidad para usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la computación.</li>
+                                <li> Comprensión de los procesos que soportan la entrega y la administración de los sistemas de información dentro de un entorno específico de aplicación.</li>
+                          </ul>
                         </div>
 
-                    </div>
-                   <!-- FIN Contendio Tab resultados -->
+                    </div>     -->
+                   <!-- FIN Contendio Tab resultados   -->
 
-                   <!-- Contendio Tab egresados -->
+                   <!-- Contendio Tab egresados    -->
 
                    <div class="tab-pane fade show " id="nav-egresados" role="tabpanel" aria-labelledby="nav-egresados-tab">
                                             
@@ -368,9 +404,9 @@
         </div>
 
         </div>
-        <!-- final de una fila-->
+        <!-- final de una fila -->
         <hr>
-        <!-- inicio de una fila-->
+        <!-- inicio de una fila    -->
         <div class="row">
 
         <div class="col-md-8">
@@ -404,9 +440,9 @@
         </div>
 
         </div>
-        <!-- final de una fila-->
+        <!-- final de una fila -->
         <hr>
-        <!-- inicio de una fila-->
+        <!-- inicio de una fila    -->
         <div class="row">
 
         <div class="col-md-8">
@@ -442,12 +478,12 @@
         </div>
 
         </div>
-        <!-- final de una fila-->
+        <!-- final de una fila -->
                         </div>
 
                     </div>
-                   <!-- FIN Contendio Tab resultados -->
-                          <!-- Contenido tab Organización plan de Estudios --> 
+                   <!-- FIN Contendio Tab resultados   -->
+                          <!-- Contenido tab Organización plan de Estudios     --> 
 
                     <div class="tab-pane fade" id="nav-organizacion" role="tabpanel" aria-labelledby="nav-organizacion-tab">
                     <div class="container-fluid">
@@ -464,14 +500,14 @@
                        </div>
                     </div>
 
-                     <!-- FIN Contenido tab Organización plan de Estudios --> 
+                     <!-- FIN Contenido tab Organización plan de Estudios  --> 
 
-                     <!-- Contenido tab Catalogo de Cursos --> 
+                     <!-- Contenido tab Catalogo de Cursos     --> 
 
                     <div class="tab-pane fade" id="nav-catalogodecursos" role="tabpanel" aria-labelledby="nav-catalogodecursos-tab">
                         <div class="container">
                             
-                            <h2 class="subtitle-general-fix">Catálogo de Asignaturas</h2></br> 
+                            <h2 class="subtitle-general-fix">Catálogo de Asignaturas</h2> <br> 
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe src="https://www.usmp.edu.pe/fia/escuelas/sistemas/pdf/catalogo_cursos_sistemas.pdf" allowfullscreen id="archivo"></iframe> 
                         </div> 
@@ -481,15 +517,44 @@
                             
                     </div>
 
-                     <!-- FIN Contenido tab Catalogo de Cursos --> 
+                     <!-- FIN Contenido tab Catalogo de Cursos     --> 
+
+
+
+
+
+
+                     <!-- Contenido tab INVESTIGACION  --> 
+
+                    <div class="tab-pane fade" id="nav-investigacion" role="tabpanel" aria-labelledby="nav-investigacion-tab">
+                        <div class="container">
+                            
+                            <h2 class="subtitle-general-fix">Investigación</h2> <br>
+                            
+                            <p class="text-fix-content">
+                                La EPICS bajo los lineamientos de las agencias acreditadoras nacionales e internacionales y entes reguladores nacionales desarrolla sus proyectos de investigación de acuerdo a sus tres (3) líneas de investigación.
+                            </p>
+                            <p class="text-fix-content">
+                                Líneas de investigación:
+                            </p>
+                      
+                            <div class=" centrarimg">
+                                <img class="img-fluid"  src="../../img/escuelas/sistemas/pic_epics.jpg" alt="">
+                            </div>
+
+                        </div>
+                            
+                    </div>
+
+                     <!-- FIN Contenido tab INVESTIGACION  --> 
 
 
                     
 
                     
-                     <!-- FIN Contenido tab Catalogo de Cursos --> 
+                     <!-- FIN Contenido tab Catalogo de Cursos     --> 
 
-                       <!-- Contenido tab CAMPUS --> 
+                       <!-- Contenido tab CAMPUS   --> 
 
                     <div class="tab-pane fade" id="nav-campus" role="tabpanel" aria-labelledby="nav-campus-tab">
                         <div class="container">
@@ -500,10 +565,10 @@
                         
                     </div>
 
-                    <!-- FIN Contenido tab CAMPUS --> 
+                    <!-- FIN Contenido tab CAMPUS  --> 
 
 
-                      <!-- Contenido tab convenidos--> 
+                      <!-- Contenido tab convenidos    --> 
 
                       <div class="tab-pane fade" id="nav-convenios" role="tabpanel" aria-labelledby="nav-convenios-tab">
                         <div class="container">
@@ -515,26 +580,39 @@
                     </div>
 
 
-                    <!-- FIN Contenido TAB CONVENIOS--> 
+               
+                    <div class="tab-pane fade" id="nav-acred" role="tabpanel" aria-labelledby="nav-acred-tab">
+                   <div class="container">
+                   <h2 class="subtitle-general-fix">Acreditación</h2>
+                   </div>
+                        <div class="container centrarimg">
+                        
+                            
+                            <br><br>
+
+                            <img class="img-fluid" src="../../img/escuelas/sistemas/AcreditacionEPICS.jpg" alt="">
+                        
+                        </div>
+                            
+                    </div>
+ 
+
+               
+       
 
                     <div class="tab-pane fade" id="nav-contacto" role="tabpanel" aria-labelledby="nav-contacto-tab">
                     
-                        <?php include('../../blocks/contacto.php') ?>
+                        <?php include('contacto.php') ?>
 
                     </div>
        
 
 
-                     <div class="tab-pane fade" id="nav-eventos" role="tabpanel" aria-labelledby="nav-novedades-tab">
-                        <div class="container">
 
                         <?php include('eventos.php') ?>
                         
                        
 
-                        </div>
-                    
-                    </div>
                   
 
                 
@@ -552,17 +630,17 @@
        <?php include_once('../../blocks/footer.html') ?>
     </footer>
 
-    <!-- ##### All Javascript Script ##### -->
-    <!-- jQuery-2.2.4 js -->
+    <!-- ##### All Javascript Script #####     -->
+    <!-- jQuery-2.2.4 js   -->
    
     <script src="https://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
-    <!-- Popper js -->
+    <!-- Popper js     -->
     <script src="https://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
-    <!-- Bootstrap js -->
+    <!-- Bootstrap js  -->
     <script src="https://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
-    <!-- All Plugins js -->
+    <!-- All Plugins js    -->
     <script src="https://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
-    <!-- Active js -->
+    <!-- Active js     -->
     <script src="https://usmp.edu.pe/fia/js/active.js"></script>
 
   
