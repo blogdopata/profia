@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
 
-    <!-- Title <?php $i = 0; echo($i++) ?>    -->
+    <!-- Title     -->
     <title>Fia USMP</title>
 
     <!-- Favicon   -->
@@ -16,7 +16,12 @@
 
     <!-- Core Stylesheet   -->
     <link rel="stylesheet" href="https://www.usmp.edu.pe/fia/css/style.css">
+    <style>
+        ul.fix-items-li li{
+            list-style-type: lower-alpha !important;
 
+        }
+    </style>
 </head>
 
 <body>
@@ -71,7 +76,7 @@
                         <!-- <a class="nav-item nav-link" id="nav-resultados-tab" data-toggle="tab" href="#nav-resultados" role="tab" aria-controls="nav-resultados" aria-selected="false">Resultados del Estudiante</a>   -->
 
 
-						<a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a>
+						<a class="nav-item nav-link" id="nav-organizacion-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Plan de Estudios</a>
                         <a class="nav-item nav-link" id="catalogodecursos" data-toggle="tab" href="#nav-catalogodecursos" role="tab" aria-controls="nav-catalogodecursos"  aria-selected="false">Catálogo de Asignaturas</a>
 
                      <a class="nav-item nav-link" id="investigacion" data-toggle="tab" href="#nav-investigacion" role="tab" aria-controls="nav-investigacion"  aria-selected="false">Investigación</a>
@@ -82,7 +87,7 @@
                       
                         <!-- <a class="nav-item nav-link" id="nav-eventos-tab" data-toggle="tab" href="#nav-eventos" role="tab" aria-controls="nav-eventos" aria-selected="false">Eventos</a>  -->
 
-                        <a class="nav-item nav-link" id="nav-encuestas-tab" data-toggle="tab" href="#nav-encuestas" role="tab" aria-controls="nav-encuestas" aria-selected="false">Encuestas</a>
+                        <!-- <a class="nav-item nav-link" id="nav-encuestas-tab" data-toggle="tab" href="#nav-encuestas" role="tab" aria-controls="nav-encuestas" aria-selected="false">Encuestas</a> -->
                        
                        
                         
@@ -91,7 +96,7 @@
                         <a class="nav-item nav-link" id="nav-encuestaAlu-tab" data-toggle="tab" href="#nav-encuestaAlu" role="tab" aria-controls="nav-encuestaAlu" aria-selected="false">Encuesta Alumnos</a>  -->
 
                        
-                        <a class="nav-item nav-link " id="nav-convenios-tab" data-toggle="tab" href="#nav-convenios" role="tab" aria-controls="nav-convenios" aria-selected="false">Convenios</a>
+                        <!-- <a class="nav-item nav-link " id="nav-convenios-tab" data-toggle="tab" href="#nav-convenios" role="tab" aria-controls="nav-convenios" aria-selected="false">Convenios</a> -->
 
 
                         <a class="nav-item nav-link " id="nav-contacto-tab" data-toggle="tab" href="#nav-contacto" role="tab" aria-controls="nav-contacto" aria-selected="false">Contacto</a>
@@ -280,7 +285,7 @@
                             <b>Competencias que adquiere el estudiante al egresar de la carrera (Outcomes) </b>
                             </p>  
                             
-                            <ul class="fix-items-li font-16">
+                            <ul class="fix-items-li font-16" style="list-style-type: lower-alpha !imponrtant">
                                 <li>	Habilidad para aplicar conocimientos de computación y matemáticas apropiadas para los resultados del estudiante y las disciplinas enseñadas.</li>
                                 <li>Habilidad para analizar un problema e identificar y definir los requerimientos apropiados para su solución.</li>
                                 <li>Habilidad para diseñar, implementar y evaluar un sistema basado en computadoras, procesos, componentes o programa que satisfagan las necesidades requeridas.</li>
@@ -490,7 +495,7 @@
 
 
 
-                        <h2 class="subtitle-general-fix">Organización del Plan de Estudios</h2></br>   
+                        <h2 class="subtitle-general-fix">Plan de Estudios</h2></br>   
                         <div class="embed-responsive embed-responsive-16by9">
                         <iframe class="embed-responsive-item" src="https://www.usmp.edu.pe/fia/escuelas/sistemas/pdf/Plan_estudio_sistemas_2019.pdf" id="archivo" allowfullscreen></iframe>
                         </div> 
