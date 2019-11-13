@@ -2,11 +2,12 @@
 <html lang="es">
 
 <head>
-  
+
     <title>Fia USMP</title>
 
     <meta charset="UTF-8">
-    <meta name="description" content="Potencia tu talento. Sé parte de una institución que forja líderes comprometidos con el país. Conoce más sobre ingeniería, arquitectura y aeronáuticas.">
+    <meta name="description"
+        content="Potencia tu talento. Sé parte de una institución que forja líderes comprometidos con el país. Conoce más sobre ingeniería, arquitectura y aeronáuticas.">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index,follow" />
@@ -16,115 +17,128 @@
 
     <link rel="stylesheet" href="css/style.css">
 
- <!--   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet"> -->
+    <!--   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet"> -->
 
 
 
 </head>
 
 <body>
-   
+
     <div id="preloader">
         <i class="circle-preloader"></i>
     </div>
 
-   
+
     <header class="header-area">
-        
-      <?php include_once('blocks/header.html') ?>
+
+        <?php include_once('blocks/header.html') ?>
 
     </header>
-   
+
     <!-- Slider TIME -->
     <section class="hero-area">
         <div style="margin-top:80px;" class="hero-slides owl-carousel">
-        
 
-            <!-- Imagen del slider de fondo n°1-->
-                    <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/vision2019.jpg);  background-repeat: no-repeat; ">
+
+            <!-- Imagen del slider de fondo n° VISION-->
+            <!-- <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/vision2019.jpg);  background-repeat: no-repeat; ">
                         <div class="container h-100">
                             <div class="row h-100 align-items-center">
                                 <div class="col-12">
                                     <div class="hero-slides-content">
                                         <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA - USMP </h4>
-                                        <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 ""> Congreso Internacional   <br> VISIÓN 2019  
-                                        <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 ""> Matrícula desde el 08 de julio  </h4> -->
-                                        <br>
+                                        <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 ""> Congreso Internacional   <br> VISIÓN 2019   -->
+            <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 ""> Matrícula desde el 08 de julio  </h4> -->
+            <!-- <br>
                                         <a href="https://usmp.edu.pe/vision2019/"   target="_blank" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                    </div> 
-               <!-- Imagen del slider de fondo n°1-->
-                    <div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/actividades.jpg);  background-repeat: no-repeat; ">
-                        <div class="container h-100">
-                            <div class="row h-100 align-items-center">
-                                <div class="col-12">
-                                    <div class="hero-slides-content">
-                                        <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
-                                        <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">CALENDARIO <br> DE ACTIVIDADES 2019-II  </h2>
-                                        <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 ""> Matrícula desde el 08 de julio  </h4> -->
-                                        <br>
-                                        <a href="https://usmp.edu.pe/fia/calendario.php"  class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div> 
-
-            <!-- Imagen del slider de fondo n°2 -->
-
-             <!--<div class="single-hero-slide bg-img" style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/sai.jpg);  background-repeat: no-repeat; ">
+                    </div>  -->
+            <!-- Imagen del slider de fondo n°1-->
+            <div class="single-hero-slide bg-img"
+                style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/epics.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5">   FIA USMP</h4>
-                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">SESIÓN ACADÉMICA <br> DE INVIERNO  </h2>
-                                                               <br>
-                                <a href="https://www.usmp.edu.pe/fia/sai.php"  class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
+                                <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
+                                        <h2 class=" sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">CALENDARIO <br> DE ACTIVIDADES 2019-II  </h2>
+                                       h4 class=" sombra" data-animation="fadeInUp" data-delay="100ms"
+                                    class="ml-5 ""> Matrícula desde el 08 de julio  </h4> 
+                                        <br>
+                                        <a href="#" class="btn academy-btn"
+                                    data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a> -->
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>  -->
+
+            </div>
 
 
-             <!-- Imagen del slider de fondo n°video -->
-             <!-- <div class="single-hero-slide bg-img">
+            <!-- Imagen del slider de fondo n°1-->
+            <div class="single-hero-slide bg-img"
+                style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/actividades.jpg);  background-repeat: no-repeat; ">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
+                                        <h2 class=" sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">CALENDARIO <br> DE ACTIVIDADES 2019-II  </h2>
+                                        <!-- <h4 class=" sombra" data-animation="fadeInUp" data-delay="100ms"
+                                    class="ml-5 ""> Matrícula desde el 08 de julio  </h4> -->
+                                        <br>
+                                        <a href=" https://usmp.edu.pe/fia/calendario.php" class="btn academy-btn"
+                                    data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+
+            <!-- Imagen del slider de fondo n°video -->
+            <!-- <div class="single-hero-slide bg-img">
              <video src="media/feria.mp4" autoplay style="width:100%;"></video>
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content"> -->
-                               <!-- <video src="media/feria.mp4" autoplay></video> -->
-                            <!-- </div>
+            <!-- <video src="media/feria.mp4" autoplay></video> -->
+            <!-- </div>
                         </div>
                     </div>
                 </div>
             </div>  -->
-          
+
 
 
             <!-- Imagen del slider de fondo n°3 -->
-                    <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-5.jpg); background-repeat: no-repeat; ">
-                        <div class="container h-100">
-                            <div class="row h-100 align-items-center">
-                                <div class="col-12">
-                                    <div class="hero-slides-content"   >
-                                        <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms"  class="ml-5" >FIA USMP</h4> -->
-                                        <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">AMA LO QUE HACES, <br>APRENDE CÓMO.</h2>
-                                        <a href="http://admision.usmp.edu.pe/"  target="_blank" class="ml-5 btn academy-btn" data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
-                                    </div>
-                                </div>
+            <div class="single-hero-slide bg-img"
+                style="background-image: url(img/bg-img/bg-5.jpg); background-repeat: no-repeat; ">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms"  class="ml-5" >FIA USMP</h4> -->
+                                <h2 class="sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5">AMA LO QUE
+                                    HACES, <br>APRENDE CÓMO.</h2>
+                                <a href="http://admision.usmp.edu.pe/" target="_blank" class="ml-5 btn academy-btn"
+                                    data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
 
- <!-- Imagen del slider de fondo n°3   (  36 años ) 
+            <!-- Imagen del slider de fondo n°3   (  36 años ) 
 
             <div class="single-hero-slide bg-img" style="background-image: url(img/bg-img/bg-2.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
@@ -140,14 +154,14 @@
             </div>
            FIA  36 años-->
 
-           
+
         </div>
     </section>
     <!-- ##### SliderTIme Ends ##### -->
 
     <!-- ##### DATOS DE INTERES ##### -->
-    <div class="top-features-area wow fadeInUp" data-wow-delay="300ms"  >
-        <div class="container"  >
+    <div class="top-features-area wow fadeInUp" data-wow-delay="300ms">
+        <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="features-content">
@@ -170,7 +184,8 @@
                             <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <img style="height:50px;" src="img/tecnologia.png" alt="">
-                                    <h5 style="margin-left:5px;font-family:Roboto Condensed">Tecnología <br> moderna</h5>
+                                    <h5 style="margin-left:5px;font-family:Roboto Condensed">Tecnología <br> moderna
+                                    </h5>
                                 </div>
                             </div>
                             <!-- DATO # 4-->
@@ -189,63 +204,77 @@
     <!-- ##### Top Feature Area End ##### -->
 
     <!-- ##### Course Area Start ##### -->
-    <div class="academy-courses-area mt-0 mt-lg-5"  >
-        <div class="container" style='max-width:60%;' >
-            <div class="row" >
+    <div class="academy-courses-area mt-0 mt-lg-5">
+        <div class="container" style='max-width:60%;'>
+            <div class="row">
                 <!-- Single Course Area -->
-                <div class="col-6 col-sm-6 col-lg-4 text-center"   >
+                <div class="col-6 col-sm-6 col-lg-4 text-center">
 
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="300ms">
-                        <div >
+                        <div>
                             <a target="_blank" href="https://www.usmp.edu.pe/portalacademico">
-                            <img  class="img-fluid img-fix-fluid" src="img/fia/intranet2.jpg" alt=""> <br>
-                            <a class="text-center course-content " target="_blank" href="https://www.usmp.edu.pe/portalacademico"><h4 class="rob" >INTRANET SAP</h4></a>
+                                <img class="img-fluid img-fix-fluid" src="img/fia/intranet2.jpg" alt=""> <br>
+                                <a class="text-center course-content " target="_blank"
+                                    href="https://www.usmp.edu.pe/portalacademico">
+                                    <h4 class="rob">INTRANET SAP</h4>
+                                </a>
                             </a>
                         </div>
                     </div>
                 </div>
 
                 <!-- Single Course Area -->
-                <div class="col-6 col-sm-6 col-lg-4 text-center"    >
+                <div class="col-6 col-sm-6 col-lg-4 text-center">
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="400ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/">
-                            <img  class="img-fluid img-fix-fluid" src="img/fia/acreditacion2.jpg" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/acreditacionfia/"><h4 class="rob">ACREDITACIÓN</h4></a>
+                                <img class="img-fluid img-fix-fluid" src="img/fia/acreditacion2.jpg" alt=""> <br>
+                                <a class="text-center course-content" target="_blank"
+                                    href="http://www.usmp.edu.pe/acreditacionfia/">
+                                    <h4 class="rob">ACREDITACIÓN</h4>
+                                </a>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- Single Course Area -->
-                <div class="col-6 col-sm-6 col-lg-4 text-center"   >
+                <div class="col-6 col-sm-6 col-lg-4 text-center">
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="500ms">
                         <div>
                             <a target="_blank" href="http://fia.usmp.trabajando.pe/">
-                            <img  class="img-fluid img-fix-fluid" src="img/fia/bolsa.jpg" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://fia.usmp.trabajando.pe/"><h4 class="rob">BOLSA DE TRABAJO</h4></a>
+                                <img class="img-fluid img-fix-fluid" src="img/fia/bolsa.jpg" alt=""> <br>
+                                <a class="text-center course-content" target="_blank"
+                                    href="http://fia.usmp.trabajando.pe/">
+                                    <h4 class="rob">BOLSA DE TRABAJO</h4>
+                                </a>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- Single Course Area -->
-                <div class="col-6 col-sm-6 col-lg-4 text-center" >
-                    <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="600ms" >
+                <div class="col-6 col-sm-6 col-lg-4 text-center">
+                    <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="600ms">
                         <div>
                             <a target="_blank" href="http://ingles.usmp.edu.pe/">
-                            <img class="img-fluid img-fix-fluid"  src="img/fia/ingles.jpg" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/"><h4 class="rob">INGLÉS BERLITZ</h4></a>
+                                <img class="img-fluid img-fix-fluid" src="img/fia/ingles.jpg" alt=""> <br>
+                                <a class="text-center course-content" target="_blank" href="http://ingles.usmp.edu.pe/">
+                                    <h4 class="rob">INGLÉS BERLITZ</h4>
+                                </a>
                             </a>
                         </div>
                     </div>
                 </div>
-                
+
                 <!-- Single Course Area -->
                 <div class="col-6 col-sm-6 col-lg-4 text-center">
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.sibus.usmp.edu.pe/">
-                            <img class="img-fluid img-fix-fluid"  src="img/fia/biblio.jpg" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://www.sibus.usmp.edu.pe/"><h4 class="rob">BIBLIOTECA</h4></a>
+                                <img class="img-fluid img-fix-fluid" src="img/fia/biblio.jpg" alt=""> <br>
+                                <a class="text-center course-content" target="_blank"
+                                    href="http://www.sibus.usmp.edu.pe/">
+                                    <h4 class="rob">BIBLIOTECA</h4>
+                                </a>
                             </a>
                         </div>
                     </div>
@@ -255,8 +284,11 @@
                     <div class="single-course-area mb-5   wow fadeInUp" data-wow-delay="800ms">
                         <div>
                             <a target="_blank" href="http://www.usmp.edu.pe/fia/institutos.php">
-                            <img class="img-fluid img-fix-fluid" src="img/fia/obu.jpg" alt=""> <br>
-                            <a class="text-center course-content" target="_blank" href="http://www.usmp.edu.pe/fia/institutos.php"><h4 class="rob">INSTITUTOS Y <br> CENTROS</h4></a>
+                                <img class="img-fluid img-fix-fluid" src="img/fia/obu.jpg" alt=""> <br>
+                                <a class="text-center course-content" target="_blank"
+                                    href="http://www.usmp.edu.pe/fia/institutos.php">
+                                    <h4 class="rob">INSTITUTOS Y <br> CENTROS</h4>
+                                </a>
                             </a>
                         </div>
                     </div>
@@ -388,22 +420,22 @@
             <div class="row mb-lg-2 mb-4">
                 <div class="col-12 p-0 h-25">
                     <div class=" text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
-                       
+
                         <h3 class="title-general">AGENDA</h3>
                     </div>
                 </div>
             </div>
 
 
-            <div class="row" >
+            <div class="row">
 
 
-           
 
-                  
 
-   <!-- Agenda / evento  FIN -->
-                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
+
+
+                <!-- Agenda / evento  FIN -->
+                <!-- <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
                     <div class="d-flex">
                     <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
                     <span style="font-size:40px;font-weight:bold"> 17</span> 
@@ -416,115 +448,151 @@
                             <span><a href="https://usmp.edu.pe/vision2019/" target="_blank" class="agenda-text-info">Más información</a>
                         </div>
                     </div>
+                </div> -->
+
+                <!-- Agenda / evento  FIN -->
+
+                <!-- Agenda / evento   -->
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block">
+                    <div class="d-flex">
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3">
+                            <span style="font-size:40px;font-weight:bold"> 14</span>
+                            <span style="font-size:26px;font-weight:bold">NOV</span>
+                        </div>
+                        <div>
+                            <h6 class="agenda-title">Examenes:<br> Finales 2019-II </h6>
+                            <span class="agenda-info"><b>Lugar:</b>Campus FIA</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1130 / 1122</a> </span> -->
+                            <br>
+                            <span><a href="https://usmp.edu.pe/fia/evaluaciones.php" target="_blank"
+                                    class="agenda-text-info">Más información</a> </span>
+                            <br>
+
+
+                        </div>
+                    </div>
                 </div>
-                
-                  <!-- Agenda / evento  FIN -->
+                <!-- Agenda / evento  FIN -->
 
-
-                  <!-- Agenda / evento   -->
-                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
+                <!-- Agenda / evento   -->
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block">
                     <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                        <span style="font-size:40px;font-weight:bold"> 25</span> 
-                            <span style="font-size:26px;font-weight:bold">OCT</span> 
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3">
+                            <span style="font-size:40px;font-weight:bold"> 02</span>
+                            <span style="font-size:26px;font-weight:bold">DIC</span>
                         </div>
                         <div>
-                    <h6 class="agenda-title">Workshop :<br> Bici de Bambú </h6>
-                            <span class="agenda-info"><b>Lugar:</b>  Campus FIA</span> <br>
-                          <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1130 / 1122</a> </span> --> <br> 
-                           <span><a href="https://www.facebook.com/fia.usmp/photos/pb.296483983786463.-2207520000.1566332562./2032342746867236/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>  </span>
-                             <br>                                                                     
-                           
+                            <h6 class="agenda-title">Curso:<br> Master Class</h6>
+                            <span class="agenda-info"><b>Lugar:</b> Campus FIA</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1178 </a> </span> -->
+                            <br>
+                            <span><a href="https://usmp.edu.pe/ivuc/modelado.php" target="_blank"
+                                    class="agenda-text-info">Más información</a> </span>
+                            <br>
 
-                        </div> 
+
+                        </div>
                     </div>
-                </div>  
-                  <!-- Agenda / evento  FIN -->
+                </div>
+                <!-- Agenda / evento  FIN -->
 
 
-                   <!-- Agenda / evento   -->
-                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block"  >
+
+                <!-- Agenda / evento   -->
+                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block">
                     <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3"  >
-                        <span style="font-size:40px;font-weight:bold"> 27</span> 
-                            <span style="font-size:26px;font-weight:bold">OCT</span> 
+                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3">
+                            <span style="font-size:40px;font-weight:bold"> 03</span>
+                            <span style="font-size:26px;font-weight:bold">DIC</span>
                         </div>
                         <div>
-                    <h6 class="agenda-title">Examen parcial:<br> Inglés I y II </h6>
-                            <span class="agenda-info"><b>Lugar:</b>Pab. Estudios Generales</span> <br>
-                          <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1130 / 1122</a> </span> --> <br> 
-                           <span><a href="https://www.facebook.com/fia.usmp/photos/pcb.2093249550776555/2093234764111367/?type=3&theater" target="_blank" class="agenda-text-info">Más información</a>  </span>
-                             <br>                                                                     
-                           
+                            <h6 class="agenda-title">Workshop :<br> Acero Vegetal</h6>
+                            <span class="agenda-info"><b>Lugar:</b> Satipo - Junín, Perú.</span> <br>
+                            <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1178 </a> </span> -->
+                            <br>
+                            <span><a href="https://usmp.edu.pe/ivuc/acerovegetal.php?fbclid=IwAR3XcI0yc84fctEHRNVCk8WnXno_UL374006S9YN84y2yVTFUB5iiZy4eUA"
+                                    target="_blank" class="agenda-text-info">Más información</a> </span>
+                            <br>
 
-                        </div> 
+
+                        </div>
                     </div>
-                </div>  
-                  <!-- Agenda / evento  FIN -->
-
-
- 
+                </div>
+                <!-- Agenda / evento  FIN -->
 
 
 
 
 
 
-                      
-                
+
+
+
+
+
+
+
 
 
             </div>
         </div>
     </div>
-  
+
     <footer class="footer-area">
-       
-       <?php include_once('blocks/footer.html') ?>
+
+        <?php include_once('blocks/footer.html') ?>
     </footer>
 
-    <div class="container"> 
+    <div class="container">
         <div class="row">
             <div class="col-12 col-lg-3 my-3 my-lg-5">
-                <h6> La Universidad de San Martín de Porres  <br> es  miembro de: </h6>
-            
+                <h6> La Universidad de San Martín de Porres <br> es miembro de: </h6>
+
             </div>
-            <div class="col-12  col-lg-9 mb-5  my-lg-5"  >
-                
+            <div class="col-12  col-lg-9 mb-5  my-lg-5">
+
                 <div class="row">
                     <div class="col-6 col-lg-3">
                         <a href="https://amcham.org.pe/abe/quienes-somos/" target="_blank">
                             <img src="https://usmp.edu.pe/fia/img/members/Logo_ABE.png" alt="">
-                        </a> 
-                        
+                        </a>
+
                         <a href="https://ariusa.net/" target="_blank">
                             <img src="https://usmp.edu.pe/fia/img/members/Logo_Ariusa.png" alt="">
-                        </a> 
-                        
+                        </a>
+
                     </div>
 
                     <div class="col-6 col-lg-3">
-                        <a href="https://www.unenvironment.org/es/node/10655" target="_blank"><img src="https://usmp.edu.pe/fia/img/members/Logo_Gupes.png" alt=""></a> 
-                        <a href="http://peru2021.org/" target="_blank"><img src="https://usmp.edu.pe/fia/img/members/Logo_Peru_2021.png" alt=""></a> 
+                        <a href="https://www.unenvironment.org/es/node/10655" target="_blank"><img
+                                src="https://usmp.edu.pe/fia/img/members/Logo_Gupes.png" alt=""></a>
+                        <a href="http://peru2021.org/" target="_blank"><img
+                                src="https://usmp.edu.pe/fia/img/members/Logo_Peru_2021.png" alt=""></a>
                     </div>
 
                     <div class="col-6 col-lg-3">
-                        <a href="https://www.trabajo.gob.pe/PERU_RESPONSABLE/" target="_blank"><img src="https://usmp.edu.pe/fia/img/members/Logo_Peru-Responsable.png" alt=""></a> 
-                        <a href="http://www.minam.gob.pe/educacion/red-ambiental-interuniversitaria-interuniversia-peru-rai/" target="_blank"><img src="https://usmp.edu.pe/fia/img/members/Logo_Red-Ambiental-Interuniversitaria.png" alt=""></a> 
+                        <a href="https://www.trabajo.gob.pe/PERU_RESPONSABLE/" target="_blank"><img
+                                src="https://usmp.edu.pe/fia/img/members/Logo_Peru-Responsable.png" alt=""></a>
+                        <a href="http://www.minam.gob.pe/educacion/red-ambiental-interuniversitaria-interuniversia-peru-rai/"
+                            target="_blank"><img
+                                src="https://usmp.edu.pe/fia/img/members/Logo_Red-Ambiental-Interuniversitaria.png"
+                                alt=""></a>
                     </div>
 
                     <div class="col-6 col-lg-3 text-center">
-                       
-                        <a href="http://unionursula.org/" target="_blank"><img src="https://usmp.edu.pe/fia/img/members/Logo_Ursula.png" alt=""></a> 
-                        <img src="https://usmp.edu.pe/fia/img/members/Logo_Red-Peruana-de-ResponsabilidadSocial.png" alt=""> 
+
+                        <a href="http://unionursula.org/" target="_blank"><img
+                                src="https://usmp.edu.pe/fia/img/members/Logo_Ursula.png" alt=""></a>
+                        <img src="https://usmp.edu.pe/fia/img/members/Logo_Red-Peruana-de-ResponsabilidadSocial.png"
+                            alt="">
                     </div>
                 </div>
 
-            
+
             </div>
-        
+
         </div>
-    
+
     </div>
 
 
@@ -544,20 +612,15 @@
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
 
     <script>
-        
-        
-        var app = new Vue({
-            el : '#lol',
-            data: {
-                titulo: ' test '
+    var app = new Vue({
+        el: '#lol',
+        data: {
+            titulo: ' test '
 
 
-            }
-        })
-    
-    
+        }
+    })
     </script>
 </body>
 
 </html>
-

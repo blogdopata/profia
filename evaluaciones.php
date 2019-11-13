@@ -132,9 +132,10 @@
                                 </div>
                                 -->
                                 
-                                <div class="col-12 col-md-4 font-mode"  >
+                                <div class="col-12 col-md-4 font-mode" >
                                     <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
                                         <h5 class="text-info-gen"  >Cronograma de Evaluaciones</h5>
+                                        
                                         <a target="_blank"  href="http://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronograma_practicas_evaluaciones.pdf" class="text-link-gen">Cronograma</a>
                                        
                                     </div>
@@ -208,16 +209,14 @@
                                     </h3>
 
                                  <ul>
-                                        <li> 
-                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
+                                       
 
                                          
-                                         <!--
+                                        
                                          <li> 
-                                            <a href="pdf/calendario2019/rol/arquitectura.pdf" target="_blank"> - Rol de Examenes Finales :   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a href="pdf/crono-evaluaciones/arquitectura.pdf" target="_blank"> - Rol de Examenes Finales :   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         <li> 
+                                         <!--                                         <li> 
                                         <a href="pdf/calendario2019/rol/dev_arquitectura.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li> 
@@ -261,16 +260,21 @@
                                        Escuela Profesional de Ingeniería Civil
                                     </h3>
                                     <ul>
+
+<!--
                                     <li> 
                                             <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         <!--
-
+                                      
+-->
                                          
                                         <li> 
-                                        <a href="pdf/calendario2019/rol/civil.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/crono-evaluaciones/civil.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+
+                                         <!--
                                          <li> 
+
                                         <a href="pdf/calendario2019/rol/dev_civil.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
                                          <li> 
@@ -303,7 +307,7 @@
                                     <ul>
 
                                       <li> 
-                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a href="pdf/crono-evaluaciones/sistemas.pdf" target="_blank"> - Rol de Examenes Finales :    <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
 
                                          <!--
@@ -343,7 +347,7 @@
                                     <ul>
 
                                      <li> 
-                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a href="pdf/crono-evaluaciones/industrial.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
 
                                          <!--
@@ -376,7 +380,7 @@
                                    <ul>
 
                                     <li> 
-                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
+                                            <a href="pdf/crono-evaluaciones/aeronautica.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>  
                                          </li>
 
                                     <!--

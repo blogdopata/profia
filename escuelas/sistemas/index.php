@@ -544,7 +544,15 @@
                             </p>
                       
                             <div class=" centrarimg">
-                                <img class="img-fluid"  src="../../img/escuelas/sistemas/pic_epics.jpg" alt="">
+
+                                <!--<img class="img-fluid"  src="../../img/escuelas/sistemas/pic_epics.jpg" alt="">-->
+                                <img id="Image-Maps-Com-image-maps-2019-10-23-144306" src="../../img/escuelas/sistemas/pic_epics.jpg" border="0" width="600" height="325" orgWidth="600" orgHeight="325" usemap="#image-maps-2019-10-23-144306" alt="" />
+
+                                <map name="image-maps-2019-10-23-144306" id="ImageMapsCom-image-maps-2019-10-23-144306">
+                                <area  alt="LIA USMP" title="LIA USMP" href="https://www.usmp.edu.pe/lia/index.php" shape="rect" coords="218,231,360,283" style="outline:none;" target="_blank"     />
+                                <area shape="rect" coords="598,323,600,325" alt="Image Map" style="outline:none;" title="Image Map" href="../../img/escuelas/sistemas/pic_epics.jpg" />
+                                </map>
+
                             </div>
 
                         </div>
@@ -640,15 +648,23 @@
    
     <script src="https://usmp.edu.pe/fia/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js     -->
+    
     <script src="https://usmp.edu.pe/fia/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js  -->
     <script src="https://usmp.edu.pe/fia/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js    -->
     <script src="https://usmp.edu.pe/fia/js/plugins/plugins.js"></script>
     <!-- Active js     -->
+    <script src="https://usmp.edu.pe/fia/js/mapImg.js"></script>
+   
     <script src="https://usmp.edu.pe/fia/js/active.js"></script>
+    <script>
+    $(document).ready(function(){
 
-  
+        $('map').imageMapResize();
+    })
+  </script>
+ 
 </body>
 
 </html>
