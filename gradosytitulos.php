@@ -97,10 +97,13 @@
                                         <dt><a href="" data-toggle="modal" data-target="#revalidacion" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span> Trámite para revalidación de grados y títulos obtenidos en universidades extranjeras</span></a></dt>
                                         
                                         <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/asesores_de_tesis.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Asesores de Tesis</span></a></dt>
+                                        
+                                        <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/asesores_de_practicas.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Asesores de Prácticas Pre-Profesionales</span></a></dt>
+                                       
+                                        <dt><a href="" data-toggle="modal" data-target="#reglamentos" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span> Reglamentos y Directivas</span></a></dt>
 
                                         
-                                        <dt><a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/req_revalidacion_grados_titulos.pdf" alt=""><img src="https://www.usmp.edu.pe/fia/img/st_libro.png" /><span>Requisitos para revalidación de grados y tìtulos.</span></a></dt>
-
+                                       
                                         </dl>
                                         </section>
 				</div>
@@ -129,7 +132,7 @@
 
             <div class="tramite">
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/practicas-preprofesionales.pdf" target="_blank">
-              <i class="fa fa-check"></i> Prácticas Preprofesionales
+              <i class="fa fa-check"></i> Requisitos y trámites de las Prácticas Preprofesionales
             </a>
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/Formato_Inscripcion_Practicas_Pre-profesionales.pdf"
                 target="_blank">
@@ -139,16 +142,16 @@
                 <i class="fa fa-check"></i> Estructura Informe P.P.
             </a>
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/F_EVAL_DESEMPENO PRACTICA PRE 2012.zip">
-              <i class="fa fa-check"></i> Informe J.I.  para practicantes
+              <i class="fa fa-check"></i> Evaluación desempeño de la práctica
             </a>
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/F_EVAL_DESEMPENO LABORAL 2012.zip">
-            <i class="fa fa-check"></i> Informe J.I. para trabajadores
+            <i class="fa fa-check"></i> Evaluación desempeño de trabajo
             </a>
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/FORMATO_DE_INSCRIPCION_TRABAJO.pdf" target="_blank">
-              <i class="fa fa-check"></i> Formato de Inscripción de Trabajo
+              <i class="fa fa-check"></i> Formato de inscripción de trabajo
             </a>
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/GUIA_ELABORACION_DEL_INFORME_TRABAJO.pdf" target="_blank">
-              <i class="fa fa-check"></i> Estructura Informe de Trabajo (Practicas Pre-Profesionales)
+              <i class="fa fa-check"></i> Estructura de informe de trabajo 
             </a>
             </div>
         
@@ -188,23 +191,23 @@
 
 
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/ACTA_SUSTENTACION_TRABAJO_INVESTIGACION.pdf" target="_blank">
-              <i class="fa fa-check"></i> Acta de sustentación de trabajo de investigación
+              <i class="fa fa-check"></i> Acta de sustentación de trabajo de investigación (Ingresantes 2016-I)
             </a>
 
 
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2sSCaGXtOXq-6xP2BVPmxsw7k2d3v70C84EpPl5oFOESoSA/viewform"
                 target="_blank">
-                <i class="fa fa-check"></i> Formulario
+                <i class="fa fa-check"></i> Formato de actualización de datos
             </a>
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/modelo_cv_fia.pdf">
                 <i class="fa fa-check"></i> Modelo de Currículum Vitae
             </a>
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/graduacion.pdf">
-                <i class="fa fa-check"></i> Ceremonia de Graduación 2019
+                <i class="fa fa-check"></i> Ceremonia de Graduación 2019-II
 
             </a>
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/trabajo_investigacion_2014_2.pdf">
-                <i class="fa fa-check"></i> Directiva de Trabajo de Investigación para obtener el grado académico de Bachiller (Ingresantes 2014-II).
+                <i class="fa fa-check"></i> Directiva de Trabajo de Investigación para obtener el grado académico de Bachiller (Ingresantes 2016-I).
             </a>
 
             </div>
@@ -233,17 +236,11 @@
       </div>
       <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
         
-            <h2 class="modaltramite">Reglamento General</h2>
             
-            <p class="text-fix-content">
-            Artículo N° 28: El Título Profesional debe obtenerse dentro de los cinco (05) años siguientes de la culminación de los estudios, que correspondan a cada carrera profesional. Vencido dicho término, para obtenerlo es obligatorio seguir un Curso de Actualización que será organizado por la respectiva Facultad o Instituto.
-            </p>
             
-            <h2 class="modaltramite">Reglamento de Grados y Títulos</h2>
+            <h2 class="modaltramite">Trámites para el Título Profesional</h2>
             
-            <p class="text-fix-content">
-            Artículo N° 18: Para obtener el Título Profesional, el graduado puede optar por las modalidades siguientes:
-            </p>
+           
 
             <div class="tramite">
             <a href="https://www.usmp.edu.pe/fia/pdf/graduados/titulo/Titulo-Profesional.pdf" target="_blank">
@@ -260,7 +257,7 @@
                 <i class="fa fa-check"></i> Manual para la elaboración del Trabajo de Suficiencia Profesional
             </a>
             <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQql6hwo2XMlGnw-bTAT1Re1UQTlXMFgwUERQVVlEOVFaNVZKM1MzQjlGQy4u" target="_blank">
-                <i class="fa fa-check"></i> Formulario
+                <i class="fa fa-check"></i> Formulario de actualización de datos
             </a>
             </div>
         
@@ -299,7 +296,7 @@
 
             <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQql6hwo2XMlGnw-bTAT1Re1UQTlXMFgwUERQVVlEOVFaNVZKM1MzQjlGQy4u"
                 target="_blank">
-                <i class="fa fa-check"></i> Formulario
+                <i class="fa fa-check"></i> Formulario de actualización de datos
             </a>
             
 
@@ -342,7 +339,7 @@
 
             <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=7x8gmPbZaE6E9cJwUHTjQql6hwo2XMlGnw-bTAT1Re1UQTlXMFgwUERQVVlEOVFaNVZKM1MzQjlGQy4u"
                 target="_blank">
-                <i class="fa fa-check"></i> Formulario
+                <i class="fa fa-check"></i> Formulario de actualización de datos
             </a>
             
 
@@ -421,6 +418,63 @@
                     <li>Copia fotostática legalizada del DNI o del Carné de Extranjería, si se tratara de un ciudadano extranjero.</li>
                     <li>Recibo de pago por derechos, de acuerdo con el tarifario vigente de la Universidad.</li>
                 </ul>
+            
+        
+      </div>
+      <br>
+      <br>
+
+      <a target="_blank" href="https://www.usmp.edu.pe/fia/pdf/graduados/req_revalidacion_grados_titulos.pdf" alt=""><span>Requisitos para revalidación de grados y títulos.</span></a>
+      <div class="modal-footer">
+        <small>Guía de Trámites</small><button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<!--fin de modal-->  
+
+<!--inicio modal reglamentos-->
+<div class="modal fade" id="reglamentos" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header popupheader">
+        <h5 style="color:white;" class="modal-title" id="exampleModalLabel">Reglamentos y Directivas</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span style="color:white;" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="overflow-y: scroll;max-height:85%;">
+        
+            <h2 class="modaltramite">Reglamentos y Directivas</h2>
+            
+            <br>
+            <br>
+
+            <div class="tramite">
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/ReglamentodeGradosyTitulos2019.pdf" target="_blank">
+              <i class="fa fa-check"></i> Reglamento de Grados y Títulos
+            </a>        
+            
+
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/ReglamentodeRevalidaciondeGradosyTitulos.pdf" target="_blank">
+                <i class="fa fa-check"></i> Reglamento Revalidación
+            </a>
+
+            
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/DirectivadePracticasPre-Profesionales.pdf"
+                target="_blank">
+                <i class="fa fa-check"></i> Directiva de Prácticas Pre-Profesionales
+            </a>
+            
+            <a href="https://www.usmp.edu.pe/fia/pdf/graduados/CriteriosparalarevalidaciondeGradosyTitulos.pdf"
+                target="_blank">
+                <i class="fa fa-check"></i> Criterios para la revalidación de Grados y Títulos
+            </a>
+
+            </div>
+        
+
             
         
       </div>

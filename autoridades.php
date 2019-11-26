@@ -358,6 +358,19 @@
                                 <li>Unidad de Investigación y Desarrollo de Proyectos Académicos de la Escuela Profesional de Ingeniería de Computación y Sistemas</li>
                                 <li>Grupo de Investigación y Desarrollo en Procesamiento Digital de Señales e Imágenes (GIDEPSI)</li>
                               </ul>
+
+                              <br>
+                              <br>
+
+
+                              <ul class="fix-items-li">
+
+                             <li> <a href="pdf\Desarrollo_investigaciones_2018_Informe_publicado.pdf" target="_blank"> Desarrollo de investigaciones 2018</a></li>
+                             <li>  <a href="pdf\PRESUPUESTO_DE_INVESTIGACION_2019.pdf" target="_blank">Presupuesto de Investigación 2019</a></li>
+
+                              </ul>
+
+
                           </div>
                         </div>
 

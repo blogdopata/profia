@@ -91,10 +91,18 @@
 
                            <br>
 
+
+                           <h2 class="subtitle-general-fix">VISIÓN</h2>
+                           
+                           <p class="text-fix-content">
+                           Ser un ente integrador capaz de generar en la comunidad académica un alto sentido de pertenencia a la USMP, mediante la implementación de programas de Bienestar Universitario encaminadas a conseguir una formación integral del ser humano, priorizando la calidad de vida y la construcción de una cultura consolidada en valores.
+                           </p>
+
                            <h2 class="subtitle-general-fix">MISIÓN</h2>
                            
                            <p class="text-fix-content">
-                           Contribuir a una óptima formación integral del estudiante, propiciando las condiciones adecuadas para un eficiente desarrollo físico, psicoafectivo y social, fomentando principios y valores de nuestra Comunidad Universitaria, para el logro de una buena cultura institucional.
+                           Contribuir a una óptima formación integral del estudiante, propiciando las condiciones adecuadas para un eficiente desarrollo físico, psicoafectivo y social, fomentando principios y valores de nuestra Comunidad Universitaria, para el logro de una buena Cultura Institucional.
+
                            </p>
                             
                         
@@ -117,8 +125,58 @@
                                 </h5>
 
                                 <p class="text-fix-content">
-                              Es la unidad encargada de evaluar los casos sociales y/o situaciones de riesgo de la población universitaria, así como brindar la orientación e información respectiva de los trámites a seguir para la obtención de beneficios que otorga la facultad; además de organizar y promover actividades de bienestar social para los estudiantes, personal docente y administrativo de nuestra Comunidad Universitaria.
-                                </p>
+                             Es la unidad encargada de evaluar los casos sociales y/o situaciones de riesgo de la población universitaria, así como brindar la orientación e información respectiva de los trámites a seguir para la obtención de beneficios que otorga la facultad; además de organizar y promover actividades de bienestar social para la Comunidad Universitaria.
+                             </p>
+                             <h2 class="subtitle-general-fix">ASISTENCIA MÉDICA POR ACCIDENTES</h2>
+                             <p class="text-fix-content">
+
+En el caso que el accidente ocurriese dentro de los predios de la facultad, el estudiante debe ser trasladado al Tópico de la facultad, donde será atendido y evaluado por el personal de salud. En el caso que requiera atención especializada, será derivado a una clínica por el personal de Bienestar Universitario.</p>
+<p class="text-fix-content">
+ <b> *Accidentes ocurridos  fuera de los predios de la facultad </b> <br>
+Gozarán de cobertura contra accidentes los estudiantes que se encontraran realizando actividades oficiales deportivas y/o curriculares organizados y autorizados por la Facultad.
+</p>
+<br> 
+<h2 class="subtitle-general-fix">
+BECAS, MEDIAS BECAS Y CUARTOS DE BECAS </h2>
+
+<p class="text-fix-content">
+Con la finalidad de estimular y promover la excelencia académica de nuestros estudiantes, así como evitar frustrar la adecuada culminación de su formación profesional, la facultad de Ingeniería y Arquitectura, a través de la Oficina de Bienestar Universitario otorga Becas, Medias Becas y Cuartos de Beca a los alumnos que cumplan con los requisitos que se estipula en el Reglamento y  en las siguientes modalidades:
+</p>
+<h2 class="subtitle-general-fix">
+ BECA INTEGRAL:</h2>
+ <ul>
+<li> Promedio Ponderado </li>
+<li> Deportista Calificado </li>
+<li> Fallecimiento de Padre según Ley N°23585</li>
+<li> Pacto Colectivo (Hijos de Docentes y Personal Administrativo Estable)</li>
+<li> Convenio por Excelencia Académica (Colegio Presidente de la República)</li>
+</ul>
+<br>
+<h2 class="subtitle-general-fix">
+MEDIA BECA: </h2> 
+
+<ul>
+<li>	Promedio Ponderado</li></ul>
+<br>
+<h2 class="subtitle-general-fix">
+CUARTOS DE BECA:</h2>
+<ul>
+<li> Programa “Un Cuarto para el Tercio”</li>
+<li> Situación Especial</li>
+</ul>
+<br> 
+<h2 class="subtitle-general-fix">
+ACTIVIDADES EN BENEFICIO DE LA COMUNIDAD UNIVERSITARIA
+</h2>
+
+<ul>
+<li>	Campañas de Promoción de la Salud</li>
+<li>	Campañas de Vacunación</li>
+<li>	Campaña de Donación de sangre</li>
+<li>	Ferias Ecosaludables</li>
+<li>	Talleres y Charlas Educativas</li>
+
+</ul>
                                
                                 <div class="row">
                                 <img class="img-fluid" src="https://www.usmp.edu.pe/fia/img/prestaciones/otros/fotoBienestar2.jpg" style="margin:auto;" alt="">

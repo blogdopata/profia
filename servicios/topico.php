@@ -88,7 +88,7 @@
 
                             
                            <p class="text-fix-content">
-                           El tópico de Enfermería les da la más cordial bienvenida a todos los miembros de la Facultad de Ingeniería y Arquitectura de la universidad de San Martín de Porres y a todas aquellas personas que accedan a nuestra página web en busca de información.
+                           El tópico de Enfermería brinda atención primaria de salud eficiente y oportuna al alumnado, personal docente y administrativo que requiera de sus servicios, contribuyendo al bienestar físico, mental y social de nuestra comunidad universitaria.
                            </p>
                            
                            <p class="text-fix-content">

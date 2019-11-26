@@ -216,22 +216,16 @@
                                          <li> 
                                             <a href="pdf/crono-evaluaciones/arquitectura.pdf" target="_blank"> - Rol de Examenes Finales :   <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         <!--                                         <li> 
+                                                                             <li> 
                                         <a href="pdf/calendario2019/rol/dev_arquitectura.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         <li> 
-                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
+
+
+                                             <li> 
+                                        <a href="pdf/calendario2019/aplazados_2019-II.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         -->
-                                        <!-- <li> 
-                                            <a href="#"> - Devolución de exámenes parciales :  <i class="fa fa-file-pdf-o"></i></a>
-                                        </li>
-                                        <li> 
-                                            <a href="#"> -  Cronograma de exámenes finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                        </li>
-                                        <li> 
-                                            <a href="#"> - Devolución de exámenes finales  :   <i class="fa fa-file-pdf-o"></i></a>
-                                        </li> -->
+                                       
+                                     
                                     </ul> 
                                   
 
@@ -261,26 +255,22 @@
                                     </h3>
                                     <ul>
 
-<!--
-                                    <li> 
-                                            <a href="https://www.usmp.edu.pe/fia/pdf/crono-evaluaciones/cronogramaSAI-2019.pdf" target="_blank"> - Cronograma Sesión Académica de Invierno :   <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                      
--->
+
                                          
                                         <li> 
                                         <a href="pdf/crono-evaluaciones/civil.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
 
-                                         <!--
+                                   
                                          <li> 
 
                                         <a href="pdf/calendario2019/rol/dev_civil.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+
                                          <li> 
-                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/calendario2019/aplazados_2019-II.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                          -->
+                                   
 
                                          </ul>
 
@@ -310,17 +300,15 @@
                                             <a href="pdf/crono-evaluaciones/sistemas.pdf" target="_blank"> - Rol de Examenes Finales :    <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
 
-                                         <!--
+                                       
                                         <li> 
-                                        <a href="pdf/calendario2019/rol/sistemas.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/calendario2019/rol/sistemas.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales  :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+                                     
                                          <li> 
-                                        <a href="pdf/calendario2019/rol/dev_sistemas.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/calendario2019/aplazados_2019-II.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         <li> 
-                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                         -->
+                                     
 
                                          </ul>
 
@@ -350,17 +338,15 @@
                                             <a href="pdf/crono-evaluaciones/industrial.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
 
-                                         <!--
+                                       
                                         <li> 
-                                        <a href="pdf/calendario2019/rol/industrial.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/calendario2019/rol/industrial.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales  :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+                                        
                                          <li> 
-                                        <a href="pdf/calendario2019/rol/dev_industrial.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                              <a href="pdf/calendario2019/aplazados_2019-II.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
-                                         <li> 
-                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                         -->
+                                    
 
                                          </ul>
                                 </div>
@@ -383,18 +369,16 @@
                                             <a href="pdf/crono-evaluaciones/aeronautica.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>  
                                          </li>
 
-                                    <!--
+                                 
                                         <li> 
-                                        <a href="pdf/calendario2019/rol/aeronautica.pdf" target="_blank"> - Rol de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/calendario2019/rol/aeronautica.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
+                                          
                                          <li> 
-                                        <a href="pdf/calendario2019/rol/dev_aeronauticas.pdf" target="_blank"> - Rol de devoluciones de Examenes Finales :  <i class="fa fa-file-pdf-o"></i></a>
-                                         </li>
-                                         <li> 
-                                        <a href="pdf/calendario2019/aplazados_2019-1.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
+                                        <a href="pdf/calendario2019/aplazados_2019-II.pdf" target="_blank"> - Rol de  Examenes de Aplazados :  <i class="fa fa-file-pdf-o"></i></a>
                                          </li>
 
-                                         -->
+                                      
 
                                          </ul>
                                </div>

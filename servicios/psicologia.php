@@ -4,6 +4,9 @@
                               </h5>
 
                              <!-- <b id="grisfia" class="text-fix-style">¿Qué es un accidente?</b> -->
+
+                             <p class="text-fix-content">
+                             El Servicio Psicopedagógico, en concordancia con la misión de la universidad y de la Facultad de Ingeniería y Arquitectura, brinda asesoramiento y orientación psicopedagógica con la finalidad de contribuir desde una perspectiva humanística y trascendente, al desarrollo del bienestar físico, mental, social y ético de los estudiantes, en el marco de una formación profesional que busca  generar conocimientos científico-tecnológicos al servicio del país y del mundo.</p>
                              <p class="text-fix-content">
                             Somos profesionales que brindamos servicios de asistencia y capacitación, con un abordaje dinámico que busca apoyar a las personas que presentan dificultades tanto emocionales, vocacionales, de familia e interpersonales. 
                              <br>                             

@@ -456,15 +456,15 @@
                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block">
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3">
-                            <span style="font-size:40px;font-weight:bold"> 14</span>
+                            <span style="font-size:40px;font-weight:bold"> 25</span>
                             <span style="font-size:26px;font-weight:bold">NOV</span>
                         </div>
                         <div>
-                            <h6 class="agenda-title">Examenes:<br> Finales 2019-II </h6>
+                            <h6 class="agenda-title">Examenes:<br> Aplazados 2019-II </h6>
                             <span class="agenda-info"><b>Lugar:</b>Campus FIA</span> <br>
                             <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1130 / 1122</a> </span> -->
                             <br>
-                            <span><a href="https://usmp.edu.pe/fia/evaluaciones.php" target="_blank"
+                            <span><a href="https://usmp.edu.pe/fia/pdf/calendario2019/aplazados_2019-II.pdf" target="_blank"
                                     class="agenda-text-info">Más información</a> </span>
                             <br>
 
@@ -609,18 +609,8 @@
     <!-- Active js -->
     <script src="https://usmp.edu.pe/fia/js/active.js"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
-
-    <script>
-    var app = new Vue({
-        el: '#lol',
-        data: {
-            titulo: ' test '
-
-
-        }
-    })
-    </script>
+    
+  
 </body>
 
 </html>
