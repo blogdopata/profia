@@ -94,7 +94,8 @@
                             aria-controls="nav-doc" aria-selected="false">Documentación</a>
 
                         <a class="nav-item nav-link ult-item active"
-                            href="fia/fiadata/requerimientoPersonal.php">Requerimientos de Personal</a>
+                            href="https://usmp.edu.pe/fia/fiadata/requerimientopersonal.php">Requerimientos de
+                            Personal</a>
 
 
 
@@ -315,70 +316,176 @@
 
 
                     <div class="tab-pane  show active" id="nav-doc" role="tabpanel" aria-labelledby="nav-doc-tab">
-                        <div class="container">
-                            <h3 class="subtitle-general-fix">Requerimientos Personal </h3>
+
+                        <div class="tab-content" id="nav-tabContent">
+
+                            <!--  *************** Primer panel ****************** -->
+
+
+                            <div class="tab-pane fade show active" id="list-home" role="tabpanel"
+                                aria-labelledby="list-home-list">
+                                <div id="accordion">
+                                    <h3 class="subtitle-general-fix">Requerimientos Personal</h3>
+
+                                    <div class="card">
+                                        <div class="card-header bg-autoridades" id="headingOne">
+
+                                            <button class="btn btn-link " data-toggle="collapse"
+                                                data-target="#collapseOne" aria-expanded="true"
+                                                aria-controls="collapseOne">
+                                               Practicante de Soporte Técnico
+                                            </button>
+
+                                        </div>
+
+                                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                            data-parent="#accordion">
+                                            <div class="card-body">
+
+                                                <p class="text-fix-content mb-2"> <b> PRACTICANTE SOPORTE TECNICO </b>
+                                                </p>
+
+
+                                                <p class="text-fix-content mb-2">
+                                                    <b> FIADATA </b>
+                                                </p>
+
+                                                <p class="text-fix-content mb-2"> <b>Formación académica:</b> Estudiante
+                                                    o egresado de la Escuela
+                                                    de
+                                                    Ingeniería de Computación y Sistemas.</p>
+
+                                                <p class="text-fix-content mb-2"> <b> Competencias:</b></p>
+
+                                                <p class="text-fix-content mb-2"> <b> Se requiere conocimiento básico
+                                                        en:</b></p>
+
+                                                <ul class="fix-items-li ml-5 mb-2">
+                                                    <li> Conocimiento en hardware de PCs.</li>
+                                                    <li> Instalación y configuración de software (W10 y Office).</li>
+
+                                                </ul>
+
+                                                <p class="text-fix-content mb-2"> <b> Así mismo debe ser capaz de:</b>
+
+
+                                                    <ul class="fix-items-li ml-5 mb-2">
+                                                        <li> Mostrar interés en aprender.</li>
+                                                        <li> Trabajar en equipo.</li>
+                                                        <li> Cumplir con las actividades que se le encomiendan.</li>
+                                                        <li> Tener como compromiso la puntualidad y responsabilidad</li>
+                                                    </ul>
+
+                                                    <p class="text-fix-content mb-2"> <b> Funciones:</b></p>
+
+                                                    <ul class="fix-items-li ml-5 mb-2">
+
+                                                        <li> Brindar apoyo en el soporte técnico (hardware y software) a
+                                                            las áreas, unidades
+                                                            y
+                                                        laboratorios de la facultad. </li>
+                                                        <li> Brindar apoyo en el mantenimiento preventivo de los equipos
+                                                            informáticos</li>
+                                                        <li> Instalar y configurar equipos de computación.</li>
+
+                                                    </ul>
+
+                                                    <p class="text-fix-content mb-2"><b> Interesados enviar CV al
+                                                            correo:</b> <a href="mailto:fiadata@usmp.pe">
+                                                            fiadata@usmp.pe</a> </p>
+
+                                                    <p class="text-fix-content mb-2"><b> Asunto: PRACTICANTE SOPORTE
+                                                            TECNICO</b></p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                                <!-- <div class="card">
+                                    <div class="card-header  bg-autoridades" id="headingTwo">
+
+                                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                                            data-target="#collapseTwo" aria-expanded="false"
+                                            aria-controls="collapseTwo">
+                                            Desarrollador Web
+                                        </button>
+
+                                    </div>
+                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            <p class="text-fix-content mb-2"> <b> PRACTICANTE Frontend  Jr. </b>
+                                            </p>
+
+
+                                            <p class="text-fix-content mb-2">
+                                                <b> FIADATA </b>
+                                            </p>
+
+                                            <p class="text-fix-content mb-2"> <b>Formación académica:</b> Estudiante
+                                                o egresado de la Escuela
+                                                de
+                                                Ingeniería de Computación y Sistemas.</p>
+
+                                            <p class="text-fix-content mb-2"> <b> Competencias:</b></p>
+
+                                            <p class="text-fix-content mb-2"> <b> Se requiere conocimiento básico
+                                                    en:</b></p>
+
+                                            <ul class="fix-items-li ml-5 mb-2">
+                                                <li> SEO.</li>
+                                                <li> UX/UI.</li>
+                                                <li> Maquetación</li>
+                                                <li> Mobile First</li>
+                                                <li> PHP Básico</li>
+
+                                            </ul>
+
+                                            <p class="text-fix-content mb-2"> <b> Así mismo debe ser capaz de:</b>
+
+
+                                                <ul class="fix-items-li ml-5 mb-2">
+                                                    <li> Mostrar interés en aprender.</li>
+                                                    <li> Trabajar en equipo.</li>
+                                                    <li> Cumplir con las actividades que se le encomiendan.</li>
+                                                    <li> Tener como compromiso la puntualidad y responsabilidad</li>
+                                                </ul>
+
+                                                <p class="text-fix-content mb-2"> <b> Funciones:</b></p>
+
+                                                <ul class="fix-items-li ml-5 mb-2">
+
+                                                    <li> Brindar Manteniemiento a las website de la USMP</li>
+                                               
+                                                    <li> Implementar websites</li>
+                                                    <li> Reestructurar y aplicar nuevas técnologias</li>
+
+                                                </ul>
+
+                                                <p class="text-fix-content mb-2"><b> Interesados enviar CV al
+                                                        correo:</b> <a href="mailto:fiadata@usmp.pe">
+                                                        fiadata@usmp.pe</a> </p>
+
+                                                <p class="text-fix-content mb-2"><b> Asunto: Frontend Jr.</b></p>
+
+                                        </div>
+                                    </div>
+                                </div> -->
+
+
+
+
+
+                               
+                            </div>
                         </div>
-                        <div class="container">
-                            <br>
-                            <!-- <ul class="fix-items-li ml-5 mb-2">
-					
-                    
-                <li><a class="link" href="http://www.usmp.edu.pe/fia/pdf/manuales/manual-encuestas-alumno.pdf" > Sistema de Encuestas de Desempeño Docente </a></li> -->
-
-                            <p class="text-fix-content"> <b> PRACTICANTE SOPORTE TECNICO </b> </p>
-
-
-                            <p class="text-fix-content">
-                              <b>   FIADATA </b>
-                            </p>
-
-                            <p class="text-fix-content"> <b>Formación académica:</b> Estudiante o egresado de la Escuela
-                                de
-                                Ingeniería de Computación y Sistemas.</p>
-
-                            <p class="text-fix-content"> <b> Competencias:</b></p>
-
-                            <p class="text-fix-content"> Se requiere conocimiento básico en:</p>
-
-                            <ul class="fix-items-li ml-5 mb-2">
-                                <li> Conocimiento en hardware de PCs.</li>
-                                <li> Instalación y configuración de software (W10 y Office).</li>
-
-                            </ul>
-
-                            <p class="text-fix-content"> Así mismo debe ser capaz de:
-
-
-                                <ul class="fix-items-li ml-5 mb-2">
-                                    <li> Mostrar interés en aprender.</li>
-                                    <li> Trabajar en equipo.</li>
-                                    <li> Cumplir con las actividades que se le encomiendan.</li>
-                                    <li> Tener como compromiso la puntualidad y responsabilidad</li>
-                                </ul>
-
-                                <p class="text-fix-content"> <b> Funciones:</b></p>
-
-                                <ul class="fix-items-li ml-5 mb-2">
-
-                                    <li> Brindar apoyo en el soporte técnico (hardware y software) a las áreas, unidades
-                                        y</li>
-                                    laboratorios de la facultad.
-                                    <li> Brindar apoyo en el mantenimiento preventivo de los equipos informáticos</li>
-                                    <li> Instalar y configurar equipos de computación.</li>
-
-                                </ul>
-
-                                <p class="text-fix-content">Interesados enviar CV al correo: <a
-                                        href="mailto:fiadata@usmp.pe"></a> fiadata@usmp.pe</p>
-
-                                <p class="text-fix-content"> Asunto: PRACTICANTE SOPORTE TECNICO</p>
 
 
 
-
-
-
-                        </div>
                     </div>
 
 

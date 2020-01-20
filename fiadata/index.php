@@ -84,7 +84,7 @@
 
 						<a class="nav-item nav-link" id="nav-doc-tab" data-toggle="tab" href="#nav-doc" role="tab" aria-controls="nav-doc" aria-selected="false">Documentación</a>
 						
-						<a class="nav-item nav-link ult-item" href="requerimientoPersonal.php" >Requerimientos de Personal</a>
+						 <a class="nav-item nav-link ult-item" href="requerimientopersonal.php" >Requerimientos de Personal</a>
 
 
 

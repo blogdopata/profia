@@ -139,7 +139,7 @@
                                     La Facultad de Ingeniería y Arquitectura USMP, convoca a evaluación y selección de docentes, mediante concurso  con la finalidad de cubrir vacantes en la condición  de docente contratado, dicho proceso estará centrado en la evaluación de la trayectoria profesional y  la capacidad docente del postulante, en conformidad con el Reglamento General y el Reglamento Docente de la USMP.
                                     <br>
                                    <br>
-                                    <a class="text-docentes link" href="https://usmp.edu.pe/fia/pdf/vacantes_docentes.pdf" target="_blank">Ver vacantes <i class="fa fa-file-pdf-o"></i></a>
+                                    <a class="text-docentes link" href="https://usmp.edu.pe/fia/pdf/docentes_vacantes.pdf" target="_blank">Ver vacantes <i class="fa fa-file-pdf-o"></i></a>
                                     </p>
                                     <br>
                                     <p class="text-docentes">Requisitos Generales:</p>
