@@ -56,7 +56,7 @@
         <li>Evidenciar actitudes de servicio, responsabilidad social, compromiso cívico, participación ciudadana y respeto por la cultura y el medio ambiente.</li>
         <li>Ser agentes de cambio, líderes emprendedores, con capacidad crítica, creativa e innovadora ejerciendo sus actividades con ética profesional.</li>
         <li>Manejar habilidades profesionales: cuantitativas, para efectuar mediciones, cálculos y utilizar software especializado; y cualitativas, como técnicas para el uso de equipos de alta tecnología con precisión y destreza en sus experimentos e investigaciones.</li>
-        <li>Dominar su profesión y se actualizarse mediante la educación contin.</li>
+        <li>Dominar su profesión y actualizarse mediante la educación continua.</li>
     </ul>
     
     

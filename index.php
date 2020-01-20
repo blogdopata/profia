@@ -59,12 +59,12 @@
 
                     </div>  -->
             <!-- Imagen del slider de fondo n°1-->
-            <div class="single-hero-slide bg-img"
+             <!--<div class="single-hero-slide bg-img"
                 style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/epics.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
-                            <div class="hero-slides-content">
+                            <div class="hero-slides-content">-->
                                 <!-- <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
                                         <h2 class=" sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">CALENDARIO <br> DE ACTIVIDADES 2019-II  </h2>
                                        h4 class=" sombra" data-animation="fadeInUp" data-delay="100ms"
@@ -72,25 +72,28 @@
                                         <br>
                                         <a href="#" class="btn academy-btn"
                                     data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a> -->
-                            </div>
+                           <!--  </div>
                         </div>
                     </div>
                 </div>
 
-            </div>
+            </div>-->
 
 
             <!-- Imagen del slider de fondo n°1-->
             <div class="single-hero-slide bg-img"
-                style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/actividades.jpg);  background-repeat: no-repeat; ">
+                style="background-image: url(https://usmp.edu.pe/fia/img/bg-img/verano_banner.jpg);  background-repeat: no-repeat; ">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 class="sombra" data-animation="fadeInUp" data-delay="100ms" class="ml-5 "">   FIA USMP</h4>
-                                        <h2 class=" sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">CALENDARIO <br> DE ACTIVIDADES 2019-II  </h2>
-                                        <!-- <h4 class=" sombra" data-animation="fadeInUp" data-delay="100ms"
-                                    class="ml-5 ""> Matrícula desde el 08 de julio  </h4> -->
+                         
+                                        <h2 class=" sombra" data-animation="fadeInUp" data-delay="400ms" class="ml-5 "">CURSO <br> VERANO 2020  </h2>
+                                        <h4 class=" sombra" data-animation="fadeInUp" data-delay="100ms"
+                                    class="ml-5 ""> PRE INSCRIPCIÓN: HASTA EL 19 DE DICIEMBRE DE 2019 </h4> 
+                                    <h4 class=" sombra" data-animation="fadeInUp" data-delay="100ms"
+                                    class="ml-5 "">MATRÍCULA: HASTA EL 20 DE DICIEMBRE DE 2019</h4>
+
                                         <br>
                                         <a href=" https://usmp.edu.pe/fia/calendario.php" class="btn academy-btn"
                                     data-animation="fadeInUp" data-delay="700ms">MÁS INFORMACIÓN</a>
@@ -456,15 +459,15 @@
                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block">
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3">
-                            <span style="font-size:40px;font-weight:bold"> 25</span>
-                            <span style="font-size:26px;font-weight:bold">NOV</span>
+                            <span style="font-size:40px;font-weight:bold"> 18</span>
+                            <span style="font-size:26px;font-weight:bold">ENERO</span>
                         </div>
                         <div>
-                            <h6 class="agenda-title">Examenes:<br> Aplazados 2019-II </h6>
+                            <h6 class="agenda-title">Curso:<br> Ofimática </h6>
                             <span class="agenda-info"><b>Lugar:</b>Campus FIA</span> <br>
                             <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1130 / 1122</a> </span> -->
                             <br>
-                            <span><a href="https://usmp.edu.pe/fia/pdf/calendario2019/aplazados_2019-II.pdf" target="_blank"
+                            <span><a href="https://www.usmp.edu.pe/epufia/pdf/ofimatica.pdf?fbclid=IwAR0fjUgDDpEl7onNiF_ze9a0SX_eL3iRP7P1MdTZz8U2P4UVvHi_rCfjvoM" target="_blank"
                                     class="agenda-text-info">Más información</a> </span>
                             <br>
 
@@ -478,15 +481,15 @@
                 <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block">
                     <div class="d-flex">
                         <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3">
-                            <span style="font-size:40px;font-weight:bold"> 02</span>
-                            <span style="font-size:26px;font-weight:bold">DIC</span>
+                            <span style="font-size:40px;font-weight:bold"> 18</span>
+                            <span style="font-size:26px;font-weight:bold">ENERO</span>
                         </div>
                         <div>
-                            <h6 class="agenda-title">Curso:<br> Master Class</h6>
+                            <h6 class="agenda-title">Curso:<br> Excel Intermedio </h6>
                             <span class="agenda-info"><b>Lugar:</b> Campus FIA</span> <br>
                             <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1178 </a> </span> -->
                             <br>
-                            <span><a href="https://usmp.edu.pe/ivuc/modelado.php" target="_blank"
+                            <span><a href="https://usmp.edu.pe/epufia/pdf/BrochureExcel_Intermedio.pdf?fbclid=IwAR1ljVFQrpFtcW8PIHv-nZf7lfLHztUdgXP1DyB-uYubeOS7rsIMW6eSiMI" target="_blank"
                                     class="agenda-text-info">Más información</a> </span>
                             <br>
 
@@ -498,27 +501,7 @@
 
 
 
-                <!-- Agenda / evento   -->
-                <div class="col-12 col-md-6 col-lg-4 mt-lg-5 mt-2  d-sm-block">
-                    <div class="d-flex">
-                        <div class="bg-date text-center text-white d-flex flex-column justify-content-center mr-2 px-3">
-                            <span style="font-size:40px;font-weight:bold"> 03</span>
-                            <span style="font-size:26px;font-weight:bold">DIC</span>
-                        </div>
-                        <div>
-                            <h6 class="agenda-title">Workshop :<br> Acero Vegetal</h6>
-                            <span class="agenda-info"><b>Lugar:</b> Satipo - Junín, Perú.</span> <br>
-                            <!-- <span class="agenda-info ">  <strong>    Telf:</strong> 01-208-6000 anexos 1178 </a> </span> -->
-                            <br>
-                            <span><a href="https://usmp.edu.pe/ivuc/acerovegetal.php?fbclid=IwAR3XcI0yc84fctEHRNVCk8WnXno_UL374006S9YN84y2yVTFUB5iiZy4eUA"
-                                    target="_blank" class="agenda-text-info">Más información</a> </span>
-                            <br>
-
-
-                        </div>
-                    </div>
-                </div>
-                <!-- Agenda / evento  FIN -->
+              
 
 
 

@@ -185,13 +185,13 @@
                             <div class="col-6 col-md-2 text-center">
                                 <div class="team-members">
                                     <div >
-                                    <a href="https://www.usmp.edu.pe/ffia/escuelas/arquitectura/pdf/guia_estudiante.pdf" target="_blank">
+                                    <a href="https://www.usmp.edu.pe/fia/pdf/guia_estudiante.pdf" target="_blank">
                                         <img class="img-fluid" src="img/prestaciones/iconos/guia_estudiantil.png" alt="">
                                         </a>
                                     </div>
                                 
                                 </div>
-                                <a href="https://www.usmp.edu.pe/ffia/escuelas/arquitectura/pdf/guia_estudiante.pdf" target="_blank">GUÍA ESTUDIANTIL</a>
+                                <a href="https://www.usmp.edu.pe/fia/pdf/guia_estudiante.pdf" target="_blank">GUÍA ESTUDIANTIL</a>
                             </div>
 
 

@@ -120,15 +120,15 @@
                 </div>
             </div> -->
 
-            <!-- <div class="col-md-4 col-12 font-mode fix-height"  >
+           <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >
-                    <h5 class="text-info-gen text-center">Encuesta docente</h5>
+                    <h5 class="text-info-gen text-center">Convocatoria Docentes 2020-I</h5>
 
                    
-                    <a href="pdf\depAcademico\Encuesta_Docente.pdf"  target="_blank"  class="text-link-gen" >Ver más</a>
+                    <a href="pdf\depAcademico\convocatoria_doc.zip"  target="_blank"  class="text-link-gen" >Ver más</a>
                     
                 </div>
-            </div> -->
+            </div> 
 
             <div class="col-md-4 col-12 font-mode fix-height"  >
                 <div class="py-5 d-flex flex-column justify-content-center align-items-center fontmode-bd" >

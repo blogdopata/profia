@@ -19,10 +19,10 @@
     </ul>
     
     <br>
-    <a target="_blank" href="https://usmp.edu.pe/fia/pdf/Concurso_de_Becas_y_Medias_Becas_2019-II.pdf" class="link">Aviso: Concurso de Becas y Medias Becas</a>
+    <a target="_blank" href="https://usmp.edu.pe/fia/pdf/Concurso_de_Becas_y_Medias_Becas_2020-I.pdf" class="link">Aviso: Concurso de Becas y Medias Becas</a>
     <br>
-    
-    <a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/Resultados_de_Becas_y_medias_becas_2019-II.pdf" class="link">Resultado del concurso de Becas y medias Becas</a>
+<!--     
+    <a target="_blank" href="http://www.usmp.edu.pe/fia/pdf/Resultados_de_Becas_y_medias_becas_2019-II.pdf" class="link">Resultado del concurso de Becas y medias Becas</a> -->
 
 
 </div> 

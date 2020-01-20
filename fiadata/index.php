@@ -47,22 +47,6 @@
 
   
        
-			<!--si quieren poner algun fondo style="background-image:url(http://www.usmp.edu.pe/fia/img/fia/fachada2.jpg); no-repeat center top;background-size:cover;"-->
-           
-                
-                <!-- <div class="col-12 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-                    
-					<div class="card text-center">
-					<div class="card-body">
-					<h5 id="mini" class="card-title"><p  class="link">Ing. Cesar Augusto Porras Quinto</p></h5>
-					<h6 id="mini" class="card-subtitle mb-2 text-muted">Jefe FIA-DATA</h6>
-					<a id="mini" style="color:#017090;" href="mailto:cporras@usmp.pe" class="link">cporras@usmp.pe</a>
-					<p class="card-text">USMP- FIA</p>
-					
-                     <b>ORGANIZACIÓN:</b> &nbsp; <a  data-toggle="modal" data-target="#organigrama" class="link" href=""> Ver organigrama</a>
-					</div>
-					
-                </div> -->
           
             <br>
         
@@ -98,9 +82,11 @@
 
 						<a class="nav-item nav-link" id="nav-proyectos-tab" data-toggle="tab" href="#nav-proyectos" role="tab" aria-controls="nav-proyectos" aria-selected="false">Proyectos</a>
 
-						<a class="nav-item nav-link ult-item" id="nav-doc-tab" data-toggle="tab" href="#nav-doc" role="tab" aria-controls="nav-doc" aria-selected="false">Documentación</a>
+						<a class="nav-item nav-link" id="nav-doc-tab" data-toggle="tab" href="#nav-doc" role="tab" aria-controls="nav-doc" aria-selected="false">Documentación</a>
+						
+						<a class="nav-item nav-link ult-item" href="requerimientoPersonal.php" >Requerimientos de Personal</a>
 
-                        
+
 
                         <!--BACK UP PARA MOSTRAR PDFS NO TOCAR <a class="nav-item nav-link" id="nav-campo-tab" data-toggle="tab" href="#nav-organizacion" role="tab" aria-controls="nav-organizacion" aria-selected="false">Organización Plan de Estudios</a> -->
 

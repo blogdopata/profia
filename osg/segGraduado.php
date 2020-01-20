@@ -144,6 +144,9 @@
                                     <div class="card-body text-center">                 
       
                                           <ul class="fix-items-li">
+
+                                          
+                                          <li> <a class="link" target="_blank" href="https://www.usmp.edu.pe/index.php?pag=novedades&sec=nov19_238">Cuarta Feria Laboral </a>  </li>
                                           <li> <a class="link" target="_blank" href="https://www.usmp.edu.pe/index.php?pag=novedades&sec=nov19_119">Tercera Feria Laboral </a>  </li>
                                         <li> <a class="link" target="_blank" href="https://usmp.edu.pe/index.php?pag=novedades&sec=nov18_292">Segunda Feria Laboral </a>  </li>
                                         <li> <a class="link" target="_blank" href="https://usmp.edu.pe/index.php?pag=novedades&sec=nov17_281">Primera Feria Laboral </a> </li>
